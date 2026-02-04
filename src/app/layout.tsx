@@ -5,6 +5,8 @@ import cn from "classnames";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
+const isProd = process.env.NODE_ENV === 'production';
+const basePath = isProd ? '/staticdex' : '';
 
 export const metadata: Metadata = {
   title: "StaticDex",
@@ -19,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/favicon/favicon.png" />
+        <link rel="icon" href={`${basePath}/favicon/favicon.png`} />
         <meta name="theme-color" content="#000" />
       </head>
       <body className={cn(inter.className, "bg-slate-950 text-slate-100")}>
