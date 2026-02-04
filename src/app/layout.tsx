@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/favicon/favicon.ico" />
+        <link rel="icon" href="/favicon/favicon.png" />
         <meta name="theme-color" content="#000" />
       </head>
       <body className={cn(inter.className, "bg-slate-950 text-slate-100")}>

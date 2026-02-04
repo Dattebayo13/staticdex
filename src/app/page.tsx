@@ -7,6 +7,8 @@ import { Sun, Moon } from "lucide-react";
 type ReleaseEntry = {
   title: string;
   alt_title: string;
+  year: number | null;
+  format: string | null;
   notes: string;
   comparison: string;
   best_releases: { name: string; status: string }[];
@@ -22,6 +24,8 @@ type ReleaseRow = {
   best_status: string;
   alt_name: string;
   alt_status: string;
+  year: number | null;
+  format: string | null;
   isFirstForTitle: boolean;
   rowSpan: number;
 };
@@ -39,6 +43,8 @@ function flattenToRows(data: ReleaseEntry[]): ReleaseRow[] {
       rows.push({
         title: entry.title,
         alt_title: entry.alt_title,
+        year: entry.year,
+        format: entry.format,
         notes: entry.notes,
         comparison: entry.comparison,
         best_name: best.name,
@@ -116,9 +122,8 @@ function renderComparison(comparison: string, theme: "light" | "dark") {
           return (
             <div
               key={idx}
-              className={`text-xs break-words ${
-                theme === "dark" ? "text-slate-300" : "text-black"
-              }`}
+              className={`text-xs break-words ${theme === "dark" ? "text-slate-300" : "text-black"
+                }`}
             >
               {line}
             </div>
@@ -139,6 +144,21 @@ function renderComparison(comparison: string, theme: "light" | "dark") {
       })}
     </div>
   );
+}
+
+function formatMediaType(format: string | null): string {
+  if (!format) return '';
+
+  const formatMap: { [key: string]: string } = {
+    'TV': 'TV',
+    'MOVIE': 'Movie',
+    'OVA': 'OVA',
+    'SPECIAL': 'Special',
+    'ONA': 'ONA',
+    'TV_SHORT': 'TV Short'
+  };
+
+  return formatMap[format] || format;
 }
 
 export default function Index() {
@@ -166,9 +186,8 @@ export default function Index() {
 
   return (
     <main
-      className={`min-h-screen ${
-        theme === "dark" ? "bg-slate-950 text-slate-300" : "bg-white text-black"
-      }`}
+      className={`min-h-screen ${theme === "dark" ? "bg-slate-950 text-slate-300" : "bg-white text-black"
+        }`}
     >
       <div className="w-full px-4 py-4">
         <div className="flex justify-between items-center mb-4">
@@ -178,9 +197,9 @@ export default function Index() {
             className="w-10 h-10 flex items-center justify-center rounded-md }"
           >
             {theme === "dark" ? (
-              <Sun size={24} className="text-slate-300"/>
+              <Sun size={24} className="text-slate-300" />
             ) : (
-              <Moon size={24} className="text-black"/>
+              <Moon size={24} className="text-black" />
             )}
           </button>
         </div>
@@ -188,10 +207,10 @@ export default function Index() {
         <table className="min-w-full table-fixed text-left text-sm border-collapse">
           <thead className={`sticky top-0 z-10 ${theme === "dark" ? "bg-slate-900" : "bg-slate-200"} text-lg`}>
             <tr className="border-slate-400 dark:border-slate-800">
-              <th className={`w-[18%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Title</th>
-              <th className={`w-[16%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Alt Title</th>
-              <th className={`w-[18%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Best Release</th>
-              <th className={`w-[18%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Alt Release</th>
+              <th className={`w-[20%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Title</th>
+              <th className={`w-[20%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Alt Title</th>
+              <th className={`w-[15%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Best Release</th>
+              <th className={`w-[15%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Alt Release</th>
               <th className={`w-[15%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Comparison</th>
               <th className={`w-[15%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Notes</th>
             </tr>
@@ -210,15 +229,20 @@ export default function Index() {
                   <>
                     <td
                       rowSpan={row.rowSpan}
-                      className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} break-words`}
+                      className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"}`}
                     >
-                      {row.title}
+                      <div className="flex flex-wrap items-center gap-1">
+                        {row.title}
+                        {row.year ? <span className="font-bold"> ({row.year})</span> : ''}
+                        {row.format ? <span className="ml-0.5 text-xs px-2 py-0.5 rounded-full bg-slate-700 text-slate-300">
+                          {formatMediaType(row.format)}
+                        </span> : ''}
+                      </div>
                     </td>
                     <td
                       rowSpan={row.rowSpan}
-                      className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} break-words ${
-                        theme === "dark" ? "text-slate-300" : "text-black"
-                      }`}
+                      className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} break-words ${theme === "dark" ? "text-slate-300" : "text-black"
+                        }`}
                     >
                       {row.alt_title || "—"}
                     </td>
@@ -246,9 +270,8 @@ export default function Index() {
                     </td>
                     <td
                       rowSpan={row.rowSpan}
-                      className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} max-w-[20ch] break-words whitespace-pre-wrap ${
-                        theme === "dark" ? "text-slate-300" : "text-black"
-                      }`}
+                      className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} max-w-[20ch] break-words whitespace-pre-wrap ${theme === "dark" ? "text-slate-300" : "text-black"
+                        }`}
                     >
                       {row.notes || "—"}
                     </td>
