@@ -161,6 +161,13 @@ function formatMediaType(format: string | null): string {
   return formatMap[format] || format;
 }
 
+const statusTooltipMap: { [key: string]: string } = {
+  broken: "Broken",
+  incomplete: "Incomplete",
+  unmuxed: "Unmuxed",
+  not_nyaa: "Private Only",
+};
+
 export default function Index() {
   const [theme, setTheme] = useState<"light" | "dark">("dark");
   const [mounted, setMounted] = useState(false);
@@ -251,12 +258,14 @@ export default function Index() {
                 <td
                   className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} break-words font-semibold`}
                   style={row.best_status ? getStatusStyle(row.best_status) : undefined}
+                  title={row.best_status ? statusTooltipMap[row.best_status] : ""}
                 >
                   {row.best_name || "—"}
                 </td>
                 <td
                   className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} break-words font-semibold`}
                   style={row.alt_status ? getStatusStyle(row.alt_status) : undefined}
+                  title={row.alt_status ? statusTooltipMap[row.alt_status] : ""}
                 >
                   {row.alt_name || "—"}
                 </td>
