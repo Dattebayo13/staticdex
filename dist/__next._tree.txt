@@ -1,6 +1,0 @@
-:HL["/_next/static/chunks/c62a7ac403461ac4.css","style"]
-:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/assets/blog/authors/jj.jpeg","image"]
-:HL["/assets/blog/authors/tim.jpeg","image"]
-:HL["/assets/blog/authors/joe.jpeg","image"]
-0:{"buildId":"cx3tAuIZ4g98DoAAR6bzW","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
