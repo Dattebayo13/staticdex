@@ -1,0 +1,43 @@
+name: Update Seadex JSON
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      - name: Generate JSON
+        run: |
+          cd data
+          python generate_json.py
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code data/releases.json || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/releases.json
+          git commit -m "Update releases.json - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
