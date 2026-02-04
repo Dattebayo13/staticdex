@@ -15,6 +15,8 @@ query($ids: [Int]) {
         english
         romaji
       }
+      seasonYear
+      format
       relations {
         edges {
           id
@@ -80,6 +82,8 @@ def query_anilist_batch(anilist_ids: List[int]) -> Dict[int, Dict]:
         result[anime_id] = {
             "title_english": media["title"].get("english") or "",
             "title_romaji": media["title"].get("romaji") or "",
+            "seasonYear": media.get("seasonYear"),
+            "format": media.get("format"),
             "relations": media.get("relations", {}).get("edges", [])
         }
     
@@ -263,6 +267,13 @@ def parse_entries(entries: List[Dict], anilist_data: Dict[int, Dict]):
         theoretical_best = entry.get("theoreticalBest", "").strip()
         comparison = entry.get("comparison", "").strip().replace(",", "\n")
 
+        # Get year and format from AniList data
+        year = None
+        format_type = None
+        if anilist_id and anilist_id in anilist_data:
+            year = anilist_data[anilist_id].get("seasonYear")
+            format_type = anilist_data[anilist_id].get("format")
+
         torrents = entry.get("expand", {}).get("trs", [])
         release_metadata, best_releases, alt_releases = collect_release_metadata(torrents)
 
@@ -302,6 +313,8 @@ def parse_entries(entries: List[Dict], anilist_data: Dict[int, Dict]):
             anime_data.append({
                 "main_title": main_title,
                 "alt_title": alt_title,
+                "year": year,
+                "format": format_type,
                 "notes": notes,
                 "comparison": comparison,
                 "release_rows": release_rows,
@@ -313,14 +326,14 @@ def parse_entries(entries: List[Dict], anilist_data: Dict[int, Dict]):
 
 def smart_sort_anime(anime_data: List[Dict], anilist_data: Dict[int, Dict]) -> List[Dict]:
     """
-    Sort anime alphabetically while keeping related series together in hierarchical order.
+    Sort anime families alphabetically by first member, with year-based sorting within each family.
     
     Strategy:
     1. Build parent-child tree structure using PARENT/PREQUEL relations
     2. Group by root parent
-    3. Within each group, maintain hierarchical tree order (parent -> children -> grandchildren)
-    4. Sort siblings alphabetically
-    5. Sort groups by root parent's English title
+    3. Within each group, sort ALL entries by year (ignoring hierarchy)
+    4. When years match: prequels come before sequels, then alphabetical for siblings
+    5. Sort groups alphabetically by the first entry's title in each family
     """
     
     # Build parent and children relationships
@@ -371,32 +384,34 @@ def smart_sort_anime(anime_data: List[Dict], anilist_data: Dict[int, Dict]) -> L
         if anime_id:
             id_to_anime[anime_id] = anime
     
-    def build_tree_order(anime_ids: List[int]) -> List[int]:
+    def get_year(anime_id: int) -> int:
+        """Get year for an anime, returning 9999 if not available"""
+        if anime_id in anilist_data:
+            year = anilist_data[anime_id].get("seasonYear")
+            if year:
+                return year
+        return 9999  # Unknown year goes to end
+    
+    def get_chronological_order(anime_id: int, anime_ids: Set[int]) -> int:
         """
-        Sort anime IDs in tree order: parent, then its children (sorted), recursively.
+        Get chronological position for tie-breaking.
+        Count how many prequels this anime has among all entries in the family.
+        Lower number = earlier in chronology = comes first.
         """
-        result = []
+        if anime_id not in anilist_data:
+            return 999
         
-        # Find roots (items with no parent in this group)
-        roots = [aid for aid in anime_ids if aid not in parent_map or parent_map[aid] not in anime_ids]
+        relations = anilist_data[anime_id].get("relations", [])
+        prequel_count = 0
         
-        # Sort roots alphabetically
-        roots.sort(key=lambda aid: id_to_anime[aid]["main_title"].lower() if aid in id_to_anime else "")
+        # Count how many prequels this anime has among the family
+        for relation in relations:
+            if relation.get("relationType") == "PREQUEL":
+                prequel_id = relation.get("node", {}).get("id")
+                if prequel_id and prequel_id in anime_ids:
+                    prequel_count += 1
         
-        def add_subtree(anime_id: int):
-            """Add anime and all its descendants"""
-            result.append(anime_id)
-            # Get children in this group
-            children = [c for c in children_map.get(anime_id, []) if c in anime_ids]
-            # Sort children alphabetically
-            children.sort(key=lambda aid: id_to_anime[aid]["main_title"].lower() if aid in id_to_anime else "")
-            for child in children:
-                add_subtree(child)
-        
-        for root in roots:
-            add_subtree(root)
-        
-        return result
+        return prequel_count
     
     # Group by root parent
     groups = {}  # root_id -> [anime_ids]
@@ -414,30 +429,24 @@ def smart_sort_anime(anime_data: List[Dict], anilist_data: Dict[int, Dict]) -> L
             groups[root_id] = []
         groups[root_id].append(anime_id)
     
-    # Sort each group in tree order
+    # Sort each group by year (flat sort, ignoring hierarchy)
     for root_id in groups:
-        groups[root_id] = build_tree_order(groups[root_id])
+        anime_ids_set = set(groups[root_id])
+        groups[root_id].sort(key=lambda aid: (
+            get_year(aid),
+            get_chronological_order(aid, anime_ids_set),
+            id_to_anime[aid]["main_title"].lower() if aid in id_to_anime else ""
+        ))
     
-    # Sort groups by root's English title
+    # Sort groups alphabetically by the first entry's title in each family
     group_sort_keys = []
     for root_id, anime_ids in groups.items():
-        sort_key = ""
+        # Get the first entry's title (after year sorting within family)
+        first_title = ""
+        if anime_ids and anime_ids[0] in id_to_anime:
+            first_title = id_to_anime[anime_ids[0]]["main_title"].lower()
         
-        # Get root's English title from anilist_data
-        if root_id in anilist_data:
-            english = anilist_data[root_id].get("title_english", "")
-            romaji = anilist_data[root_id].get("title_romaji", "")
-            sort_key = (english or romaji).lower()
-        
-        # Fallback to anime object
-        if not sort_key and root_id in id_to_anime:
-            sort_key = id_to_anime[root_id]["main_title"].lower()
-        
-        # Last resort: first item
-        if not sort_key and anime_ids and anime_ids[0] in id_to_anime:
-            sort_key = id_to_anime[anime_ids[0]]["main_title"].lower()
-        
-        group_sort_keys.append((sort_key, anime_ids))
+        group_sort_keys.append((first_title, anime_ids))
     
     group_sort_keys.sort(key=lambda x: x[0])
     
@@ -492,6 +501,8 @@ def build_compact_rows(anime_data):
         rows.append({
             "title": anime["main_title"],
             "alt_title": anime["alt_title"],
+            "year": anime.get("year"),
+            "format": anime.get("format"),
             "notes": anime["notes"],
             "comparison": anime["comparison"],
             "best_releases": best_releases,
