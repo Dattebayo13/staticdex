@@ -3,7 +3,7 @@ name: Update Seadex JSON
 on:
   schedule:
     # Run daily at 00:00 UTC
-    - cron: '00 16 * * *'
+    - cron: '00 00 * * *'
   workflow_dispatch:  # Allows manual trigger from GitHub UI
 
 jobs:
