@@ -142,7 +142,6 @@ export default function Index() {
     <main className="min-h-screen bg-slate-950 text-slate-100">
       <div className="w-full px-4 py-4">
         <h1 className="mb-4 text-3xl font-bold tracking-tight">StaticDex</h1>
-        <div className="overflow-y-auto rounded-lg border border-slate-800 bg-slate-900/60">
           <table className="min-w-full table-fixed text-left text-sm">
             <thead className="sticky top-0 z-10 bg-slate-900">
               <tr>
@@ -166,7 +165,7 @@ export default function Index() {
                 </th>
               </tr>
             </thead>
-            <tbody>
+            <tbody className="rounded-lg">
               {rows.map((row, idx) => (
                 <tr
                   key={`${row.title}-${idx}`}
@@ -224,7 +223,6 @@ export default function Index() {
               ))}
             </tbody>
           </table>
-        </div>
       </div>
     </main>
   );
