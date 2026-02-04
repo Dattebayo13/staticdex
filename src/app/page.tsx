@@ -1,4 +1,8 @@
+"use client";
+
+import { useState, useEffect } from "react";
 import releases from "../../data/releases.json";
+import { Sun, Moon } from "lucide-react";
 
 type ReleaseEntry = {
   title: string;
@@ -95,11 +99,9 @@ function getStatusStyle(status: string) {
   }
 }
 
-function renderComparison(comparison: string) {
+function renderComparison(comparison: string, theme: "light" | "dark") {
   const text = (comparison || "").trim();
-  if (!text) {
-    return <span className="text-slate-500">—</span>;
-  }
+  if (!text) return <span className="text-slate-500 dark:text-slate-300">—</span>;
 
   const lines = text
     .split("\n")
@@ -112,7 +114,12 @@ function renderComparison(comparison: string) {
         const isUrl = line.startsWith("http://") || line.startsWith("https://");
         if (!isUrl) {
           return (
-            <div key={idx} className="text-xs text-slate-200 break-words">
+            <div
+              key={idx}
+              className={`text-xs break-words ${
+                theme === "dark" ? "text-slate-300" : "text-black"
+              }`}
+            >
               {line}
             </div>
           );
@@ -121,7 +128,7 @@ function renderComparison(comparison: string) {
           <div key={idx} className="text-xs break-words">
             <a
               href={line}
-              className="text-indigo-300 underline hover:text-indigo-200 break-words whitespace-normal"
+              className="text-indigo-600 dark:text-indigo-300 underline hover:text-indigo-500 dark:hover:text-indigo-200 break-words whitespace-normal"
               target="_blank"
               rel="noreferrer"
             >
@@ -135,94 +142,122 @@ function renderComparison(comparison: string) {
 }
 
 export default function Index() {
+  const [theme, setTheme] = useState<"light" | "dark">("dark");
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    const saved = localStorage.getItem("theme");
+    if (saved === "light" || saved === "dark") setTheme(saved);
+    setMounted(true); // now we know theme for sure
+  }, []);
+
+  const toggleTheme = () => {
+    setTheme((prev) => {
+      const next = prev === "dark" ? "light" : "dark";
+      localStorage.setItem("theme", next);
+      return next;
+    });
+  };
+
+  if (!mounted) return null;
+
   const entries = releases as ReleaseEntry[];
   const rows = flattenToRows(entries);
 
   return (
-    <main className="min-h-screen bg-slate-950 text-slate-100">
+    <main
+      className={`min-h-screen ${
+        theme === "dark" ? "bg-slate-950 text-slate-300" : "bg-white text-black"
+      }`}
+    >
       <div className="w-full px-4 py-4">
-        <h1 className="mb-4 text-3xl font-bold tracking-tight">StaticDex</h1>
-          <table className="min-w-full table-fixed text-left text-sm">
-            <thead className="sticky top-0 z-10 bg-slate-900">
-              <tr>
-                <th className="w-[18%] px-3 py-2 border border-slate-800 font-semibold text-slate-200">
-                  Title
-                </th>
-                <th className="w-[16%] px-3 py-2 border border-slate-800 font-semibold text-slate-200">
-                  Alt Title
-                </th>
-                <th className="w-[18%] px-3 py-2 border border-slate-800 font-semibold text-slate-200">
-                  Best Release
-                </th>
-                <th className="w-[18%] px-3 py-2 border border-slate-800 font-semibold text-slate-200">
-                  Alt Release
-                </th>
-                <th className="w-[15%] px-3 py-2 border border-slate-800 font-semibold text-slate-200">
-                  Comparison
-                </th>
-                <th className="w-[15%] px-3 py-2 border border-slate-800 font-semibold text-slate-200">
-                  Notes
-                </th>
-              </tr>
-            </thead>
-            <tbody className="rounded-lg">
-              {rows.map((row, idx) => (
-                <tr
-                  key={`${row.title}-${idx}`}
-                  className={idx % 2 === 0 ? "bg-slate-900/60" : "bg-slate-900/30"}
+        <div className="flex justify-between items-center mb-4">
+          <h1 className="text-3xl font-bold tracking-tight">StaticDex</h1>
+          <button
+            onClick={toggleTheme}
+            className="w-10 h-10 flex items-center justify-center rounded-md }"
+          >
+            {theme === "dark" ? (
+              <Sun size={24} className="text-slate-300"/>
+            ) : (
+              <Moon size={24} className="text-black"/>
+            )}
+          </button>
+        </div>
+
+        <table className="min-w-full table-fixed text-left text-sm border-collapse">
+          <thead className={`sticky top-0 z-10 ${theme === "dark" ? "bg-slate-900" : "bg-slate-200"} text-lg`}>
+            <tr className="border-slate-400 dark:border-slate-800">
+              <th className={`w-[18%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Title</th>
+              <th className={`w-[16%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Alt Title</th>
+              <th className={`w-[18%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Best Release</th>
+              <th className={`w-[18%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Alt Release</th>
+              <th className={`w-[15%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Comparison</th>
+              <th className={`w-[15%] px-3 py-2 border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} font-bold`}>Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((row, idx) => (
+              <tr
+                key={`${row.title}-${idx}`}
+                className={
+                  idx % 2 === 0
+                    ? theme === "dark" ? "bg-slate-900/60" : "bg-slate-200/60"
+                    : theme === "dark" ? "bg-slate-900/30" : "bg-slate-100/30"
+                }
+              >
+                {row.isFirstForTitle && row.rowSpan > 0 && (
+                  <>
+                    <td
+                      rowSpan={row.rowSpan}
+                      className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} break-words`}
+                    >
+                      {row.title}
+                    </td>
+                    <td
+                      rowSpan={row.rowSpan}
+                      className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} break-words ${
+                        theme === "dark" ? "text-slate-300" : "text-black"
+                      }`}
+                    >
+                      {row.alt_title || "—"}
+                    </td>
+                  </>
+                )}
+                <td
+                  className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} break-words font-semibold`}
+                  style={row.best_status ? getStatusStyle(row.best_status) : undefined}
                 >
-                  {row.isFirstForTitle && row.rowSpan > 0 && (
-                    <>
-                      <td
-                        className="px-3 py-2 align-top border border-slate-800 break-words"
-                        rowSpan={row.rowSpan}
-                      >
-                        {row.title}
-                      </td>
-                      <td
-                        className="px-3 py-2 align-top border border-slate-800 text-slate-300 break-words"
-                        rowSpan={row.rowSpan}
-                      >
-                        {row.alt_title || "—"}
-                      </td>
-                    </>
-                  )}
-                  <td
-                    className={`px-3 py-2 align-top border border-slate-800 ${
-                      row.best_status ? "text-black font-semibold" : "font-semibold text-slate-50"
-                    } break-words`}
-                    style={row.best_status ? getStatusStyle(row.best_status) : undefined}
-                  >
-                    {row.best_name || "—"}
-                  </td>
-                  <td
-                    className={`px-3 py-2 align-top border border-slate-800 ${
-                      row.alt_status ? "text-black font-semibold" : "font-semibold text-slate-50"
-                    } break-words`}
-                    style={row.alt_status ? getStatusStyle(row.alt_status) : undefined}
-                  >
-                    {row.alt_name || "—"}
-                  </td>
-                  {row.isFirstForTitle && row.rowSpan > 0 && (
-                    <>
-                      <td
-                        className="px-3 py-2 align-top border border-slate-800 max-w-[15ch] break-words"
-                        rowSpan={row.rowSpan}
-                      >
-                        {renderComparison(row.comparison)}
-                      </td>
-                      <td
-                        className="px-3 py-2 align-top border border-slate-800 text-xs text-slate-300 max-w-[20ch] break-words whitespace-pre-wrap"
-                        rowSpan={row.rowSpan}
-                      >
-                        {row.notes || "—"}
-                      </td>
-                    </>
-                  )}
-                </tr>
-              ))}
-            </tbody>
-          </table>
+                  {row.best_name || "—"}
+                </td>
+                <td
+                  className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} break-words font-semibold`}
+                  style={row.alt_status ? getStatusStyle(row.alt_status) : undefined}
+                >
+                  {row.alt_name || "—"}
+                </td>
+                {row.isFirstForTitle && row.rowSpan > 0 && (
+                  <>
+                    <td
+                      rowSpan={row.rowSpan}
+                      className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} max-w-[15ch] break-words`}
+                    >
+                      {renderComparison(row.comparison, theme)}
+                    </td>
+                    <td
+                      rowSpan={row.rowSpan}
+                      className={`px-3 py-2 align-top border ${theme === "dark" ? "border-slate-800" : "border-slate-400"} max-w-[20ch] break-words whitespace-pre-wrap ${
+                        theme === "dark" ? "text-slate-300" : "text-black"
+                      }`}
+                    >
+                      {row.notes || "—"}
+                    </td>
+                  </>
+                )}
+              </tr>
+            ))}
+          </tbody>
+        </table>
       </div>
     </main>
   );
