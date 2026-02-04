@@ -1,46 +1,136 @@
 import requests
 import json
+import time
+from typing import List, Dict, Set, Tuple
 
 API_URL_TEMPLATE = "https://releases.moe/api/collections/entries/records?expand=trs&page={}"
+ANILIST_API_URL = "https://graphql.anilist.co"
 
-def load_title_mapping():
-    url = "https://raw.githubusercontent.com/anime-and-manga/lists/refs/heads/main/anime-full.json"
-    response = requests.get(url)
-    response.raise_for_status()
-    title_mapping_raw = response.json()
-    return {entry["idAL"]: entry["titles"] for entry in title_mapping_raw}
+ANILIST_QUERY = """
+query($ids: [Int]) {
+  Page {
+    media(id_in: $ids) {
+      id
+      title {
+        english
+        romaji
+      }
+      relations {
+        edges {
+          id
+          relationType
+          node {
+            id
+            title {
+              romaji
+            }
+          }
+        }
+      }
+    }
+  }
+}
+"""
 
 def fetch_entries():
     all_entries = []
     page = 1
-    
+
     while True:
         url = API_URL_TEMPLATE.format(page)
         resp = requests.get(url)
         resp.raise_for_status()
         data = resp.json()
-        
+
         items = data.get("items", [])
         if not items:
             break
-        
+
         all_entries.extend(items)
-        
+
         total_pages = data.get("totalPages", 1)
         if page >= total_pages:
             break
-        
+
         page += 1
         print(f"Fetched page {page-1}/{total_pages}...")
-    
+
     print(f"Total entries fetched: {len(all_entries)}")
     return all_entries
 
-def get_titles(entry, title_mapping):
-    al_id = entry.get("alID")
-    titles = title_mapping.get(al_id, {})
-    title_en = titles.get("english") or ""
-    title_romaji = titles.get("romaji") or ""
+def query_anilist_batch(anilist_ids: List[int]) -> Dict[int, Dict]:
+    """
+    Query AniList API for a batch of anime IDs.
+    Returns a dict mapping ID to anime data.
+    """
+    variables = {"ids": anilist_ids}
+    
+    response = requests.post(
+        ANILIST_API_URL,
+        json={"query": ANILIST_QUERY, "variables": variables}
+    )
+    response.raise_for_status()
+    data = response.json()
+    
+    result = {}
+    media_list = data.get("data", {}).get("Page", {}).get("media", [])
+    
+    for media in media_list:
+        anime_id = media["id"]
+        result[anime_id] = {
+            "title_english": media["title"].get("english") or "",
+            "title_romaji": media["title"].get("romaji") or "",
+            "relations": media.get("relations", {}).get("edges", [])
+        }
+    
+    return result
+
+def fetch_anilist_data(entries: List[Dict]) -> Dict[int, Dict]:
+    """
+    Fetch AniList data for all entries in batches of 50 with 2s delay.
+    """
+    # Extract unique AniList IDs
+    anilist_ids = set()
+    for entry in entries:
+        anilist_id = entry.get("alID")
+        if anilist_id:
+            anilist_ids.add(int(anilist_id))
+    
+    anilist_ids = sorted(anilist_ids)
+    print(f"Fetching data for {len(anilist_ids)} unique AniList IDs...")
+    
+    all_data = {}
+    batch_size = 50
+    
+    for i in range(0, len(anilist_ids), batch_size):
+        batch = anilist_ids[i:i + batch_size]
+        print(f"Querying AniList batch {i//batch_size + 1}/{(len(anilist_ids) + batch_size - 1)//batch_size}...")
+        
+        batch_data = query_anilist_batch(batch)
+        all_data.update(batch_data)
+        
+        # Delay between batches (except for the last one)
+        if i + batch_size < len(anilist_ids):
+            time.sleep(2)
+    
+    print(f"Fetched AniList data for {len(all_data)} anime.")
+    return all_data
+
+def get_titles(entry: Dict, anilist_data: Dict[int, Dict]) -> Tuple[str, str]:
+    """
+    Get titles from AniList data.
+    """
+    anilist_id = int(entry.get("alID")) if entry.get("alID") else None
+    
+    if not anilist_id or anilist_id not in anilist_data:
+        # Fallback to old behavior if AniList data not available
+        titles = entry.get("titles", {})
+        title_en = titles.get("english") or ""
+        title_romaji = titles.get("romaji") or ""
+    else:
+        anime_data = anilist_data[anilist_id]
+        title_en = anime_data["title_english"]
+        title_romaji = anime_data["title_romaji"]
     
     if title_en:
         main_title = title_en
@@ -48,41 +138,65 @@ def get_titles(entry, title_mapping):
     else:
         main_title = title_romaji
         alt_title = ""
-    
+
     if main_title == alt_title:
         alt_title = ""
-    
+
     return main_title, alt_title
+
+def build_relation_map(anilist_data: Dict[int, Dict]) -> Dict[int, List[int]]:
+    """
+    Build a mapping of parent anime to their related anime (sequels, side stories, etc).
+    """
+    relation_map = {}
+    
+    for anime_id, data in anilist_data.items():
+        relations = data.get("relations", [])
+        
+        for edge in relations:
+            relation_type = edge.get("relationType", "")
+            related_id = edge.get("node", {}).get("id")
+            
+            # We care about relations that indicate hierarchy
+            # SEQUEL, PREQUEL, SIDE_STORY, PARENT_STORY, etc.
+            if related_id and relation_type in ["PARENT", "PREQUEL", "PARENT_STORY"]:
+                # This anime is related to a parent
+                if related_id not in relation_map:
+                    relation_map[related_id] = []
+                if anime_id not in relation_map[related_id]:
+                    relation_map[related_id].append(anime_id)
+    
+    return relation_map
 
 def collect_release_metadata(torrents):
     release_metadata = {}
     release_group_trackers = {}
     best_releases = []
     alt_releases = []
-    
+
     for tr in torrents:
         group = tr.get("releaseGroup", "")
         if not group:
             continue
-        
+
         is_best = tr.get("isBest", False)
         is_dual = tr.get("dualAudio", False)
         tags = tr.get("tags", [])
         tracker = tr.get("tracker", "")
-        
+
         formatted_group = f"{group} (Dual Audio)" if is_dual else group
-        
+
         if formatted_group not in release_group_trackers:
             release_group_trackers[formatted_group] = set()
         release_group_trackers[formatted_group].add(tracker.lower())
-        
+
         metadata_key = f"{formatted_group}|{is_best}"
-        
+
         tags_lower = [tag.lower() for tag in tags]
         is_unmuxed = "unmuxed" in tags_lower
         is_broken = "broken" in tags_lower
         is_incomplete = "incomplete" in tags_lower
-        
+
         if metadata_key not in release_metadata:
             release_metadata[metadata_key] = {
                 "is_unmuxed": is_unmuxed,
@@ -95,19 +209,20 @@ def collect_release_metadata(torrents):
             existing["is_unmuxed"] = existing["is_unmuxed"] or is_unmuxed
             existing["is_broken"] = existing["is_broken"] or is_broken
             existing["is_incomplete"] = existing["is_incomplete"] or is_incomplete
-        
+
         if is_best:
             if formatted_group not in best_releases:
                 best_releases.append(formatted_group)
         else:
             if formatted_group not in alt_releases:
                 alt_releases.append(formatted_group)
-    
+
+    # check for tracker-based not_nyaa
     for metadata_key in release_metadata:
         formatted_group = metadata_key.rsplit('|', 1)[0]
         trackers = release_group_trackers.get(formatted_group, set())
         release_metadata[metadata_key]["is_not_nyaa"] = "nyaa" not in trackers
-    
+
     return release_metadata, best_releases, alt_releases
 
 def deduplicate_releases(releases):
@@ -117,7 +232,7 @@ def deduplicate_releases(releases):
         if base_name not in groups:
             groups[base_name] = []
         groups[base_name].append(release)
-    
+
     result = []
     for base_name, versions in groups.items():
         if len(versions) > 1:
@@ -130,12 +245,14 @@ def deduplicate_releases(releases):
             result.append(versions[0])
     return result
 
-def parse_entries(entries, title_mapping):
+def parse_entries(entries: List[Dict], anilist_data: Dict[int, Dict]):
     anime_data = []
     seen_main_titles = set()
-    
+
     for entry in entries:
-        main_title, alt_title = get_titles(entry, title_mapping)
+        main_title, alt_title = get_titles(entry, anilist_data)
+        parent_order = entry.get("parent", 0)
+        anilist_id = int(entry.get("alID", 0)) if entry.get("alID") else 0
 
         if main_title in seen_main_titles and alt_title:
             main_title, alt_title = alt_title, main_title
@@ -145,10 +262,10 @@ def parse_entries(entries, title_mapping):
         notes = entry.get("notes", "").strip()
         theoretical_best = entry.get("theoreticalBest", "").strip()
         comparison = entry.get("comparison", "").strip().replace(",", "\n")
-        
+
         torrents = entry.get("expand", {}).get("trs", [])
         release_metadata, best_releases, alt_releases = collect_release_metadata(torrents)
-        
+
         if not best_releases and theoretical_best:
             best_releases.append(theoretical_best)
             metadata_key = f"{theoretical_best}|True"
@@ -158,40 +275,184 @@ def parse_entries(entries, title_mapping):
                 "is_incomplete": False,
                 "is_not_nyaa": True
             }
-        
+
         best_releases = deduplicate_releases(best_releases)
         alt_releases = deduplicate_releases(alt_releases)
-        
+
         best_releases.sort()
         alt_releases.sort()
-        
+
         if best_releases or alt_releases:
             max_releases = max(len(best_releases), len(alt_releases))
             best_releases_padded = best_releases + [""] * (max_releases - len(best_releases))
             alt_releases_padded = alt_releases + [""] * (max_releases - len(alt_releases))
-            
+
             release_rows = []
             for best, alt in zip(best_releases_padded, alt_releases_padded):
                 best_metadata_key = f"{best}|True" if best else None
                 alt_metadata_key = f"{alt}|False" if alt else None
-                
+
                 release_rows.append({
                     "best": best,
                     "alt": alt,
                     "best_metadata": release_metadata.get(best_metadata_key, {}),
                     "alt_metadata": release_metadata.get(alt_metadata_key, {})
                 })
-            
+
             anime_data.append({
                 "main_title": main_title,
                 "alt_title": alt_title,
                 "notes": notes,
                 "comparison": comparison,
-                "release_rows": release_rows
+                "release_rows": release_rows,
+                "_parent_order": parent_order,
+                "_anilist_id": anilist_id
             })
-    
-    anime_data.sort(key=lambda x: x["main_title"].lower())
+
     return anime_data
+
+def smart_sort_anime(anime_data: List[Dict], anilist_data: Dict[int, Dict]) -> List[Dict]:
+    """
+    Sort anime alphabetically while keeping related series together in hierarchical order.
+    
+    Strategy:
+    1. Build parent-child tree structure using PARENT/PREQUEL relations
+    2. Group by root parent
+    3. Within each group, maintain hierarchical tree order (parent -> children -> grandchildren)
+    4. Sort siblings alphabetically
+    5. Sort groups by root parent's English title
+    """
+    
+    # Build parent and children relationships
+    parent_map = {}  # anime_id -> immediate parent_id
+    children_map = {}  # parent_id -> [list of child_ids]
+    
+    for anime in anime_data:
+        anime_id = anime.get("_anilist_id", 0)
+        if not anime_id or anime_id not in anilist_data:
+            continue
+            
+        relations = anilist_data[anime_id].get("relations", [])
+        
+        # PARENT relation takes priority over PREQUEL
+        parent_id = None
+        for relation in relations:
+            if relation.get("relationType") == "PARENT":
+                parent_id = relation.get("node", {}).get("id")
+                if parent_id:
+                    break
+        
+        if not parent_id:
+            for relation in relations:
+                if relation.get("relationType") == "PREQUEL":
+                    parent_id = relation.get("node", {}).get("id")
+                    if parent_id:
+                        break
+        
+        if parent_id:
+            parent_map[anime_id] = parent_id
+            if parent_id not in children_map:
+                children_map[parent_id] = []
+            children_map[parent_id].append(anime_id)
+    
+    def find_root_parent(anime_id: int, visited: Set[int] = None) -> int:
+        """Find ultimate root parent, avoiding cycles"""
+        if visited is None:
+            visited = set()
+        if anime_id in visited or anime_id not in parent_map:
+            return anime_id
+        visited.add(anime_id)
+        return find_root_parent(parent_map[anime_id], visited)
+    
+    # Build anime_id to anime object mapping
+    id_to_anime = {}
+    for anime in anime_data:
+        anime_id = anime.get("_anilist_id", 0)
+        if anime_id:
+            id_to_anime[anime_id] = anime
+    
+    def build_tree_order(anime_ids: List[int]) -> List[int]:
+        """
+        Sort anime IDs in tree order: parent, then its children (sorted), recursively.
+        """
+        result = []
+        
+        # Find roots (items with no parent in this group)
+        roots = [aid for aid in anime_ids if aid not in parent_map or parent_map[aid] not in anime_ids]
+        
+        # Sort roots alphabetically
+        roots.sort(key=lambda aid: id_to_anime[aid]["main_title"].lower() if aid in id_to_anime else "")
+        
+        def add_subtree(anime_id: int):
+            """Add anime and all its descendants"""
+            result.append(anime_id)
+            # Get children in this group
+            children = [c for c in children_map.get(anime_id, []) if c in anime_ids]
+            # Sort children alphabetically
+            children.sort(key=lambda aid: id_to_anime[aid]["main_title"].lower() if aid in id_to_anime else "")
+            for child in children:
+                add_subtree(child)
+        
+        for root in roots:
+            add_subtree(root)
+        
+        return result
+    
+    # Group by root parent
+    groups = {}  # root_id -> [anime_ids]
+    standalone = []  # Anime without AniList ID
+    
+    for anime in anime_data:
+        anime_id = anime.get("_anilist_id", 0)
+        
+        if not anime_id:
+            standalone.append(anime)
+            continue
+        
+        root_id = find_root_parent(anime_id)
+        if root_id not in groups:
+            groups[root_id] = []
+        groups[root_id].append(anime_id)
+    
+    # Sort each group in tree order
+    for root_id in groups:
+        groups[root_id] = build_tree_order(groups[root_id])
+    
+    # Sort groups by root's English title
+    group_sort_keys = []
+    for root_id, anime_ids in groups.items():
+        sort_key = ""
+        
+        # Get root's English title from anilist_data
+        if root_id in anilist_data:
+            english = anilist_data[root_id].get("title_english", "")
+            romaji = anilist_data[root_id].get("title_romaji", "")
+            sort_key = (english or romaji).lower()
+        
+        # Fallback to anime object
+        if not sort_key and root_id in id_to_anime:
+            sort_key = id_to_anime[root_id]["main_title"].lower()
+        
+        # Last resort: first item
+        if not sort_key and anime_ids and anime_ids[0] in id_to_anime:
+            sort_key = id_to_anime[anime_ids[0]]["main_title"].lower()
+        
+        group_sort_keys.append((sort_key, anime_ids))
+    
+    group_sort_keys.sort(key=lambda x: x[0])
+    
+    # Build final result
+    result = []
+    for _, anime_ids in group_sort_keys:
+        for anime_id in anime_ids:
+            if anime_id in id_to_anime:
+                result.append(id_to_anime[anime_id])
+    
+    # Add standalone, sorted alphabetically
+    standalone.sort(key=lambda x: x["main_title"].lower())
+    result.extend(standalone)
+    
+    return result
 
 def metadata_to_status(metadata):
     if not metadata:
@@ -246,9 +507,19 @@ def write_json(anime_data, out_path="releases.json"):
     print(f"Wrote {out_path} ({len(rows)} anime entries).")
 
 def main():
-    title_mapping = load_title_mapping()
+    # Fetch releases.moe data
     entries = fetch_entries()
-    anime_data = parse_entries(entries, title_mapping)
+    
+    # Fetch AniList data in batches
+    anilist_data = fetch_anilist_data(entries)
+    
+    # Parse entries with AniList data
+    anime_data = parse_entries(entries, anilist_data)
+    
+    # Smart sort to keep related anime together
+    anime_data = smart_sort_anime(anime_data, anilist_data)
+    
+    # Write output
     write_json(anime_data)
 
 if __name__ == "__main__":
