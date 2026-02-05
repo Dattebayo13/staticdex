@@ -990,20 +990,15 @@
     "alt_title": "Shoumetsu Toshi",
     "year": 2019,
     "format": "TV",
-    "notes": "HorribleSubs is a FUNI WEB-DL\nWeb sources are utterly abysmal, the JPN BD NEEDS to be put in the toolnix immediately",
+    "notes": "MuGi is JPN BD Remux+MCR (FUNI), Starbez (Seemingly just stock FUNI, the TS was only on the signs track?), and PGS\nStarbez does have some slightly improved TS on the signs track that could be worth looking at for a future release\nWeb sources are utterly abysmal, a jsum or similar mux would be a good alt",
     "comparison": "https://slow.pics/c/wWt55KmX",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "MuGi (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "HorribleSubs",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Aharen-san wa Hakarenai",
@@ -4024,18 +4019,18 @@
     "alt_title": "",
     "year": 2016,
     "format": "TV",
-    "notes": "Geonope is Beatrice-Raws+NotSoBit-&Subs (modified Bit-&)",
-    "comparison": "https://slow.pics/c/0vT6lfZg",
+    "notes": "MuGi is JPN BD Remux+Geonope\nGeonope is Beatrice-Raws+NotSoBit-&Subs (modified Bit-&)\nBoth have some missing fonts",
+    "comparison": "https://slow.pics/c/0vT6lfZg\nhttps://www.diffchecker.com/WRQKyPGE/",
     "best_releases": [
       {
-        "name": "JPN BD+Geonope",
-        "status": "unmuxed"
+        "name": "MuGi",
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
         "name": "Geonope",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -4050,7 +4045,7 @@
     "alt_releases": [
       {
         "name": "Geonope",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -4065,7 +4060,7 @@
     "alt_releases": [
       {
         "name": "Geonope",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
