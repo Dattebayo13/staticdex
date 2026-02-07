@@ -995,7 +995,7 @@
     "best_releases": [
       {
         "name": "MuGi (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -1674,12 +1674,12 @@
     "alt_title": "Ameku Takao no Suiri Karte",
     "year": 2025,
     "format": "TV",
-    "notes": "MALD is a CR WEB-DL\nThe JPN BD has a slight lowpass but much better compression and some BD changes\nBoth sources benefit from MPV Deband, mostly for the OP on the BD, but everywhere on CR\nA jsum mux would be a better alt",
+    "notes": "Stye is JPN BD Remux+Restyled CR with TS adjustments for BD changes\nMALD is a CR WEB-DL\nThe JPN BD has a slight lowpass but much better compression and some BD changes\nBoth sources benefit from MPV Deband, mostly for the OP on the BD, but everywhere on CR\nA jsum mux would be a better alt",
     "comparison": "https://slow.pics/c/oo7y2cXD",
     "best_releases": [
       {
-        "name": "JPN BD+MALD",
-        "status": "unmuxed"
+        "name": "Stye (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -1975,7 +1975,7 @@
     "alt_releases": [
       {
         "name": "aro",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -5504,7 +5504,7 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -6420,7 +6420,7 @@
     "alt_releases": [
       {
         "name": "KH",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -6440,7 +6440,7 @@
     "alt_releases": [
       {
         "name": "KH",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -7905,7 +7905,7 @@
     "alt_releases": [
       {
         "name": "StarLight",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -9783,7 +9783,7 @@
     "alt_title": "Ijiranaide, Nagatoro-san 2nd Attack",
     "year": 2023,
     "format": "TV",
-    "notes": "fig is JPN BD Remux+BullySubs for episodes 1-10, CR for episodes 11-12\nBullySubs is CR WEBRip+Fansub based on CR for E1-9, JPN BD Encode+Fansub based on CR for E10. Only contains the first 10 episodes.",
+    "notes": "fig is JPN BD Remux+BullySubs (Fansub based on CR) for episodes 1-10, CR for episodes 11-12\nStarLight is JPN BD Encode+fig",
     "comparison": "https://slow.pics/c/PIbNdZQx\nhttps://slow.pics/c/ynZytcCE\nhttps://www.diffchecker.com/0vHWvanC/",
     "best_releases": [
       {
@@ -9793,8 +9793,8 @@
     ],
     "alt_releases": [
       {
-        "name": "BullySubs",
-        "status": "incomplete"
+        "name": "StarLight (Dual Audio)",
+        "status": ""
       }
     ]
   },
@@ -12709,6 +12709,21 @@
     ]
   },
   {
+    "title": "GANBARE DOUKICHAN",
+    "alt_title": "Ganbare, Douki-chan",
+    "year": 2021,
+    "format": "ONA",
+    "notes": "GetItTwisted is Beatrice-Raws+llbx (restyled CR with added TS and songs), and stock CR\nThe JPN BD has a pretty strong lowpass and actually more banding than CR, however Beatrice fixes most of the resulting ringing, has less banding than CR, AA's the jaggers, and has BD changes.",
+    "comparison": "https://slow.pics/c/p1AEb7Mw",
+    "best_releases": [
+      {
+        "name": "GetItTwisted",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "GANGSTA.",
     "alt_title": "",
     "year": 2015,
@@ -14955,7 +14970,7 @@
     "best_releases": [
       {
         "name": "MuriloEndres",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -14975,7 +14990,7 @@
     "best_releases": [
       {
         "name": "MuriloEndres",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -15558,7 +15573,7 @@
     "alt_title": "Sora no Otoshimono OVA",
     "year": 2010,
     "format": "OVA",
-    "notes": "-ZR- is JPN BD Remux+KH (tlacatlc6)\nBBT-RMX is Yousei-raws+tlacatlc6 (Nekomimi)\nReminder to upload BBT-RMX to Nyaa.com tomorrow",
+    "notes": "-ZR- is JPN BD Remux+KH (tlacatlc6)\nBBT-RMX is Yousei-raws+tlacatlc6 (Nekomimi)",
     "comparison": "https://slow.pics/c/Den6E8xj",
     "best_releases": [
       {
@@ -15566,7 +15581,12 @@
         "status": "not_nyaa"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "BBT-RMX (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Heaven's Lost Property: Forte",
@@ -15604,7 +15624,7 @@
     "alt_releases": [
       {
         "name": "Kitsune (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -15624,7 +15644,7 @@
     "alt_releases": [
       {
         "name": "Kitsune (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -17399,7 +17419,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -19547,6 +19567,50 @@
     "alt_releases": []
   },
   {
+    "title": "Kaiju No.8: Hoshina's Day Off",
+    "alt_title": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+    "year": 2025,
+    "format": "SPECIAL",
+    "notes": "VARYG is a CR WEB-DL",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Kaiju No. 8 Season 2",
+    "alt_title": "Kaijuu 8-gou 2nd Season",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Erai-raws and Kitsune are CR WEB-DLs\nLike the first season the JPN BD is poor with lowpassing and a strong tint, however it has much better compression than CR and quite a lot of BD changes",
+    "comparison": "https://slow.pics/c/0L2k6OtR",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      },
+      {
+        "name": "Kitsune (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Kaitei Sanman Mile",
     "alt_title": "",
     "year": 1970,
@@ -20047,7 +20111,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -21407,7 +21471,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -22900,6 +22964,21 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Madam is a Magical Girl",
+    "alt_title": "Okusama wa Mahou Shoujo",
+    "year": 2005,
+    "format": "TV",
+    "notes": "polished is R2J DVD Encode+Something\nBad quality but the other encodes are somehow worse, they at least handle the VFR properly",
+    "comparison": "https://slow.pics/c/KG5ONWnh",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "polished",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Made in Abyss",
@@ -24951,7 +25030,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -25357,7 +25436,7 @@
     "alt_releases": [
       {
         "name": "AOmundson (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -25377,7 +25456,7 @@
     "alt_releases": [
       {
         "name": "AOmundson (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -26017,7 +26096,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -27801,7 +27880,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -27950,9 +28029,13 @@
     "alt_title": "Odd Taxi",
     "year": 2021,
     "format": "TV",
-    "notes": "LostYears is sam+modified MTBB subs",
-    "comparison": "https://slow.pics/c/s6jEemXm\nhttps://slow.pics/c/JtheHEsN",
+    "notes": "LostYears is sam+modified MTBB subs\nFakeTaxi is LostYears sneedsplit with better dub audio and tagging\nMTBB is JPN BD Encode+Fansub based on CR",
+    "comparison": "https://slow.pics/c/s6jEemXm\nhttps://slow.pics/c/JtheHEsN\nhttps://www.diffchecker.com/dPamjc2N/\nhttps://www.diffchecker.com/mpL3Yld3/",
     "best_releases": [
+      {
+        "name": "FakeTaxi (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "LostYears (Dual Audio)",
         "status": ""
@@ -28704,6 +28787,26 @@
     ]
   },
   {
+    "title": "Osamake: Romcom Where The Childhood Friend Won't Lose",
+    "alt_title": "Osananajimi ga Zettai ni Makenai Love Come",
+    "year": 2021,
+    "format": "TV",
+    "notes": "TTGA is JPN BD Remux+CR\nYURASUKA is JPN BD Encode+TTGA",
+    "comparison": "https://slow.pics/c/DYNkZm9h",
+    "best_releases": [
+      {
+        "name": "TTGA",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "YURASUKA",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Oshi No Ko",
     "alt_title": "[Oshi no Ko]",
     "year": 2023,
@@ -28797,6 +28900,26 @@
       },
       {
         "name": "LostYears (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Our Dating Story: The Experienced You and The Inexperienced Me",
+    "alt_title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+    "year": 2023,
+    "format": "TV",
+    "notes": "Chihiro is JPN BD Encode+Fansub based on CR",
+    "comparison": "https://slow.pics/c/qWmGKfvA\nhttps://www.diffchecker.com/D3HbsBuz/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Chihiro",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Chihiro",
         "status": ""
       }
     ]
@@ -29125,7 +29248,7 @@
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -29548,6 +29671,21 @@
     "alt_releases": []
   },
   {
+    "title": "Phi Brain: Puzzle of God",
+    "alt_title": "Phi Brain: Kami no Puzzle",
+    "year": 2011,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+Raizel (WhyNot shifted to BD with episode titles changed to official), CR, and PGS\nThere's not really anything to list for alt, Raizel is a 720p mini encode and sourced from the USA BD which has the wrong gamma. A UQW mux would be a good option.",
+    "comparison": "https://slow.pics/c/sI6jeC7J\nhttps://www.diffchecker.com/mQiCP4b0/",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Photo Kano",
     "alt_title": "Photokano",
     "year": 2013,
@@ -29672,7 +29810,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -29692,7 +29830,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -29712,7 +29850,7 @@
     "best_releases": [
       {
         "name": "MuGi",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -30332,8 +30470,8 @@
     "alt_title": "Mononoke-hime",
     "year": 1997,
     "format": "MOVIE",
-    "notes": "HiFi is JPN MGVC Remux+Official subs",
-    "comparison": "https://slow.pics/c/EZeCj7wp",
+    "notes": "HiFi is JPN MGVC BD Remux+PGS\nArid is THORA with additional REVO/niizk track\nThe recently \"released\" DCP looks very good",
+    "comparison": "https://slow.pics/c/JIyEmJhW\nhttps://slow.pics/c/EZeCj7wp",
     "best_releases": [
       {
         "name": "HiFi (Dual Audio)",
@@ -31129,7 +31267,7 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -32417,6 +32555,30 @@
     ]
   },
   {
+    "title": "Ruri Rocks",
+    "alt_title": "Ruri no Houseki",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Headpatter is JPN BD Remux+CR\nKitsune/Erai-raws are CR WEB-DLs, the former with AMZN audio\nThe JPN BD has some heavily lowpassed scenes but web sources are far too starved",
+    "comparison": "https://slow.pics/c/R9JLywt0",
+    "best_releases": [
+      {
+        "name": "Headpatter",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      },
+      {
+        "name": "Kitsune",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Rurouni Kenshin (2023)",
     "alt_title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
     "year": 2023,
@@ -32799,17 +32961,17 @@
     "alt_title": "",
     "year": 2025,
     "format": "TV",
-    "notes": "KawaSubs is AMZN WEB-DL+Lightly edited AMZN timed, typeset, with OP/ED KFX\nThe JPN BD has a pretty strong lowpass but massively better compression than AMZN",
+    "notes": "StarLight is JPN BD Encode+KawaSubs (Lightly edited AMZN timed, typeset, with OP/ED KFX)\nThe JPN BD has a pretty strong lowpass but massively better compression than AMZN\n*Remove \"Brought to you by [KawaSubs]\" in the ED please",
     "comparison": "https://slow.pics/c/6ErJ2qYF\nhttps://www.diffchecker.com/Y1bPonhK/\nhttps://www.diffchecker.com/CVhg6AnR/",
     "best_releases": [
       {
-        "name": "JPN BD+KawaSubs",
+        "name": "JPN BD+KawaSubs*",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "KawaSubs (Dual Audio)",
+        "name": "StarLight (Dual Audio)",
         "status": ""
       }
     ]
@@ -34592,7 +34754,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -36836,12 +36998,12 @@
     "alt_title": "Tamayomi",
     "year": 2020,
     "format": "TV",
-    "notes": "Chintu is Thicc+FUNI Retimed, TSed, with OP/ED lyrics\nChintu video is very bad, would recommend muxing onto literally anything else\nStore should be watched with MPV deband",
+    "notes": "Moxie is JPN BD Remux+Chintu and PGS\nChintu is Thicc+FUNI Retimed, TSed, with OP/ED lyrics\nChintu video is very bad, would recommend muxing onto literally anything else\nStore should be watched with MPV deband",
     "comparison": "https://slow.pics/c/R3s0nwGK\nhttps://slow.pics/c/hppGEtos",
     "best_releases": [
       {
-        "name": "JPN BD+Chintu",
-        "status": "unmuxed"
+        "name": "Moxie (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -39786,7 +39948,7 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -41052,7 +41214,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -41977,7 +42139,7 @@
     "alt_releases": [
       {
         "name": "StarLight (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -44227,8 +44389,8 @@
     "alt_title": "Yamada-kun to 7-nin no Majo",
     "year": 2015,
     "format": "TV",
-    "notes": "LazyRemux is JPN BD Remux+SallySubs\nSCY is Beatrice+modified SallySubs",
-    "comparison": "https://slow.pics/c/YQpYKxwK",
+    "notes": "LazyRemux is JPN BD Remux+SallySubs\nSCY is Beatrice-Raws+modified SallySubs\nSallySubs is fansub based on CR",
+    "comparison": "https://slow.pics/c/d7STSZJ9\nhttps://slow.pics/c/YQpYKxwK\nhttps://www.diffchecker.com/fyqzuJXs/",
     "best_releases": [
       {
         "name": "LazyRemux (Dual Audio)",
