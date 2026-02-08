@@ -5648,7 +5648,7 @@
     "alt_title": "Bocchi the Rock!",
     "year": 2022,
     "format": "TV",
-    "notes": "realpinkgirl321 is JPN BD Remux+DB+neohevc\nRecluse is VCB-Studio+DB+neohevc\nDB+neohevc subs are Gotch (E1-3), Half-Baked (E4-9), CR (E10-12) with styles unified, TS touched up, and styled OP/ED/Insert songs.\nrealpinkgirl321 is missing some fonts for episodes 1-3, unofficial patch available in the nyaa comments",
+    "notes": "realpinkgirl321 is JPN BD Remux+DB+neohevc\nRecluse is VCB-Studio+DB+neohevc\nDB+neohevc subs are Gotch (E1-3), Half-Baked (E4-9), CR (E10-12) with styles unified, TS touched up, and styled OP/ED/Insert songs.",
     "comparison": "https://slow.pics/c/Tx8M1NTK",
     "best_releases": [
       {
@@ -8222,12 +8222,12 @@
     "alt_title": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
     "year": 2013,
     "format": "OVA",
-    "notes": "",
+    "notes": "Moxie is JPN BD Remux+gg",
     "comparison": "https://slow.pics/c/rpWLR3AF",
     "best_releases": [
       {
-        "name": "JPN BD+gg",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -17137,12 +17137,12 @@
     "alt_title": "Kimi no Koe wo Todoketai",
     "year": 2017,
     "format": "MOVIE",
-    "notes": "Drag is Mangakas & Natsumi+M74 with TS and song lyrics from Mangakas & Natsumi\nM74 subs seem to be official with some ESL edits",
-    "comparison": "https://slow.pics/c/inx6WtjO\nhttps://www.diffchecker.com/9OSBvuSG/",
+    "notes": "Headpatter is JPN BD Remux+Edited Drag\nDrag is Mangakas & Natsumi+M74 (Edited official) with TS and song lyrics from Mangakas & Natsumi",
+    "comparison": "https://slow.pics/c/inx6WtjO\nhttps://www.diffchecker.com/5VTrODNz/\nhttps://www.diffchecker.com/JTrS9dla/",
     "best_releases": [
       {
-        "name": "JPN BD+Drag De-edited",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -17429,20 +17429,15 @@
     "alt_title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni",
     "year": 2025,
     "format": "TV",
-    "notes": "Erai-raws is a CR WEB-DL\nThe JPN BD is a marginal improvement over CR, better compression and less banding with a cheeky chroma shift on top\nChihiro has completed up to episode 6\nEverything would benefit from MPV Deband, particularly CR",
-    "comparison": "https://slow.pics/c/UMKmat7S\nhttps://www.diffchecker.com/QOh6Yz70/",
+    "notes": "YURASUKA is JPN BD Encode+Chihiro for E1-6, CR with Chihiro OP/ED for 7-12\nThe JPN BD is a marginal improvement over CR, better compression and less banding with a cheeky chroma shift on top\nChihiro has completed up to episode 6",
+    "comparison": "https://slow.pics/c/oBBQPoKf\nhttps://slow.pics/c/UMKmat7S\nhttps://www.diffchecker.com/QOh6Yz70/",
     "best_releases": [
       {
-        "name": "JPN BD+Chihiro/CR",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Erai-raws",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Ichigo Mashimaro Episode 0",
@@ -42634,6 +42629,26 @@
     "alt_releases": [
       {
         "name": "NiBBA (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Utawarerumono The False Faces",
+    "alt_title": "Utawarerumono: Itsuwari no Kamen",
+    "year": 2015,
+    "format": "TV",
+    "notes": "BlurayDesuYo is JPN BD Encode+Fansub based on CR\nThe video is bad but it's the only release using their updated subs, previous Salender-Raws muxes are based on the older DameDesuYo release",
+    "comparison": "https://slow.pics/c/qhnmfF78\nhttps://www.diffchecker.com/58ckWI1i/\nhttps://www.diffchecker.com/pOy5XPaf/",
+    "best_releases": [
+      {
+        "name": "JPN BD+BlurayDesuYo",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "BlurayDesuYo",
         "status": ""
       }
     ]
