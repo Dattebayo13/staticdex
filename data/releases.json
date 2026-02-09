@@ -9589,12 +9589,12 @@
     "alt_title": "DIVE!!",
     "year": 2017,
     "format": "TV",
-    "notes": "mirai is SCY+Commie BD subs",
-    "comparison": "https://slow.pics/c/UUxZVZxY",
+    "notes": "Moxie is JPN BD Remux+Commie\nmirai is SCY+Commie BD subs",
+    "comparison": "https://slow.pics/c/UUxZVZxY\nhttps://www.diffchecker.com/kwz3ks9W/",
     "best_releases": [
       {
-        "name": "JPN BD+Commie",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -18746,6 +18746,21 @@
     "alt_title": "",
     "year": 2005,
     "format": "TV",
+    "notes": "UNKWN is km+modified FUNI",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "UNKWN (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Jinki:Extend - And Then...",
+    "alt_title": "Jinki:Extend - Sorekara",
+    "year": 2006,
+    "format": "OVA",
     "notes": "UNKWN is km+modified FUNI",
     "comparison": "",
     "best_releases": [
@@ -31138,6 +31153,26 @@
     ]
   },
   {
+    "title": "Rail Romanesque",
+    "alt_title": "",
+    "year": 2020,
+    "format": "TV_SHORT",
+    "notes": "WBDP is IrizaRaws+CR with TS modifications for the BD\nThe JPN BD isn't good and has a pretty strong lowpass but has tons of BD changes\n*WBDP has some TS leftover that wasn't adapted to BD changes properly, also some of the TS was weebified",
+    "comparison": "https://slow.pics/c/wDQJTAee\nhttps://www.diffchecker.com/M7lZRrYd/",
+    "best_releases": [
+      {
+        "name": "JPN BD+WBDP*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "WBDP",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Rail Wars!",
     "alt_title": "",
     "year": 2014,
@@ -33151,7 +33186,7 @@
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -33285,19 +33320,20 @@
     "alt_title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
     "year": 2025,
     "format": "TV",
-    "notes": "MTBB is JPN BD Encode+Fansub based on AniPlus\nLostYears is MTBB with dub and minor QC fixes for episodes 10 and 13\nH-Enc would be a good alt",
-    "comparison": "https://slow.pics/c/8S28zsKq\nhttps://slow.pics/c/1jFAAGdZ\nhttps://slow.pics/c/hh8pfsMn\nhttps://www.diffchecker.com/UZMT1fgc/\nhttps://www.diffchecker.com/ddeiMm00/\nhttps://www.diffchecker.com/FODx9sho/\nhttps://www.diffchecker.com/A5fAKAUk/",
+    "notes": "Stye is MTBB with minor fixes in episodes 9-11 and 13\nMTBB is JPN BD Encode+Fansub based on AniPlus\nHeadpatter is H-Enc+LostYears (MTBB with minor fixes in episodes 10 and 13)",
+    "comparison": "https://slow.pics/c/8S28zsKq\nhttps://slow.pics/c/1jFAAGdZ\nhttps://slow.pics/c/hh8pfsMn\nhttps://www.diffchecker.com/UZMT1fgc/\nhttps://www.diffchecker.com/ddeiMm00/\nhttps://www.diffchecker.com/FODx9sho/\nhttps://www.diffchecker.com/A5fAKAUk/\nhttps://www.diffchecker.com/hR92uFhf/",
     "best_releases": [
       {
-        "name": "LostYears (Dual Audio)",
-        "status": ""
-      },
-      {
-        "name": "MTBB",
+        "name": "Stye (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "See You Tomorrow at the Food Court",
