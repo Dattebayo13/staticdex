@@ -13809,6 +13809,26 @@
     ]
   },
   {
+    "title": "given The Movie: Hiiragi Mix",
+    "alt_title": "Given: Hiiragi mix",
+    "year": 2024,
+    "format": "MOVIE",
+    "notes": "Moxie is JPN BD Remux+CR\nVARYG is a CR WEB-DL\njsum would be a better alt\nizu is NOT safe for plex",
+    "comparison": "https://slow.pics/c/lkeaOjgS\nhttps://www.diffchecker.com/ZRKoDS1W/",
+    "best_releases": [
+      {
+        "name": "Moxie",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "given The Movie: To the Sea",
     "alt_title": "Given: Umi e",
     "year": 2024,
@@ -29771,7 +29791,7 @@
     "year": 2014,
     "format": "TV",
     "notes": "Vodes is Dehardsubbed JPN BD Encode+SCY (Modified Commie)",
-    "comparison": "https://slow.pics/c/bn57Azf8\nhttps://slow.pics/c/2fitrKfu",
+    "comparison": "https://slow.pics/c/bn57Azf8\nhttps://slow.pics/c/2fitrKfu\nhttps://www.diffchecker.com/xvsxVVcH/\nhttps://www.diffchecker.com/D5jUDG6L/\nhttps://www.diffchecker.com/AA3FUBwY/",
     "best_releases": [
       {
         "name": "Vodes (Dual Audio)",
@@ -30481,7 +30501,7 @@
     "year": 1997,
     "format": "MOVIE",
     "notes": "HiFi is JPN MGVC BD Remux+PGS\nArid is THORA with additional REVO/niizk track\nThe recently \"released\" DCP looks very good",
-    "comparison": "https://slow.pics/c/JIyEmJhW\nhttps://slow.pics/c/EZeCj7wp",
+    "comparison": "https://slow.pics/c/JIyEmJhW\nhttps://slow.pics/c/EZeCj7wp\nhttps://www.diffchecker.com/ejpHsUww/\nhttps://www.diffchecker.com/9IrznBmX/\nhttps://www.diffchecker.com/bT6CWyXS/",
     "best_releases": [
       {
         "name": "HiFi (Dual Audio)",
@@ -30755,12 +30775,12 @@
     "alt_title": "PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "LCE is Seicher-Raws+Mysteria (CR Timed, edited, typeset with song styling)\nSeicher-Raws uses the JPN BD which has a strong chroma lowpass in busy scenes, they freeze all the grain which results in significant detail loss in some scenes, then spam ugly static grain on top of it.",
-    "comparison": "https://slow.pics/c/aAEWeDng",
+    "notes": "GetItTwisted is GER BD Remux+Mysteria and CR\nLCE is Seicher-Raws+Mysteria (CR Timed, edited, typeset with song styling)\nSeicher-Raws uses the JPN BD which has a strong chroma lowpass in busy scenes, they freeze all the grain which results in significant detail loss in some scenes, then spam ugly static grain on top of it.",
+    "comparison": "https://slow.pics/c/aAEWeDng\nhttps://www.diffchecker.com/4QxHGJzZ/",
     "best_releases": [
       {
-        "name": "GER BD+Mysteria",
-        "status": "unmuxed"
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -30775,9 +30795,14 @@
     "alt_title": "PSYCHO-PASS Sinners of the System Case 2: First Guardian",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "LCE is Seicher-Raws+Mysteria (CR Timed, edited, typeset with song styling)",
-    "comparison": "",
-    "best_releases": [],
+    "notes": "LCE is Seicher-Raws+Mysteria (CR Timed, edited, typeset with song styling)\nAs with Case 1, the JPN BD has strong chroma lowpassing during busy scenes. The GBR BD is the only other source with BD changes. It has slightly worse compression than the JPN BD overall but the difference is mostly negligible.",
+    "comparison": "https://slow.pics/c/M0H2wJeN\nhttps://www.diffchecker.com/ZQlPW4ux/",
+    "best_releases": [
+      {
+        "name": "GBR BD+Mysteria",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
         "name": "LCE (Dual Audio)",
@@ -30790,9 +30815,14 @@
     "alt_title": "PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "LCE is Seicher-Raws+Mysteria (CR Timed, edited, typeset with song styling)",
-    "comparison": "",
-    "best_releases": [],
+    "notes": "LCE is Seicher-Raws+Mysteria (CR Timed, edited, typeset with song styling)\nThe JPN BD once again has strong chroma lowpassing during busy scenes, however it's the only source that has BD changes, of which there are many this time around.",
+    "comparison": "https://slow.pics/c/XL8dH58G\nhttps://www.diffchecker.com/zhq2Tdtl/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Mysteria",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
         "name": "LCE (Dual Audio)",
@@ -43882,18 +43912,18 @@
     "alt_title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
     "year": 2023,
     "format": "TV",
-    "notes": "SubsMix is VCB-Studio+Yuzu (Restyled CR with OP/ED TL) and EMBER (Stock CR)\nMPV Deband helps the store but it's pretty much just for the OP and fades, it is extremely noticeable in those scenes though\nSubstantial amount of BD changes :eyes:",
+    "notes": "Headpatter is JPN BD Remux+Yuzu (Restyled CR with OP/ED TL), and PGS\nHeadpatter is also VCB-Studio+Yuzu with a typo fixed in E5. and PGS\nMPV Deband helps the store but it's pretty much just for the OP and fades, it is extremely noticeable in those scenes though\nSubstantial amount of BD changes :eyes:",
     "comparison": "https://slow.pics/c/yJsh944y",
     "best_releases": [
       {
-        "name": "JPN BD+SubsMix",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "SubsMix",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
