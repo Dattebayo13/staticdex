@@ -474,12 +474,12 @@
     "alt_title": "Itsuka Tenma no Kuro Usagi",
     "year": 2011,
     "format": "TV",
-    "notes": "WBDP is Salender-Raws+WhyNot\nTsundere is Salender-Raws+Modified Derp",
+    "notes": "Headpatter is JPN BD Remux+Tsundere and WDBP\nWBDP is Salender-Raws+WhyNot\nTsundere is Salender-Raws+Modified Derp",
     "comparison": "https://slow.pics/c/rNEJU3Zs\nhttps://www.diffchecker.com/1QY7L4Oi\nhttps://www.diffchecker.com/JBPOU7X9/\nhttps://www.diffchecker.com/oNrW7toM/",
     "best_releases": [
       {
-        "name": "JPN BD+?",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -1368,7 +1368,7 @@
     "alt_title": "Aldnoah.Zero",
     "year": 2014,
     "format": "TV",
-    "notes": "Lulu is Beatrice-Raws+Vivid-Watashi\nThe GBR BD isn't great and requires MPV deband, however is better than the JPN/USA which has added grain covering detail, chroma lowpassed scenes, and seemingly missing animation changes? (Comp 26)",
+    "notes": "Lulu is Beatrice-Raws+Vivid-Watashi\nThe GBR BD isn't great and requires MPV deband, however is better than the JPN BD/JPN BDBOX/USA BD which has added grain covering detail, chroma lowpassed scenes, and seemingly missing animation changes? (Comp 26)",
     "comparison": "https://slow.pics/c/sowtXeoM",
     "best_releases": [
       {
@@ -1399,6 +1399,26 @@
     "alt_releases": [
       {
         "name": "Lulu (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "ALDNOAH.ZERO: The Penultimate Truth",
+    "alt_title": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+    "year": 2025,
+    "format": "OVA",
+    "notes": "hchcsen is JPN BD Remux+CR with Vivid-Watashi/FFF styling and ED, with some basic TS\nVARYG is a CR WEB-DL",
+    "comparison": "https://slow.pics/c/dl6PFih5",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
         "status": ""
       }
     ]
@@ -2059,12 +2079,12 @@
     "alt_title": "Taimadou Gakuen 35 Shiken Shoutai",
     "year": 2015,
     "format": "TV",
-    "notes": "YURI is Beatrice-Raws+MoeDesuDesu and SallySubs\nStore requires MPV deband",
-    "comparison": "https://slow.pics/c/bY32uol1\nhttps://slow.pics/c/guEFD10D",
+    "notes": "Moxie is JPN BD Remux+Modified SallySubs (ED styling from MoeDesuDesu, adjusted signs, additional signs added from CR and typeset)\nYURI is Beatrice-Raws+MoeDesuDesu and SallySubs\nStore requires MPV deband",
+    "comparison": "https://slow.pics/c/bY32uol1\nhttps://slow.pics/c/guEFD10D\nhttps://www.diffchecker.com/V7SWUxQ7/\nhttps://www.diffchecker.com/f80vXAgl/\nhttps://www.diffchecker.com/XkEwBdHj/",
     "best_releases": [
       {
-        "name": "JPN BD+?",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -11704,12 +11724,12 @@
     "alt_title": "Flip Flappers",
     "year": 2016,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+GJM-DDY and PGS\nzang is VCB-Studio+GJM-DDY",
-    "comparison": "https://slow.pics/c/dMBTGITQ\nhttps://slow.pics/c/5DQZl68w\nhttps://slow.pics/c/c3meD2Tn",
+    "notes": "Kawatare is JPN BD Encode+zang\nzang is VCB-Studio+GJM (E1-6), GJM-DDY (E7-13)\nGJM has since released up to episode 8 (and by since I mean 7 years ago)",
+    "comparison": "https://slow.pics/c/R7JUAYcN\nhttps://slow.pics/c/dMBTGITQ\nhttps://slow.pics/c/5DQZl68w\nhttps://www.diffchecker.com/E2gFiQrb/",
     "best_releases": [
       {
-        "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "Kawatare",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -15624,7 +15644,7 @@
     "alt_releases": [
       {
         "name": "Kitsune (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -15725,6 +15745,46 @@
       {
         "name": "SubsPlus+",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Hell Girl",
+    "alt_title": "Jigoku Shoujo",
+    "year": 2005,
+    "format": "TV",
+    "notes": "UQW is R2J DVD Encode+Exiled-Destiny\nThe sub sync is pretty bad and there's no translation for the episode titles that were hardsubbed on the R1US DVD, but every other option is much more cope",
+    "comparison": "https://slow.pics/c/M05gBcQh",
+    "best_releases": [
+      {
+        "name": "UQW+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "UQW",
+        "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "Hell Girl: Fourth Twilight",
+    "alt_title": "Jigoku Shoujo: Yoi no Togi",
+    "year": 2017,
+    "format": "TV",
+    "notes": "TROLLORANGE is a CR WEB-DL\nCR is unwatchable but it's the only thing actually muxed, jsum would be a drastically better alt\nThe BD only contains episodes 1-6 since 7-12 are \"rebroadcast episodes from previous seasons with minor edits\"",
+    "comparison": "https://slow.pics/c/qKE2Fmg2",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "TROLLORANGE",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -16028,7 +16088,7 @@
     "alt_title": "",
     "year": 2023,
     "format": "TV",
-    "notes": "SubsPlease is CR WEB-DL\nThe BD has significantly better quality, however is only available for the first 6 episodes",
+    "notes": "SubsPlease is CR WEB-DL\nThe BD has significantly better quality, jsum would be a superior alt",
     "comparison": "https://slow.pics/c/zl5KZzSb",
     "best_releases": [
       {
@@ -16273,12 +16333,12 @@
     "alt_title": "Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD - Drifters of the Dead",
     "year": 2011,
     "format": "OVA",
-    "notes": "SCY is JPN BD Encode+heavily edited gg/Kira subs",
+    "notes": "Headpatter is JPN BD Remux+SCY and PGS\nSCY is JPN BD Encode+heavily edited gg/Kira subs",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JPN BD+SCY",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -19036,7 +19096,7 @@
     "year": 2012,
     "format": "TV",
     "notes": "Lulu is JPN BD Remux+MK-SCY\nMK-SCY is Beatrice-Raws+Modified Asenshi",
-    "comparison": "https://slow.pics/c/SJyemyav",
+    "comparison": "https://slow.pics/c/SJyemyav\nhttps://slow.pics/c/UDtmk8KX",
     "best_releases": [
       {
         "name": "Lulu (Dual Audio)",
@@ -23968,6 +24028,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Mazinger Z: INFINITY",
+    "alt_title": "",
+    "year": 2018,
+    "format": "MOVIE",
+    "notes": "NAN0 is JPN BD Remux+OCR'd and stock PGS\nAll the BDs are pauper with each having a unique flaw, in the case of JPN it's just poor compression but the other discs aren't much better in that regard anyway",
+    "comparison": "https://slow.pics/c/Ad25g1MO",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Mecha Ude: Mechanical Arms",
@@ -28939,12 +29014,12 @@
     "alt_title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
     "year": 2023,
     "format": "TV",
-    "notes": "Chihiro is JPN BD Encode+Fansub based on CR",
+    "notes": "StaFer is JPN BD Remux+Chihiro, the OP lyrics overlap with the credits since Chihiro used NCs for their BD release\nChihiro is JPN BD Encode+Fansub based on CR",
     "comparison": "https://slow.pics/c/qWmGKfvA\nhttps://www.diffchecker.com/D3HbsBuz/",
     "best_releases": [
       {
-        "name": "JPN BD+Chihiro",
-        "status": "unmuxed"
+        "name": "StaFer",
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -29458,8 +29533,8 @@
     "alt_title": "PERFECT BLUE",
     "year": 1998,
     "format": "MOVIE",
-    "notes": "CiNEPHiLES (4K) is 4K JPN BD Remux+MUBI and PGS, has original laserdisc audio alongside the 2.0 and 5.1 remixes\nCiNEPHiLES (1080p) is the same with the 1080p JPN BD\nThe 2024 remaster is a drastic upgrade and previous releases should not be watched",
-    "comparison": "https://slow.pics/c/cHfPKOX1\nhttps://slow.pics/c/Z0jXWQsQ\nhttps://slow.pics/c/vc3gcTeE",
+    "notes": "CiNEPHiLES (4K) is 4K JPN BD Remux+MUBI and PGS\nKawatare is Downscaled 4K JPN BD Encode+MUBI\nBoth releases have original laserdisc audio alongside the 2.0 and 5.1 remixes",
+    "comparison": "https://slow.pics/c/cHfPKOX1\nhttps://slow.pics/c/R03qPnCz\nhttps://slow.pics/c/Z0jXWQsQ\nhttps://slow.pics/c/vc3gcTeE",
     "best_releases": [
       {
         "name": "CiNEPHiLES (Dual Audio)",
@@ -29468,7 +29543,7 @@
     ],
     "alt_releases": [
       {
-        "name": "CiNEPHiLES (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ]
@@ -29705,15 +29780,20 @@
     "alt_title": "Phi Brain: Kami no Puzzle",
     "year": 2011,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+Raizel (WhyNot shifted to BD with episode titles changed to official), CR, and PGS\nThere's not really anything to list for alt, Raizel is a 720p mini encode and sourced from the USA BD which has the wrong gamma. A UQW mux would be a good option.",
+    "notes": "NAN0 is JPN BD Remux+Raizel (WhyNot poorly shifted to BD with episode titles changed to official on the signs track), CR, and PGS\nHeadpatter is UQW+NAN0\nBoth have timing issues not present in the original WhyNot subs",
     "comparison": "https://slow.pics/c/sI6jeC7J\nhttps://www.diffchecker.com/mQiCP4b0/",
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "status": "broken"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "Photo Kano",
@@ -30500,12 +30580,12 @@
     "alt_title": "Mononoke-hime",
     "year": 1997,
     "format": "MOVIE",
-    "notes": "HiFi is JPN MGVC BD Remux+PGS\nArid is THORA with additional REVO/niizk track\nThe recently \"released\" DCP looks very good",
-    "comparison": "https://slow.pics/c/JIyEmJhW\nhttps://slow.pics/c/EZeCj7wp\nhttps://www.diffchecker.com/ejpHsUww/\nhttps://www.diffchecker.com/9IrznBmX/\nhttps://www.diffchecker.com/bT6CWyXS/",
+    "notes": "Arid is THORA with additional REVO/niizk track\nThe recently \"released\" DCP looks very good",
+    "comparison": "https://slow.pics/c/YC73NqXD\nhttps://slow.pics/c/JIyEmJhW\nhttps://slow.pics/c/EZeCj7wp\nhttps://www.diffchecker.com/ejpHsUww/\nhttps://www.diffchecker.com/9IrznBmX/\nhttps://www.diffchecker.com/bT6CWyXS/",
     "best_releases": [
       {
-        "name": "HiFi (Dual Audio)",
-        "status": ""
+        "name": "dh+THORA",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
@@ -30795,12 +30875,12 @@
     "alt_title": "PSYCHO-PASS Sinners of the System Case 2: First Guardian",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "LCE is Seicher-Raws+Mysteria (CR Timed, edited, typeset with song styling)\nAs with Case 1, the JPN BD has strong chroma lowpassing during busy scenes. The GBR BD is the only other source with BD changes. It has slightly worse compression than the JPN BD overall but the difference is mostly negligible.",
+    "notes": "GetItTwisted is GBR BD Remux+Mysteria and CR\nLCE is Seicher-Raws+Mysteria (CR Timed, edited, typeset with song styling)\nAs with Case 1, the JPN BD has strong chroma lowpassing during busy scenes. The GBR BD is the only other source with BD changes. It has slightly worse compression than the JPN BD overall but the difference is mostly negligible.",
     "comparison": "https://slow.pics/c/M0H2wJeN\nhttps://www.diffchecker.com/ZQlPW4ux/",
     "best_releases": [
       {
-        "name": "GBR BD+Mysteria",
-        "status": "unmuxed"
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -30815,12 +30895,12 @@
     "alt_title": "PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "LCE is Seicher-Raws+Mysteria (CR Timed, edited, typeset with song styling)\nThe JPN BD once again has strong chroma lowpassing during busy scenes, however it's the only source that has BD changes, of which there are many this time around.",
+    "notes": "GetItTwisted is JPN BD Remux+Mysteria and CR\nLCE is Seicher-Raws+Mysteria (CR Timed, edited, typeset with song styling)\nThe JPN BD once again has strong chroma lowpassing during busy scenes, however it's the only source that has BD changes, of which there are many this time around.",
     "comparison": "https://slow.pics/c/XL8dH58G\nhttps://www.diffchecker.com/zhq2Tdtl/",
     "best_releases": [
       {
-        "name": "JPN BD+Mysteria",
-        "status": "unmuxed"
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -31147,40 +31227,30 @@
     "alt_title": "",
     "year": 2002,
     "format": "TV",
-    "notes": "sam is UQW+OZC\nkm is DVD Encode with OP/ED from the BD, get the fixed episode 25 from the comments\nDekinai subs probably worth looking at",
-    "comparison": "https://slow.pics/c/ry84HRml",
+    "notes": "hchcsen is km+Dekinai \"given a restyling and quick round of timing\" with a non honorifics option, and PGS. Missing fonts for the insert song in episode 25\nkm is R2J DVD Encode with JPN BD spliced in for the OP/ED and to fix a composition error in episode 25\nDekinai subs are OZC \"fine-timed, restyled, slightly edited, honorifics added, with OP/ED karaoke by Anacrónico Fansub (modified)\"",
+    "comparison": "https://slow.pics/c/ry84HRml\nhttps://slow.pics/c/iBqU0yeR",
     "best_releases": [
       {
-        "name": "km+?",
-        "status": "unmuxed"
+        "name": "hchcsen (Dual Audio)",
+        "status": "broken"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "sam",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "RahXephon Interlude: Her and Herself/Thatness and Thereness",
     "alt_title": "RahXephon Kansoukyoku: Kanojo to Kanojo Jishin to - Thatness And Thereness",
     "year": 2003,
     "format": "OVA",
-    "notes": "sam is UQW+OZC",
-    "comparison": "https://slow.pics/c/TguLCHyF",
+    "notes": "hchcsen is km+OZC \"given a restyling and quick round of timing\" with OP/ED taken from the main series, and PGS",
+    "comparison": "",
     "best_releases": [
       {
-        "name": "sam",
+        "name": "hchcsen",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "sam",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Rail Romanesque",
@@ -31531,6 +31601,30 @@
     "alt_releases": [
       {
         "name": "HorribleSubs",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Re:Monster",
+    "alt_title": "",
+    "year": 2024,
+    "format": "TV",
+    "notes": "VARYG and Kitsune and are CR WEB-DLs, the latter with AMZN audio\nThis is a cry for help to put the BD in the toolnix",
+    "comparison": "https://slow.pics/c/2GVfthB3",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kitsune (Dual Audio)",
+        "status": "not_nyaa"
+      },
+      {
+        "name": "VARYG (Dual Audio)",
         "status": ""
       }
     ]
@@ -35826,6 +35920,26 @@
       {
         "name": "KgOlve",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Street Fighter II: The Animated Movie",
+    "alt_title": "Street Fighter II: The Movie",
+    "year": 1994,
+    "format": "MOVIE",
+    "notes": "E.N.D is 4K USA BD Remux+PGS\nZQ is USA BD Remux+PGS\nThe 4K BD went a bit crazy on the DNR but it's a massive upgrade from the old scan. The 1080p release should only be watched as a last resort if you can't tonemap.\nBoth are the uncensored versions.",
+    "comparison": "https://slow.pics/c/0zV8hdVG",
+    "best_releases": [
+      {
+        "name": "E.N.D (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ZQ (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -40778,6 +40892,26 @@
     ]
   },
   {
+    "title": "The Troubled Life of Miss Kotoura: Haruka no Heya",
+    "alt_title": "Kotoura-san: Haruka no Heya",
+    "year": 2012,
+    "format": "ONA",
+    "notes": "Moxie is JPN BD Remux+Hien\nHien is JPN BD Encode+modified Hatsuyuki\nStore should be watched with MPV deband, the encodes shouldn't be watched at all",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "Moxie",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Hien",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "The Troubled Life of Miss Kotoura",
     "alt_title": "Kotoura-san",
     "year": 2013,
@@ -43450,12 +43584,12 @@
     "alt_title": "Bokutachi wa Benkyou ga Dekinai",
     "year": 2019,
     "format": "TV",
-    "notes": "GSK_kun is JPN BD Encode+Official with a few mics edits, timed, Song TL, LaSerieEvento TS, and KFX from EternalAnimes. Only contains the first 10 episodes",
+    "notes": "Moxie is JPN BD Remux+Restyled GSK_kun with missing fonts added for E1-10, AnimeFreak with GSK_kun songs and typesetting added from LaSerieEvento for E11-13\nGSK_kun is JPN BD Encode+Official with a few mics edits, timed, Song TL, LaSerieEvento TS, and KFX from EternalAnimes. Only contains the first 10 episodes",
     "comparison": "https://slow.pics/c/5ELQjlYO",
     "best_releases": [
       {
-        "name": "JPN BD+?",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -44490,23 +44624,15 @@
     "alt_title": "Yamada-kun to 7-nin no Majo (OVA)",
     "year": 2015,
     "format": "OVA",
-    "notes": "Various is Mahou-X and Shikkaku",
-    "comparison": "",
-    "best_releases": [],
-    "alt_releases": [
+    "notes": "Headpatter is ReinForce+Mahou-X (OVA 1) and Shikkaku (OVA 2)",
+    "comparison": "https://slow.pics/c/eyqyzEpx",
+    "best_releases": [
       {
-        "name": "Mahou-X",
-        "status": ""
-      },
-      {
-        "name": "Shikkaku",
-        "status": ""
-      },
-      {
-        "name": "Various",
+        "name": "Headpatter",
         "status": "not_nyaa"
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Yamada's First Time: B Gata H Kei",
@@ -44768,12 +44894,12 @@
     "alt_title": "Kimi no Na wa.",
     "year": 2016,
     "format": "MOVIE",
-    "notes": "HDR: Might need to change video to 24.0fps and use the USA BD for dub, apparently GBR is botched\nTS in HDR gonna be a no-go, so maybe use Commie and make the TS super basic?\nThe HDR grade is rather demure, but has some nice highlights that make it stand out from SDR\n\nSDR: NSDAB is ITA BD Encode+Commie\nA Beatrice-Raws mux would be a better alt\n\nThe international master, used on the non JPN releases, has a green tint and worse chroma",
-    "comparison": "https://slow.pics/c/MaXBRrtn\nhttps://slow.pics/c/nCEpfyTw\nhttps://slow.pics/c/WCeFFpJS",
+    "notes": "SDR: MegaMTBB is color corrected SWE DCP Encode with BD changes spliced in+MTBB\nNSDAB is ITA BD Encode+Commie\nA Beatrice-Raws mux would be a better alt\n\nHDR: Might need to change video to 24.0fps and use the USA BD for dub, apparently GBR is botched\nTS in HDR gonna be a no-go, so maybe use Commie and make the TS super basic?\nThe HDR grade is rather demure, but has some nice highlights that make it stand out from SDR\n\nThe international master, used on the non JPN releases, has a green tint and worse chroma. This also applies to the recently released DCP, but to a lesser extent with it being 4:4:4.",
+    "comparison": "https://slow.pics/c/Ff4SsSiB\nhttps://slow.pics/c/WsGGSNwX\nhttps://slow.pics/c/MaXBRrtn\nhttps://slow.pics/c/nCEpfyTw\nhttps://slow.pics/c/WCeFFpJS",
     "best_releases": [
       {
-        "name": "4K JPN BD+?",
-        "status": "unmuxed"
+        "name": "MegaMTBB",
+        "status": ""
       }
     ],
     "alt_releases": [
