@@ -718,6 +718,26 @@
     "alt_releases": []
   },
   {
+    "title": "A.I.C.O. -Incarnation-",
+    "alt_title": "",
+    "year": 2018,
+    "format": "ONA",
+    "notes": "IrizaRaws is JPN BD Encode+PGS",
+    "comparison": "https://slow.pics/c/ZlnB5jaY",
+    "best_releases": [
+      {
+        "name": "JPN BD+PGS",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "IrizaRaws",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Absolute Duo",
     "alt_title": "",
     "year": 2015,
@@ -6873,8 +6893,8 @@
     ]
   },
   {
-    "title": "Cat's♥Eye 2nd Season",
-    "alt_title": "Cat's Eye",
+    "title": "Cat's Eye Season 2",
+    "alt_title": "Cat's♥Eye 2nd Season",
     "year": 1984,
     "format": "TV",
     "notes": "LoreLoli is Kagura+modified vobsubs",
@@ -7215,6 +7235,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
+    "alt_title": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
+    "year": 2024,
+    "format": "TV",
+    "notes": "VARYG is a CR WEB-DL\nGrainy show so CR looks pretty bad in motion",
+    "comparison": "https://slow.pics/c/u9ub9P9H",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Cherry no Manma",
@@ -14395,6 +14435,26 @@
     ]
   },
   {
+    "title": "Grand Blue Dreaming Season 2",
+    "alt_title": "Grand Blue Season 2",
+    "year": 2025,
+    "format": "TV",
+    "notes": "sam is CR WEBRip+Fansub based on CR\nThe JPN BD is very similar to the WEBRip, it has massively better compression in a few very busy scenes and a very slight lowpass",
+    "comparison": "https://slow.pics/c/VZEPeE3b\nhttps://slow.pics/c/8hurya5A\nhttps://www.diffchecker.com/SYqsGAr5/",
+    "best_releases": [
+      {
+        "name": "JPN BD+sam",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "sam (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Grave of the Fireflies",
     "alt_title": "Hotaru no Haka",
     "year": 1988,
@@ -14984,6 +15044,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Haikara-san: Here Comes Miss Modern – Part 2",
+    "alt_title": "Haikara-san ga Tooru: Tokyo Dai Roman",
+    "year": 2018,
+    "format": "MOVIE",
+    "notes": "Moxie is JPN BD Remux+Official with BBF-Owari TS and songs\njsum would be a good alt",
+    "comparison": "https://slow.pics/c/Cyg1fNWm",
+    "best_releases": [
+      {
+        "name": "Moxie",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "HAIKYU!!",
@@ -16099,6 +16174,26 @@
     "alt_releases": [
       {
         "name": "SubsPlease",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "HIGH CARD Season 2",
+    "alt_title": "HIGH CARD season 2",
+    "year": 2024,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL\nThe JPN BD and CR are quite similar for the actual episode, but the BD has blurred chroma. For the OP the BD is drastically better since CR just completely falls apart. They both have tons of banding so you'll really wanna enable MPV Deband.",
+    "comparison": "https://slow.pics/c/gqWgHl6s",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
         "status": ""
       }
     ]
@@ -17514,6 +17609,21 @@
     "best_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
+    "alt_title": "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.",
+    "year": 2022,
+    "format": "TV",
+    "notes": "DiabloTripleA is VCB-Studio+OCR'd PGS with styled OP/ED (official TL), and stock PGS\nThe JPN BD (which VCB used) is hoarded and the USA BD sucks as per. VCB does seem to have some benefits over the store judging by their own comp though (comp 2)",
+    "comparison": "https://slow.pics/c/PpVW3iPg\nhttps://slow.pics/c/bfX0cQe2",
+    "best_releases": [
+      {
+        "name": "DiabloTripleA (Dual Audio)",
         "status": ""
       }
     ],
@@ -19681,12 +19791,12 @@
     "alt_title": "Kaijuu 8-gou 2nd Season",
     "year": 2025,
     "format": "TV",
-    "notes": "Erai-raws and Kitsune are CR WEB-DLs\nLike the first season the JPN BD is poor with lowpassing and a strong tint, however it has much better compression than CR and quite a lot of BD changes",
+    "notes": "UnHoly is JPN BD Remux+CR\nErai-raws and Kitsune are CR WEB-DLs\nLike the first season the JPN BD is poor with lowpassing and a strong tint, however it has much better compression than CR and quite a lot of BD changes",
     "comparison": "https://slow.pics/c/0L2k6OtR",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "UnHoly (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -24531,6 +24641,26 @@
     "alt_releases": []
   },
   {
+    "title": "Mitsuwano",
+    "alt_title": "",
+    "year": 2014,
+    "format": "OVA",
+    "notes": "Moxie is JPN BD Remux+Ruri-Saizen with \"slight edits\", and Waku",
+    "comparison": "https://slow.pics/c/MnoxsSa6\nhttps://www.diffchecker.com/ae0bOew0/",
+    "best_releases": [
+      {
+        "name": "Moxie",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Drag",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "MIX",
     "alt_title": "MIX: MEISEI STORY",
     "year": 2019,
@@ -29014,12 +29144,12 @@
     "alt_title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
     "year": 2023,
     "format": "TV",
-    "notes": "StaFer is JPN BD Remux+Chihiro, the OP lyrics overlap with the credits since Chihiro used NCs for their BD release\nChihiro is JPN BD Encode+Fansub based on CR",
+    "notes": "StaFer is JPN BD Remux+Chihiro with OP lyric positioning reverted back to web to avoid credit overlap\nChihiro is JPN BD Encode+Fansub based on CR",
     "comparison": "https://slow.pics/c/qWmGKfvA\nhttps://www.diffchecker.com/D3HbsBuz/",
     "best_releases": [
       {
         "name": "StaFer",
-        "status": "broken"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -31610,8 +31740,8 @@
     "alt_title": "",
     "year": 2024,
     "format": "TV",
-    "notes": "VARYG and Kitsune and are CR WEB-DLs, the latter with AMZN audio\nThis is a cry for help to put the BD in the toolnix",
-    "comparison": "https://slow.pics/c/2GVfthB3",
+    "notes": "VARYG and Kitsune and are CR WEB-DLs, the latter with AMZN audio\nThis is a cry for help to put the BD in the toolnix\nH-Enc would be a better alt",
+    "comparison": "https://slow.pics/c/2GVfthB3\nhttps://slow.pics/c/dNHXaD3V",
     "best_releases": [
       {
         "name": "JPN BD+CR",
@@ -33115,12 +33245,12 @@
     "alt_title": "",
     "year": 2025,
     "format": "TV",
-    "notes": "StarLight is JPN BD Encode+KawaSubs (Lightly edited AMZN timed, typeset, with OP/ED KFX)\nThe JPN BD has a pretty strong lowpass but massively better compression than AMZN\n*Remove \"Brought to you by [KawaSubs]\" in the ED please",
-    "comparison": "https://slow.pics/c/6ErJ2qYF\nhttps://www.diffchecker.com/Y1bPonhK/\nhttps://www.diffchecker.com/CVhg6AnR/",
+    "notes": "yolerejiju is JPN BD Remux+KawaSubs with \"Brought to you by [KawaSubs]\" meme removed\nStarLight is JPN BD Encode+KawaSubs (Lightly edited AMZN timed, typeset, with OP/ED KFX)\nThe JPN BD has a pretty strong lowpass but massively better compression than AMZN",
+    "comparison": "https://slow.pics/c/6ErJ2qYF\nhttps://slow.pics/c/iBRtJJUj\nhttps://www.diffchecker.com/Y1bPonhK/\nhttps://www.diffchecker.com/CVhg6AnR/",
     "best_releases": [
       {
-        "name": "JPN BD+KawaSubs*",
-        "status": "unmuxed"
+        "name": "yolerejiju (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -35969,7 +36099,7 @@
     "year": 2015,
     "format": "OVA",
     "notes": "IK is Beatrice+Harunatsu",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/YXIDlwMO\nhttps://www.diffchecker.com/NuXpangT/",
     "best_releases": [
       {
         "name": "IK",
