@@ -722,12 +722,12 @@
     "alt_title": "",
     "year": 2018,
     "format": "ONA",
-    "notes": "IrizaRaws is JPN BD Encode+PGS",
+    "notes": "hchcsen is JPN BD Remux+NF with some basic TS and OCR'd PGS for the previews\nIrizaRaws is JPN BD Encode+PGS",
     "comparison": "https://slow.pics/c/ZlnB5jaY",
     "best_releases": [
       {
-        "name": "JPN BD+PGS",
-        "status": "unmuxed"
+        "name": "hchcsen (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -2104,7 +2104,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -5598,7 +5598,7 @@
     "alt_title": "Blue Lock VS. U-20 JAPAN",
     "year": 2024,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR and AMZN\nThe JPN BD has some insane lowpassing but there's BD changes and CR is gigastarved so we take the lesser evil",
+    "notes": "CRUCiBLE is JPN BD Remux+CR and AMZN\nStarLight is JPN BD Encode+CRUCiBLE\nThe JPN BD has some insane lowpassing but there's BD changes and CR is gigastarved so we take the lesser evil",
     "comparison": "https://slow.pics/c/QS7sNsTD",
     "best_releases": [
       {
@@ -5606,7 +5606,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "StarLight",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Blue Reflection Ray",
@@ -6517,6 +6522,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Call of the Night Season 2",
+    "alt_title": "Yofukashi no Uta Season 2",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Placeholder until a BD Remux/Encode drops since the video quality is abysmal\n*Has a typo in episode 7, 16:36 her → here",
+    "comparison": "https://slow.pics/c/23MfL370\nhttps://www.diffchecker.com/sJGv0vrg/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Commie*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Commie",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Campfire Cooking in Another World with my Absurd Skill",
@@ -7554,14 +7579,19 @@
     "year": 2012,
     "format": "TV",
     "notes": "Datte13 is Yousei-raws+Whynot and Commie (from deanzel)",
-    "comparison": "https://slow.pics/c/eEtTa9xE",
+    "comparison": "https://slow.pics/c/wN53WOrS",
     "best_releases": [
+      {
+        "name": "JPN BD+deanzel",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "Datte13 (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Steins;Gate: Egoistic Poriomania",
@@ -8287,7 +8317,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -8854,12 +8884,12 @@
     "alt_title": "",
     "year": 2014,
     "format": "TV",
-    "notes": "Yoghurt is Beatrice-Raws+FFF\nStore requires MPV deband, otherwise get the encode",
+    "notes": "PMR is JPN BD Remux+FFF\nYoghurt is Beatrice-Raws+FFF\nStore requires MPV deband, otherwise get the encode",
     "comparison": "https://slow.pics/c/VYLIe3iD",
     "best_releases": [
       {
-        "name": "JPN BD+FFF",
-        "status": "unmuxed"
+        "name": "PMR",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -8988,6 +9018,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "DAYS",
+    "alt_title": "",
+    "year": 2016,
+    "format": "TV",
+    "notes": "Moxie is JPN BD Remux+Glue\nThere's nothing to list for alt since Glue is utterly destroyed, a jsum mux would work nicely",
+    "comparison": "https://slow.pics/c/ulRBmLh3\nhttps://www.diffchecker.com/k6x4pdB6/",
+    "best_releases": [
+      {
+        "name": "Moxie",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Days with My Stepsister",
@@ -9654,7 +9699,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -11127,6 +11172,26 @@
     "alt_releases": [
       {
         "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Farewell, My Dear Cramer",
+    "alt_title": "Sayonara Watashi no Cramer",
+    "year": 2021,
+    "format": "TV",
+    "notes": "SubsPlease is a CR WEB-DL\nThe JPN BD is pretty bad, the only saving grace is that there's quite a few BD changes and it handles busy scenes better, but then it's also got a strong chroma shift, ghosting, random pixelation... 2 cope options really",
+    "comparison": "https://slow.pics/c/3ltwKjeN\nhttps://slow.pics/c/Dr0LpCJk",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SubsPlease",
         "status": ""
       }
     ]
@@ -13227,24 +13292,19 @@
     ]
   },
   {
-    "title": "Ghost in the Shell 2.0",
-    "alt_title": "GHOST IN THE SHELL: Koukaku Kidoutai 2.0",
-    "year": 2008,
+    "title": "Ghost in the Shell",
+    "alt_title": "GHOST IN THE SHELL: Koukaku Kidoutai",
+    "year": 1995,
     "format": "MOVIE",
-    "notes": "NOGRP is JPN BD Remux+OCR'd JPN BD PGS\nBeatrice is JPN BD Encode+JPN BD PGS\nIK is Beatrice+dub, all audio muxed in, and PGS from the JPN and GBR BD",
-    "comparison": "https://slow.pics/c/FHqPrf2T",
+    "notes": "MiLQ is 4K JPN BD Remux+Judgment, OCR'd PGS, and stock PGS (Both the original and new translations). Contains the original stereo mix and atmos remix for both Japanese and English audio.\nThe 2018 1080p JPN BD with the same tracks would make a good alt",
+    "comparison": "https://slow.pics/c/tiCBVVcD\nhttps://slow.pics/c/9N2HswQL\nhttps://slow.pics/c/51Vcg38h\nhttps://slow.pics/c/WS0kwhNn\nhttps://slow.pics/c/lmaaphgK",
     "best_releases": [
       {
-        "name": "NOGRP (Dual Audio)",
+        "name": "MiLQ (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "IK (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Ghost in the Shell 2: Innocence",
@@ -13260,6 +13320,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Ghost in the Shell 2.0",
+    "alt_title": "GHOST IN THE SHELL: Koukaku Kidoutai 2.0",
+    "year": 2008,
+    "format": "MOVIE",
+    "notes": "NOGRP is JPN BD Remux+OCR'd JPN BD PGS\nIK is Beatrice-Raws+PGS",
+    "comparison": "https://slow.pics/c/FHqPrf2T",
+    "best_releases": [
+      {
+        "name": "NOGRP (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "IK (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Ghost in the Shell: Stand Alone Complex",
@@ -15844,6 +15924,46 @@
     ]
   },
   {
+    "title": "Hell Girl: Two Mirrors",
+    "alt_title": "Jigoku Shoujo: Futakomori",
+    "year": 2006,
+    "format": "TV",
+    "notes": "UQW is R2J DVD Encode+Exiled-Destiny\nCR subs are the same TL with better timing and some basic TS",
+    "comparison": "https://slow.pics/c/2IBKfTne",
+    "best_releases": [
+      {
+        "name": "UQW+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "UQW",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Hell Girl: Three Vessels",
+    "alt_title": "Jigoku Shoujo: Mitsuganae",
+    "year": 2008,
+    "format": "TV",
+    "notes": "UQW is R2J DVD Encode+Exiled-Destiny\nCR subs are the same TL with better timing and some basic TS",
+    "comparison": "https://slow.pics/c/H3USRswo",
+    "best_releases": [
+      {
+        "name": "UQW+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "UQW",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Hell Girl: Fourth Twilight",
     "alt_title": "Jigoku Shoujo: Yoi no Togi",
     "year": 2017,
@@ -15859,7 +15979,7 @@
     "alt_releases": [
       {
         "name": "TROLLORANGE",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -16211,12 +16331,7 @@
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "IK (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "High School DxD OVA",
@@ -16227,16 +16342,11 @@
     "comparison": "",
     "best_releases": [
       {
-        "name": "IK",
-        "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
-      {
         "name": "IK (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "High School DxD: Fantasy Jiggles Unleashed",
@@ -16247,23 +16357,18 @@
     "comparison": "",
     "best_releases": [
       {
-        "name": "IK",
-        "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
-      {
         "name": "IK (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "High School DxD NEW",
     "alt_title": "",
     "year": 2013,
     "format": "TV",
-    "notes": "IK standalone is sergey_krs+FFF/SCY (Restyled back to FFF)\nIK megapack is FFF+FFF/SCY (Restyled back to FFF)",
+    "notes": "IK is sergey_krs+FFF/SCY (Restyled back to FFF)",
     "comparison": "https://slow.pics/c/oRadYAId\nhttps://slow.pics/c/KwpjzZAd",
     "best_releases": [
       {
@@ -16271,12 +16376,7 @@
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "IK (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "High School DxD BorN: Maximum Titillation OVA",
@@ -16351,12 +16451,7 @@
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "IK (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "High School Fleet",
@@ -16433,7 +16528,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -18380,6 +18475,26 @@
     ]
   },
   {
+    "title": "Irina: The Vampire Cosmonaut",
+    "alt_title": "Tsuki to Laika to Nosferatu",
+    "year": 2021,
+    "format": "TV",
+    "notes": "RigAV1 is JPN BD Encode+Modified WBDP",
+    "comparison": "https://slow.pics/c/O6QpaoMQ\nhttps://www.diffchecker.com/jNIPRDjP/\nhttps://www.diffchecker.com/WO6pnf8x/",
+    "best_releases": [
+      {
+        "name": "JPN BD+RigAV1",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "RigAV1 (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "IRODUKU: The World in Colors",
     "alt_title": "Irozuku Sekai no Ashita kara",
     "year": 2018,
@@ -19796,7 +19911,7 @@
     "best_releases": [
       {
         "name": "UnHoly (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -20797,12 +20912,7 @@
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "IK",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "King's Game",
@@ -23517,6 +23627,66 @@
     ]
   },
   {
+    "title": "Mahoromatic: Automatic Maiden",
+    "alt_title": "Mahoromatic",
+    "year": 2001,
+    "format": "TV",
+    "notes": "polished is QTS+Modified zx (Official)\n*Has some cringe weeb edits that should be reverted",
+    "comparison": "https://slow.pics/c/CU33jrDk\nhttps://www.diffchecker.com/PjPHWWz6/",
+    "best_releases": [
+      {
+        "name": "sergey_krs+polished*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "polished",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mahoromatic: Something More Beautiful",
+    "alt_title": "Mahoromatic: Motto Utsukushii Mono",
+    "year": 2002,
+    "format": "TV",
+    "notes": "polished is QTS+Modified zx",
+    "comparison": "https://slow.pics/c/yEe5LaLO\nhttps://www.diffchecker.com/TmPvBZNi/",
+    "best_releases": [
+      {
+        "name": "sergey_krs+polished",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "polished",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mahoromatic Summer Special",
+    "alt_title": "Mahoromatic: Natsu no TV Special",
+    "year": 2003,
+    "format": "SPECIAL",
+    "notes": "polished is QTS+Modified zx",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "sergey_krs+polished",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "polished",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mahou Shoujo Nante Mouiidesukara",
     "alt_title": "Mahou Shoujo Nante Mou Ii desu kara.",
     "year": 2016,
@@ -24329,6 +24499,26 @@
     "alt_releases": []
   },
   {
+    "title": "Metal Armor Dragonar",
+    "alt_title": "Kikou Senki Dragonar",
+    "year": 1987,
+    "format": "TV",
+    "notes": "mSubs is JPN BD Encode+OTL",
+    "comparison": "https://slow.pics/c/mFTGpoRZ",
+    "best_releases": [
+      {
+        "name": "JPN BD+mSubs",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "mSubs",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Metallic Rouge",
     "alt_title": "",
     "year": 2024,
@@ -24715,15 +24905,20 @@
     "alt_title": "",
     "year": 2016,
     "format": "TV",
-    "notes": "Legion is JPN BD Encode+Modified 0x539",
-    "comparison": "https://slow.pics/c/B49NyZHU\nhttps://slow.pics/c/R9vX9eY3\nhttps://slow.pics/c/tdnpMvUM\nhttps://slow.pics/c/WkotqswN",
+    "notes": "Legion is JPN BD Encode+MTBB\nMTBB is JPN BD Encode+Modified 0x539",
+    "comparison": "https://slow.pics/c/rgcnZVq4\nhttps://www.diffchecker.com/6OeGxLYt/",
     "best_releases": [
       {
         "name": "Legion (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "MTBB",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Mob Psycho 100 II",
@@ -25505,40 +25700,38 @@
     "alt_title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
     "year": 2023,
     "format": "TV",
-    "notes": "NTRX is JPN BD Remux+MTBB with OP added to episode 2, and restyled subs for Japanese hard subbed parts to match Thighs\nsam is WEBRip+MTBB\nBD has significant changes over WEB",
-    "comparison": "https://slow.pics/c/fOaHD9pT\nhttps://slow.pics/c/VbzcUTcN",
+    "notes": "MTBB is JPN BD Encode+Fansub based on CR\nDiddy is MTBB with dub\nBD has significant changes over WEB",
+    "comparison": "https://slow.pics/c/fOaHD9pT\nhttps://slow.pics/c/VbzcUTcN\nhttps://www.diffchecker.com/OE6jUjaq/\nhttps://gist.github.com/motbob/ab3a2bc88558599c1386c0b507f003a0",
     "best_releases": [
       {
-        "name": "NTRX (Dual Audio)",
+        "name": "Diddy (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "MTBB",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "sam (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
     "alt_title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
     "year": 2024,
     "format": "TV",
-    "notes": "NTRX is JPN BD Remux+MTBB with fixes from the QC channel\nSEV is JPN BD Encode+MTBB",
+    "notes": "MTBB is JPN BD Encode+Fansub based on CR\nDiddy is MTBB with dub",
     "comparison": "https://slow.pics/c/6WLHwYKv",
     "best_releases": [
       {
-        "name": "NTRX (Dual Audio)",
+        "name": "Diddy (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "MTBB",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "SEV (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
@@ -26049,7 +26242,7 @@
   },
   {
     "title": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!",
-    "alt_title": "Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita",
+    "alt_title": "Tensei Kenja no Isekai Life: Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
     "year": 2022,
     "format": "TV",
     "notes": "LaCroiX is USA BD Remux+RaptoR and PGS\nNetaro is wham+RaptoR and PGS\nRaptoR subs are HIDI restyled and automatically retimed with prass. Ugly shadows removed from TS and edited Anime Chap OP/ED styling used\nThe store desperately needs MPV deband, wham's encode has insane detail loss from an extremely strong deband and should only be used as a last resort\nThe USA BD is lowpassed but the web sources are so awful that it doesn't matter",
@@ -27402,8 +27595,8 @@
     "alt_title": "",
     "year": 2023,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+GLORY and CR\nPMR and TACHiKEN are JPN BD Remux+GLORY\nGLORY is WEBRip+edited CR with fancy fansub stuff and things\nZeroBuild is GLORY with dub\nBD has significant changes over WEB",
-    "comparison": "https://slow.pics/c/sveLyV9D\nhttps://slow.pics/c/9KwzE9eP",
+    "notes": "PMR and -ZR- are JPN BD Remux+GLORY (Fansub based on CR), the latter with stock CR too\nPolarwindz is JPN BD Encode+PMR\nBD has significant changes over WEB",
+    "comparison": "https://slow.pics/c/KnKO4vaZ\nhttps://slow.pics/c/sveLyV9D\nhttps://slow.pics/c/9KwzE9eP\nhttps://www.diffchecker.com/DhRYEVml/",
     "best_releases": [
       {
         "name": "-ZR- (Dual Audio)",
@@ -27412,19 +27605,11 @@
       {
         "name": "PMR",
         "status": ""
-      },
-      {
-        "name": "TACHiKEN",
-        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "GLORY",
-        "status": ""
-      },
-      {
-        "name": "ZeroBuild (Dual Audio)",
+        "name": "Polarwindz",
         "status": ""
       }
     ]
@@ -31977,7 +32162,7 @@
     "year": 2014,
     "format": "TV",
     "notes": "Exp is sergey_krs+Doutei",
-    "comparison": "https://slow.pics/c/NmRYwXDl",
+    "comparison": "https://slow.pics/c/WXS1PB5M",
     "best_releases": [
       {
         "name": "Exp",
@@ -33574,7 +33759,7 @@
     "alt_title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
     "year": 2025,
     "format": "TV",
-    "notes": "Stye is MTBB with minor fixes in episodes 9-11 and 13\nMTBB is JPN BD Encode+Fansub based on AniPlus\nHeadpatter is H-Enc+LostYears (MTBB with minor fixes in episodes 10 and 13)",
+    "notes": "Stye is MTBB with minor fixes in episodes 9-11 and 13\nMTBB is JPN BD Encode+Fansub based on AniPlus\nSneed is H-Enc+Stye",
     "comparison": "https://slow.pics/c/8S28zsKq\nhttps://slow.pics/c/1jFAAGdZ\nhttps://slow.pics/c/hh8pfsMn\nhttps://www.diffchecker.com/UZMT1fgc/\nhttps://www.diffchecker.com/ddeiMm00/\nhttps://www.diffchecker.com/FODx9sho/\nhttps://www.diffchecker.com/A5fAKAUk/\nhttps://www.diffchecker.com/hR92uFhf/",
     "best_releases": [
       {
@@ -33584,8 +33769,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "Sneed (Dual Audio)",
+        "status": ""
       }
     ]
   },
@@ -33594,20 +33779,15 @@
     "alt_title": "Food Court de, Mata Ashita.",
     "year": 2025,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR and AMZN\nErai-raws is a CR WEB-DL\nBoth sources are similar quality wise, but the BD has a lot of changes",
-    "comparison": "https://slow.pics/c/od5UJ8g4",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+Restyled CR, and AMZN",
+    "comparison": "https://slow.pics/c/Os53hHnM\nhttps://slow.pics/c/jxKx5mtJ\nhttps://slow.pics/c/od5UJ8g4",
     "best_releases": [
       {
-        "name": "CRUCiBLE",
+        "name": "YURASUKA",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Erai-raws",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Seikon no Qwaser: Jotei no Shouzou",
@@ -33700,6 +33880,26 @@
     "alt_releases": [
       {
         "name": "SNSbu",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Sekirei",
+    "alt_title": "",
+    "year": 2008,
+    "format": "TV",
+    "notes": "Holomux is Salender-Raws+IK (Restyled Polished/Titanium)\nSalender-Raws is sourced from the JPN BD which is an awful upscale, they make it slightly more palatable and handle VFR where possible\nThe USA BD is a less offensive upscale but has judder for all the 24fps scenes and matrix issues",
+    "comparison": "https://slow.pics/c/GUH9EmXV",
+    "best_releases": [
+      {
+        "name": "USA BD+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Holomux (Dual Audio)",
         "status": ""
       }
     ]
@@ -34293,6 +34493,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Shangri-La Frontier Season 2",
+    "alt_title": "Shangri-La Frontier 2nd Season",
+    "year": 2024,
+    "format": "TV",
+    "notes": "PMR is JPN BD Remux+CR with minor fixes\nCR video is completely cooked, would need a ReinForce or similar mux for alt",
+    "comparison": "https://slow.pics/c/DBGHZWF0",
+    "best_releases": [
+      {
+        "name": "PMR (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Shashinkan",
@@ -36063,13 +36278,13 @@
     "best_releases": [
       {
         "name": "E.N.D (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "ZQ (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -36106,12 +36321,7 @@
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "IK",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Strike the Blood Second",
@@ -37308,7 +37518,7 @@
     "best_releases": [
       {
         "name": "Moxie (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -39344,11 +39554,11 @@
     "alt_title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
     "year": 2022,
     "format": "TV",
-    "notes": "TTGA is JPN BD Remux+neoHEVC (CR restyled with improved TS and styled OP/ED)\nBunny-Apocalypse is IrizaRaws+neoHEVC, v2 on PTs adds BD dub",
-    "comparison": "https://slow.pics/c/pwRJYyLZ",
+    "notes": "Legion is JPN BD Encode+neoHEVC (CR restyled with improved TS and styled OP/ED) with a few typos fixed\nBunny-Apocalypse is IrizaRaws+neoHEVC, v2 on PTs adds BD dub",
+    "comparison": "https://slow.pics/c/hWqUYYhv\nhttps://slow.pics/c/pwRJYyLZ",
     "best_releases": [
       {
-        "name": "TTGA (Dual Audio)",
+        "name": "Legion (Dual Audio)",
         "status": ""
       }
     ],
@@ -40492,6 +40702,26 @@
     ]
   },
   {
+    "title": "The Sacred Blacksmith",
+    "alt_title": "Seiken no Blacksmith",
+    "year": 2009,
+    "format": "TV",
+    "notes": "TRiToN is JPN BD Remux+Coalgirls, Afro, and VobSubs\nKH is HQR+Afro\nAfro seems to be modified Coalgirls (Retimed, different TS, some edits, cringe TL notes, worse styling)",
+    "comparison": "https://slow.pics/c/K9x8z5rw\nhttps://www.diffchecker.com/ojD0f2RW/\nhttps://www.diffchecker.com/YFDziGZx/",
+    "best_releases": [
+      {
+        "name": "TRiToN (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "KH (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "The Saint's Magic Power is Omnipotent",
     "alt_title": "Seijo no Maryoku wa Bannou desu",
     "year": 2021,
@@ -40764,6 +40994,21 @@
     "alt_releases": []
   },
   {
+    "title": "The Strongest Magician in the Demon Lord's Army was a Human",
+    "alt_title": "Maou Gun Saikyou no Majutsushi wa Ningen datta",
+    "year": 2024,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL\nThe USA BD is very bad with the usual gauntlet of issues. The grain in particular is awful nuking details and adding blocking/banding.\nCR is best watched with MPV Deband, but even without that it's the better option.",
+    "comparison": "https://slow.pics/c/HhQT1bzt",
+    "best_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "The Strongest Sage with the Weakest Crest",
     "alt_title": "Shikkakumon no Saikyou Kenja",
     "year": 2022,
@@ -40803,7 +41048,7 @@
     "alt_releases": [
       {
         "name": "Kitsune",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -41333,11 +41578,11 @@
     "alt_title": "Mashiro no Oto",
     "year": 2021,
     "format": "TV",
-    "notes": "RigAfterMe is JPN BD Remux+GHS (CR restyled, timed, and typeset) with various fixes\nRigAV1 is JPN BD Encode+RigAfterMe\nStore should be watched with MPV deband, otherwise get the encode",
-    "comparison": "https://slow.pics/c/eASqD0aX\nhttps://slow.pics/c/DWfWbJ2t",
+    "notes": "Poopoo is JPN BD Encode+RigAV1\nRigAV1 is JPN BD Encode+GHS (CR restyled, timed, and typeset) with various fixes",
+    "comparison": "https://slow.pics/c/2WrUMaTZ\nhttps://slow.pics/c/eASqD0aX\nhttps://slow.pics/c/DWfWbJ2t",
     "best_releases": [
       {
-        "name": "RigAfterMe",
+        "name": "Poopoo",
         "status": ""
       }
     ],
@@ -42424,6 +42669,26 @@
     "alt_releases": [
       {
         "name": "sam (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Tsurune The Movie - The First Shot -",
+    "alt_title": "Tsurune: Hajimari no Issha",
+    "year": 2022,
+    "format": "MOVIE",
+    "notes": "sam is JPN BD Encode+Commie",
+    "comparison": "https://slow.pics/c/VXu3I6PO\nhttps://www.diffchecker.com/6lhwmFyb/",
+    "best_releases": [
+      {
+        "name": "sam",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Commie",
         "status": ""
       }
     ]
@@ -44181,13 +44446,13 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -44759,7 +45024,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
