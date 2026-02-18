@@ -8497,15 +8497,24 @@
     "alt_title": "",
     "year": 2022,
     "format": "ONA",
-    "notes": "YURASUKA is JPN BD Encode+Cunnysseur (choom (modified whomst (modified NF))) and NF\nYURASUKA isn't great but fix more issues than they cause\nThe BD is a big upgrade over the web streams, and the HDR is fake so you're not missing out on anything",
-    "comparison": "https://slow.pics/c/jdwbIzO9\nhttps://slow.pics/c/CX3eThJs\nhttps://slow.pics/c/tvTfLTqT\nhttps://slow.pics/c/Vf1n8WJX",
+    "notes": "Kawatare is JPN BD Encode+choom (Modified NF) and stock NF\nGetItTwisted is Kawatare with dub, 5.1 and 2.0 options for both languages\nYURASUKA is JPN BD Encode+Cunnysseur (choom) and NF\nThe BD is a big upgrade over the web streams, and the HDR is fake so you're not missing out on anything",
+    "comparison": "https://slow.pics/c/3yrhfBqY\nhttps://slow.pics/c/CX3eThJs\nhttps://www.diffchecker.com/QlgRVtVT/",
     "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "Kawatare",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "D-Frag!",
@@ -8944,20 +8953,15 @@
     "alt_title": "",
     "year": 2019,
     "format": "TV",
-    "notes": "Yoghurt is Raws-Maji+GSK_kun (Restyled Kantai)\nThe USA BD is by no means good (Bad compression, chroma shift, tons of banding, tint) but it's the lesser evil when compared to the JPN BD with a strong lowpass, chroma lowpass in some scenes, and Kadokawa's infamous grain slapped on top. The GER BD did seem to be less awful however it contains hardsubbed German TS.\nStore NEEDS MPV deband, otherwise get the encode",
-    "comparison": "https://slow.pics/c/QrYuPT9L",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+Restyled GSK_kun (Kantai)",
+    "comparison": "https://slow.pics/c/hsggqOlT\nhttps://slow.pics/c/QrYuPT9L\nhttps://www.diffchecker.com/3TwbRxqW/",
     "best_releases": [
       {
-        "name": "USA BD+GSK_kun",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Yoghurt (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Date A Bullet: Dead or Bullet & Nightmare or Queen",
@@ -10786,12 +10790,12 @@
     "alt_title": "Endro~!",
     "year": 2019,
     "format": "TV",
-    "notes": "Kawaii is KnK+Astral (Restyled CR with OP/ED translations)",
-    "comparison": "https://slow.pics/c/oINb5zwv",
+    "notes": "NAN0 is JPN BD Remux+Astral and PGS\nKawaii is KnK+Astral (Restyled CR with OP/ED translations)",
+    "comparison": "https://slow.pics/c/oINb5zwv\nhttps://slow.pics/c/KIVQNIxT",
     "best_releases": [
       {
-        "name": "JPN BD+Astral",
-        "status": "unmuxed"
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -11152,7 +11156,7 @@
     "alt_releases": [
       {
         "name": "Kitsune (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -12818,12 +12822,12 @@
     "alt_title": "Gamers!",
     "year": 2017,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Bunny-Apocalypse, CR, and PGS\nBunny-Apocalypse is VCB+Harunatsu/LostYears\nStore needs MPV deband",
-    "comparison": "https://slow.pics/c/86bKD7xU\nhttps://slow.pics/c/j1vLXjVO",
+    "notes": "Kawatare is JPN BD Encode+CRUCiBLE (Bunny-Apocalypse, CR, and PGS)\nBunny-Apocalypse is VCB+Harunatsu/LostYears",
+    "comparison": "https://slow.pics/c/pt8hzVQs\nhttps://slow.pics/c/86bKD7xU\nhttps://slow.pics/c/j1vLXjVO",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
-        "status": ""
+        "name": "Kawatare",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -12913,12 +12917,12 @@
     "alt_title": "Suisei no Gargantia",
     "year": 2013,
     "format": "TV",
-    "notes": "CTR is Beatrice-Raws+UTW-Vivid\nBeatrice completely nuke ALL the grain",
-    "comparison": "https://slow.pics/c/2HrBFtC5",
+    "notes": "pcela is JPN BD Remux+CTR\nCTR is Beatrice-Raws+UTW-Vivid\nBeatrice completely nuke ALL the grain",
+    "comparison": "https://slow.pics/c/2HrBFtC5\nhttps://slow.pics/c/gYT7PYOu\nhttps://www.diffchecker.com/x1wI4I6q/",
     "best_releases": [
       {
-        "name": "JPN BD+UTW-Vivid",
-        "status": "unmuxed"
+        "name": "pcela (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -12933,12 +12937,12 @@
     "alt_title": "Suisei no Gargantia OVA",
     "year": 2013,
     "format": "OVA",
-    "notes": "CTR is Beatrice-Raws+UTW-Vivid",
+    "notes": "pcela is JPN BD Remux+CTR\nCTR is Beatrice-Raws+UTW-Vivid",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JPN BD+UTW-Vivid",
-        "status": "unmuxed"
+        "name": "pcela (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -12953,9 +12957,14 @@
     "alt_title": "Suisei no Gargantia: Meguru Kouro, Haruka",
     "year": 2014,
     "format": "OVA",
-    "notes": "",
-    "comparison": "",
-    "best_releases": [],
+    "notes": "pcela is JPN BD Remux+Vivid",
+    "comparison": "https://slow.pics/c/VAH8dwD3\nhttps://www.diffchecker.com/BnwjkwAs/",
+    "best_releases": [
+      {
+        "name": "pcela (Dual Audio)",
+        "status": ""
+      }
+    ],
     "alt_releases": [
       {
         "name": "Vivid",
@@ -20337,7 +20346,7 @@
     "year": 2019,
     "format": "TV",
     "notes": "CRUCiBLE is JPN BD Remux+Asakura and NF\nBunny-Apocalypse is IrizaRaws+Asakura",
-    "comparison": "https://slow.pics/c/DOPtofUB",
+    "comparison": "https://slow.pics/c/DOPtofUB\nhttps://slow.pics/c/Xr7aTjWs",
     "best_releases": [
       {
         "name": "CRUCiBLE (Dual Audio)",
@@ -20357,7 +20366,7 @@
     "year": 2022,
     "format": "TV",
     "notes": "CRUCiBLE is JPN BD Remux+HIDI, NovaWorks (E01-E04), and PGS\nBunny-Apocalypse is UCCUSS+NovaWorks (1-3) and EMBER (4-12), has broken subs",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/3HveszdI",
     "best_releases": [
       {
         "name": "CRUCiBLE (Dual Audio)",
@@ -24319,7 +24328,7 @@
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -33803,6 +33812,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "The Qwaser of Stigmata",
+    "alt_title": "Seikon no Qwaser",
+    "year": 2010,
+    "format": "TV",
+    "notes": "kuchikirukia is JPN BD Encode+Doki\nThe source is cross-converted so it's completely unwatchable as is, Moozzi2's \"weak filter version\" is the least bad option since VCB didn't fix it properly and kuchikirukia is incredibly starved.",
+    "comparison": "https://slow.pics/c/8Vx4SU0X",
+    "best_releases": [
+      {
+        "name": "Moozzi2 Weak Filter Ver+Doki",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "kuchikirukia",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Seirei Gensouki: Spirit Chronicles",
