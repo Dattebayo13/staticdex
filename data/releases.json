@@ -727,7 +727,7 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -8506,7 +8506,7 @@
       },
       {
         "name": "Kawatare",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -12827,7 +12827,7 @@
     "best_releases": [
       {
         "name": "Kawatare",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -24849,7 +24849,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -25180,6 +25180,26 @@
     "alt_releases": [
       {
         "name": "YURASUKA",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "mono",
+    "alt_title": "",
+    "year": 2025,
+    "format": "TV",
+    "notes": "The JPN BD and CR are basically identical, the main difference is the presence of BD changes\nwashed is CR WEB-DL+Modified CR",
+    "comparison": "https://slow.pics/c/ie8j4Kgx\nhttps://www.diffchecker.com/14fqyT2f/\nhttps://www.diffchecker.com/VTIBH2Ds/\nhttps://www.diffchecker.com/ofYfYjaa/\nhttps://www.diffchecker.com/dfeO8pYy/\nhttps://www.diffchecker.com/66DR5RTQ/\nhttps://www.diffchecker.com/Kq5I7drc/\nhttps://www.diffchecker.com/Z5RceRWg/\nhttps://www.diffchecker.com/r95FY4iO/",
+    "best_releases": [
+      {
+        "name": "JPN BD+washed",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "washed",
         "status": ""
       }
     ]
@@ -32196,6 +32216,106 @@
     "alt_releases": []
   },
   {
+    "title": "Reconguista in G the Movie I Go! Core Fighter",
+    "alt_title": "Gundam: G no Reconguista I - Ike! Core Fighter",
+    "year": 2019,
+    "format": "MOVIE",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset",
+    "comparison": "https://slow.pics/c/6gdd6xTR\nhttps://www.diffchecker.com/qd40FAQy/",
+    "best_releases": [
+      {
+        "name": "Kawatare+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Reconguista in G the Movie II Bellri’s Fierce Charge",
+    "alt_title": "Gundam: G no Reconguista II - Bellri Gekishin",
+    "year": 2020,
+    "format": "MOVIE",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset",
+    "comparison": "https://slow.pics/c/ZLH2V8JZ",
+    "best_releases": [
+      {
+        "name": "Kawatare+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Reconguista in G the Movie III Legacy from Space",
+    "alt_title": "Gundam: G no Reconguista III - Uchuu kara no Isan",
+    "year": 2021,
+    "format": "MOVIE",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset",
+    "comparison": "https://slow.pics/c/PASo34Ls",
+    "best_releases": [
+      {
+        "name": "Kawatare+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Gundam: G no Reconguista IV - Gekitou Ni Sakebu Ai",
+    "alt_title": "",
+    "year": 2022,
+    "format": "MOVIE",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset",
+    "comparison": "https://slow.pics/c/XldjkKsI",
+    "best_releases": [
+      {
+        "name": "Kawatare+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Gundam: G no Reconguista V - Shisen wo Koete",
+    "alt_title": "",
+    "year": 2022,
+    "format": "MOVIE",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset",
+    "comparison": "https://slow.pics/c/tcgXDg3J",
+    "best_releases": [
+      {
+        "name": "Kawatare+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Record of Grancrest War",
     "alt_title": "Grancrest Senki",
     "year": 2018,
@@ -37343,7 +37463,7 @@
     "year": 2009,
     "format": "MOVIE",
     "notes": "The store is utterly abysmal, Afro is extremely destructive but possibly the lesser evil",
-    "comparison": "https://slow.pics/c/SDe56Xr1",
+    "comparison": "https://slow.pics/c/r6l5x1Ud\nhttps://slow.pics/c/SDe56Xr1",
     "best_releases": [],
     "alt_releases": [
       {
@@ -39732,11 +39852,11 @@
     "alt_title": "THE iDOLM@STER Cinderella Girls: U149",
     "year": 2023,
     "format": "TV",
-    "notes": "Cunnysseur is JPN BD Remux+Restyled CR with modified [anon-eli] TS, SS/KFX, and some song TLs\nSubsPlease is CR WEB-DL",
-    "comparison": "https://slow.pics/c/D1VQ9JCT",
+    "notes": "Kawatare is JPN BD Encode+Cunnysseur (Restyled CR with modified [anon-eli] TS, SS/KFX, and some song TLs), and stock CR\nSubsPlease is CR WEB-DL",
+    "comparison": "https://slow.pics/c/i5k7Vz8p\nhttps://slow.pics/c/D1VQ9JCT",
     "best_releases": [
       {
-        "name": "Cunnysseur",
+        "name": "Kawatare",
         "status": ""
       }
     ],
@@ -40740,7 +40860,7 @@
     "best_releases": [
       {
         "name": "TRiToN (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
