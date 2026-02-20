@@ -1010,7 +1010,7 @@
     "alt_title": "Shoumetsu Toshi",
     "year": 2019,
     "format": "TV",
-    "notes": "MuGi is JPN BD Remux+MCR (FUNI), Starbez (Seemingly just stock FUNI, the TS was only on the signs track?), and PGS\nStarbez does have some slightly improved TS on the signs track that could be worth looking at for a future release\nWeb sources are utterly abysmal, a jsum or similar mux would be a good alt",
+    "notes": "MuGi is JPN BD Remux+MCR (FUNI), Starbez (Seemingly just stock FUNI, the TS was only on the signs track?), and PGS\nMuGi is also jsum with the same subs\nStarbez does have some slightly improved TS on the signs track that could be worth looking at for a future release",
     "comparison": "https://slow.pics/c/wWt55KmX",
     "best_releases": [
       {
@@ -1018,7 +1018,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "MuGi (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Aharen-san wa Hakarenai",
@@ -6528,20 +6533,15 @@
     "alt_title": "Yofukashi no Uta Season 2",
     "year": 2025,
     "format": "TV",
-    "notes": "Placeholder until a BD Remux/Encode drops since the video quality is abysmal\n*Has a typo in episode 7, 16:36 her → here",
+    "notes": "Shroud is JPN BD Remux+Commie\nNo alt until someone muxes Commie onto a BD encode (or just wait for their BD batch)\nHas a typo in episode 7, 16:36 her → here",
     "comparison": "https://slow.pics/c/23MfL370\nhttps://www.diffchecker.com/sJGv0vrg/",
     "best_releases": [
       {
-        "name": "JPN BD+Commie*",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Commie",
+        "name": "Shroud",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Campfire Cooking in Another World with my Absurd Skill",
@@ -11105,20 +11105,15 @@
     "alt_title": "",
     "year": 2011,
     "format": "OVA",
-    "notes": "",
+    "notes": "o7 is SOFCJ-Raws+Tsuki-Hatsuyuki",
     "comparison": "https://slow.pics/c/J6ZmhGs7",
     "best_releases": [
       {
-        "name": "SOFCJ-Raws+Tsuki-Hatsuyuki",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Tsuki-Hatsuyuki",
+        "name": "o7",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Fairy Tail Series 2",
@@ -12728,6 +12723,21 @@
     ]
   },
   {
+    "title": "FUSE - Memoirs of the Hunter Girl",
+    "alt_title": "Fuse Teppou Musume no Torimonochou",
+    "year": 2012,
+    "format": "MOVIE",
+    "notes": "Moxie is JPN BD Remux+OCR'd PGS with BFE-Owari TS and song styling, Kulot (Restyled Karoshi with grammar fixes), and daifuku",
+    "comparison": "https://slow.pics/c/fnft3YTG\nhttps://www.diffchecker.com/zDlJxBo8/\nhttps://www.diffchecker.com/hvybDkI1/",
+    "best_releases": [
+      {
+        "name": "Moxie",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Future Boy Conan",
     "alt_title": "Mirai Shounen Conan",
     "year": 1978,
@@ -14285,12 +14295,12 @@
     "alt_title": "Golden Kamuy 4th Season",
     "year": 2022,
     "format": "TV",
-    "notes": "Erai-raws and -ZR- are CR WEB-DLs\nneoDESU subs are Pritt for E1-3, and CR with Pritt OP/ED and additional TS for E4-13\nSee neoDESU's description for notes regarding the dub",
+    "notes": "-ZR- is JPN BD Remux+neoDESU subs and dub audio\nErai-raws and -ZR- are CR WEB-DLs\nneoDESU subs are Pritt for E1-3, and CR with Pritt OP/ED and additional TS for E4-13\n\nFrom neoDESU regarding the dub audio: \"Some episodes had differences in English WEB audio to Japanese BD audio. In the WEB version they had the ending overlayed over the dialogue in a couple of episodes where as in the BD version these episodes had the complete ending added seperately. I added those audio sequences into the English WEB track. So for those episodes, you will hear the ending twice. Once overlayed over the dialogue (with no karaoke text) and right after in the real ending.\"",
     "comparison": "https://slow.pics/c/dO76i1rw",
     "best_releases": [
       {
-        "name": "JPN BD+neoDESU",
-        "status": "unmuxed"
+        "name": "-ZR- (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -17590,7 +17600,7 @@
     "alt_title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
     "year": 2020,
     "format": "TV",
-    "notes": "TTGA is JPN BD Remux+CR\nSubsPlease is CR WEB-DL\nEverything needs MPV Deband, all the encodes suck",
+    "notes": "TTGA is JPN BD Remux+CR\nSubsPlease and agro are CR WEB-DLs\nEverything needs MPV Deband, all the encodes suck",
     "comparison": "https://slow.pics/c/nWbFdwSN",
     "best_releases": [
       {
@@ -17602,6 +17612,10 @@
       {
         "name": "SubsPlease",
         "status": ""
+      },
+      {
+        "name": "agro (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -34234,6 +34248,21 @@
     ]
   },
   {
+    "title": "Senran Kagura: Ninja Flash!",
+    "alt_title": "Senran Kagura",
+    "year": 2013,
+    "format": "TV",
+    "notes": "GetItTwisted is Yousei-raws+FFF and PGS",
+    "comparison": "https://slow.pics/c/Wk8rX2uJ",
+    "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Senryu Girl",
     "alt_title": "Senryuu Shoujo",
     "year": 2019,
@@ -34882,12 +34911,12 @@
     "alt_title": "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Gets-Sareta Ken: Kujou-san no Doesu Soudan-Shitsu Anime-ban",
     "year": 2016,
     "format": "SPECIAL",
-    "notes": "KH is Beatrice-Raws+&",
+    "notes": "SKRA is JPN BD Remux+KH\nKH is Beatrice-Raws+&",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JPN BD+&",
-        "status": "unmuxed"
+        "name": "SKRA",
+        "status": ""
       }
     ],
     "alt_releases": [
