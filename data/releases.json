@@ -1129,6 +1129,26 @@
     "alt_releases": []
   },
   {
+    "title": "Aim for the Ace!",
+    "alt_title": "Ace wo Nerae!",
+    "year": 1973,
+    "format": "TV",
+    "notes": "Orchid is Moozzi2 (Unfiltered)+OCR'd Discotek with Perevodildo signs and songs, stock Perevodildo, and stock PGS",
+    "comparison": "https://slow.pics/c/QizClWkN\nhttps://www.diffchecker.com/XJt9OsGt/",
+    "best_releases": [
+      {
+        "name": "2016 JPN BD+Orchid",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Orchid",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Air Gear",
     "alt_title": "",
     "year": 2006,
@@ -11136,6 +11156,21 @@
     ]
   },
   {
+    "title": "FAIRY TAIL (2014) OVA",
+    "alt_title": "",
+    "year": 2016,
+    "format": "OVA",
+    "notes": "OVA 7: o7 is SOFCJ-Raws+Hatsuyuki-Kaitou\nOVA 8-9: o7 is SOFCJ-Raws+modified SKMD (UrbanTbc)",
+    "comparison": "https://www.diffchecker.com/zRKRLQ4Y/",
+    "best_releases": [
+      {
+        "name": "o7",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Fairy Tail Final Season",
     "alt_title": "FAIRY TAIL (2018)",
     "year": 2018,
@@ -11174,6 +11209,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "FAIRY TAIL × RAVE",
+    "alt_title": "",
+    "year": 2013,
+    "format": "OVA",
+    "notes": "o7 is SOFCJ-Raws+Hatsuyuki-Kaitou",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "o7",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Farewell, My Dear Cramer",
@@ -33448,6 +33498,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "SAKAMOTO DAYS",
+    "alt_title": "",
+    "year": 2025,
+    "format": "ONA",
+    "notes": "callmedaddy is \"Nigel\" (jsum)+FLE, has a signs track but no dub ?\nSomething something wait for FLE BD release soonTM",
+    "comparison": "https://slow.pics/c/H0B3AtA2",
+    "best_releases": [
+      {
+        "name": "JPN BD+FLE",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "callmedaddy",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "Sakura Quest",
