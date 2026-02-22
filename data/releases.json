@@ -5718,11 +5718,11 @@
     "alt_title": "Bocchi the Rock!",
     "year": 2022,
     "format": "TV",
-    "notes": "realpinkgirl321 is JPN BD Remux+DB+neohevc\nRecluse is VCB-Studio+DB+neohevc\nDB+neohevc subs are Gotch (E1-3), Half-Baked (E4-9), CR (E10-12) with styles unified, TS touched up, and styled OP/ED/Insert songs.",
-    "comparison": "https://slow.pics/c/Tx8M1NTK",
+    "notes": "SubsMix is Kawatare+WBDP, DB+neohevc, and CR\nRecluse is VCB-Studio+DB+neohevc\nDB+neohevc subs are Gotch (E1-3), Half-Baked (E4-9), CR (E10-12) with styles unified, TS touched up, and styled OP/ED/Insert songs.\nWBDP subs are modified DB+neohevc for E1-3 to add honorifics for consistency with the rest of the season",
+    "comparison": "https://slow.pics/c/xp7oIJiz\nhttps://slow.pics/c/Tx8M1NTK\nhttps://www.diffchecker.com/3eN4Ugzf/",
     "best_releases": [
       {
-        "name": "realpinkgirl321",
+        "name": "SubsMix",
         "status": ""
       }
     ],
@@ -13365,15 +13365,20 @@
     "alt_title": "GHOST IN THE SHELL: Koukaku Kidoutai",
     "year": 1995,
     "format": "MOVIE",
-    "notes": "MiLQ is 4K JPN BD Remux+Judgment, OCR'd PGS, and stock PGS (Both the original and new translations). Contains the original stereo mix and atmos remix for both Japanese and English audio.\nThe 2018 1080p JPN BD with the same tracks would make a good alt",
-    "comparison": "https://slow.pics/c/tiCBVVcD\nhttps://slow.pics/c/9N2HswQL\nhttps://slow.pics/c/51Vcg38h\nhttps://slow.pics/c/WS0kwhNn\nhttps://slow.pics/c/lmaaphgK",
+    "notes": "MiLQ is 4K JPN BD Remux+Judgment, OCR'd PGS, and stock PGS (Both the original and new translations). Contains the original stereo mix and atmos remix for both Japanese and English audio.\nKawatare is 2018 JPN BD Encode+MiLQ (sans dub)",
+    "comparison": "https://slow.pics/c/tiCBVVcD\nhttps://slow.pics/c/9N2HswQL\nhttps://slow.pics/c/DmwdtrZY\nhttps://slow.pics/c/51Vcg38h\nhttps://slow.pics/c/WS0kwhNn\nhttps://slow.pics/c/lmaaphgK",
     "best_releases": [
       {
         "name": "MiLQ (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Kawatare",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Ghost in the Shell 2: Innocence",
@@ -20429,18 +20434,18 @@
     "alt_title": "Karakai Jouzu no Takagi-san 3",
     "year": 2022,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+HIDI, NovaWorks (E01-E04), and PGS\nBunny-Apocalypse is UCCUSS+NovaWorks (1-3) and EMBER (4-12), has broken subs",
+    "notes": "Bunny-Apocalypse is UCCUSS+NovaWorks (1-3) and EMBER (4-12).\nneoHEVC is NovaWorks for E1-4, Restyled HIDI with NovaWorks OP/ED and some improved TS for E5-12. NovaWorks OP/ED credit translations removed and title TS adjusted due to overlapping with credited video.\n*Episodes 3 and 4 have inconsistent dialogue styling compared to the rest of the season",
     "comparison": "https://slow.pics/c/3HveszdI",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
-        "status": ""
+        "name": "JPN BD+neoHEVC*",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
         "name": "Bunny-Apocalypse (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -31243,15 +31248,19 @@
     "alt_title": "",
     "year": 2019,
     "format": "TV",
-    "notes": "Mysteria is VCB-Studio+AMZN with TS\nThe JPN BD is heavily lowpassed but there's no other option even 5 years later, the show is extremely grainy so web sources are just not the play\n-ZR- is the unmuxed best but uses outdated subs",
-    "comparison": "https://slow.pics/c/UU3Bt1QX",
+    "notes": "GetItTwisted is JPN BD Remux+Mysteria and CR\nMysteria is VCB-Studio+AMZN with TS\nGetItTwisted is also Mysteria with dub and additional CR subs\nThe JPN BD is heavily lowpassed but there's no other option even 5 years later, the show is extremely grainy so web sources are just not the play",
+    "comparison": "https://slow.pics/c/UU3Bt1QX\nhttps://www.diffchecker.com/1amcvdOD/",
     "best_releases": [
       {
-        "name": "JPN BD+Mysteria",
-        "status": "unmuxed"
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "Mysteria",
         "status": ""
@@ -33221,24 +33230,15 @@
     "alt_title": "Ruri no Houseki",
     "year": 2025,
     "format": "TV",
-    "notes": "Headpatter is JPN BD Remux+CR\nKitsune/Erai-raws are CR WEB-DLs, the former with AMZN audio\nThe JPN BD has some heavily lowpassed scenes but web sources are far too starved",
-    "comparison": "https://slow.pics/c/R9JLywt0",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+CR with TS adjustments for BD changes",
+    "comparison": "https://slow.pics/c/ev6jq8XQ\nhttps://slow.pics/c/R9JLywt0\nhttps://slow.pics/c/gtoSPqmK",
     "best_releases": [
       {
-        "name": "Headpatter",
+        "name": "YURASUKA",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Erai-raws",
-        "status": ""
-      },
-      {
-        "name": "Kitsune",
-        "status": "not_nyaa"
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Rurouni Kenshin (2023)",
@@ -35288,8 +35288,8 @@
     "alt_title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
     "year": 2022,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+PGS\nBunny-Apocalypse is VCB-Studio+EMBER (CR)",
-    "comparison": "https://slow.pics/c/b6OtLJmi",
+    "notes": "-ZR- is JPN BD Remux+PGS\nBunny-Apocalypse is VCB-Studio+EMBER (CR)\nStore should be watched with MPV Deband, mainly for the ED which has insane banding\nH-Enc would be a better alt",
+    "comparison": "https://slow.pics/c/b6OtLJmi\nhttps://slow.pics/c/jEdj69kj",
     "best_releases": [
       {
         "name": "-ZR- (Dual Audio)",
@@ -35358,11 +35358,11 @@
     "alt_title": "SLAM DUNK",
     "year": 1993,
     "format": "TV",
-    "notes": "BBT-RMX is Kagura+edited ANF\nOfficial subs are \"the least sucky\" https://nyaa.si/view/1822898",
-    "comparison": "",
+    "notes": "BBT-RMX is Kagura+edited ANF",
+    "comparison": "https://slow.pics/c/Q85mm7H9\nhttps://www.diffchecker.com/N4jrsqnx/\nhttps://www.diffchecker.com/B7jrZVcp/\nhttps://www.diffchecker.com/1KbF9Zlb/\nhttps://www.diffchecker.com/s7aH4SCG/",
     "best_releases": [
       {
-        "name": "Kagura+Official",
+        "name": "Kagura+CR",
         "status": "unmuxed"
       }
     ],
