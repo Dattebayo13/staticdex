@@ -24,8 +24,8 @@
     "alt_title": "",
     "year": 2002,
     "format": "TV",
-    "notes": "",
-    "comparison": "https://slow.pics/c/2Yges5bL",
+    "notes": "BluDragon is R1US DVD Encode+AHQ and a-s (Both R1 OCR's, latter is SRT and has errors)",
+    "comparison": "https://slow.pics/c/FAjSHk8s\nhttps://www.diffchecker.com/sV3Nv06E/",
     "best_releases": [],
     "alt_releases": [
       {
@@ -12882,9 +12882,13 @@
     "alt_title": "Gamers!",
     "year": 2017,
     "format": "TV",
-    "notes": "Kawatare is JPN BD Encode+CRUCiBLE (Bunny-Apocalypse, CR, and PGS)\nBunny-Apocalypse is VCB+Harunatsu/LostYears",
+    "notes": "Kawatare is JPN BD Encode+CRUCiBLE (Bunny-Apocalypse, CR, and PGS)\nGetItTwisted is Kawatare with dub\nBunny-Apocalypse is VCB+Harunatsu/LostYears",
     "comparison": "https://slow.pics/c/pt8hzVQs\nhttps://slow.pics/c/86bKD7xU\nhttps://slow.pics/c/j1vLXjVO",
     "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "Kawatare",
         "status": ""
@@ -24909,6 +24913,26 @@
     "alt_releases": []
   },
   {
+    "title": "Mitsudomoe",
+    "alt_title": "",
+    "year": 2010,
+    "format": "TV",
+    "notes": "Holomux is Salender-Raws+polished\npolished subs are FFFpeeps with ToyBox styling/TS, CR with DmoniHiro styling/ToyBox TS, and FFFpeeps with original styling/ToyBox TS",
+    "comparison": "https://slow.pics/c/JLEeJ1TX\nhttps://www.diffchecker.com/IiPYo4k8/",
+    "best_releases": [
+      {
+        "name": "JPN BD+polished",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Holomux",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Mitsuwano",
     "alt_title": "",
     "year": 2014,
@@ -26025,7 +26049,7 @@
     "alt_title": "Boku no Hero Academia",
     "year": 2016,
     "format": "TV",
-    "notes": "FLE is ITA BD encode+neko-kBaraka and restyled CR\nDragon-Releases is neko-kBaraka+dub",
+    "notes": "FLE is ITA BD Encode+Restyled neko-kBaraka\nDragon-Releases is neko-kBaraka+dub",
     "comparison": "https://slow.pics/c/9bmC06qg\nhttps://slow.pics/c/0fA1G60V\nhttps://slow.pics/c/2Rbeg5Wc",
     "best_releases": [
       {
