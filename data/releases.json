@@ -3094,13 +3094,9 @@
     "alt_title": "Shingeki no Kyojin OVA",
     "year": 2013,
     "format": "OVA",
-    "notes": "-ZR- is JPN BD Remux+Baws and all CR subs\nFlugel is JPN BD Remux+Baws\nBaws is JPN BD encode+his subs which use saizen-soldado/ddy/crunchyroll as base",
+    "notes": "Flugel is JPN BD Remux+Baws\nBaws is JPN BD encode+his subs which use saizen-soldado/ddy/crunchyroll as base",
     "comparison": "https://slow.pics/c/deDggaiv",
     "best_releases": [
-      {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      },
       {
         "name": "Flugel (Dual Audio)",
         "status": ""
@@ -3137,13 +3133,9 @@
     "alt_title": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
     "year": 2015,
     "format": "OVA",
-    "notes": "-ZR- is JPN BD Remux+Baws and all CR subs\nFlugel is JPN BD Remux+Baws\nBaws is JPN BD encode+his subs which use saizen-soldado/ddy/crunchyroll as base",
+    "notes": "Flugel is JPN BD Remux+Baws\nBaws is JPN BD encode+his subs which use saizen-soldado/ddy/crunchyroll as base",
     "comparison": "https://slow.pics/c/NaSBUzUU",
     "best_releases": [
-      {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      },
       {
         "name": "Flugel (Dual Audio)",
         "status": ""
@@ -3161,13 +3153,9 @@
     "alt_title": "Shingeki no Kyojin: LOST GIRLS",
     "year": 2017,
     "format": "OVA",
-    "notes": "-ZR- is JPN BD Remux+Baws and all CR subs\nFlugel is JPN BD Remux+Baws\nBaws is JPN BD encode+his subs which use saizen-soldado/ddy/crunchyroll as base",
+    "notes": "Flugel is JPN BD Remux+Baws\nBaws is JPN BD encode+his subs which use saizen-soldado/ddy/crunchyroll as base",
     "comparison": "",
     "best_releases": [
-      {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      },
       {
         "name": "Flugel (Dual Audio)",
         "status": ""
@@ -8933,12 +8921,12 @@
     "alt_title": "",
     "year": 2014,
     "format": "OVA",
-    "notes": "Moxie is JPN BD Remux+FFF\nYoghurt is Beatrice-Raws+FFF\nStore requires MPV deband, otherwise get the encode",
+    "notes": "Moxie is JPN BD Remux+FFF and PGS\nYoghurt is Beatrice-Raws+FFF\nStore requires MPV deband, otherwise get the encode",
     "comparison": "",
     "best_releases": [
       {
-        "name": "Moxie",
-        "status": ""
+        "name": "Moxie (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -11957,12 +11945,12 @@
     "alt_title": "",
     "year": 2016,
     "format": "ONA",
-    "notes": "Pookie is sergey_krs+DameDesuYo and SallySubs",
+    "notes": "Moxie is JPN BD Remux+SallySubs and DameDesuYo \nPookie is sergey_krs+DameDesuYo and SallySubs",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JPN BD+Pookie",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -11977,12 +11965,12 @@
     "alt_title": "",
     "year": 2016,
     "format": "SPECIAL",
-    "notes": "Pookie is sergey_krs+DameDesuYo and SallySubs",
+    "notes": "Moxie is JPN BD Remux+SallySubs and DameDesuYo \nPookie is sergey_krs+DameDesuYo and SallySubs",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JPN BD+Pookie",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -13154,12 +13142,12 @@
     "alt_title": "",
     "year": 2013,
     "format": "TV",
-    "notes": "karios is JPN BD Encode+AnimeNOW",
+    "notes": "Moxie is JPN BD Remux+Restyled karios\nkarios is JPN BD Encode+Modified AnimeNOW (Synced, resampled, and corrected a typo)",
     "comparison": "https://slow.pics/c/McA9osN5",
     "best_releases": [
       {
-        "name": "JPN BD+karios",
-        "status": "unmuxed"
+        "name": "Moxie (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -13174,12 +13162,12 @@
     "alt_title": "",
     "year": 2015,
     "format": "TV",
-    "notes": "Drag is Snow-Raws+Commie",
+    "notes": "UnHoly is USA BD Remux+Drag and PGS\nDrag is Snow-Raws+Modified Commie (Resampled, retimed, song lyrics for the relevant episodes and slight TS fixes)\nStore absolutely needs MPV Deband, otherwise get the encode\nThe JPN BD (and as such Snow-Raws) has bad chroma",
     "comparison": "https://slow.pics/c/Yajlv8hM",
     "best_releases": [
       {
-        "name": "USA BD+Commie",
-        "status": "unmuxed"
+        "name": "UnHoly (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -13194,12 +13182,12 @@
     "alt_title": "GATCHAMAN CROWDS insight #0 inbound",
     "year": 2015,
     "format": "ONA",
-    "notes": "Drag is Snow-Raws+Commie",
+    "notes": "UnHoly is USA BD Remux+Drag and PGS\nDrag is Snow-Raws+Modified Commie (Resampled, retimed, song lyrics for the relevant episodes and slight TS fixes)\nStore absolutely needs MPV Deband, otherwise get the encode\nThe JPN BD (and as such Snow-Raws) has bad chroma",
     "comparison": "",
     "best_releases": [
       {
-        "name": "USA BD+Commie",
-        "status": "unmuxed"
+        "name": "UnHoly (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -13214,12 +13202,12 @@
     "alt_title": "",
     "year": 2014,
     "format": "SPECIAL",
-    "notes": "karios is JPN BD Encode+AnimeNOW",
+    "notes": "Moxie is JPN BD Remux+Restyled karios\nkarios is JPN BD Encode+AnimeNOW",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JPN BD+karios",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -14617,8 +14605,8 @@
     "alt_title": "Hotaru no Haka",
     "year": 1988,
     "format": "MOVIE",
-    "notes": "LoLiHunterTH4M is JPN BD Remux+Both dubs, both official subs (styled), Kametsu's edit, and all pgs subs",
-    "comparison": "https://slow.pics/c/8F7UQ9nn",
+    "notes": "LoLiHunterTH4M is JPN BD Remux+Kametsu and JPN BD PGS. Includes the first 2 English dubs\nKawatare is JPN BD Encode+Kametsu and JPN BD PGS\nKametsu has 3 sub tracks: JPN BD TL, Edited Sentai TL, and stock Sentai TL",
+    "comparison": "https://slow.pics/c/6FJD2t4X\nhttps://slow.pics/c/8F7UQ9nn\nhttps://www.diffchecker.com/1OTaXtgj/\nhttps://www.diffchecker.com/RduvQCXc/",
     "best_releases": [
       {
         "name": "LoLiHunterTH4M (Dual Audio)",
@@ -14627,7 +14615,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Kametsu (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ]
@@ -17867,6 +17855,21 @@
     "alt_releases": []
   },
   {
+    "title": "Iczer Reborn",
+    "alt_title": "Bouken! Iczer 3",
+    "year": 1990,
+    "format": "OVA",
+    "notes": "Kuraze is R2J DVD Encode+OCR'd and modified R1",
+    "comparison": "https://slow.pics/c/DI4jqysy\nhttps://slow.pics/c/8LE4vtNn",
+    "best_releases": [
+      {
+        "name": "Kuraze (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "ID: INVADED",
     "alt_title": "",
     "year": 2020,
@@ -20394,24 +20397,15 @@
     "alt_title": "Karakai Jouzu no Takagi-san",
     "year": 2018,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Asakura and PGS\nAsakura is VCB-Studio+Harunatsu (1-4), CR (5-12) edited, restyled, retimed and retypeset, KH is the same with dub\nStore is pretty bad so you'll wanna run MPV deband, otherwise get the encode",
-    "comparison": "https://slow.pics/c/hThFQXGN\nhttps://slow.pics/c/gN2AL7e0",
+    "notes": "washed is JPN BD Encode+Modified Aeenald (See rentry)",
+    "comparison": "https://slow.pics/c/TNaIDjdC\nhttps://slow.pics/c/hThFQXGN\nhttps://slow.pics/c/gN2AL7e0\nhttps://rentry.co/atiqysg4",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
+        "name": "washed",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Asakura",
-        "status": ""
-      },
-      {
-        "name": "KH (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Teasing Master Takagi-san Season 2",
@@ -20438,18 +20432,18 @@
     "alt_title": "Karakai Jouzu no Takagi-san 3",
     "year": 2022,
     "format": "TV",
-    "notes": "Bunny-Apocalypse is UCCUSS+NovaWorks (1-3) and EMBER (4-12).\nneoHEVC is NovaWorks for E1-4, Restyled HIDI with NovaWorks OP/ED and some improved TS for E5-12. NovaWorks OP/ED credit translations removed and title TS adjusted due to overlapping with credited video.\n*Episodes 3 and 4 have inconsistent dialogue styling compared to the rest of the season",
-    "comparison": "https://slow.pics/c/3HveszdI",
+    "notes": "SubsMix is YURASUKA+neoHEVC with NovaWorks ED added into episode 5\nneoHEVC is NovaWorks for E1-4, Restyled HIDI with NovaWorks OP and some improved TS for E5-12. NovaWorks OP/ED credit translations removed and title TS adjusted due to overlapping with credited video.\n*Episodes 3 and 4 have inconsistent dialogue styling compared to the rest of the season",
+    "comparison": "https://slow.pics/c/3HveszdI\nhttps://slow.pics/c/doFw1wkK",
     "best_releases": [
       {
-        "name": "JPN BD+neoHEVC*",
+        "name": "JPN BD+SubsMix*",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "Bunny-Apocalypse (Dual Audio)",
-        "status": "broken"
+        "name": "SubsMix (Dual Audio)",
+        "status": ""
       }
     ]
   },
@@ -21412,11 +21406,11 @@
     "alt_title": "Kono Oto Tomare!",
     "year": 2019,
     "format": "TV",
-    "notes": "AM11 is GHS (JPN BD Encode+modified FUNI) with dub\nThe USA BD isn't great, but the JPN BD is heavily lowpassed, and CR has bad compression and misses out on a ton of BD changes\n*GHS has ESL edits which should be reverted",
-    "comparison": "https://slow.pics/c/o4Au8UNW\nhttps://slow.pics/c/v3QSHGSc\nhttps://www.diffchecker.com/eWfYbd53/",
+    "notes": "AM11 is GHS (JPN BD Encode+modified FUNI) with dub\nThe first volume of the JPN BD (episodes 1-3) is heavily lowpassed, the USA BD isn't great but is a much better option for those episodes. CR isn't viable due to having bad compression and missing out on a ton of BD changes. For the rest of the episodes the JPN BD mogs.\n*Use USA BD for episodes 1-3, and JPN BD for 4-13\n**GHS has ESL edits which should be reverted",
+    "comparison": "https://slow.pics/c/v3QSHGSc\nhttps://slow.pics/c/vA0MPilj\nhttps://www.diffchecker.com/eWfYbd53/",
     "best_releases": [
       {
-        "name": "USA BD+GHS*",
+        "name": "USA BD & JPN BD*+GHS**",
         "status": "unmuxed"
       }
     ],
@@ -21432,11 +21426,11 @@
     "alt_title": "Kono Oto Tomare! 2",
     "year": 2019,
     "format": "TV",
-    "notes": "AM11 is GHS (JPN BD Encode+modified FUNI) with dub and episode 14 patch applied\nThe USA BD isn't great, but the JPN BD is heavily lowpassed, and CR has bad compression and misses out on a ton of BD changes\n*GHS has ESL edits which should be reverted, also the KFX is very ugly so probably just remove it",
-    "comparison": "",
+    "notes": "AM11 is GHS (JPN BD Encode+modified FUNI) with dub and episode 14 patch applied\n*GHS has ESL edits which should be reverted, also the KFX is very ugly so probably just remove it",
+    "comparison": "https://slow.pics/c/3aDnM35L",
     "best_releases": [
       {
-        "name": "USA BD+GHS*",
+        "name": "JPN BD+GHS*",
         "status": "unmuxed"
       }
     ],
@@ -22115,7 +22109,7 @@
     "year": 1998,
     "format": "OVA",
     "notes": "Yurasyk is BD Encode+Central Anime (External)",
-    "comparison": "",
+    "comparison": "https://www.diffchecker.com/tSCD0LvJ/",
     "best_releases": [
       {
         "name": "Yurasyk",
@@ -22404,17 +22398,17 @@
     "alt_title": "Shiguang Dailiren II",
     "year": null,
     "format": "ONA",
-    "notes": "poop is CR WEB-DL with TS, timing, and consistency fixes\njsum would be a better alt",
-    "comparison": "https://slow.pics/c/gEtke14R",
+    "notes": "GetItTwisted is JPN BD Remux+poop (CR with TS, timing, and consistency fixes) with one (1) fixed sign\nGetItTwisted is also jsum+the same subs, but with OP/ED lyrics adjusted for cropped video\nThe JPN BD was aggressively debanded at the store resulting in significant detail loss but it still beats CR which is completely cooked, even when debanded. There's still plenty of banding leftover so you'll want to use MPV Deband for everything anyway.",
+    "comparison": "https://slow.pics/c/gEtke14R\nhttps://slow.pics/c/Dd9XKNUh",
     "best_releases": [
       {
-        "name": "JPN BD+poop",
-        "status": "unmuxed"
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "poop",
+        "name": "GetItTwisted (Dual Audio)",
         "status": ""
       }
     ]
@@ -22671,6 +22665,21 @@
     "alt_releases": []
   },
   {
+    "title": "Lord of Mysteries",
+    "alt_title": "Guimi Zhi Zhu",
+    "year": null,
+    "format": "ONA",
+    "notes": "MoodiSubs is 1440P CR WEB-DL+Modified CR with improved TS\nThe 1440p stream is the best quality despite the lower bitrate. That said the quality is cooked regardless so you'll want to use MPV Deband and employ the distance strat.",
+    "comparison": "https://slow.pics/c/on4M41Yr\nhttps://www.diffchecker.com/GsyZKhLm/",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "MoodiSubs (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Lost in Starlight",
     "alt_title": "I Byeore Piryohan",
     "year": null,
@@ -22790,17 +22799,37 @@
     "alt_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
     "year": 2020,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+PGS\nIrizaRaws is JPN BD Encode+PGS\nThe PGS subs have song TLs and slightly better TS",
-    "comparison": "https://slow.pics/c/At685HDF",
+    "notes": "Team ONIBE is VCB-Studio+Fansub based on CR",
+    "comparison": "https://slow.pics/c/At685HDF\nhttps://www.diffchecker.com/2CgdCxbw/",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
-        "status": ""
+        "name": "JPN BD+Team ONIBE",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "IrizaRaws",
+        "name": "Team ONIBE",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Love Live! Nijigasaki High School Idol Club Season 2",
+    "alt_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+    "year": 2022,
+    "format": "TV",
+    "notes": "Team ONIBE is VCB-Studio+Fansub based on CR",
+    "comparison": "https://slow.pics/c/6xVrDQDY\nhttps://www.diffchecker.com/z4IWrkyk/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Team ONIBE",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Team ONIBE",
         "status": ""
       }
     ]
@@ -23536,6 +23565,26 @@
     "alt_releases": [
       {
         "name": "ApachePrime",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Magic Knight Rayearth",
+    "alt_title": "",
+    "year": 1994,
+    "format": "TV",
+    "notes": "yolerejiju is USA BD Remux+Modified xPearse (Converted to ass, adjusted OP/ED lyrics and sign placement, fixed scenebleeds on signs and songs), and PGS. Both are the same TL\nThe USA BD mostly has better compression but the wrong matrix and a worse scan for some scenes in the OP and ED, unfortunately not fixable with bitstream metadata\nA&C video would be a better alt (check Tosho)",
+    "comparison": "https://slow.pics/c/wJ5eW6SA\nhttps://slow.pics/c/tVQBXDJQ",
+    "best_releases": [
+      {
+        "name": "JPN BD+yolerejiju",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "yolerejiju (Dual Audio)",
         "status": ""
       }
     ]
@@ -25854,6 +25903,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Muv-Luv Alternative: Total Eclipse",
+    "alt_title": "",
+    "year": 2012,
+    "format": "TV",
+    "notes": "Shirσ is Final8 with dub and different episode titles\nFinal8 is JPN BD Encode+Commie poorly shifted to BD with some questionable edits",
+    "comparison": "https://slow.pics/c/z1lzqRiT\nhttps://www.diffchecker.com/m7wAGJjW/\nhttps://www.diffchecker.com/bLZJCJJB/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Shirσ (Dual Audio)",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
@@ -29870,9 +29939,14 @@
     "alt_title": "Mousou Dairinin",
     "year": 2004,
     "format": "TV",
-    "notes": "",
-    "comparison": "",
-    "best_releases": [],
+    "notes": "XC is USA BD Encode+PGS\nGB is Pavel-Raws+a4e",
+    "comparison": "https://slow.pics/c/QwG1rupO",
+    "best_releases": [
+      {
+        "name": "XC",
+        "status": ""
+      }
+    ],
     "alt_releases": [
       {
         "name": "GB",
@@ -30853,7 +30927,7 @@
     "alt_title": "Kurenai no Buta",
     "year": 1992,
     "format": "MOVIE",
-    "notes": "koala is 2014 MGVC JPN BD Remux+Restyled and retimed REVO, and PGS",
+    "notes": "koala is 2014 MGVC JPN BD Remux+Restyled and retimed REVO, and PGS\nPorkChops is REVO with bloat removed and \"more readable styling\"",
     "comparison": "https://slow.pics/c/E8AuRknc",
     "best_releases": [
       {
@@ -30863,7 +30937,7 @@
     ],
     "alt_releases": [
       {
-        "name": "REVO (Dual Audio)",
+        "name": "PorkChops (Dual Audio)",
         "status": ""
       }
     ]
@@ -32317,100 +32391,75 @@
     "alt_title": "Gundam: G no Reconguista I - Ike! Core Fighter",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset",
+    "notes": "Mehul is Kawatare+hchcsen (OCR'd PGS timed and typeset)",
     "comparison": "https://slow.pics/c/6gdd6xTR\nhttps://www.diffchecker.com/qd40FAQy/",
     "best_releases": [
       {
-        "name": "Kawatare+hchcsen",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "hchcsen",
+        "name": "Mehul",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Reconguista in G the Movie II Bellri’s Fierce Charge",
     "alt_title": "Gundam: G no Reconguista II - Bellri Gekishin",
     "year": 2020,
     "format": "MOVIE",
-    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset",
+    "notes": "Mehul is Kawatare+hchcsen (OCR'd PGS timed and typeset)",
     "comparison": "https://slow.pics/c/ZLH2V8JZ",
     "best_releases": [
       {
-        "name": "Kawatare+hchcsen",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "hchcsen",
+        "name": "Mehul",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Reconguista in G the Movie III Legacy from Space",
     "alt_title": "Gundam: G no Reconguista III - Uchuu kara no Isan",
     "year": 2021,
     "format": "MOVIE",
-    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset",
+    "notes": "Mehul is Kawatare+hchcsen (OCR'd PGS timed and typeset)",
     "comparison": "https://slow.pics/c/PASo34Ls",
     "best_releases": [
       {
-        "name": "Kawatare+hchcsen",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "hchcsen",
+        "name": "Mehul",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Gundam: G no Reconguista IV - Gekitou Ni Sakebu Ai",
     "alt_title": "",
     "year": 2022,
     "format": "MOVIE",
-    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset",
+    "notes": "Mehul is Kawatare+hchcsen (OCR'd PGS timed and typeset)",
     "comparison": "https://slow.pics/c/XldjkKsI",
     "best_releases": [
       {
-        "name": "Kawatare+hchcsen",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "hchcsen",
+        "name": "Mehul",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Gundam: G no Reconguista V - Shisen wo Koete",
     "alt_title": "",
     "year": 2022,
     "format": "MOVIE",
-    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset",
+    "notes": "Mehul is Kawatare+hchcsen (OCR'd PGS timed and typeset)",
     "comparison": "https://slow.pics/c/tcgXDg3J",
     "best_releases": [
       {
-        "name": "Kawatare+hchcsen",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "hchcsen",
+        "name": "Mehul",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Record of Grancrest War",
@@ -33528,20 +33577,30 @@
     "alt_title": "",
     "year": 2025,
     "format": "ONA",
-    "notes": "callmedaddy is \"Nigel\" (jsum)+FLE, has a signs track but no dub ?\nSomething something wait for FLE BD release soonTM",
-    "comparison": "https://slow.pics/c/H0B3AtA2",
+    "notes": "FLE is JPN BD Encode+Fansub based on NF",
+    "comparison": "https://slow.pics/c/7KFWQFds\nhttps://slow.pics/c/H0B3AtA2",
     "best_releases": [
       {
-        "name": "JPN BD+FLE",
-        "status": "unmuxed"
+        "name": "FLE (Dual Audio)",
+        "status": ""
       }
     ],
-    "alt_releases": [
+    "alt_releases": []
+  },
+  {
+    "title": "SAKAMOTO DAYS Part 2",
+    "alt_title": "",
+    "year": 2025,
+    "format": "ONA",
+    "notes": "FLE is JPN BD Encode+Fansub based on NF",
+    "comparison": "",
+    "best_releases": [
       {
-        "name": "callmedaddy",
-        "status": "broken"
+        "name": "FLE (Dual Audio)",
+        "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Sakura Quest",
@@ -34062,6 +34121,21 @@
     ]
   },
   {
+    "title": "The Qwaser of Stigmata II",
+    "alt_title": "Seikon no Qwaser II",
+    "year": 2011,
+    "format": "TV",
+    "notes": "-ZR- is JPN BD Remux+DmonHiro (OCR'd and stock VobSubs)\nThe OCR is SRT so don't expect much, there's a PGS track with TS but it's desynced\nSalender-Raws would be a good alt",
+    "comparison": "https://slow.pics/c/M996b3MF\nhttps://www.diffchecker.com/dvhQaco5/",
+    "best_releases": [
+      {
+        "name": "-ZR-",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Seirei Gensouki: Spirit Chronicles",
     "alt_title": "Seirei Gensouki",
     "year": 2021,
@@ -34347,7 +34421,7 @@
     "year": 2013,
     "format": "TV",
     "notes": "GetItTwisted is Yousei-raws+FFF and PGS",
-    "comparison": "https://slow.pics/c/Wk8rX2uJ",
+    "comparison": "https://slow.pics/c/Wk8rX2uJ\nhttps://www.diffchecker.com/wuW1YVY3/\nhttps://www.diffchecker.com/CLVzAYNP/\nhttps://www.diffchecker.com/2Pjk8KAB/",
     "best_releases": [
       {
         "name": "GetItTwisted (Dual Audio)",
@@ -34771,11 +34845,11 @@
     "alt_title": "Shangri-La Frontier 2nd Season",
     "year": 2024,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+CR with minor fixes\nCR video is completely cooked, would need a ReinForce or similar mux for alt",
+    "notes": "NTRX is JPN BD Remux+Restyled CR with TS (Mostly from AnimeCenter) and PMR's fixes\nCR video is completely cooked, would need a ReinForce or similar mux for alt",
     "comparison": "https://slow.pics/c/DBGHZWF0",
     "best_releases": [
       {
-        "name": "PMR (Dual Audio)",
+        "name": "NTRX (Dual Audio)",
         "status": ""
       }
     ],
@@ -34926,12 +35000,12 @@
     "alt_title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
     "year": 2015,
     "format": "TV",
-    "notes": "Headpatter is JPN BD Remux+SallySubs and PGS\nYURI is Beatrice-Raws+SallySubs (Modified Hiryuu/FUNI)\nStore requires MPV deband",
+    "notes": "YURI is Beatrice-Raws+SallySubs (Modified Hiryuu/FUNI)\nStore requires MPV deband\nHeadpatter is the unmuxed best but has various issues (mislabelled tracks, random symbols in dialogue, advertising for a tattoo website)",
     "comparison": "https://slow.pics/c/vNFnC5lA",
     "best_releases": [
       {
-        "name": "Headpatter (Dual Audio)",
-        "status": ""
+        "name": "JPN BD+SallySubs",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
@@ -35312,17 +35386,17 @@
     "alt_title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
     "year": 2022,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+PGS\nBunny-Apocalypse is VCB-Studio+EMBER (CR)\nStore should be watched with MPV Deband, mainly for the ED which has insane banding\nH-Enc would be a better alt",
+    "notes": "Freehold is H-Enc+Restyled CR with slightly modified TS and OP/ED TL from the USA BD\nStore should be watched with MPV Deband, mainly for the ED which has insane banding",
     "comparison": "https://slow.pics/c/b6OtLJmi\nhttps://slow.pics/c/jEdj69kj",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "JPN BD+Freehold",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "Bunny-Apocalypse (Dual Audio)",
+        "name": "Freehold (Dual Audio)",
         "status": ""
       }
     ]
@@ -36036,19 +36110,20 @@
     "alt_title": "Uchuu Patrol Luluco",
     "year": 2016,
     "format": "TV_SHORT",
-    "notes": "KH/JoeYates are Akatomba-Raws+GJM, KH also includes PGS",
-    "comparison": "https://slow.pics/c/HF5vsNJo",
+    "notes": "GetItTwisted is JPN BD Remux+GJM, PGS, and FeelsBadMan (Meme Twitch subs)\nKH is Akatomba-Raws+GJM and PGS",
+    "comparison": "https://slow.pics/c/jWbzV82q",
     "best_releases": [
       {
-        "name": "JoeYates",
-        "status": "not_nyaa"
-      },
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "KH (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Space Runaway Ideon",
@@ -37886,6 +37961,26 @@
     "alt_releases": []
   },
   {
+    "title": "Tears to Tiara",
+    "alt_title": "",
+    "year": 2009,
+    "format": "TV",
+    "notes": "CTR is Yousei-Raws+Coalgirls (KSN) and Tsundere (Modified Solstice)",
+    "comparison": "https://slow.pics/c/jy2yuLqJ\nhttps://www.diffchecker.com/fmrQxH8l/\nhttps://www.diffchecker.com/1gdnlW0i/\nhttps://www.diffchecker.com/UWUS0YAO/",
+    "best_releases": [
+      {
+        "name": "JPN BD+CTR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "CTR (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Techno Police",
     "alt_title": "Techno Police 21C",
     "year": 1982,
@@ -38157,7 +38252,7 @@
   },
   {
     "title": "Tezuka Osamu Story: I Am Son-Goku",
-    "alt_title": "Tezuka Osamu Monogatari: Boku wa Son-Goku",
+    "alt_title": "Tezuka Osamu Monogatari: Boku wa Son Gokuu",
     "year": 1989,
     "format": "SPECIAL",
     "notes": "Beatrice has Orphan subs",
@@ -39172,12 +39267,12 @@
     "alt_title": "Uchouten Kazoku",
     "year": 2013,
     "format": "TV",
-    "notes": "",
+    "notes": "Moxie is JPN BD Remux+Vivid and PGS\nVivid is JPN BD Encode+Fansub partially based on CR",
     "comparison": "https://slow.pics/c/YpRxv952",
     "best_releases": [
       {
-        "name": "JPN BD+Vivid",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -39192,12 +39287,12 @@
     "alt_title": "Uchouten Kazoku 2",
     "year": 2017,
     "format": "TV",
-    "notes": "",
+    "notes": "Moxie is JPN BD Remux+Modified neko-raws (Restyled, added songs with basic styling to missing episodes, episode title TS taken from Vivid's S01 release)\nneko-raws is JPN BD Encode+CR (Sushi+TPP)",
     "comparison": "https://slow.pics/c/qfcFT01R",
     "best_releases": [
       {
-        "name": "JPN BD+neko",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -41692,6 +41787,21 @@
     "alt_releases": []
   },
   {
+    "title": "The Water Magician",
+    "alt_title": "Mizu Zokusei no Mahou Tsukai",
+    "year": 2025,
+    "format": "TV",
+    "notes": "ZeroBuild is JPN BD Encode+Mocha (Fansub based on CR) with some minor fixes, and CR with Mocha TS/songs",
+    "comparison": "https://slow.pics/c/U4HE7oKx\nhttps://slow.pics/c/4JjgCrhf\nhttps://www.diffchecker.com/iwHHVbLq/\nhttps://www.diffchecker.com/eFqbJhye/",
+    "best_releases": [
+      {
+        "name": "ZeroBuild (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "The Weakest Tamer Began a Journey to Pick Up Trash",
     "alt_title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
     "year": 2024,
@@ -41829,6 +41939,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "There's No Freaking Way I'll Be Your Lover! Unless…",
+    "alt_title": "Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?)",
+    "year": 2025,
+    "format": "TV",
+    "notes": "YURASUKA is JPN BD Encode+Restyled Chihiro (Fansub based on YT)",
+    "comparison": "https://slow.pics/c/7d6rbvAV\nhttps://slow.pics/c/65PGKGfk\nhttps://www.diffchecker.com/IvAqH3Pl/",
+    "best_releases": [
+      {
+        "name": "YURASUKA",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "This Art Club Has a Problem!",
@@ -41981,7 +42106,7 @@
     "year": 2009,
     "format": "OVA",
     "notes": "KH is HQR+Final8",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/2Ve0alEw",
     "best_releases": [
       {
         "name": "KH",
@@ -42011,15 +42136,35 @@
     ]
   },
   {
+    "title": "To LOVE-Ru Darkness OVA",
+    "alt_title": "",
+    "year": 2012,
+    "format": "OVA",
+    "notes": "Kitsune is JPN BD Encode+Doki and Pomf (OVA 1-2), Doutei (OVA 3-6)\nStore is cooked for these OVAs, VCB is squiggled as per but it's the lesser evil when the lineart is this bad",
+    "comparison": "https://slow.pics/c/X6hwrbkW\nhttps://slow.pics/c/XcjU2BVm\nhttps://www.diffchecker.com/b4Tf9Vjp/\nhttps://www.diffchecker.com/MAJZtrvT/",
+    "best_releases": [
+      {
+        "name": "VCB-Studio+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kitsune",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "To Love Ru Darkness",
     "alt_title": "To LOVE-Ru Darkness",
     "year": 2012,
     "format": "TV",
-    "notes": "KH is Zurako+Pomf and Doki",
-    "comparison": "",
+    "notes": "Holomux is Beatrice-Raws+Koten_Gars (Pomf with Garo7 edits), and Doki",
+    "comparison": "https://slow.pics/c/xcnRAHQP",
     "best_releases": [
       {
-        "name": "KH (Dual Audio)",
+        "name": "Holomux (Dual Audio)",
         "status": ""
       }
     ],
@@ -42030,15 +42175,80 @@
     "alt_title": "To LOVE-Ru Darkness 2nd",
     "year": 2015,
     "format": "TV",
-    "notes": "KH is Beatrice-Raws+Doki, Koten_Gars (modified Doki), and Garo7 (modified Doki)",
-    "comparison": "",
+    "notes": "-ZR- is JPN BD Remux+Nep_Blanc (Doki) and PGS\nKH is Beatrice-Raws+Doki, Koten_Gars (modified Doki), and Garo7 (modified Doki)",
+    "comparison": "https://slow.pics/c/72SLz2ns",
     "best_releases": [
+      {
+        "name": "-ZR- (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "KH (Dual Audio)",
         "status": ""
       }
+    ]
+  },
+  {
+    "title": "To Love Ru Darkness 2 Specials",
+    "alt_title": "To LOVE-Ru Darkness 2nd Specials",
+    "year": 2015,
+    "format": "SPECIAL",
+    "notes": "-ZR- is JPN BD Remux+Nep_Blanc (Doki) and PGS\nKH is Beatrice-Raws+Doki, Koten_Gars (modified Doki), and Garo7 (modified Doki)",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "-ZR- (Dual Audio)",
+        "status": "not_nyaa"
+      }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "KH (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "To LOVE-Ru Darkness 2nd OVA",
+    "alt_title": "",
+    "year": 2016,
+    "format": "OVA",
+    "notes": "-ZR- is JPN BD Remux+Doutei and Doki\nKitsune is JPN BD Encode+Doki and Doutei",
+    "comparison": "https://slow.pics/c/sykakbRt",
+    "best_releases": [
+      {
+        "name": "-ZR-",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kitsune",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "To LOVE-Ru: Multiplication - Mae kara Ushiro kara",
+    "alt_title": "",
+    "year": 2017,
+    "format": "OVA",
+    "notes": "-ZR- is JPN BD Remux+Doutei and Doki\nKitsune is JPN BD Encode+Doki and Doutei",
+    "comparison": "https://slow.pics/c/sMNNt4Ol\nhttps://www.diffchecker.com/DJiE6VLF/",
+    "best_releases": [
+      {
+        "name": "-ZR-",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kitsune",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "To the Abandoned Sacred Beasts",
@@ -42100,6 +42310,26 @@
     "alt_releases": [
       {
         "name": "SEV (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "ToHeart: Remember my memories",
+    "alt_title": "",
+    "year": 2004,
+    "format": "TV",
+    "notes": "ReDone is Zero-Raws+Anime-Keep&Anime-Faith (1-8), Conclave&Anime-Faith (9-13), with minor edits and corrections\nVideo is abysmal so Snow-Raws is a lesser evil (still looks terrible)",
+    "comparison": "https://slow.pics/c/kNfDuU7V",
+    "best_releases": [
+      {
+        "name": "Snow-Raws+ReDone",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ReDone",
         "status": ""
       }
     ]
@@ -43923,6 +44153,26 @@
     ]
   },
   {
+    "title": "Viral Hit",
+    "alt_title": "Kenka Dokugaku",
+    "year": 2024,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+Restyled CR\nVARYG is a CR WEB-DL\nCR is completely cooked without deband and is missing the BD changes, jsum mux waiting room",
+    "comparison": "https://slow.pics/c/bqWNRgS5\nhttps://slow.pics/c/bpSGTrMU",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Vision of Escaflowne",
     "alt_title": "Tenkuu no Escaflowne",
     "year": 1996,
@@ -44648,15 +44898,20 @@
     "alt_title": "WHITE ALBUM 2",
     "year": 2013,
     "format": "TV",
-    "notes": "YURI is Beatrice+UTW",
-    "comparison": "",
+    "notes": "Kawatare is JPN BD Encode+RigAV1 (UTW)\nYURI is Beatrice-Raws+UTW\nH-Enc would be a better alt",
+    "comparison": "https://slow.pics/c/2gHEXIA5\nhttps://www.diffchecker.com/AwnKithS/",
     "best_releases": [
+      {
+        "name": "Kawatare",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "YURI",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "White Album 2 Picture Drama",
@@ -44671,7 +44926,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "YURI",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "White Fang",
@@ -45500,6 +45760,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "YOUR FORMA",
+    "alt_title": "Your Forma",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Chihiro is JPN BD Encode+Fansub based on YT\n*Episode 2 15:43 Farman -> Furman",
+    "comparison": "https://slow.pics/c/FmO52qdf\nhttps://www.diffchecker.com/M6g33ksx/\nhttps://www.diffchecker.com/7ZHWvKJy/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Chihiro*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Chihiro",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Your lie in April",
