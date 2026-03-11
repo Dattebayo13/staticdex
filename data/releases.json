@@ -139,20 +139,15 @@
     "alt_title": "2.5 Jigen no Ririsa",
     "year": 2024,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+SubsPlus+(HIDI with automated fixes)\nAV1ARY is JPN BD Encode+SubsPlus+",
-    "comparison": "https://slow.pics/c/UMMpJBv1",
+    "notes": "Freehold is VCB-Studio+SubsPlus+ (HIDI with automated fixes) with their own TS for E1-11, modified Hakoniwa TS for E12-24. OP1-2/ED1 from Hakoniwa and their own styling for ED2\nThe OP/ED/Flashbacks are extremely grainy and the BD falls apart, the actual episode is also full of blocking and banding. VCB is simply a \"lesser evil\"",
+    "comparison": "https://slow.pics/c/X9Z145ib\nhttps://slow.pics/c/fWcDJiL4\nhttps://slow.pics/c/UMMpJBv1",
     "best_releases": [
       {
-        "name": "NAN0",
+        "name": "Freehold (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "AV1ARY",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "365 Days to the Wedding",
@@ -2408,7 +2403,7 @@
     "alt_title": "Arifureta Shokugyou de Sekai Saikyou Specials",
     "year": 2019,
     "format": "SPECIAL",
-    "notes": "Moxie is JPN BD Remux+BadAnime",
+    "notes": "Moxie is JPN BD Remux+BadAnime\nH-Enc would be a much better alt",
     "comparison": "",
     "best_releases": [
       {
@@ -2428,8 +2423,8 @@
     "alt_title": "Arifureta Shokugyou de Sekai Saikyou",
     "year": 2019,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Astral and PGS\nOZR is BadAnime+Astral",
-    "comparison": "https://slow.pics/c/LjaSlH0j",
+    "notes": "CRUCiBLE is JPN BD Remux+Astral and PGS\nOZR is BadAnime+Astral\nH-Enc would be a much better alt",
+    "comparison": "https://slow.pics/c/LjaSlH0j\nhttps://slow.pics/c/UfS6cVSU",
     "best_releases": [
       {
         "name": "CRUCiBLE (Dual Audio)",
@@ -6086,9 +6081,15 @@
     "alt_title": "",
     "year": 2024,
     "format": "TV",
-    "notes": "Everything is a CR WEB-DL\nUSA BD has all the usual issues, it's quite a lot better in high motion scenes but otherwise worse than CR\nShould be watched with MPV deband",
-    "comparison": "https://slow.pics/c/4TJgW4dk",
+    "notes": "NAN0 is JPN BD Remux+CR\nErai-raws and -ZR- are CR WEB-DLs\nCR needs MPV Deband, a BD encode from the usual suspects should be better",
+    "comparison": "https://slow.pics/c/MSI6Ysj3",
     "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "-ZR- (Dual Audio)",
         "status": "not_nyaa"
@@ -6096,13 +6097,8 @@
       {
         "name": "Erai-raws",
         "status": ""
-      },
-      {
-        "name": "SubsPlease",
-        "status": "not_nyaa"
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Buddy Complex",
@@ -6467,12 +6463,12 @@
     "alt_title": "C³",
     "year": 2011,
     "format": "TV",
-    "notes": "KH is Yousei-raws+Coalgirls (UTW)",
+    "notes": "Moxie is JPN BD Remux+KH\nKH is Yousei-raws+Coalgirls (UTW)",
     "comparison": "https://slow.pics/c/Xhq1ajBo\nhttps://www.diffchecker.com/83GCUn2g/",
     "best_releases": [
       {
-        "name": "JPN BD+Coalgirls",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -6487,12 +6483,12 @@
     "alt_title": "C³ Special",
     "year": 2012,
     "format": "SPECIAL",
-    "notes": "KH is Yousei-raws+UTW with two (2) dialogue fixes and UTW Presents meme removed",
+    "notes": "Moxie is JPN BD Remux+KH\nKH is Yousei-raws+UTW with two (2) dialogue fixes and UTW Presents meme removed",
     "comparison": "https://www.diffchecker.com/AC8TI5LP/\nhttps://www.diffchecker.com/wFyoncEl/",
     "best_releases": [
       {
-        "name": "JPN BD+KH",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -6541,7 +6537,7 @@
     "alt_title": "Yofukashi no Uta Season 2",
     "year": 2025,
     "format": "TV",
-    "notes": "Shroud is JPN BD Remux+Commie\nNo alt until someone muxes Commie onto a BD encode (or just wait for their BD batch)\nHas a typo in episode 7, 16:36 her → here",
+    "notes": "Shroud is JPN BD Remux+Commie\nkikuri is ReinForce+Commie\nHas a typo in episode 7, 16:36 her → here",
     "comparison": "https://slow.pics/c/23MfL370\nhttps://www.diffchecker.com/sJGv0vrg/",
     "best_releases": [
       {
@@ -6549,7 +6545,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "kikuri",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Campfire Cooking in Another World with my Absurd Skill",
@@ -8340,30 +8341,40 @@
     "alt_title": "",
     "year": 1999,
     "format": "TV",
-    "notes": "Virtuality is AMZN WEB-DL+OldCastle restyled and retimed\nAMZN is an HD rescan that looks massively better than all previous sources",
-    "comparison": "https://slow.pics/c/O2HLNcED",
+    "notes": "Virtuality is AMZN WEB-DL+OldCastle restyled and retimed\nA jsum mux would be a better alt",
+    "comparison": "https://slow.pics/c/EXxXNm7c\nhttps://slow.pics/c/O2HLNcED",
     "best_releases": [
+      {
+        "name": "JPN BD+Virtuality",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "Virtuality",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Corrector Yui Season 2",
     "alt_title": "Corrector Yui 2",
     "year": 2000,
     "format": "TV",
-    "notes": "Virtuality is AMZN WEB-DL+OldCastle restyled and retimed\nAMZN is an HD rescan that looks massively better than all previous sources",
+    "notes": "Virtuality is AMZN WEB-DL+OldCastle restyled and retimed\nA jsum mux would be a better alt",
     "comparison": "",
     "best_releases": [
+      {
+        "name": "JPN BD+Virtuality",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "Virtuality",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Cowboy Bebop",
@@ -8636,20 +8647,15 @@
     "alt_title": "Dandadan",
     "year": 2024,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR and NF\nSEV is JPN BD Encode+DemiHuman (Anime Sekai & Astarosub fansub localised to English, E1-2 only) and CRUCiBLE\nThe JPN BD has your typical Aniplex lowpassed chroma in a lot of scenes, but it's otherwise a massive upgrade from the web streams and has significantly better grain retention. Other BDs are worse (USA has the wrong gamma, GER is starved)",
-    "comparison": "https://slow.pics/c/3hD3tl8E\nhttps://slow.pics/c/rHDs9Hh8\nhttps://slow.pics/c/j9tDN2Dr",
+    "notes": "Okay-Subs is Delowpassed JPN BD encode with FRA BD chroma+\"basically unmodified\" CR",
+    "comparison": "https://slow.pics/c/Ke8KEPBK\nhttps://slow.pics/c/3hD3tl8E\nhttps://slow.pics/c/rHDs9Hh8\nhttps://slow.pics/c/j9tDN2Dr",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
+        "name": "Okay-Subs (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "SEV (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "DAN DA DAN Season 2",
@@ -10279,7 +10285,7 @@
   },
   {
     "title": "Dropkick on My Devil! Episode 12",
-    "alt_title": "Jashin-chan Dropkick Episode 12",
+    "alt_title": "Jashin-chan Dropkick ONA",
     "year": 2018,
     "format": "ONA",
     "notes": "Noms and Pog42 are VCB-Studio+CR",
@@ -10660,12 +10666,12 @@
     "alt_title": "Eiken: Eikenbu yori Ai wo Komete",
     "year": 2003,
     "format": "OVA",
-    "notes": "HD master is a poor upscale",
-    "comparison": "https://slow.pics/c/cqfoVMiH",
+    "notes": "L33T is Hoodlum+V-A\nHD master is a poor upscale",
+    "comparison": "https://slow.pics/c/cqfoVMiH\nhttps://slow.pics/c/JIs95ZfR",
     "best_releases": [
       {
-        "name": "Hoodlum",
-        "status": "not_nyaa"
+        "name": "L33T",
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -10760,16 +10766,12 @@
     "alt_title": "",
     "year": 2004,
     "format": "TV",
-    "notes": "Lulu is Kawaiika-Raws+fixed CBT\nJOHNTiTOR is Lulu with OPUS\nKawaiika's encode has a few seconds of corruption in episode 5 at 9:55, despite that it's still the best option",
-    "comparison": "https://slow.pics/c/lNoJa9Ov",
+    "notes": "JOHNTiTOR is Kawaiika-Raws/BlackRose+Lulu (Fixed CBT)\nBlackRose fixes the corruption in Kawaiika's encode for episode 5 by splicing in an encode from the JPN BD for the affected scene",
+    "comparison": "https://slow.pics/c/lNoJa9Ov\nhttps://slow.pics/c/WRpqvEx8",
     "best_releases": [
       {
         "name": "JOHNTiTOR (Dual Audio)",
-        "status": "broken"
-      },
-      {
-        "name": "Lulu (Dual Audio)",
-        "status": "broken"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -10779,16 +10781,12 @@
     "alt_title": "Elfen Lied: Tooriame nite - Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka?",
     "year": 2005,
     "format": "OVA",
-    "notes": "Lulu is Kawaiika-Raws+fixed CBT\nJOHNTiTOR is Lulu with OPUS",
+    "notes": "JOHNTiTOR is Kawaiika-Raws+Lulu (Fixed CBT)",
     "comparison": "",
     "best_releases": [
       {
         "name": "JOHNTiTOR (Dual Audio)",
-        "status": "broken"
-      },
-      {
-        "name": "Lulu (Dual Audio)",
-        "status": "broken"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -11756,11 +11754,11 @@
     "alt_title": "Enen no Shouboutai",
     "year": 2019,
     "format": "TV",
-    "notes": "JySzE is JPN BD encode+LostYears",
+    "notes": "GetItTwisted is JySzE+dub and PGS. Fixes missing subs for the episode 3 intro and missing OP/ED lyrics in episode 15",
     "comparison": "https://slow.pics/c/XV4S4hjJ\nhttps://slow.pics/c/WDmyYKCZ\nhttps://slow.pics/c/r5sCy9D7\nhttps://slow.pics/c/fSBriEka",
     "best_releases": [
       {
-        "name": "JySzE",
+        "name": "GetItTwisted (Dual Audio)",
         "status": ""
       }
     ],
@@ -11771,11 +11769,11 @@
     "alt_title": "Enen no Shouboutai: Ni no Shou",
     "year": 2020,
     "format": "TV",
-    "notes": "JySzE is JPN BD encode+EMBER (CR)",
+    "notes": "GetItTwisted is JySzE+Restyled hchcsen with various fixes, and PGS\nhchcsen subs are EMBER with TS and songs from Felix Fansub",
     "comparison": "https://slow.pics/c/cTZItlgz\nhttps://slow.pics/c/D7FZlhDM\nhttps://slow.pics/c/ihkyoGvf",
     "best_releases": [
       {
-        "name": "JySzE",
+        "name": "GetItTwisted (Dual Audio)",
         "status": ""
       }
     ],
@@ -11836,30 +11834,40 @@
     "alt_title": "",
     "year": 2018,
     "format": "TV",
-    "notes": "tonicgin is Kawaiika-Raws+CR muxed in",
-    "comparison": "",
+    "notes": "GetItTwisted is JPN BD Remux+Restyled Kawaiika-Raws (CR)\nGetItTwisted is also Kawaiika-Raws with the same subs",
+    "comparison": "https://slow.pics/c/gHpMENxV",
     "best_releases": [
       {
-        "name": "tonicgin",
+        "name": "GetItTwisted (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "FLCL Progressive",
     "alt_title": "",
     "year": 2018,
     "format": "TV",
-    "notes": "tonicgin is Kawaiika-Raws+CR muxed in",
-    "comparison": "",
+    "notes": "GetItTwisted is JPN BD Remux+Restyled Kawaiika-Raws (CR) with fixed TS and missing dialogue added from the USA BD\nGetItTwisted is also Kawaiika-Raws with the same subs",
+    "comparison": "https://slow.pics/c/nXHy4nuI",
     "best_releases": [
       {
-        "name": "tonicgin",
+        "name": "GetItTwisted",
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "GetItTwisted",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "FLIP FLAPPERS",
@@ -12496,6 +12504,26 @@
     "alt_releases": [
       {
         "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "From Old Country Bumpkin to Master Swordsman",
+    "alt_title": "Katainaka no Ossan, Kensei ni Naru",
+    "year": 2025,
+    "format": "TV",
+    "notes": "ShitMuxer is JPN BD Remux+Restyled Mocha\nMocha is AMZN WEBRip+Fansub based on AMZN\nA ReinForce mux would be a much better alt",
+    "comparison": "https://slow.pics/c/NsKC6LKQ\nhttps://www.diffchecker.com/zXI5gyXG/",
+    "best_releases": [
+      {
+        "name": "ShitMuxer (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Mocha",
         "status": ""
       }
     ]
@@ -13860,17 +13888,17 @@
     "alt_title": "",
     "year": 2012,
     "format": "TV",
-    "notes": "CTR is Beatrice-Raws+ak/Commie and Sentai PGS, dub has original songs spliced in\nStore requires MPV deband, idk what the sub situation is with 10 different AK releases so best of luck",
-    "comparison": "https://slow.pics/c/3Iid6IPo",
+    "notes": "PzKpfw is Beatrice-Raws+Modified ak-Submarines (Episodes 6-11 edited to match next episode cards of previous episodes)\nak-Submarines is a revised version of their original subs (Heavily edited mix of several sources, mostly Hiryuu and Commie’s “no fun allowed” track, plus /ak/ own translations)\nStore requires MPV deband",
+    "comparison": "https://slow.pics/c/3Iid6IPo\nhttps://slow.pics/c/TJYhTjKt\nhttps://www.diffchecker.com/0DCUCEVf/",
     "best_releases": [
       {
-        "name": "JPN BD+?",
+        "name": "JPN BD+PzKpfw",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "CTR (Dual Audio)",
+        "name": "PzKpfw",
         "status": ""
       }
     ]
@@ -18087,7 +18115,7 @@
     "alt_title": "Kunoichi Tsubaki no Mune no Uchi",
     "year": 2022,
     "format": "TV",
-    "notes": "Cunnysseur is JPN BD Remux+Chihiro, and official with Chihiro TS, songs, and styling \nhttps://lostallhope.com/suicide-methods/statistics-most-lethal-methods",
+    "notes": "Cunnysseur is JPN BD Remux+Chihiro, and official with Chihiro TS, songs, and styling",
     "comparison": "https://slow.pics/c/QT08x37e\nhttps://slow.pics/c/iz6AgTR1",
     "best_releases": [
       {
@@ -19277,12 +19305,12 @@
     "alt_title": "Kishibe Rohan wa Ugokanai",
     "year": 2017,
     "format": "OVA",
-    "notes": "Some-Stuffs is JPN BD Encode+OTL\nPrevious releases are using outdated subs",
-    "comparison": "https://slow.pics/c/tzkaStNk\nhttps://slow.pics/c/d1wOlVwc\nhttps://www.diffchecker.com/6l2Iz255/\nhttps://www.diffchecker.com/8namIx71/",
+    "notes": "12GaugeShotgun is JPN BD Remux+Some-Stuffs and PGS\nSome-Stuffs is JPN BD Encode+OTL",
+    "comparison": "https://slow.pics/c/tzkaStNk\nhttps://slow.pics/c/d1wOlVwc\nhttps://slow.pics/c/OxNeYbsE\nhttps://www.diffchecker.com/6l2Iz255/\nhttps://www.diffchecker.com/8namIx71/",
     "best_releases": [
       {
-        "name": "JPN BD+Some-Stuffs",
-        "status": "unmuxed"
+        "name": "12GaugeShotgun (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -19992,7 +20020,7 @@
     "year": 2025,
     "format": "TV",
     "notes": "UnHoly is JPN BD Remux+CR\nErai-raws and Kitsune are CR WEB-DLs\nLike the first season the JPN BD is poor with lowpassing and a strong tint, however it has much better compression than CR and quite a lot of BD changes",
-    "comparison": "https://slow.pics/c/0L2k6OtR",
+    "comparison": "https://slow.pics/c/gWdwG22s",
     "best_releases": [
       {
         "name": "UnHoly (Dual Audio)",
@@ -24947,6 +24975,26 @@
     ]
   },
   {
+    "title": "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved",
+    "alt_title": "Kobayashi-san Chi no Maidragon: Samishigariya no Ryuu",
+    "year": 2025,
+    "format": "MOVIE",
+    "notes": "who is JPN BD Remux+whomst\nwhomst is H-Enc+NF with improved timing, some missing signs added, and mistakes fixed",
+    "comparison": "https://slow.pics/c/V2VSCWyJ\nhttps://www.diffchecker.com/B6YuK9cy/",
+    "best_releases": [
+      {
+        "name": "who",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "whomst",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mitsuboshi Colors",
     "alt_title": "",
     "year": 2018,
@@ -25258,7 +25306,7 @@
   },
   {
     "title": "Momentary Lily: Kappou On and On",
-    "alt_title": "Momentary Lily: Tsudzuite iku Kappou, Kappou!",
+    "alt_title": "Momentary Lily: Tsuzuite iku Kappou, Kappou!",
     "year": 2025,
     "format": "SPECIAL",
     "notes": "Erai-raws is a CR WEB-DL\nThe JPN BD has a very strong lowpass, grain spammed over banding, and tons of mpeg gunk. It has much better compression for busier scenes but still looks worse overall, and has banding under grain that MPV can't fix.\nRecommended to watch with MPV Deband",
@@ -25402,7 +25450,7 @@
     "year": 2004,
     "format": "TV",
     "notes": "tinyivy is null+CBM",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/9Gv1ZzHf",
     "best_releases": [
       {
         "name": "tinyivy (Dual Audio)",
@@ -25984,12 +26032,12 @@
     "alt_title": "Sono Bisque Doll wa Koi wo Suru Season 2",
     "year": 2025,
     "format": "TV",
-    "notes": "cappybara is WEBRip+Restyled CR with missing glyphs fixed",
+    "notes": "DemiHuman is JPN BD Remux+cappybara\ncappybara is WEBRip+Restyled CR with missing glyphs fixed",
     "comparison": "https://slow.pics/c/cIDSjkhv\nhttps://slow.pics/c/lwJYcNM8",
     "best_releases": [
       {
-        "name": "JPN BD+cappybara",
-        "status": "unmuxed"
+        "name": "DemiHuman (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -27065,6 +27113,21 @@
     "best_releases": [
       {
         "name": "-KS- (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Nanana's Buried Treasure",
+    "alt_title": "Ryuugajou Nanana no Maizoukin",
+    "year": 2014,
+    "format": "TV",
+    "notes": "YURI is Yousei-raws+FFF",
+    "comparison": "https://slow.pics/c/VDYaDXHR\nhttps://www.diffchecker.com/AH7YrXFE/\nhttps://www.diffchecker.com/NjYTUriz/",
+    "best_releases": [
+      {
+        "name": "YURI",
         "status": ""
       }
     ],
@@ -29943,13 +30006,13 @@
     "comparison": "https://slow.pics/c/QwG1rupO",
     "best_releases": [
       {
-        "name": "XC",
+        "name": "XC (Dual Audio)",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "GB",
+        "name": "GB (Dual Audio)",
         "status": ""
       }
     ]
@@ -30291,7 +30354,7 @@
     "alt_title": "Phi Brain: Kami no Puzzle",
     "year": 2011,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+Raizel (WhyNot poorly shifted to BD with episode titles changed to official on the signs track), CR, and PGS\nHeadpatter is UQW+NAN0\nBoth have timing issues not present in the original WhyNot subs",
+    "notes": "NAN0 is JPN BD Remux+Headpatter\nHeadpatter is UQW+WhyNot shifted to BD, CR, and PGS\nThere's some 1 frame scenebleeds left over that aren't present in the original WhyNot subs",
     "comparison": "https://slow.pics/c/sI6jeC7J\nhttps://www.diffchecker.com/mQiCP4b0/",
     "best_releases": [
       {
@@ -31812,20 +31875,15 @@
     "alt_title": "RAINBOW: Nisha Rokubou no Shichinin",
     "year": 2010,
     "format": "TV",
-    "notes": "",
-    "comparison": "https://slow.pics/c/gVRh1Ebp\nhttps://slow.pics/c/tNtv77lq",
+    "notes": "P9 is USA BD Remux+FroZen shifted to BD with timing issues fixed and typesetting added\nPrevious BD releases don't have signs typeset since they were hardsubbed in FroZen's release",
+    "comparison": "https://slow.pics/c/tNtv77lq\nhttps://slow.pics/c/gVRh1Ebp",
     "best_releases": [
       {
-        "name": "USA BD+frozen",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Tess",
+        "name": "P9",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Rainbow Days",
@@ -33601,6 +33659,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "SAKUGAN",
+    "alt_title": "Sakugan",
+    "year": 2021,
+    "format": "TV",
+    "notes": "GetItTwisted is JPN BD Remux+Restyled CR\nGetItTwisted is also VCB-Studio+Restyled CR\nStore needs MPV Deband, otherwise get the encode",
+    "comparison": "https://slow.pics/c/JqXlDTMm",
+    "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Sakura Quest",
@@ -40926,7 +41004,7 @@
     "alt_releases": [
       {
         "name": "Hi10",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -41942,15 +42020,15 @@
   },
   {
     "title": "There's No Freaking Way I'll Be Your Lover! Unless…",
-    "alt_title": "Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?)",
+    "alt_title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
     "year": 2025,
     "format": "TV",
-    "notes": "YURASUKA is JPN BD Encode+Restyled Chihiro (Fansub based on YT)",
+    "notes": "Headpatter is YURASUKA+Restyled Chihiro (Fansub based on YT) with minor fixes",
     "comparison": "https://slow.pics/c/7d6rbvAV\nhttps://slow.pics/c/65PGKGfk\nhttps://www.diffchecker.com/IvAqH3Pl/",
     "best_releases": [
       {
-        "name": "YURASUKA",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -43441,6 +43519,26 @@
     ]
   },
   {
+    "title": "UN-GO",
+    "alt_title": "",
+    "year": 2011,
+    "format": "TV",
+    "notes": "hchcsen is Yousei-raws+Zurako (Commie shifted to BD)",
+    "comparison": "https://slow.pics/c/ILmiztBx",
+    "best_releases": [
+      {
+        "name": "JPN BD+Zurako",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Unbreakable Machine-Doll",
     "alt_title": "Machine-Doll wa Kizutsukanai",
     "year": 2013,
@@ -44898,7 +44996,7 @@
     "alt_title": "WHITE ALBUM 2",
     "year": 2013,
     "format": "TV",
-    "notes": "Kawatare is JPN BD Encode+RigAV1 (UTW)\nYURI is Beatrice-Raws+UTW\nH-Enc would be a better alt",
+    "notes": "Kawatare is JPN BD Encode+RigAV1 (UTW)\nHeadpatter is H-Enc+RigAV1",
     "comparison": "https://slow.pics/c/2gHEXIA5\nhttps://www.diffchecker.com/AwnKithS/",
     "best_releases": [
       {
@@ -44908,8 +45006,8 @@
     ],
     "alt_releases": [
       {
-        "name": "YURI",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
