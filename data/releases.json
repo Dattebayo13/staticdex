@@ -2403,7 +2403,7 @@
     "alt_title": "Arifureta Shokugyou de Sekai Saikyou Specials",
     "year": 2019,
     "format": "SPECIAL",
-    "notes": "Moxie is JPN BD Remux+BadAnime\nH-Enc would be a much better alt",
+    "notes": "Moxie is JPN BD Remux+BadAnime\nHeadpatter is H-Enc+BadAnime",
     "comparison": "",
     "best_releases": [
       {
@@ -2413,8 +2413,8 @@
     ],
     "alt_releases": [
       {
-        "name": "BadAnime",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -2423,7 +2423,7 @@
     "alt_title": "Arifureta Shokugyou de Sekai Saikyou",
     "year": 2019,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Astral and PGS\nOZR is BadAnime+Astral\nH-Enc would be a much better alt",
+    "notes": "CRUCiBLE is JPN BD Remux+Astral and PGS\nHeadpatter is H-Enc+Astral and PGS",
     "comparison": "https://slow.pics/c/LjaSlH0j\nhttps://slow.pics/c/UfS6cVSU",
     "best_releases": [
       {
@@ -2433,8 +2433,8 @@
     ],
     "alt_releases": [
       {
-        "name": "OZR (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -11854,7 +11854,7 @@
     "alt_title": "",
     "year": 2018,
     "format": "TV",
-    "notes": "GetItTwisted is JPN BD Remux+Restyled Kawaiika-Raws (CR) with fixed TS and missing dialogue added from the USA BD\nGetItTwisted is also Kawaiika-Raws with the same subs",
+    "notes": "GetItTwisted is JPN BD Remux+Restyled Kawaiika-Raws (CR) with fixed TS and missing dialogue added from the USA BD/Dubtitles\nGetItTwisted is also Kawaiika-Raws with the same subs",
     "comparison": "https://slow.pics/c/nXHy4nuI",
     "best_releases": [
       {
@@ -13888,17 +13888,17 @@
     "alt_title": "",
     "year": 2012,
     "format": "TV",
-    "notes": "PzKpfw is Beatrice-Raws+Modified ak-Submarines (Episodes 6-11 edited to match next episode cards of previous episodes)\nak-Submarines is a revised version of their original subs (Heavily edited mix of several sources, mostly Hiryuu and Commie’s “no fun allowed” track, plus /ak/ own translations)\nStore requires MPV deband",
+    "notes": "ak-Submarines is VCB-Studio+Revised version of their original subs (Heavily edited mix of several sources, mostly Hiryuu and Commie’s “no fun allowed” track, plus /ak/ own translations)\nStore requires MPV deband\nBeatrice-Raws has better video quality but they randomly cut 3 frames of content before the midcard in episode 6 and none of the muxes accounted for  it so the subs/audio are desynced in the second half\nWhen muxing the dub use CTR's audio as they spliced in the original music in episode 8, which is required to match JPN BD video",
     "comparison": "https://slow.pics/c/3Iid6IPo\nhttps://slow.pics/c/TJYhTjKt\nhttps://www.diffchecker.com/0DCUCEVf/",
     "best_releases": [
       {
-        "name": "JPN BD+PzKpfw",
+        "name": "JPN BD+ak-Submarines",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "PzKpfw",
+        "name": "ak-Submarines",
         "status": ""
       }
     ]
@@ -24662,12 +24662,12 @@
     "alt_title": "Kikou Senki Dragonar",
     "year": 1987,
     "format": "TV",
-    "notes": "mSubs is JPN BD Encode+OTL",
+    "notes": "Crash is JPN BD Remux+mSubs\nmSubs is JPN BD Encode+OTL",
     "comparison": "https://slow.pics/c/mFTGpoRZ",
     "best_releases": [
       {
-        "name": "JPN BD+mSubs",
-        "status": "unmuxed"
+        "name": "Crash",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -28857,8 +28857,8 @@
     "alt_title": "",
     "year": 1999,
     "format": "TV",
-    "notes": "1-206: A&C is R2J DVD Encode+Modified leorio (adjusted timing, added OP/ED and title card styling)\n207-336: A&C is old FUNI WEBRip with ED 14/15 restored from HDTV caps and R2J video used for recap scenes+modified CR\n337-452: F-R is CR ENG WEB-DL, does not have a signs track\n\nA more up to date WIP version of this can be found on the sheet.",
-    "comparison": "https://slow.pics/c/0ZUfEqCM\nhttps://slow.pics/c/4pZLPDul",
+    "notes": "Episodes 1-206: \nA&C is R2J DVD Encode+Modified leorio (adjusted timing, added OP/ED and title card styling)\n\nEpisodes 207-407: \nA&C is old FUNI JPN WEBRip with ED 14/15 restored from HDTV caps and R2J video used for recap scenes+modified CR\n\nEpisodes 408-452: \nF-R is CR ENG WEB-DL\n\nA more up to date WIP version of this can be found on the sheet. Site update soon ?",
+    "comparison": "https://slow.pics/c/zasmmwQJ\nhttps://slow.pics/c/2LAAl0we\nhttps://slow.pics/c/2PJjiVTZ\nhttps://slow.pics/c/EP61HARh\nhttps://slow.pics/c/QxEP25k6\nhttps://slow.pics/c/ryX0TXan\nhttps://slow.pics/c/ywLODO1b\nhttps://slow.pics/c/XeOUUmDy\nhttps://slow.pics/c/vM7HX2sv\nhttps://slow.pics/c/k6ZaB9PA\nhttps://slow.pics/c/4pZLPDul",
     "best_releases": [
       {
         "name": "A&C (Dual Audio)",
@@ -41494,6 +41494,26 @@
       {
         "name": "Kitsune",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Summer Hikaru Died",
+    "alt_title": "Hikaru ga Shinda Natsu",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Headpatter is JPN BD Remux+NF\nRandomBytes is JPN BD Encode+NF",
+    "comparison": "https://slow.pics/c/JUxd0uXO\nhttps://slow.pics/c/XVeh0p2V",
+    "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "RandomBytes (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
