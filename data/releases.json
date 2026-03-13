@@ -1408,12 +1408,12 @@
     "alt_title": "Aldnoah.Zero",
     "year": 2014,
     "format": "TV",
-    "notes": "Lulu is Beatrice-Raws+Vivid-Watashi\nThe GBR BD isn't great and requires MPV deband, however is better than the JPN BD/JPN BDBOX/USA BD which has added grain covering detail, chroma lowpassed scenes, and seemingly missing animation changes? (Comp 26)",
+    "notes": "PMR is GBR BD Remux+Kametsu (Vivid-Watashi)\nLulu is Beatrice-Raws+Kametsu (Vivid-Watashi)\nThe GBR BD isn't great and requires MPV deband, however is better than the JPN BD/JPN BDBOX/USA BD which has added grain covering detail, chroma lowpassed scenes, and seemingly missing animation changes? (Comp 26)",
     "comparison": "https://slow.pics/c/sowtXeoM",
     "best_releases": [
       {
-        "name": "GBR BD+Lulu",
-        "status": "unmuxed"
+        "name": "PMR (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -5174,7 +5174,7 @@
     ],
     "alt_releases": [
       {
-        "name": "LostYears",
+        "name": "LostYears (Dual Audio)",
         "status": ""
       }
     ]
@@ -6364,8 +6364,8 @@
     "alt_title": "",
     "year": 2020,
     "format": "ONA",
-    "notes": "NAN0 is JPN BD Remux+Astral, CR, and PGS\nFlugel is JPN BD Remux+Astral\nNH is VCB-Studio+Astral",
-    "comparison": "https://slow.pics/c/dQuVSFy6\nhttps://slow.pics/c/dJkQb7TY\nhttps://www.diffchecker.com/6RtLccfk",
+    "notes": "NAN0 is JPN BD Remux+Astral, CR, and PGS\nFlugel is JPN BD Remux+Astral\nKawatare is JPN BD Encode+Astral and CR",
+    "comparison": "https://slow.pics/c/GoriXDGm\nhttps://slow.pics/c/dQuVSFy6\nhttps://slow.pics/c/dJkQb7TY\nhttps://www.diffchecker.com/6RtLccfk",
     "best_releases": [
       {
         "name": "Flugel (Dual Audio)",
@@ -6378,7 +6378,7 @@
     ],
     "alt_releases": [
       {
-        "name": "NH (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ]
@@ -10766,11 +10766,11 @@
     "alt_title": "",
     "year": 2004,
     "format": "TV",
-    "notes": "JOHNTiTOR is Kawaiika-Raws/BlackRose+Lulu (Fixed CBT)\nBlackRose fixes the corruption in Kawaiika's encode for episode 5 by splicing in an encode from the JPN BD for the affected scene",
+    "notes": "BlackRose is Kawaiika-Raws+Lulu (Fixed CBT)\nBlackRose fixes the corruption in Kawaiika's encode for episode 5 by splicing in an encode from the JPN BD for the affected scene. Also splices the OP/ED from the Japanese track into the English track since it's much higher quality",
     "comparison": "https://slow.pics/c/lNoJa9Ov\nhttps://slow.pics/c/WRpqvEx8",
     "best_releases": [
       {
-        "name": "JOHNTiTOR (Dual Audio)",
+        "name": "BlackRose (Dual Audio)",
         "status": ""
       }
     ],
@@ -10781,11 +10781,11 @@
     "alt_title": "Elfen Lied: Tooriame nite - Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka?",
     "year": 2005,
     "format": "OVA",
-    "notes": "JOHNTiTOR is Kawaiika-Raws+Lulu (Fixed CBT)",
+    "notes": "BlackRose is Kawaiika-Raws+Lulu (Fixed CBT) with an actual signs track\nBlackRose splices the OP/ED from the Japanese track into the English track since it's much higher quality",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JOHNTiTOR (Dual Audio)",
+        "name": "BlackRose (Dual Audio)",
         "status": ""
       }
     ],
@@ -16377,12 +16377,12 @@
     "alt_title": "",
     "year": 2023,
     "format": "TV",
-    "notes": "SubsPlease is CR WEB-DL\nThe BD has significantly better quality, jsum would be a superior alt",
+    "notes": "Headpatter is JPN BD Remux+CR\nSubsPlease is CR WEB-DL\nThe BD has significantly better quality, jsum would be a superior alt\nMPV Deband helps everything",
     "comparison": "https://slow.pics/c/zl5KZzSb",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -17797,15 +17797,15 @@
     "alt_title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni",
     "year": 2025,
     "format": "TV",
-    "notes": "YURASUKA is JPN BD Encode+Chihiro for E1-6, CR with Chihiro OP/ED for 7-12\nThe JPN BD is a marginal improvement over CR, better compression and less banding with a cheeky chroma shift on top\nChihiro has completed up to episode 6",
+    "notes": "YURASUKA is JPN BD Encode+Chihiro for E1-6, CR with Chihiro OP/ED for 7-12\nThe Chihiro full subs track in episode 1 is a dupe of the signs track, so you'll need to switch to the CR full subs track instead\nThe JPN BD is a marginal improvement over CR, better compression and less banding with a cheeky chroma shift on top\nChihiro has completed up to episode 6",
     "comparison": "https://slow.pics/c/oBBQPoKf\nhttps://slow.pics/c/UMKmat7S\nhttps://www.diffchecker.com/QOh6Yz70/",
-    "best_releases": [
+    "best_releases": [],
+    "alt_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
@@ -22106,12 +22106,12 @@
     "alt_title": "",
     "year": 2006,
     "format": "TV",
-    "notes": "hchcsen is AMZN VBR WEB-DL+Aergia (OCR'd Exiled-Destiny, cleaned up and restyled)",
+    "notes": "hchcsen is AMZN VBR WEB-DL+Aergia (OCR'd Exiled-Destiny, cleaned up and restyled)\nAudio desyncs for the previews at the end of episodes 1-13",
     "comparison": "",
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": []
