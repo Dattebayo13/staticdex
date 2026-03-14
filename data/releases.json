@@ -12513,8 +12513,8 @@
     "alt_title": "Katainaka no Ossan, Kensei ni Naru",
     "year": 2025,
     "format": "TV",
-    "notes": "ShitMuxer is JPN BD Remux+Restyled Mocha\nMocha is AMZN WEBRip+Fansub based on AMZN\nA ReinForce mux would be a much better alt",
-    "comparison": "https://slow.pics/c/NsKC6LKQ\nhttps://www.diffchecker.com/zXI5gyXG/",
+    "notes": "ShitMuxer is JPN BD Remux+Restyled Mocha\nMocha is AMZN WEBRip+Fansub based on AMZN\nAn H-Enc mux would be a much better alt",
+    "comparison": "https://slow.pics/c/NsKC6LKQ\nhttps://slow.pics/c/BHOsIvxh\nhttps://www.diffchecker.com/zXI5gyXG/",
     "best_releases": [
       {
         "name": "ShitMuxer (Dual Audio)",
@@ -17797,15 +17797,15 @@
     "alt_title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni",
     "year": 2025,
     "format": "TV",
-    "notes": "YURASUKA is JPN BD Encode+Chihiro for E1-6, CR with Chihiro OP/ED for 7-12\nThe Chihiro full subs track in episode 1 is a dupe of the signs track, so you'll need to switch to the CR full subs track instead\nThe JPN BD is a marginal improvement over CR, better compression and less banding with a cheeky chroma shift on top\nChihiro has completed up to episode 6",
+    "notes": "YURASUKA is JPN BD Encode+Chihiro for E1-6, CR with Chihiro OP/ED for 7-12\nThe JPN BD is a marginal improvement over CR, better compression and less banding with a cheeky chroma shift on top\nChihiro has completed up to episode 6",
     "comparison": "https://slow.pics/c/oBBQPoKf\nhttps://slow.pics/c/UMKmat7S\nhttps://www.diffchecker.com/QOh6Yz70/",
-    "best_releases": [],
-    "alt_releases": [
+    "best_releases": [
       {
-        "name": "YURASUKA (Dual Audio)",
-        "status": "broken"
+        "name": "YURASUKA",
+        "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
@@ -29603,7 +29603,7 @@
     "alt_title": "Kimi to Boku no Saigo no Senjo, Arui wa Sekai ga Hajimaru Seisen",
     "year": 2020,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+Pasta and PGS\nPasta is JPN BD Encode+FUNI typeset, \"edited\", \"timed\", with OP/ED/Insert TLs\nSneed is Pasta+dub",
+    "notes": "NAN0 is JPN BD Remux+Pasta and PGS\nPasta is JPN BD Encode+FUNI typeset, \"edited\", \"timed\", with OP/ED/Insert TLs\nSneed is Pasta+dub\nStore requires MPV Deband, otherwise get the encode",
     "comparison": "https://slow.pics/c/CynjutQb\nhttps://slow.pics/c/jRmDzP2T",
     "best_releases": [
       {
@@ -39186,15 +39186,20 @@
     "alt_title": "Tantei wa mou, Shindeiru.",
     "year": 2021,
     "format": "TV",
-    "notes": "Reza is self encode+Cyan for the available encodes and restyled + OP/ED official subs",
-    "comparison": "https://slow.pics/c/MoSbvMbU",
+    "notes": "TTGA is JPN BD Remux+Cyan for E1-5, restyled FUNI with Cyan OP/ED and episode title TS for E6-12\nReza is JPN BD Encode+TTGA\nStore needs MPV Deband, otherwise get the encode\njazmac subs probably worth looking into for a future mux https://nyaa.si/view/1491228#com-11",
+    "comparison": "https://slow.pics/c/8USbFpWs\nhttps://www.diffchecker.com/sNUl9z0d/",
     "best_releases": [
+      {
+        "name": "TTGA (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "Reza (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "The Devil is a Part-Timer!",
@@ -42133,7 +42138,7 @@
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -42148,7 +42153,7 @@
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
