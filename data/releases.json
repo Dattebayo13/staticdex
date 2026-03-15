@@ -6399,6 +6399,46 @@
     "alt_releases": []
   },
   {
+    "title": "BUZZER BEATER",
+    "alt_title": "",
+    "year": 2005,
+    "format": "TV",
+    "notes": "Deago is jsum+instable200 (OCR'd Saizen). It's SRT so don't expect much\nMPV Deband helps everything",
+    "comparison": "https://slow.pics/c/rUQ1LaRa",
+    "best_releases": [
+      {
+        "name": "JPN BD+instable200",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Deago",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "BUZZER BEATER (2007)",
+    "alt_title": "",
+    "year": 2007,
+    "format": "TV",
+    "notes": "Deago is jsum+instable200 (Saizen converted to SRT for some reason, with OCR'd TS and ED)\nMPV Deband helps everything\n*Saizen has hardsubbed TS and ED",
+    "comparison": "https://slow.pics/c/Oal3Jm10",
+    "best_releases": [
+      {
+        "name": "JPN BD+Saizen*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Deago",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "By the Grace of the Gods",
     "alt_title": "Kamitachi ni Hirowareta Otoko",
     "year": 2020,
@@ -12513,7 +12553,7 @@
     "alt_title": "Katainaka no Ossan, Kensei ni Naru",
     "year": 2025,
     "format": "TV",
-    "notes": "ShitMuxer is JPN BD Remux+Restyled Mocha\nMocha is AMZN WEBRip+Fansub based on AMZN\nAn H-Enc mux would be a much better alt",
+    "notes": "ShitMuxer is JPN BD Remux+Restyled Mocha (Fansub based on AMZN)\nHeadpatter is H-Enc+Restyled Mocha",
     "comparison": "https://slow.pics/c/NsKC6LKQ\nhttps://slow.pics/c/BHOsIvxh\nhttps://www.diffchecker.com/zXI5gyXG/",
     "best_releases": [
       {
@@ -12523,8 +12563,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Mocha",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -16237,11 +16277,11 @@
     "alt_title": "Sora no Aosa wo Shiru Hito yo",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "Arid is KnK + modified Kaizoku (with TS from Anarchy)",
-    "comparison": "https://slow.pics/c/T2pz4Riw",
+    "notes": "YURASUKA is JPN BD Encode+Arid (modified Kaizoku with TS from Anarchy) and NF",
+    "comparison": "https://slow.pics/c/W8Ho7Dbz\nhttps://slow.pics/c/qR8d52h3",
     "best_releases": [
       {
-        "name": "Arid",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
@@ -21604,7 +21644,7 @@
     "alt_title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
     "year": 2024,
     "format": "TV",
-    "notes": "YURASUKA is JPN BD Encode+Chihiro",
+    "notes": "YURASUKA is JPN BD Encode+Chihiro and PGS",
     "comparison": "https://slow.pics/c/4N3gleMf\nhttps://slow.pics/c/i0k7Bp6b\nhttps://slow.pics/c/XbXBU4V5\nhttps://www.diffchecker.com/6vcdeufS/",
     "best_releases": [
       {
@@ -21619,7 +21659,7 @@
     "alt_title": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE",
     "year": 2025,
     "format": "OVA",
-    "notes": "YURASUKA is JPN BD Encode+PMR (CR with Chihiro OP/ED) restyled to match Chihiro",
+    "notes": "YURASUKA is JPN BD Encode+PMR (CR with Chihiro OP/ED) restyled to match Chihiro and PGS",
     "comparison": "https://slow.pics/c/Bzcv2bMx",
     "best_releases": [
       {
@@ -32183,7 +32223,7 @@
     "alt_title": "",
     "year": 2024,
     "format": "TV",
-    "notes": "VARYG and Kitsune and are CR WEB-DLs, the latter with AMZN audio\nThis is a cry for help to put the BD in the toolnix\nH-Enc would be a better alt",
+    "notes": "MuGi is H-Enc+CR",
     "comparison": "https://slow.pics/c/2GVfthB3\nhttps://slow.pics/c/dNHXaD3V",
     "best_releases": [
       {
@@ -32193,12 +32233,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Kitsune (Dual Audio)",
+        "name": "MuGi (Dual Audio)",
         "status": "not_nyaa"
-      },
-      {
-        "name": "VARYG (Dual Audio)",
-        "status": ""
       }
     ]
   },
@@ -34923,7 +34959,7 @@
     "alt_title": "Shangri-La Frontier 2nd Season",
     "year": 2024,
     "format": "TV",
-    "notes": "NTRX is JPN BD Remux+Restyled CR with TS (Mostly from AnimeCenter) and PMR's fixes\nCR video is completely cooked, would need a ReinForce or similar mux for alt",
+    "notes": "NTRX is JPN BD Remux+Restyled and retimed CR with TS (Mostly from AnimeCenter) and PMR's fixes. BD audio spliced into the English track for the OP/ED.\nCR video is completely cooked, would need a ReinForce or similar mux for alt",
     "comparison": "https://slow.pics/c/DBGHZWF0",
     "best_releases": [
       {
@@ -41077,15 +41113,20 @@
     "alt_title": "Tate no Yuusha no Nariagari Season 2",
     "year": 2022,
     "format": "TV",
-    "notes": "Reza is JPN BD Encode+Official subs, restyled and with OP/ED",
-    "comparison": "https://slow.pics/c/XQATvBnP",
+    "notes": "MaltyBestGirl is Reza+DKILLER1 (Modified CR)\nOP lyrics on the signs track don't match since the song is in English\nStore needs MPV Deband, otherwise get the encode",
+    "comparison": "https://slow.pics/c/avi9e5H9\nhttps://www.diffchecker.com/XY38F0Zo/",
     "best_releases": [
       {
-        "name": "Reza (Dual Audio)",
-        "status": ""
+        "name": "JPN BD+MaltyBestGirl",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "MaltyBestGirl (Dual Audio)",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "The Rising of the Shield Hero Season 3",
