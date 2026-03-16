@@ -16417,7 +16417,7 @@
     "alt_title": "",
     "year": 2023,
     "format": "TV",
-    "notes": "Headpatter is JPN BD Remux+CR\nSubsPlease is CR WEB-DL\nThe BD has significantly better quality, jsum would be a superior alt\nMPV Deband helps everything",
+    "notes": "Headpatter is JPN BD Remux+CR\nHeadpatter is also jsum+CR\nMPV Deband helps everything",
     "comparison": "https://slow.pics/c/zl5KZzSb",
     "best_releases": [
       {
@@ -16427,8 +16427,8 @@
     ],
     "alt_releases": [
       {
-        "name": "SubsPlease",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -17457,8 +17457,8 @@
     "alt_title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
     "year": 2023,
     "format": "TV",
-    "notes": "-ZR- (Remux) is JPN BD Remux+PGS\n-ZR- (WEB) and SubsPlease are CR WEB-DLs",
-    "comparison": "https://slow.pics/c/TLKtrEDc",
+    "notes": "-ZR- (Remux) is JPN BD Remux+PGS\n-ZR- (WEB) and SubsPlease are CR WEB-DLs\nH-Enc would be a much better alt",
+    "comparison": "https://slow.pics/c/TLKtrEDc\nhttps://slow.pics/c/8fhXHOAp",
     "best_releases": [
       {
         "name": "-ZR- (Dual Audio)",
@@ -27556,15 +27556,20 @@
     "alt_title": "",
     "year": 2012,
     "format": "TV",
-    "notes": "Oizys is Yousei+Commie",
-    "comparison": "",
+    "notes": "Oizys is Yousei-raws+Restyled WBDP (Commie), has timing issues not present in the original subs",
+    "comparison": "https://slow.pics/c/bXKquwCq\nhttps://www.diffchecker.com/QiLxrapD/",
     "best_releases": [
       {
-        "name": "Oizys",
-        "status": ""
+        "name": "JPN BD+Commie",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Oizys",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "Nausicaä of the Valley of the Wind",
@@ -42159,8 +42164,8 @@
     "alt_title": "TIGER & BUNNY: The Rising",
     "year": 2014,
     "format": "MOVIE",
-    "notes": "DIY is Drag with audio tracks encoded from the GBR BD to replace the defective audio\nDrag is Yousei+AOmundson",
-    "comparison": "",
+    "notes": "DIY is Yousei-raws+Restyled AOmundson (Modified official) and PGS, uses fixed audio from the GBR BD",
+    "comparison": "https://slow.pics/c/ObWxZDK4\nhttps://www.diffchecker.com/ybrAcUAG/",
     "best_releases": [
       {
         "name": "DIY (Dual Audio)",
