@@ -16418,7 +16418,7 @@
     "year": 2023,
     "format": "TV",
     "notes": "Headpatter is JPN BD Remux+CR\nHeadpatter is also jsum+CR\nMPV Deband helps everything",
-    "comparison": "https://slow.pics/c/zl5KZzSb",
+    "comparison": "https://slow.pics/c/UXKoGYTG\nhttps://slow.pics/c/zl5KZzSb",
     "best_releases": [
       {
         "name": "Headpatter",
@@ -27850,6 +27850,26 @@
     "alt_releases": []
   },
   {
+    "title": "New Saga",
+    "alt_title": "Tsuyokute New Saga",
+    "year": 2025,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nMPV Deband helps everything, especially for the OP which has very strong banding",
+    "comparison": "https://slow.pics/c/dSnwFyte",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Nichijou - My Ordinary Life",
     "alt_title": "Nichijou",
     "year": 2011,
@@ -29753,24 +29773,34 @@
     "alt_releases": []
   },
   {
-    "title": "Overlord II",
-    "alt_title": "",
-    "year": 2018,
-    "format": "TV",
-    "notes": "sam is own encode + neko-kBaraka",
-    "comparison": "https://slow.pics/c/EzKRpLzn",
+    "title": "Overlord: The Undead King",
+    "alt_title": "Overlord: Fushisha no Ou",
+    "year": 2017,
+    "format": "MOVIE",
+    "notes": "Moxie is JPN BD Remux+Edited CR with TS from the series",
+    "comparison": "https://slow.pics/c/AqFJ4iwI\nhttps://www.diffchecker.com/IWxecLlD/\nhttps://www.diffchecker.com/CggWhVjv/",
     "best_releases": [
       {
-        "name": "sam (Dual Audio)",
+        "name": "Moxie",
         "status": ""
       }
     ],
-    "alt_releases": [
+    "alt_releases": []
+  },
+  {
+    "title": "Overlord: The Dark Hero",
+    "alt_title": "Overlord: Shikkoku no Senshi",
+    "year": 2017,
+    "format": "MOVIE",
+    "notes": "Moxie is JPN BD Remux+Edited CR with TS from the series",
+    "comparison": "https://slow.pics/c/8Cv5imTa\nhttps://www.diffchecker.com/BGhQsnWD/\nhttps://www.diffchecker.com/WM26Kmy7/",
+    "best_releases": [
       {
-        "name": "neko-kBaraka",
+        "name": "Moxie",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Overlord III",
@@ -29817,6 +29847,26 @@
     "best_releases": [
       {
         "name": "neko-kBaraka",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "neko-kBaraka",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Overlord II",
+    "alt_title": "",
+    "year": 2018,
+    "format": "TV",
+    "notes": "sam is own encode + neko-kBaraka",
+    "comparison": "https://slow.pics/c/EzKRpLzn",
+    "best_releases": [
+      {
+        "name": "sam (Dual Audio)",
         "status": ""
       }
     ],
@@ -33432,7 +33482,7 @@
     "alt_title": "RWBY: Hyousetsu Teikoku",
     "year": 2022,
     "format": "TV",
-    "notes": "Headpatter is JPN BD Remux+CR and PGS\nYURASUKA is JPN BD Encode+CR, missing fonts and some signs\nThe JPN BD was aggressively debanded resulting in some detail loss, but it has better compression than CR and a huge amount of animation changes",
+    "notes": "Headpatter is JPN BD Remux+CR and PGS\nHeadpatter is also YURASUKA+CR and PGS\nThe JPN BD was aggressively debanded resulting in some detail loss, but it has better compression than CR and a huge amount of animation changes",
     "comparison": "https://slow.pics/c/omzDwQTt",
     "best_releases": [
       {
@@ -33442,8 +33492,8 @@
     ],
     "alt_releases": [
       {
-        "name": "YURASUKA (Dual Audio)",
-        "status": "broken"
+        "name": "Headpatter (Dual Audio)",
+        "status": ""
       }
     ]
   },
@@ -37794,25 +37844,17 @@
     "alt_title": "Taishou Otome Otogibanashi",
     "year": 2021,
     "format": "TV",
-    "notes": "-ZR- and TTGA are JPN BD Remux+Chihiro, -ZR- also includes dub and pgs subs\nChihiro is JPN BD Encode\nHeadpatter is Chihiro+dub",
-    "comparison": "https://slow.pics/c/ADOHg2rT\nhttps://slow.pics/c/9MHmMxKG",
+    "notes": "RigAV1 is JPN BD Encode+Chihiro with various fixes and PGS\nStore should be watched with MPV Deband",
+    "comparison": "https://slow.pics/c/KfGWPrjr\nhttps://slow.pics/c/ADOHg2rT\nhttps://slow.pics/c/9MHmMxKG",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      },
-      {
-        "name": "TTGA",
-        "status": ""
+        "name": "JPN BD+RigAV1",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "Chihiro",
-        "status": ""
-      },
-      {
-        "name": "Headpatter (Dual Audio)",
+        "name": "RigAV1 (Dual Audio)",
         "status": ""
       }
     ]
@@ -41389,11 +41431,11 @@
     "alt_title": "Shiunji-ke no Kodomotachi",
     "year": 2025,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR\nHeadpatter is H-Enc+CR\nBD is uncensored",
-    "comparison": "https://slow.pics/c/4MODouuj",
+    "notes": "RaiN is JPN Encode+CR\nHeadpatter is H-Enc+CR\nBD is uncensored",
+    "comparison": "https://slow.pics/c/Ao5KioBa\nhttps://slow.pics/c/4MODouuj",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
+        "name": "RaiN (Dual Audio)",
         "status": ""
       }
     ],
@@ -45312,6 +45354,26 @@
     "alt_releases": [
       {
         "name": "sxales (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "WITCH WATCH",
+    "alt_title": "Witch Watch",
+    "year": 2025,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nThe JPN BD and CR are very similar, with the main difference being better compression in busy scenes and some BD changes",
+    "comparison": "https://slow.pics/c/3WUB685v",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
         "status": ""
       }
     ]
