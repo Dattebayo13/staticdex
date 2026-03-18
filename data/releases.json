@@ -8812,40 +8812,30 @@
     "alt_title": "DARKER THAN BLACK: Kuro no Keiyakusha",
     "year": 2007,
     "format": "TV",
-    "notes": "UDF is Beatrice-Raws+Restyled CEB with minor fixes. Nyaa version requires patching",
+    "notes": "Headpatter is Beatrice-Raws+UDF (Restyled CEB)",
     "comparison": "https://slow.pics/c/xQGlubiA",
     "best_releases": [
       {
-        "name": "UDF (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "UDF (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Darker than Black: Beneath Cherry Blossoms in Full Bloom",
     "alt_title": "DARKER THAN BLACK: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita",
     "year": 2008,
     "format": "SPECIAL",
-    "notes": "UDF is Beatrice-Raws+Restyled CEB",
+    "notes": "Headpatter is Beatrice-Raws+UDF (Restyled CEB)",
     "comparison": "",
     "best_releases": [
       {
-        "name": "UDF (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "UDF (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Darker than Black: Gemini of the Meteor",
@@ -8872,13 +8862,18 @@
     "alt_title": "DARKER THAN BLACK: Kuro no Keiyakusha - Gaiden",
     "year": 2010,
     "format": "SPECIAL",
-    "notes": "UDF is Yousei+BBS",
+    "notes": "Headpatter is Yousei-raws+UDF (Restyled BSS with ED KFX and TS from Aragami, and some fixed scenebleeds) with glyph issues fixed",
     "comparison": "",
-    "best_releases": [],
+    "best_releases": [
+      {
+        "name": "JPN BD+Headpatter",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
-        "name": "UDF (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -22903,6 +22898,46 @@
     ]
   },
   {
+    "title": "Love Live! Nijigasaki High School Idol Club: NEXT SKY",
+    "alt_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: NEXT SKY",
+    "year": 2023,
+    "format": "OVA",
+    "notes": "RABBIT is JPN BD Remux+Team ONIBE\nTeam ONIBE is JPN BD Encode+OTL",
+    "comparison": "https://slow.pics/c/m8gR6GIe\nhttps://www.diffchecker.com/g6wovA3I/",
+    "best_releases": [
+      {
+        "name": "RABBIT",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Team ONIBE",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Love Live! Nijigasaki High School Idol Club The Movie – Finale – Chapter 1",
+    "alt_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
+    "year": 2024,
+    "format": "MOVIE",
+    "notes": "Team ONIBE is JPN BD Encode+OTL",
+    "comparison": "https://slow.pics/c/OhocRSGV\nhttps://www.diffchecker.com/6P74IncB/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Team ONIBE",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Team ONIBE",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Love Live! School Idol Project",
     "alt_title": "Love Live! School idol project",
     "year": 2013,
@@ -28823,6 +28858,26 @@
     "alt_releases": [
       {
         "name": "C137",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Okami-san and Her Seven Companions",
+    "alt_title": "Ookami-san to Shichinin no Nakama-tachi",
+    "year": 2010,
+    "format": "TV",
+    "notes": "ANE is JPN BD Encode+Mazui",
+    "comparison": "https://slow.pics/c/k1tHzCPB\nhttps://www.diffchecker.com/yLxE7fgb/",
+    "best_releases": [
+      {
+        "name": "JPN BD+ANE",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ANE",
         "status": ""
       }
     ]
