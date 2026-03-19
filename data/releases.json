@@ -26401,12 +26401,12 @@
     "alt_title": "Boku no Hero Academia 5",
     "year": 2021,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+PGS\niAHD is USA BD Encode+PGS",
+    "notes": "fig is ITA BD Remux+CR with Z-A TS and OP/ED KFX\niAHD is USA BD Encode+PGS",
     "comparison": "https://slow.pics/c/nyGEgKZM",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "fig (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26445,12 +26445,12 @@
     "alt_title": "Boku no Hero Academia 6",
     "year": 2022,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+Tenrai-Sensei and PGS\nC3NTRIC is CR WEB-DL+Tenrai-Sensei (Official with TS) and all official subs",
-    "comparison": "https://slow.pics/c/4fwzDtTj",
+    "notes": "-ZR- is JPN BD Remux+Tenrai-Sensei and PGS. Last character of the OP1 KFX stays on screen until the next subtitle (which might be a while on the signs track...)\nC3NTRIC is CR WEB-DL+Tenrai-Sensei (CR with TS) and stock CR. Nyaa version is outdated.",
+    "comparison": "https://slow.pics/c/4fwzDtTj\nhttps://www.diffchecker.com/7R2paGl4/",
     "best_releases": [
       {
         "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -27766,7 +27766,7 @@
     "year": 2009,
     "format": "MOVIE",
     "notes": "QM is JPN BD Remux+Baws\nBaws is Beatrice-Raws+modified THORA and PGS",
-    "comparison": "https://slow.pics/c/DPomNMhO",
+    "comparison": "https://slow.pics/c/DPomNMhO\nhttps://slow.pics/c/ge0RagAy",
     "best_releases": [
       {
         "name": "QM",
@@ -36691,6 +36691,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Star Driver",
+    "alt_title": "STAR DRIVER: Kagayaki no Takuto",
+    "year": 2010,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+Coalgirls and PGS\nCoalgirls is JPN BD Encode+Modified gg\nYousei-raws would be a much better alt",
+    "comparison": "https://slow.pics/c/9GlJggjc\nhttps://www.diffchecker.com/ZpI4RoDz/",
+    "best_releases": [
+      {
+        "name": "NAN0",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Coalgirls",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Star Wars: Visions",
