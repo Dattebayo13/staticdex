@@ -4183,6 +4183,30 @@
     ]
   },
   {
+    "title": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2",
+    "alt_title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd",
+    "year": 2024,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+CR\nErai-raws and -ZR- are CR WEB-DLs\nEverything except the JPN BD is pretty bad, should look into neoDESU/Cyan for a future mux",
+    "comparison": "https://slow.pics/c/lFCcIujD\nhttps://www.diffchecker.com/5Qf7KvCp/",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "-ZR- (Dual Audio)",
+        "status": "not_nyaa"
+      },
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Barakamon",
     "alt_title": "",
     "year": 2014,
@@ -8862,12 +8886,12 @@
     "alt_title": "DARKER THAN BLACK: Kuro no Keiyakusha - Gaiden",
     "year": 2010,
     "format": "SPECIAL",
-    "notes": "Headpatter is Yousei-raws+UDF (Restyled BSS with ED KFX and TS from Aragami, and some fixed scenebleeds) with glyph issues fixed",
+    "notes": "Headpatter is JPN BD Remux+UDF (Restyled BSS with ED KFX and TS from Aragami, and some fixed scenebleeds) with glyph issues fixed\nHeadpatter is also Yousei-raws with the same subs",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JPN BD+Headpatter",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -22367,7 +22391,7 @@
     "year": 2012,
     "format": "MOVIE",
     "notes": "Kagura+Lazy",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/tmmurX9E",
     "best_releases": [
       {
         "name": "Drag",
@@ -25255,30 +25279,15 @@
     "alt_releases": []
   },
   {
-    "title": "Mobile Suit Gundam SEED FREEDOM",
-    "alt_title": "Kidou Senshi Gundam SEED FREEDOM",
-    "year": 2024,
-    "format": "MOVIE",
-    "notes": "PMR is JPN BD Remux+modified CR (typeset, removed unnecessary line breaks, restyled), stock CR, and PGS\nWeb quality is very bad and misses significant changes",
-    "comparison": "https://slow.pics/c/YD0wXDmG\nhttps://slow.pics/c/cm1CS8sX",
-    "best_releases": [
-      {
-        "name": "PMR",
-        "status": ""
-      }
-    ],
-    "alt_releases": []
-  },
-  {
-    "title": "Mobile Suit Gundam: The Origin",
-    "alt_title": "Kidou Senshi Gundam: THE ORIGIN",
+    "title": "Mobile Suit GUNDAM Iron Blooded Orphans",
+    "alt_title": "Kidou Senshi Gundam: Tekketsu no Orphans",
     "year": 2015,
-    "format": "OVA",
-    "notes": "sam is JPN BD Encode+modified ZetaRebel \"Retimed dialogue (roughly) and signs, styled, added missing lines, and did some basic TS.\"",
-    "comparison": "https://slow.pics/c/OUHQHvEX",
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS with TS from Manko\nThere's not really viable alts to list, the alternatives have much worse quality, are sourced from an inferior master missing all the BD changes, or have corruption. A jsum mux would work.",
+    "comparison": "https://slow.pics/c/EDVUrT8T",
     "best_releases": [
       {
-        "name": "sam (Dual Audio)",
+        "name": "hchcsen (Dual Audio)",
         "status": ""
       }
     ],
@@ -25325,6 +25334,36 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam SEED FREEDOM",
+    "alt_title": "Kidou Senshi Gundam SEED FREEDOM",
+    "year": 2024,
+    "format": "MOVIE",
+    "notes": "PMR is JPN BD Remux+modified CR (typeset, removed unnecessary line breaks, restyled), stock CR, and PGS\nWeb quality is very bad and misses significant changes",
+    "comparison": "https://slow.pics/c/YD0wXDmG\nhttps://slow.pics/c/cm1CS8sX",
+    "best_releases": [
+      {
+        "name": "PMR",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Mobile Suit Gundam: The Origin",
+    "alt_title": "Kidou Senshi Gundam: THE ORIGIN",
+    "year": 2015,
+    "format": "OVA",
+    "notes": "sam is JPN BD Encode+modified ZetaRebel \"Retimed dialogue (roughly) and signs, styled, added missing lines, and did some basic TS.\"",
+    "comparison": "https://slow.pics/c/OUHQHvEX",
+    "best_releases": [
+      {
+        "name": "sam (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Mobile Suit Gundam: The Witch from Mercury - PROLOGUE",
     "alt_title": "Kidou Senshi Gundam: Suisei no Majo - PROLOGUE",
     "year": 2022,
@@ -25340,6 +25379,26 @@
     "alt_releases": [
       {
         "name": "NOGRP (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Modern Magic Made Simple",
+    "alt_title": "Yokuwakaru Gendaimahou",
+    "year": 2009,
+    "format": "TV",
+    "notes": "Tsundere is JPN BD Encode+Modified Commie-Rips with polished’s OP and ED\nTsundere video is EXTREMELY bad but there's no other options using their subs (except -ZR-, which is 5 frames out of sync)\nQTS (1080p) would be a much better alt",
+    "comparison": "https://slow.pics/c/LXC8zWik",
+    "best_releases": [
+      {
+        "name": "JPN BD+Tsundere",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Tsundere",
         "status": ""
       }
     ]
@@ -33433,13 +33492,9 @@
     "alt_title": "Rosario to Vampire",
     "year": 2008,
     "format": "TV",
-    "notes": "Headpatter and ﻿Exp are Yousei-raws+Tsundere",
+    "notes": "Headpatter is Yousei-raws+Tsundere",
     "comparison": "https://slow.pics/c/gcpGXOeP",
     "best_releases": [
-      {
-        "name": "Exp",
-        "status": ""
-      },
       {
         "name": "Headpatter (Dual Audio)",
         "status": ""
@@ -38716,7 +38771,7 @@
     "year": 2021,
     "format": "OVA",
     "notes": "sam is JPN BD encode+CR with retimed dialogue",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/vu1SqLOm",
     "best_releases": [
       {
         "name": "sam (Dual Audio)",
@@ -40426,7 +40481,7 @@
     "year": 2022,
     "format": "SPECIAL",
     "notes": "sam is own encode + typeset/retimed officials",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/RRychlC1",
     "best_releases": [
       {
         "name": "sam (Dual Audio)",
