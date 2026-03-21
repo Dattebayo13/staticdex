@@ -2414,7 +2414,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -2434,7 +2434,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -6438,7 +6438,7 @@
     "alt_releases": [
       {
         "name": "Deago",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -6458,7 +6458,7 @@
     "alt_releases": [
       {
         "name": "Deago",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -6532,7 +6532,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -6552,7 +6552,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -8841,7 +8841,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -8856,7 +8856,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -8891,13 +8891,13 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -8991,7 +8991,7 @@
     "best_releases": [
       {
         "name": "Moxie (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -12017,7 +12017,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -12037,7 +12037,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -12583,7 +12583,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -13234,7 +13234,7 @@
     "best_releases": [
       {
         "name": "Moxie (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -13254,7 +13254,7 @@
     "best_releases": [
       {
         "name": "UnHoly (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -13274,7 +13274,7 @@
     "best_releases": [
       {
         "name": "UnHoly (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -13294,7 +13294,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -15103,7 +15103,7 @@
     "comparison": "https://slow.pics/c/Do4pvS8b\nhttps://slow.pics/c/SUh67UFK",
     "best_releases": [
       {
-        "name": "hchcsen",
+        "name": "hchcsen (Dual Audio)",
         "status": ""
       }
     ],
@@ -15123,7 +15123,7 @@
     "comparison": "https://slow.pics/c/ACBgVn3Q\nhttps://slow.pics/c/PmFFqPjf",
     "best_releases": [
       {
-        "name": "hchcsen",
+        "name": "hchcsen (Dual Audio)",
         "status": ""
       }
     ],
@@ -16441,13 +16441,13 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -17476,21 +17476,17 @@
     "alt_title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
     "year": 2023,
     "format": "TV",
-    "notes": "-ZR- (Remux) is JPN BD Remux+PGS\n-ZR- (WEB) and SubsPlease are CR WEB-DLs\nH-Enc would be a much better alt",
+    "notes": "Sylvar is H-Enc+Restyled CR",
     "comparison": "https://slow.pics/c/TLKtrEDc\nhttps://slow.pics/c/8fhXHOAp",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      },
-      {
-        "name": "SubsPlease",
+        "name": "Sylvar (Dual Audio)",
         "status": ""
       }
     ]
@@ -19369,7 +19365,7 @@
     "best_releases": [
       {
         "name": "12GaugeShotgun (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -22931,7 +22927,7 @@
     "best_releases": [
       {
         "name": "RABBIT",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -25124,7 +25120,47 @@
     "alt_releases": [
       {
         "name": "Holomux",
-        "status": "not_nyaa"
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mitsudomoe: OPPAI IPPAI Mama Genki",
+    "alt_title": "",
+    "year": 2011,
+    "format": "SPECIAL",
+    "notes": "Holomux is Salender-Raws+polished\npolished subs are FFFpeeps with ToyBox styling/TS, CR with DmoniHiro styling/ToyBox TS, and FFFpeeps with original styling/ToyBox TS",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "JPN BD+polished",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Holomux",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mitsudomoe Zouryouchuu!",
+    "alt_title": "",
+    "year": 2011,
+    "format": "TV",
+    "notes": "Holomux is Salender-Raws+polished\npolished subs are FFFpeeps with ToyBox styling/TS, CR with DmoniHiro styling/ToyBox TS, and FFFpeeps with original styling/ToyBox TS",
+    "comparison": "https://slow.pics/c/8oHD9OdF\nhttps://www.diffchecker.com/nZHDGO3k/",
+    "best_releases": [
+      {
+        "name": "JPN BD+polished",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Holomux",
+        "status": ""
       }
     ]
   },
@@ -25283,7 +25319,7 @@
     "alt_title": "Kidou Senshi Gundam: Tekketsu no Orphans",
     "year": 2015,
     "format": "TV",
-    "notes": "hchcsen is JPN BD Remux+OCR'd PGS with TS from Manko\nThere's not really viable alts to list, the alternatives have much worse quality, are sourced from an inferior master missing all the BD changes, or have corruption. A jsum mux would work.",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS with TS from Manko\nHeadpatter is jsum+hchcsen",
     "comparison": "https://slow.pics/c/EDVUrT8T",
     "best_releases": [
       {
@@ -25291,7 +25327,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Mobile Suit Gundam: The Witch from Mercury",
@@ -26504,7 +26545,7 @@
     "alt_title": "Boku no Hero Academia 6",
     "year": 2022,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+Tenrai-Sensei and PGS. Last character of the OP1 KFX stays on screen until the next subtitle (which might be a while on the signs track...)\nC3NTRIC is CR WEB-DL+Tenrai-Sensei (CR with TS) and stock CR. Nyaa version is outdated.",
+    "notes": "-ZR- is JPN BD Remux+Tenrai-Sensei and PGS. Last character of the OP1 KFX stays on screen until the next subtitle (which might be a while on the signs track...)\nC3NTRIC is CR WEB-DL+Tenrai-Sensei (CR with TS) and stock CR",
     "comparison": "https://slow.pics/c/4fwzDtTj\nhttps://www.diffchecker.com/7R2paGl4/",
     "best_releases": [
       {
@@ -27769,12 +27810,12 @@
     "alt_title": "Shin Seiki Evangelion",
     "year": 1995,
     "format": "TV",
-    "notes": "McBalls is Yurasyk+Dekinai, 2D4U, and Sephirotic\nvanner64 is a USA BD remux, but it's PGS only and doesn't contain the original ED music",
-    "comparison": "https://slow.pics/c/2HiVvYhs\nhttps://slow.pics/c/Po5eN9Fy",
+    "notes": "GetInDaRobot is USA BD Remux+Dekinai (Modified (weebified) Bloat, which is R1 ADV Platinum), and PGS.  Fly Me to the Moon restored to all tracks.\nMcBalls is Yurasyk+Dekinai, 2D4U, and Sephirotic",
+    "comparison": "https://slow.pics/c/2HiVvYhs\nhttps://slow.pics/c/Po5eN9Fy\nhttps://www.diffchecker.com/FngyC1vV/",
     "best_releases": [
       {
-        "name": "USA BD+?",
-        "status": "unmuxed"
+        "name": "GetInDaRobot (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -32403,7 +32444,7 @@
     "alt_releases": [
       {
         "name": "MuGi (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -38267,7 +38308,7 @@
     "alt_releases": [
       {
         "name": "CTR (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -39568,7 +39609,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -39588,7 +39629,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -40491,6 +40532,30 @@
     "alt_releases": []
   },
   {
+    "title": "The Irregular at Magic High School Season 3",
+    "alt_title": "Mahouka Koukou no Rettousei 3rd Season",
+    "year": 2024,
+    "format": "TV",
+    "notes": "VALKYRiE is JPN BD Remux+CR\nErai-raws and -ZR- are CR WEB-DLs\nThe JPN BD has some heavily lowpassed scenes but much better compression than CR",
+    "comparison": "https://slow.pics/c/oUUalOUf\nhttps://slow.pics/c/FM6rlCnR",
+    "best_releases": [
+      {
+        "name": "VALKYRiE (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "-ZR- (Dual Audio)",
+        "status": "not_nyaa"
+      },
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "The Kawai Complex Guide to Manors and Hostel Behavior",
     "alt_title": "Bokura wa Minna Kawaisou",
     "year": 2014,
@@ -41211,20 +41276,15 @@
     "alt_title": "THE REFLECTION WAVE ONE",
     "year": 2017,
     "format": "TV",
-    "notes": "Hi10 is a CR WEBRip with timing, editing, and TS by kBaraka\nThe web sources are all starved and the BD is being hoarded by a Chinese group that only released a terrible encode\n*FUNI ENG is the least bad but has hardsubs for the Japanese character's dialogue and TS baked into the video",
-    "comparison": "https://slow.pics/c/R2JGpesy",
+    "notes": "hchcsen is JPN BD Remux+Hi10 (CR with timing, editing, and TS by kBaraka) and PGS",
+    "comparison": "https://slow.pics/c/70wWjxjT\nhttps://slow.pics/c/R2JGpesy",
     "best_releases": [
       {
-        "name": "FUNI ENG+Hi10*",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Hi10",
+        "name": "hchcsen (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "The Reincarnation of the Strongest Exorcist in Another World",
@@ -41736,7 +41796,7 @@
     "alt_releases": [
       {
         "name": "RandomBytes (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -42271,7 +42331,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -45250,7 +45310,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -46121,6 +46181,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "You're Under Arrest! (TV)",
+    "alt_title": "Taiho Shichauzo (TV)",
+    "year": 1996,
+    "format": "TV",
+    "notes": "sxales is R2J DVD Encode+a-s (R1)",
+    "comparison": "https://slow.pics/c/cxau2zh9",
+    "best_releases": [
+      {
+        "name": "A&C+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "sxales (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "YOUR FORMA",
