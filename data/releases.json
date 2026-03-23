@@ -15283,7 +15283,7 @@
     "alt_title": "Haikara-san ga Tooru: Tokyo Dai Roman",
     "year": 2018,
     "format": "MOVIE",
-    "notes": "Moxie is JPN BD Remux+Official with BBF-Owari TS and songs\njsum would be a good alt",
+    "notes": "Moxie is JPN BD Remux+Official with BBF-Owari TS and songs\nHeadpatter is jsum+Moxie",
     "comparison": "https://slow.pics/c/Cyg1fNWm",
     "best_releases": [
       {
@@ -15291,7 +15291,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "HAIKYU!!",
@@ -16456,12 +16461,12 @@
     "alt_title": "HIGH CARD season 2",
     "year": 2024,
     "format": "TV",
-    "notes": "Erai-raws is a CR WEB-DL\nThe JPN BD and CR are quite similar for the actual episode, but the BD has blurred chroma. For the OP the BD is drastically better since CR just completely falls apart. They both have tons of banding so you'll really wanna enable MPV Deband.",
+    "notes": "Headpatter is JPN BD Remux+CR\nErai-raws is a CR WEB-DL\nThe JPN BD and CR are quite similar for the actual episode, but the BD has blurred chroma. For the OP the BD is drastically better since CR just completely falls apart. They both have tons of banding so you'll really wanna enable MPV Deband.",
     "comparison": "https://slow.pics/c/gqWgHl6s",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -16656,12 +16661,12 @@
     "alt_title": "Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD",
     "year": 2010,
     "format": "TV",
-    "notes": "SCY is JPN BD Encode+heavily edited gg/Kira subs",
+    "notes": "Sylvar is JPN BD Remux+SCY\nSCY is JPN BD Encode+heavily edited gg/Kira subs",
     "comparison": "https://slow.pics/c/g9ja6fuh",
     "best_releases": [
       {
-        "name": "JPN BD+SCY",
-        "status": "unmuxed"
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -25255,19 +25260,44 @@
     ]
   },
   {
+    "title": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+    "alt_title": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+    "year": 2019,
+    "format": "OVA",
+    "notes": "MTBB is JPN BD Encode+Modified Arrow (CR with honorifics removed and TS)\nOnsen is Serendipity+Arrow",
+    "comparison": "https://slow.pics/c/zJ1QXWm6\nhttps://www.diffchecker.com/0qTpbzj1/",
+    "best_releases": [
+      {
+        "name": "MTBB",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Onsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mob Psycho 100 II",
     "alt_title": "",
     "year": 2019,
     "format": "TV",
-    "notes": "derp is Serendipity+SaltSplash (modified Glue (1-3), CR (4-13))",
-    "comparison": "https://slow.pics/c/pHCMQ4gA",
+    "notes": "MTBB is JPN BD Encode+Modified SaltSplash (modified Glue for E1-3, modified CR for E4-13)\nderp is Serendipity+SaltSplash",
+    "comparison": "https://slow.pics/c/KHxbH32k\nhttps://slow.pics/c/pHCMQ4gA\nhttps://www.diffchecker.com/DTqx4kuu/",
     "best_releases": [
+      {
+        "name": "MTBB",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "derp (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Mob Psycho 100 III",
@@ -37254,7 +37284,7 @@
     "alt_title": "Isekai Shoukan wa Nidome desu",
     "year": 2023,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+CR\nErai-raws/SubsPlease are CR WEB-DLs\nCR is starved but nobody muxed VCB and the Spare encode is bad",
+    "notes": "PMR is JPN BD Remux+CR\nNOGRP is VCB-Studio+CR",
     "comparison": "https://slow.pics/c/TvEIagAR",
     "best_releases": [
       {
@@ -37264,11 +37294,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Erai-raws",
-        "status": ""
-      },
-      {
-        "name": "SubsPlease",
+        "name": "NOGRP",
         "status": "not_nyaa"
       }
     ]
