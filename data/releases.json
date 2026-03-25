@@ -45091,22 +45091,18 @@
     "alt_title": "NHK ni Youkoso!",
     "year": 2006,
     "format": "TV",
-    "notes": "UDF is Urotsuki+Dekinai with several fixes\nDekinai is Ohys-Raws+Oyasumi\nWSE is Dekinai with dub",
-    "comparison": "https://slow.pics/c/M8nHPBq3",
+    "notes": "Okay-Subs is Delowpassed R2J DVD Encode+Edited CR\nUDF is Urotsuki+Dekinai (Oyasumi) with several fixes",
+    "comparison": "https://slow.pics/c/EAUfzIx2\nhttps://slow.pics/c/0tMqBBAG\nhttps://slow.pics/c/M8nHPBq3\nhttps://www.diffchecker.com/bs48mWhK/\nhttps://www.diffchecker.com/pGros4Gn/",
     "best_releases": [
       {
-        "name": "UDF (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "Okay-Subs",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Dekinai",
-        "status": ""
-      },
-      {
-        "name": "WSE (Dual Audio)",
-        "status": ""
+        "name": "UDF (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
