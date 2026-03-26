@@ -11592,6 +11592,26 @@
     ]
   },
   {
+    "title": "Fate/kaleid liner Prisma☆Illya 2wei!",
+    "alt_title": "",
+    "year": 2014,
+    "format": "TV",
+    "notes": "SOLA is =^_^=+Restyled SNSbu with a few typos fixed and missing signs added\nSNSbu is modified Tsundere (UTW)",
+    "comparison": "https://slow.pics/c/WPGfNMyg\nhttps://www.diffchecker.com/xyd3qGQg/",
+    "best_releases": [
+      {
+        "name": "JPN BD+SOLA",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SOLA (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!",
     "alt_title": "Fate/kaleid liner Prisma☆Illya: Undoukai DE Dance!",
     "year": 2014,
@@ -13947,7 +13967,7 @@
     "alt_title": "",
     "year": 2012,
     "format": "TV",
-    "notes": "ak-Submarines is VCB-Studio+Revised version of their original subs (Heavily edited mix of several sources, mostly Hiryuu and Commie’s “no fun allowed” track, plus /ak/ own translations)\nStore requires MPV deband\nBeatrice-Raws has better video quality but they randomly cut 3 frames of content before the midcard in episode 6 and none of the muxes accounted for  it so the subs/audio are desynced in the second half\nWhen muxing the dub use CTR's audio as they spliced in the original music in episode 8, which is required to match JPN BD video",
+    "notes": "SubsMix is Beatrice-Raws+ak-Submarines, Commie, and Hiryuu\nak-Submarines subs are a revised version of their original subs (Heavily edited mix of several sources, mostly Hiryuu and Commie’s “no fun allowed” track, plus /ak/ own translations)\nStore requires MPV deband\nBeatrice-Raws has better video quality but they randomly cut 3 frames of content before the midcard in episode 6, SubsMix shifted the subs/audio to account for it\nWhen muxing the dub use CTR's audio as they spliced in the original music in episode 8, which is required to match JPN BD video",
     "comparison": "https://slow.pics/c/3Iid6IPo\nhttps://slow.pics/c/TJYhTjKt\nhttps://www.diffchecker.com/0DCUCEVf/",
     "best_releases": [
       {
@@ -13957,7 +13977,7 @@
     ],
     "alt_releases": [
       {
-        "name": "ak-Submarines",
+        "name": "SubsMix",
         "status": ""
       }
     ]
@@ -15084,11 +15104,11 @@
     "alt_title": "Tengen Toppa Gurren Lagann",
     "year": 2007,
     "format": "TV",
-    "notes": "misc72 is Beatrice-Raws+hchcsen\nBeatrice-Raws is JPN BD Encode with compositing errors fixed and sometimes even redrawn, alongside heavy scenefiltering to fix particularly bad instances of banding and aliasing\nhchcsen subs are MTBB dialogue for E1-15 and Tsundere dialogue for E16-27. TS throughout is a mix of Tsundere and AOmundson",
+    "notes": "Mehul is Beatrice-Raws+Restyled hchcsen with added song TL for the insert in episode 11 and fixed and retimed double attack fx instances in episode 7.  The 5.1 dub track is properly synced unlike previous releases, and it contains the slightly different 2.0 dub too.\nBeatrice-Raws is JPN BD Encode with compositing errors fixed and sometimes even redrawn, alongside heavy scenefiltering to fix particularly bad instances of banding and aliasing\nhchcsen subs are MTBB dialogue for E1-15 and Tsundere dialogue for E16-27. TS throughout is a mix of Tsundere and AOmundson",
     "comparison": "https://slow.pics/c/YVAqdRPj\nhttps://slow.pics/c/zZJk7554\nhttps://slow.pics/c/LhwmMRDZ",
     "best_releases": [
       {
-        "name": "misc72 (Dual Audio)",
+        "name": "Mehul (Dual Audio)",
         "status": ""
       }
     ],
@@ -25264,40 +25284,38 @@
     "alt_title": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
     "year": 2019,
     "format": "OVA",
-    "notes": "MTBB is JPN BD Encode+Modified Arrow (CR with honorifics removed and TS)\nOnsen is Serendipity+Arrow",
+    "notes": "MTBB is JPN BD Encode+Modified Arrow (CR with honorifics removed and TS)\nBlackRose is MTBB with dub",
     "comparison": "https://slow.pics/c/zJ1QXWm6\nhttps://www.diffchecker.com/0qTpbzj1/",
     "best_releases": [
+      {
+        "name": "BlackRose (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "MTBB",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Onsen (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Mob Psycho 100 II",
     "alt_title": "",
     "year": 2019,
     "format": "TV",
-    "notes": "MTBB is JPN BD Encode+Modified SaltSplash (modified Glue for E1-3, modified CR for E4-13)\nderp is Serendipity+SaltSplash",
+    "notes": "MTBB is JPN BD Encode+Modified SaltSplash (modified Glue for E1-3, modified CR for E4-13)\nBlackRose is MTBB with dub and ED lyrics restored for the episode 1 ending",
     "comparison": "https://slow.pics/c/KHxbH32k\nhttps://slow.pics/c/pHCMQ4gA\nhttps://www.diffchecker.com/DTqx4kuu/",
     "best_releases": [
+      {
+        "name": "BlackRose (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "MTBB",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "derp (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Mob Psycho 100 III",
@@ -25400,6 +25418,26 @@
     "alt_releases": [
       {
         "name": "NOGRP (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mobile Suit Gundam GQuuuuuuX",
+    "alt_title": "Kidou Senshi Gundam GQuuuuuuX",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Kaleido-subs is AMZN WEBRip+OTL\nThe JPN BD is massively better than AMZN and has tons of BD changes, there are some heavily lowpassed scenes though",
+    "comparison": "https://slow.pics/c/FGoaykla\nhttps://slow.pics/c/5xpio9bj\nhttps://www.diffchecker.com/oqgFWzO1/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Kaleido-subs",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kaleido-subs (Dual Audio)",
         "status": ""
       }
     ]
@@ -34781,6 +34819,26 @@
     "alt_releases": []
   },
   {
+    "title": "SENRAN KAGURA SHINOVI MASTER",
+    "alt_title": "Senran Kagura SHINOVI MASTER: Tokyo Youma-hen",
+    "year": 2018,
+    "format": "TV",
+    "notes": "GetItTwisted is JPN BD Remux+Tenrai-Sensei with OP/ED KFX removed and TL changed to official, PGS, and CR\nGetItTwisted is also jsum with the same subs",
+    "comparison": "https://slow.pics/c/ZJJIGf7m",
+    "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Senryu Girl",
     "alt_title": "Senryuu Shoujo",
     "year": 2019,
@@ -42965,18 +43023,18 @@
     "alt_title": "Tokyo Mew Mew New~♡",
     "year": 2022,
     "format": "TV",
-    "notes": "ODD is AMZN WEB-DL+Fansub based on HIDI\nIrizaRaws would be a better alt",
+    "notes": "Headpatter is JPN BD Remux+ODD (Fansub based on HIDI)\nHeadpatter is also jsum+ODD",
     "comparison": "https://slow.pics/c/vckl4Qsn\nhttps://www.diffchecker.com/ZSDprV3W/",
     "best_releases": [
       {
-        "name": "JPN BD+ODD",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "ODD",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -45481,12 +45539,12 @@
     "alt_title": "",
     "year": 2025,
     "format": "TV",
-    "notes": "Kitsune and Erai-raws are CR WEB-DLs",
+    "notes": "Sylvar is JPN BD Remux+Restyled CR with TS taken from the Italian track\nKitsune and Erai-raws are CR WEB-DLs",
     "comparison": "https://slow.pics/c/ixMSNaLc",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
