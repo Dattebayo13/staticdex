@@ -11596,12 +11596,12 @@
     "alt_title": "",
     "year": 2014,
     "format": "TV",
-    "notes": "SOLA is =^_^=+Restyled SNSbu with a few typos fixed and missing signs added\nSNSbu is modified Tsundere (UTW)",
+    "notes": "PMR is JPN BD Remux+SOLA with a sign added in episode 8, and PGS\nSOLA is =^_^=+Restyled SNSbu with a few typos fixed and missing signs added\nSNSbu is modified Tsundere (UTW)",
     "comparison": "https://slow.pics/c/WPGfNMyg\nhttps://www.diffchecker.com/xyd3qGQg/",
     "best_releases": [
       {
-        "name": "JPN BD+SOLA",
-        "status": "unmuxed"
+        "name": "PMR (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -14952,11 +14952,11 @@
     "alt_title": "",
     "year": 2011,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+SCY, NF, and PGS\nSCY is Beatrice-Raws+Modified Coalgirls (Commie)",
-    "comparison": "https://slow.pics/c/KFsLd4o3\nhttps://slow.pics/c/1tmR253Y",
+    "notes": "Kawatare is JPN BD Encode+SCY, NF, and PGS\nSCY is Beatrice-Raws+Modified Coalgirls (Commie)",
+    "comparison": "https://slow.pics/c/TVVwqHVP\nhttps://slow.pics/c/KFsLd4o3\nhttps://slow.pics/c/1tmR253Y",
     "best_releases": [
       {
-        "name": "NAN0 (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ],
@@ -24885,6 +24885,44 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Midnight Eye Goku",
+    "alt_title": "MIDNIGHT EYE: Gokuu",
+    "year": 1989,
+    "format": "OVA",
+    "notes": "MrManager and PTP are USA BD Remux+(Yellow) PGS. Contains both English dubs",
+    "comparison": "https://slow.pics/c/ryERuprf\nhttps://slow.pics/c/UmWoxK3B",
+    "best_releases": [
+      {
+        "name": "MrManager (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "PTP (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Midnight Eye Goku II",
+    "alt_title": "MIDNIGHT EYE: Gokuu II",
+    "year": 1989,
+    "format": "OVA",
+    "notes": "MrManager and PTP are USA BD Remux+(Yellow) PGS. Contains both English dubs",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "MrManager (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "PTP (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Mieruko-chan",
