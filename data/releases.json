@@ -8057,6 +8057,21 @@
     ]
   },
   {
+    "title": "Cleopatra D.C.",
+    "alt_title": "",
+    "year": 1989,
+    "format": "OVA",
+    "notes": "ProRemux666 is JPN BD Remux+563 (A-FanRips)",
+    "comparison": "https://slow.pics/c/sLZc0DuE\nhttps://slow.pics/c/ellNYLlv",
+    "best_releases": [
+      {
+        "name": "ProRemux666",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Clevatess",
     "alt_title": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
     "year": 2025,
@@ -32503,12 +32518,12 @@
     "alt_title": "",
     "year": 2021,
     "format": "TV",
-    "notes": "Summer is AI-Raws+FUNI ran through shiftcut with \"very light QC\"\nThe USA BD has a pretty strong lowpass but it's the only BD available and web sources are too starved",
+    "notes": "MuGi is USA BD Remux+Restyled and stock Summer, and PGS. The PGS signs track is forced so if you're watching dubbed you'll want to switch tracks\nSummer is AI-Raws+FUNI ran through shiftcut with \"very light QC\"\nThe USA BD has a pretty strong lowpass but it's the only BD available and web sources are too starved",
     "comparison": "https://slow.pics/c/Fj83GhTY",
     "best_releases": [
       {
-        "name": "USA BD+Summer",
-        "status": "unmuxed"
+        "name": "MuGi (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
