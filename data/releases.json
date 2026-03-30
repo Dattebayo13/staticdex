@@ -2573,6 +2573,26 @@
     ]
   },
   {
+    "title": "Arknights: RISE FROM EMBER",
+    "alt_title": "Arknights: Enshin Shomei",
+    "year": 2025,
+    "format": "TV",
+    "notes": "RABBIT is JPN BD Remux+CR and PGS\nErai-raws is a CR WEB-DL\nBoth sources are quite similar overall but the BD is much better in busier scenes",
+    "comparison": "https://slow.pics/c/d3JCjC8r",
+    "best_releases": [
+      {
+        "name": "RABBIT",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Armor Shop for Ladies & Gentlemen",
     "alt_title": "Otona no Bouguya-san",
     "year": 2018,
@@ -8061,15 +8081,20 @@
     "alt_title": "",
     "year": 1989,
     "format": "OVA",
-    "notes": "ProRemux666 is JPN BD Remux+563 (A-FanRips)",
-    "comparison": "https://slow.pics/c/sLZc0DuE\nhttps://slow.pics/c/ellNYLlv",
+    "notes": "ProRemux666 is JPN BD Remux+563\n563 is JPN BD Encode+A-FanRips",
+    "comparison": "https://slow.pics/c/sLZc0DuE\nhttps://slow.pics/c/ellNYLlv\nhttps://slow.pics/c/piS7YUtW\nhttps://slow.pics/c/vDOLv2pi",
     "best_releases": [
       {
         "name": "ProRemux666",
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "563",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Clevatess",
@@ -17635,7 +17660,7 @@
     "alt_title": "Tensei Shitara Dai Nana Ouji Datta node, Kimamani Majutsu wo Kiwamemasu",
     "year": 2024,
     "format": "TV",
-    "notes": "-ZR- and PMR are JPN BD Remux+CR\nHeadpatter is H-Enc+CR\nBD has a chroma shift but is way better than CR",
+    "notes": "-ZR- and PMR are JPN BD Remux+CR\nHeadpatter is H-Enc+CR and PGS\nBD has a chroma shift but is way better than CR",
     "comparison": "https://slow.pics/c/uiXP5XnJ\nhttps://slow.pics/c/M7JGsOx1",
     "best_releases": [
       {
@@ -17650,7 +17675,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": ""
+        "status": "not_nyaa"
       }
     ]
   },
@@ -36938,7 +36963,7 @@
     "alt_title": "STAR DRIVER: Kagayaki no Takuto",
     "year": 2010,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+Coalgirls and PGS\nCoalgirls is JPN BD Encode+Modified gg\nYousei-raws would be a much better alt",
+    "notes": "NAN0 is JPN BD Remux+Coalgirls (Modified gg) and PGS\nHeadpatter is Yousei-raws+Coalgirls and PGS",
     "comparison": "https://slow.pics/c/9GlJggjc\nhttps://www.diffchecker.com/ZpI4RoDz/",
     "best_releases": [
       {
@@ -36948,8 +36973,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Coalgirls",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -39369,11 +39394,11 @@
     "alt_title": "Kimi no Iro",
     "year": 2024,
     "format": "MOVIE",
-    "notes": "izzybell is JPN BD Remux+Restyled a2a (OCR'd PGS)\nZoroSenpai is JPN BD Encode+OCR'd PGS",
-    "comparison": "https://slow.pics/c/0MaHTwQw\nhttps://slow.pics/c/fwo2DjcV",
+    "notes": "LG is DCP Encode+izzybell (Restyled a2a, which is OCR'd PGS)\nZoroSenpai is JPN BD Encode+OCR'd PGS",
+    "comparison": "https://slow.pics/c/7wFv05lE\nhttps://slow.pics/c/0MaHTwQw\nhttps://slow.pics/c/fwo2DjcV",
     "best_releases": [
       {
-        "name": "izzybell (Dual Audio)",
+        "name": "LG (Dual Audio)",
         "status": ""
       }
     ],
