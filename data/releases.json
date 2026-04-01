@@ -552,6 +552,21 @@
     "alt_releases": []
   },
   {
+    "title": "A Mangaka's Weirdly Wonderful Workplace",
+    "alt_title": "Egao no Taenai Shokuba desu.",
+    "year": 2025,
+    "format": "TV",
+    "notes": "sgt is JPN BD Encode+Restyled CR",
+    "comparison": "https://slow.pics/c/Dlpi6G1G",
+    "best_releases": [
+      {
+        "name": "sgt",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "A Ninja and an Assassin Under One Roof",
     "alt_title": "Ninja to Koroshiya no Futarigurashi",
     "year": 2025,
@@ -2499,7 +2514,7 @@
     "year": 2022,
     "format": "TV",
     "notes": "NAN0 and is JPN BD Remux+neoHEVC (Mad le Zisell with styled OP/ED) and PGS\nPMR is JPN BD Remux+Bunny-Apocalypse\nBunny-Apocalypse is ReinForce+neoHEVC",
-    "comparison": "https://slow.pics/c/LFU9jUXH\nhttps://slow.pics/c/xbgt6XAh",
+    "comparison": "https://slow.pics/c/qrdd955X\nhttps://slow.pics/c/LFU9jUXH\nhttps://slow.pics/c/xbgt6XAh",
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
@@ -6408,7 +6423,7 @@
     "alt_title": "",
     "year": 2020,
     "format": "ONA",
-    "notes": "NAN0 is JPN BD Remux+Astral, CR, and PGS\nFlugel is JPN BD Remux+Astral\nKawatare is JPN BD Encode+Astral and CR",
+    "notes": "NAN0 is JPN BD Remux+Astral, CR, and PGS\nFlugel is JPN BD Remux+Astral\nHeadpatter is Kawatare+Astral, CR, and PGS",
     "comparison": "https://slow.pics/c/GoriXDGm\nhttps://slow.pics/c/dQuVSFy6\nhttps://slow.pics/c/dJkQb7TY\nhttps://www.diffchecker.com/6RtLccfk",
     "best_releases": [
       {
@@ -6422,8 +6437,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Kawatare",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -17675,7 +17690,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -25704,12 +25719,12 @@
     "alt_title": "",
     "year": 2025,
     "format": "TV",
-    "notes": "The JPN BD and CR are basically identical, the main difference is the presence of BD changes\nwashed is CR WEB-DL+Modified CR",
+    "notes": "Headpatter is JPN BD Remux+washed\nwashed is CR WEB-DL+Modified CR\nThe JPN BD and CR are basically identical, the main difference is the presence of BD changes",
     "comparison": "https://slow.pics/c/ie8j4Kgx\nhttps://www.diffchecker.com/14fqyT2f/\nhttps://www.diffchecker.com/VTIBH2Ds/\nhttps://www.diffchecker.com/ofYfYjaa/\nhttps://www.diffchecker.com/dfeO8pYy/\nhttps://www.diffchecker.com/66DR5RTQ/\nhttps://www.diffchecker.com/Kq5I7drc/\nhttps://www.diffchecker.com/Z5RceRWg/\nhttps://www.diffchecker.com/r95FY4iO/",
     "best_releases": [
       {
-        "name": "JPN BD+washed",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -34196,20 +34211,15 @@
     "alt_title": "",
     "year": 2025,
     "format": "TV",
-    "notes": "yolerejiju is JPN BD Remux+KawaSubs with \"Brought to you by [KawaSubs]\" meme removed\nStarLight is JPN BD Encode+KawaSubs (Lightly edited AMZN timed, typeset, with OP/ED KFX)\nThe JPN BD has a pretty strong lowpass but massively better compression than AMZN",
+    "notes": "Izumi067 is Delowpassed JPN BD Encode+KawaSubs (Lightly edited AMZN timed, typeset, with OP/ED KFX) with \"Brought to you by [KawaSubs]\" meme removed",
     "comparison": "https://slow.pics/c/6ErJ2qYF\nhttps://slow.pics/c/iBRtJJUj\nhttps://www.diffchecker.com/Y1bPonhK/\nhttps://www.diffchecker.com/CVhg6AnR/",
     "best_releases": [
       {
-        "name": "yolerejiju (Dual Audio)",
+        "name": "Izumi067 (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "StarLight (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Sankarea: Undying Love",
@@ -40702,12 +40712,12 @@
     "alt_title": "Mahouka Koukou no Rettousei 3rd Season",
     "year": 2024,
     "format": "TV",
-    "notes": "VALKYRiE is JPN BD Remux+CR\nErai-raws and -ZR- are CR WEB-DLs\nThe JPN BD has some heavily lowpassed scenes but much better compression than CR",
+    "notes": "Erai-raws and -ZR- are CR WEB-DLs\nThe JPN BD has some heavily lowpassed scenes but much better compression than CR\n*The BD has an added scene in episode 10, the TL can be sourced from the USA BD (or NTW which used it)",
     "comparison": "https://slow.pics/c/oUUalOUf\nhttps://slow.pics/c/FM6rlCnR",
     "best_releases": [
       {
-        "name": "VALKYRiE (Dual Audio)",
-        "status": ""
+        "name": "JPN BD+CR*",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
@@ -43110,13 +43120,13 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
