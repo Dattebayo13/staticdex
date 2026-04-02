@@ -19283,18 +19283,18 @@
     "alt_title": "JIN-ROH",
     "year": 2000,
     "format": "MOVIE",
-    "notes": "hydes is JPN BD Remux+modified Cry\nJPN BD video is windowboxed so you may wish to zoom in on your player (See https://nyaa.si/view/1607514)",
-    "comparison": "https://slow.pics/c/hlkg5BlH",
+    "notes": "FraMeSToR is 2026 JPN BD Remux+PGS (Anime Ltd and Bandai)\nhydes subs are modified Cry, which in turn is modified THORA (Official)\nThe new scan went too hard on the DNR but is still a significant upgrade\n*The two (2) signs in the movie will need adjusting for the new scan",
+    "comparison": "https://slow.pics/c/McmidEC6\nhttps://slow.pics/c/hlkg5BlH",
     "best_releases": [
       {
-        "name": "hydes (Dual Audio)",
-        "status": ""
+        "name": "4K JPN BD+hydes*",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "Cry (Dual Audio)",
-        "status": ""
+        "name": "FraMeSToR (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -23594,6 +23594,26 @@
     "alt_releases": []
   },
   {
+    "title": "Macross Plus Movie Edition",
+    "alt_title": "Macross Plus MOVIE EDITION",
+    "year": 1995,
+    "format": "MOVIE",
+    "notes": "Space is Kagura+ChumoSubs, Retail, and PGS\nThe 2026 JPN BD would be a better alt",
+    "comparison": "https://slow.pics/c/xJxZKwjO\nhttps://www.diffchecker.com/MFpldLEG/",
+    "best_releases": [
+      {
+        "name": "4K JPN BD+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Space",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Madam is a Magical Girl",
     "alt_title": "Okusama wa Mahou Shoujo",
     "year": 2005,
@@ -25724,7 +25744,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26205,6 +26225,26 @@
     "alt_releases": [
       {
         "name": "ARC",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mushibugyo",
+    "alt_title": "Mushibugyou",
+    "year": 2013,
+    "format": "TV",
+    "notes": "Pog42 is VCB-Studio+Final8 (CR with very minor edits, basic TS, and OP/ED TLs)\nStore should be watched with MPV Deband\n*Remove \"Final8 presents\" meme in the OP please",
+    "comparison": "https://slow.pics/c/pXxWwCpE\nhttps://www.diffchecker.com/Z93kSqvV/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Final8*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Pog42",
         "status": ""
       }
     ]
@@ -31132,40 +31172,30 @@
     "alt_title": "Elf-san wa Yaserarenai.",
     "year": 2024,
     "format": "TV_SHORT",
-    "notes": "Freehold is JPN BD Remux+SubsPlus+ (HIDI with automated improvements) with additional timing fixes, with WorldFansubs OP/ED/TS translated to English\nFreehold is also the same thing with DBD-Raws video\nThe OP sounding like ass is not a BD specific issue",
-    "comparison": "https://slow.pics/c/Z70stRMY",
+    "notes": "YURASUKA is JPN BD Encode+Freehold and PGS\nFreehold subs are SubsPlus+ (HIDI with automated improvements) with additional timing fixes, with WorldFansubs OP/ED/TS translated to English\nThe OP sounding like ass is not a BD specific issue",
+    "comparison": "https://slow.pics/c/RcjyQASj\nhttps://slow.pics/c/Z70stRMY",
     "best_releases": [
       {
-        "name": "Freehold (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Freehold (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Plus-Sized Elf Specials",
     "alt_title": "Elf-san wa Yaserarenai. Specials",
     "year": 2024,
     "format": "ONA",
-    "notes": "Freehold is JPN BD Remux+SubsPlus+ (HIDI with automated improvements) with additional timing fixes, with WorldFansubs OP/ED/TS translated to English\nFreehold is also the same thing with DBD-Raws video",
+    "notes": "YURASUKA is JPN BD Encode+Freehold and PGS\nFreehold subs are SubsPlus+ (HIDI with automated improvements) with additional timing fixes, with WorldFansubs OP/ED/TS translated to English",
     "comparison": "https://slow.pics/c/58P9WgNM",
     "best_releases": [
       {
-        "name": "Freehold (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Freehold (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "PLUTO",
@@ -32060,8 +32090,8 @@
     "alt_title": "",
     "year": 2014,
     "format": "TV_SHORT",
-    "notes": "",
-    "comparison": "https://slow.pics/c/9eAJuATW",
+    "notes": "coldhell is JPN BD Encode+Restyled Vivid with some TS improvements to better match the BD. The OP uses CR luma with HDTV chroma.\nThis release combines all 12 episodes into a single file",
+    "comparison": "https://slow.pics/c/gVzGfJhm",
     "best_releases": [
       {
         "name": "coldhell",
@@ -43627,11 +43657,11 @@
     "alt_title": "Tsuki ga Kirei",
     "year": 2017,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+LYS1TH3A and PGS\nLYS1TH3A is Beatrice-Raws+Netaro (modified GHS) and PGS",
-    "comparison": "https://slow.pics/c/CkBFNYCU\nhttps://slow.pics/c/vaRq7kBy",
+    "notes": "Kawatare is JPN BD Encode+LYS1TH3A\nLYS1TH3A is Beatrice-Raws+Netaro (modified GHS) and PGS",
+    "comparison": "https://slow.pics/c/eseoGIAO\nhttps://slow.pics/c/CkBFNYCU\nhttps://slow.pics/c/vaRq7kBy",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ],
@@ -44734,7 +44764,7 @@
     "alt_title": "Kenka Dokugaku",
     "year": 2024,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+Restyled CR\nVARYG is a CR WEB-DL\nCR is completely cooked without deband and is missing the BD changes, jsum mux waiting room",
+    "notes": "NAN0 is JPN BD Remux+Restyled CR\nHeadpatter is jsum+NAN0",
     "comparison": "https://slow.pics/c/bqWNRgS5\nhttps://slow.pics/c/bpSGTrMU",
     "best_releases": [
       {
@@ -44744,8 +44774,8 @@
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
