@@ -19283,7 +19283,7 @@
     "alt_title": "JIN-ROH",
     "year": 2000,
     "format": "MOVIE",
-    "notes": "ZoroSenpai is 2026 JPN BD Remux+hydes, OCR'd PGS, and stock PGS (Anime Ltd and Bandai). TS isn't adjusted for the new scan, but it's only 2 signs.\nhydes subs are modified Cry, which in turn is modified THORA (Official)\nThe new scan went too hard on the DNR but is still a significant upgrade\n*The two (2) signs in the movie will need adjusting for the new scan",
+    "notes": "ZoroSenpai is 2026 JPN BD Remux+hydes with TS adjusted for new scan, OCR'd PGS, and stock PGS (Anime Ltd and Bandai)\nhydes subs are modified Cry, which in turn is modified THORA (Official)\nThe new scan went too hard on the DNR but is still a significant upgrade\n*The two (2) signs in the movie will need adjusting for the new scan",
     "comparison": "https://slow.pics/c/McmidEC6\nhttps://slow.pics/c/hlkg5BlH",
     "best_releases": [
       {
@@ -19294,7 +19294,7 @@
     "alt_releases": [
       {
         "name": "ZoroSenpai (Dual Audio)",
-        "status": "broken"
+        "status": "not_nyaa"
       }
     ]
   },
@@ -27572,6 +27572,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Narenare -Cheer for you!-",
+    "alt_title": "Na-Nare Hana-Nare",
+    "year": 2024,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL\nThe JPN and GER BDs both have worse chroma and more banding than CR, and compression differences are negligible",
+    "comparison": "https://slow.pics/c/mQ6xbvA4",
+    "best_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Naruto",
