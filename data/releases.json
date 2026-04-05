@@ -4931,7 +4931,7 @@
     "alt_title": "",
     "year": 2017,
     "format": "TV",
-    "notes": "CloverKnights is OZR JPN BD encode+retimed CR with TS and song styling, only contains the first 51 episodes\nUQW is JPN BD Encode+CR",
+    "notes": "CloverKnights is OZR JPN BD encode+retimed CR with TS and song styling, only contains the first 51 episodes\niAHD is USA BD Encode+PGS\nUQW would be a better alt, but the CR subs aren't shifted properly and episode 120 is missing subs entirely",
     "comparison": "https://slow.pics/c/LLrxL4GN\nhttps://slow.pics/c/1FhNoxYy\nhttps://slow.pics/c/ZeXvtQwA",
     "best_releases": [
       {
@@ -4941,7 +4941,7 @@
     ],
     "alt_releases": [
       {
-        "name": "UQW",
+        "name": "iAHD (Dual Audio)",
         "status": ""
       }
     ]
@@ -6640,20 +6640,15 @@
     "alt_title": "Yofukashi no Uta Season 2",
     "year": 2025,
     "format": "TV",
-    "notes": "Shroud is JPN BD Remux+Commie\nkikuri is ReinForce+Commie\nHas a typo in episode 7, 16:36 her → here",
-    "comparison": "https://slow.pics/c/23MfL370\nhttps://www.diffchecker.com/sJGv0vrg/",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+Commie with one (1) typo fixed",
+    "comparison": "https://slow.pics/c/bBtDBwGR\nhttps://slow.pics/c/23MfL370\nhttps://www.diffchecker.com/sJGv0vrg/",
     "best_releases": [
       {
-        "name": "Shroud",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "kikuri",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Campfire Cooking in Another World with my Absurd Skill",
@@ -18057,6 +18052,26 @@
     ]
   },
   {
+    "title": "Idol Densetsu Eriko",
+    "alt_title": "",
+    "year": 1989,
+    "format": "TV",
+    "notes": "B00BA is JPN BD Remux+KiteSeekers-Licca. TS wasn't adjusted for pillarboxed video so it sometimes extends onto the black bars\nKiteSeekers-Licca is JPN BD Encode+OTL, has hardsubbed OP/ED lyrics\njsum would be a massively better alt",
+    "comparison": "https://slow.pics/c/sls86TDh",
+    "best_releases": [
+      {
+        "name": "B00BA",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "KiteSeekers-Licca",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "IDOLiSH7",
     "alt_title": "",
     "year": 2018,
@@ -29331,11 +29346,11 @@
     "alt_title": "",
     "year": 2024,
     "format": "SPECIAL",
-    "notes": "Ignore is Delowpassed JPN BD Encode+HatSubs, One Pace, and CR",
+    "notes": "HatSubs is Ignore+Fansub based on CR",
     "comparison": "https://slow.pics/c/ygd2DHZn\nhttps://www.diffchecker.com/1ZmTEKQQ/",
     "best_releases": [
       {
-        "name": "Ignore",
+        "name": "HatSubs",
         "status": ""
       }
     ],
@@ -32603,7 +32618,7 @@
     "alt_title": "",
     "year": 2021,
     "format": "TV",
-    "notes": "MuGi is USA BD Remux+Restyled and stock Summer, and PGS. The PGS signs track is forced so if you're watching dubbed you'll want to switch tracks\nSummer is AI-Raws+FUNI ran through shiftcut with \"very light QC\"\nThe USA BD has a pretty strong lowpass but it's the only BD available and web sources are too starved",
+    "notes": "MuGi is USA BD Remux+Restyled and stock Summer, and PGS. The restyle breaks fading TS and for some reason the OP/ED lyrics (and apparently some other missing signs) were only OCR'd from PGS for the signs track\nSummer is AI-Raws+FUNI ran through shiftcut with \"very light QC\"\nThe USA BD has a pretty strong lowpass but it's the only BD available and web sources are too starved",
     "comparison": "https://slow.pics/c/Fj83GhTY",
     "best_releases": [
       {
