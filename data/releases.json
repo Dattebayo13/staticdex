@@ -960,7 +960,7 @@
     "alt_title": "Houkago Saikoro Club",
     "year": 2019,
     "format": "TV",
-    "notes": "CRUCiBLE is USA BD Remux+avg\navg is Bastard+Tensai with restyled OP/ED and some fixed signs\nUSA BD does have a chroma shift, but the WEB options are too starved to be viable",
+    "notes": "CRUCiBLE is USA BD Remux+avg\navg is Bastard+Tensai with restyled OP/ED and some fixed signs\nHeadpatter is avg+dub and PGS\nUSA BD does have a chroma shift, but the WEB options are too starved to be viable",
     "comparison": "https://slow.pics/c/2GiHA7Ik",
     "best_releases": [
       {
@@ -969,6 +969,10 @@
       }
     ],
     "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "avg",
         "status": ""
@@ -2493,7 +2497,7 @@
     "alt_title": "",
     "year": 2022,
     "format": "SPECIAL",
-    "notes": "Moxie is JPN BD Remux+restyled neoHEVC\nBunny-Apocalypse is ReinForce+neoHEVC (Mad le Zisell with styled OP/ED)",
+    "notes": "Moxie is JPN BD Remux+restyled neoHEVC (Mad le Zisell with styled OP/ED)\nHeadpatter is H-Enc+Moxie and PGS",
     "comparison": "",
     "best_releases": [
       {
@@ -2503,7 +2507,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Bunny-Apocalypse (Dual Audio)",
+        "name": "Headpatter (Dual Audio)",
         "status": ""
       }
     ]
@@ -2513,7 +2517,7 @@
     "alt_title": "Arifureta Shokugyou de Sekai Saikyou 2nd season",
     "year": 2022,
     "format": "TV",
-    "notes": "NAN0 and is JPN BD Remux+neoHEVC (Mad le Zisell with styled OP/ED) and PGS\nPMR is JPN BD Remux+Bunny-Apocalypse\nBunny-Apocalypse is ReinForce+neoHEVC",
+    "notes": "NAN0 and is JPN BD Remux+neoHEVC (Mad le Zisell with styled OP/ED) and PGS\nPMR is JPN BD Remux+Bunny-Apocalypse\nHeadpatter is H-Enc+neoHEVC",
     "comparison": "https://slow.pics/c/qrdd955X\nhttps://slow.pics/c/LFU9jUXH\nhttps://slow.pics/c/xbgt6XAh",
     "best_releases": [
       {
@@ -2527,7 +2531,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Bunny-Apocalypse (Dual Audio)",
+        "name": "Headpatter (Dual Audio)",
         "status": ""
       }
     ]
@@ -2597,7 +2601,7 @@
     "best_releases": [
       {
         "name": "RABBIT",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -6065,7 +6069,7 @@
     "alt_title": "Gokukoku no Brynhildr",
     "year": 2014,
     "format": "TV",
-    "notes": "LG is JPN BD Remux+Pookie\nPookie is Beatrice-Raws+BlurayDesuYo with some sign timing fixes\nAll the muxed encodes are pretty bad, sergey_krs would be a better alt",
+    "notes": "LG is JPN BD Remux+Pookie (BlurayDesuYo with some sign timing fixes)\nSubsMix is sergery_krs+Pookie and SallySubs (CR TL with Mezashite TS)",
     "comparison": "https://slow.pics/c/3v84bqVU\nhttps://slow.pics/c/X9VfnuZ7",
     "best_releases": [
       {
@@ -6075,7 +6079,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Pookie (Dual Audio)",
+        "name": "SubsMix",
         "status": ""
       }
     ]
@@ -6438,7 +6442,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -15368,7 +15372,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -16540,7 +16544,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -16740,7 +16744,7 @@
     "best_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -19309,7 +19313,7 @@
     "alt_releases": [
       {
         "name": "ZoroSenpai (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -21648,7 +21652,7 @@
     "best_releases": [
       {
         "name": "fig (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -21663,12 +21667,12 @@
     "alt_title": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
     "year": 2016,
     "format": "OVA",
-    "notes": "fig is JPN BD Remux+Chihiro (Quetzal's edit) and FFF\nQuetzal is Kawaiika-Raws+Modified Chihiro, FFF, and Mori",
+    "notes": "fig is JPN BD Remux+Chihiro (Quetzal's edit) and FFF. Full subs and signs tracks are flipped so you'll need to switch tracks if watching subbed.\nQuetzal is Kawaiika-Raws+Modified Chihiro, FFF, and Mori",
     "comparison": "",
     "best_releases": [
       {
         "name": "fig (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -23504,6 +23508,21 @@
     "alt_releases": []
   },
   {
+    "title": "M3: Sono Kuroki Hagane",
+    "alt_title": "",
+    "year": 2014,
+    "format": "TV",
+    "notes": "o7 is Beatrice-Raws+kmplx (Modified Chyuu)",
+    "comparison": "https://slow.pics/c/GDi5Mrsv",
+    "best_releases": [
+      {
+        "name": "o7",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "maboroshi",
     "alt_title": "Alice to Therese no Maboroshi Koujou",
     "year": 2023,
@@ -25073,11 +25092,11 @@
     "alt_title": "",
     "year": 2004,
     "format": "MOVIE",
-    "notes": "Arid is ZQ+MTBB",
-    "comparison": "https://slow.pics/c/fxujlASn",
+    "notes": "MTBB is USA BD Encode+Fansub based on R1",
+    "comparison": "https://slow.pics/c/WVgvjwwO\nhttps://www.diffchecker.com/fsxKQJVw/\nhttps://www.diffchecker.com/FHvYD5Xt/",
     "best_releases": [
       {
-        "name": "Arid",
+        "name": "MTBB",
         "status": ""
       }
     ],
@@ -37044,7 +37063,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -37505,7 +37524,7 @@
     "alt_releases": [
       {
         "name": "NOGRP",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -45696,7 +45715,7 @@
     "best_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
