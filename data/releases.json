@@ -15532,7 +15532,7 @@
     "year": 2024,
     "format": "MOVIE",
     "notes": "sam is JPN BD Encode+Commie",
-    "comparison": "https://slow.pics/c/PunkKoxC\nhttps://slow.pics/c/SrlCzJfY\nhttps://slow.pics/c/jDHUvjoN",
+    "comparison": "https://slow.pics/c/PunkKoxC\nhttps://slow.pics/c/SrlCzJfY\nhttps://slow.pics/c/jDHUvjoN\nhttps://slow.pics/c/lXArFOxg",
     "best_releases": [
       {
         "name": "sam (Dual Audio)",
@@ -19785,12 +19785,12 @@
     "alt_title": "",
     "year": 2012,
     "format": "TV",
-    "notes": "Senjou is sergey_krs+Commie retimed to BD with restyled OP/ED",
+    "notes": "Sylvar is JPN BD Remux+Senjou\nSenjou is sergey_krs+Commie retimed to BD with restyled OP/ED",
     "comparison": "https://slow.pics/c/RxRkb6E5",
     "best_releases": [
       {
-        "name": "JPN BD+Senjou",
-        "status": "unmuxed"
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -34232,6 +34232,26 @@
     "alt_releases": [
       {
         "name": "Commie",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Samurai Girls",
+    "alt_title": "Hyakka Ryouran: Samurai Girls",
+    "year": 2010,
+    "format": "TV",
+    "notes": "GetItTwisted is JPN BD Remux+Kira-Fansub with improved motion tracking for 2 signs, and PGS\nGetItTwisted is also Yousei-raws with the same subs\nKira-Fansub is \"Ryuumaru with TLC for OP/ED restyle and editing\"\nStore requires MPV Deband, otherwise get the encode",
+    "comparison": "https://slow.pics/c/m3cvCkmT\nhttps://www.diffchecker.com/Fz5CxNWU/",
+    "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
         "status": ""
       }
     ]
