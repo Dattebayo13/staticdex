@@ -9159,7 +9159,7 @@
     "alt_title": "",
     "year": 2016,
     "format": "TV",
-    "notes": "Moxie is JPN BD Remux+Glue\nThere's nothing to list for alt since Glue is utterly destroyed, a jsum mux would work nicely",
+    "notes": "Moxie is JPN BD Remux+Glue\nHeadpatter is jsum+Glue",
     "comparison": "https://slow.pics/c/ulRBmLh3\nhttps://www.diffchecker.com/k6x4pdB6/",
     "best_releases": [
       {
@@ -9167,7 +9167,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Days with My Stepsister",
@@ -12126,6 +12131,21 @@
     ]
   },
   {
+    "title": "Food for the Soul",
+    "alt_title": "Hibi wa Sugiredo Meshi Umashi",
+    "year": 2025,
+    "format": "TV",
+    "notes": "RABBIT is JPN BD Remux+CR\nA ReinForce mux would be a decent alt",
+    "comparison": "https://slow.pics/c/1a6dJILO",
+    "best_releases": [
+      {
+        "name": "RABBIT",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Food Wars!",
     "alt_title": "Shokugeki no Souma",
     "year": 2015,
@@ -12141,7 +12161,7 @@
     "alt_releases": [
       {
         "name": "Reza (Dual Audio)",
-        "status": "broken"
+        "status": ""
       }
     ]
   },
@@ -12150,13 +12170,13 @@
     "alt_title": "Shokugeki no Souma OVA",
     "year": 2016,
     "format": "OVA",
-    "notes": "OVAs have a bunch of issue, see: https://nyaa.si/view/1465193#com-35",
+    "notes": "crane0922 is Reza+Clara with an added title card sign in OVA2",
     "comparison": "",
     "best_releases": [],
     "alt_releases": [
       {
-        "name": "Reza (Dual Audio)",
-        "status": "broken"
+        "name": "crane0922",
+        "status": ""
       }
     ]
   },
@@ -12165,7 +12185,7 @@
     "alt_title": "Shokugeki no Souma: Ni no Sara",
     "year": 2016,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+MK with missing fonts added and PGS\nMK is Akatomba+FFF timed to BD with OP/ED KFX\nReza has a better encode for the alt slot, but the release is broken (Episodes 4 and 8 have out of sync English audio)\nStore needs MPV deband, otherwise get the encode",
+    "notes": "CRUCiBLE is JPN BD Remux+MK with missing fonts added and PGS\ncrane0922 is Reza+MK (FFF adapted to BD with tweaked TS and added OP/ED KFX)\nStore needs MPV deband, otherwise get the encode",
     "comparison": "https://slow.pics/c/CHmi84Zx",
     "best_releases": [
       {
@@ -12175,7 +12195,7 @@
     ],
     "alt_releases": [
       {
-        "name": "MK (Dual Audio)",
+        "name": "crane0922 (Dual Audio)",
         "status": ""
       }
     ]
@@ -12185,13 +12205,13 @@
     "alt_title": "Shokugeki no Souma: Ni no Sara OVA",
     "year": 2017,
     "format": "OVA",
-    "notes": "OVAs have a bunch of issue, see: https://nyaa.si/view/1465193#com-35",
+    "notes": "crane0922 is Reza+Clara with missing dialogue added from CR and an added title card sign in OVA4",
     "comparison": "",
     "best_releases": [],
     "alt_releases": [
       {
-        "name": "Reza (Dual Audio)",
-        "status": "broken"
+        "name": "crane0922",
+        "status": ""
       }
     ]
   },
@@ -12211,7 +12231,7 @@
     "alt_releases": [
       {
         "name": "Reza (Dual Audio)",
-        "status": "broken"
+        "status": ""
       }
     ]
   },
@@ -12220,13 +12240,13 @@
     "alt_title": "Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina",
     "year": 2018,
     "format": "OVA",
-    "notes": "OVAs have a bunch of issue, see: https://nyaa.si/view/1465193#com-35",
+    "notes": "crane0922 is Reza+Clara",
     "comparison": "",
     "best_releases": [],
     "alt_releases": [
       {
-        "name": "Reza (Dual Audio)",
-        "status": "broken"
+        "name": "crane0922",
+        "status": ""
       }
     ]
   },
@@ -12241,7 +12261,7 @@
     "alt_releases": [
       {
         "name": "Reza (Dual Audio)",
-        "status": "broken"
+        "status": ""
       }
     ]
   },
@@ -12250,7 +12270,7 @@
     "alt_title": "Shokugeki no Souma: Shin no Sara",
     "year": 2019,
     "format": "TV",
-    "notes": "CRUCiBLE is GER BD Remux+Arid (GHS) and PGS\nReza is JPN BD Encode+Arid. Multiple episodes have the incorrect dub track\nStore should be watched with MPV deband",
+    "notes": "CRUCiBLE is GER BD Remux+Arid (GHS) and PGS\ncrane0922 is Reza+Arid\nStore should be watched with MPV deband",
     "comparison": "https://slow.pics/c/0thtkuWL",
     "best_releases": [
       {
@@ -12260,8 +12280,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Reza (Dual Audio)",
-        "status": "broken"
+        "name": "crane0922 (Dual Audio)",
+        "status": ""
       }
     ]
   },
@@ -12285,7 +12305,7 @@
       },
       {
         "name": "Reza (Dual Audio)",
-        "status": "broken"
+        "status": ""
       }
     ]
   },
@@ -14750,17 +14770,17 @@
     "alt_title": "Grand Blue Season 2",
     "year": 2025,
     "format": "TV",
-    "notes": "sam is CR WEBRip+Fansub based on CR\nThe JPN BD is very similar to the WEBRip, it has massively better compression in a few very busy scenes and a very slight lowpass",
+    "notes": "Sylvar is JPN BD Remux+sam\nsam is CR WEBRip+Fansub based on CR\nThe JPN BD is very similar to the WEBRip, it has massively better compression in a few very busy scenes and a very slight lowpass",
     "comparison": "https://slow.pics/c/VZEPeE3b\nhttps://slow.pics/c/8hurya5A\nhttps://www.diffchecker.com/SYqsGAr5/",
     "best_releases": [
       {
-        "name": "JPN BD+sam",
-        "status": "unmuxed"
+        "name": "Sylvar",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "sam (Dual Audio)",
+        "name": "sam",
         "status": ""
       }
     ]
@@ -25648,18 +25668,18 @@
     "alt_title": "Yokuwakaru Gendaimahou",
     "year": 2009,
     "format": "TV",
-    "notes": "Tsundere is JPN BD Encode+Modified Commie-Rips with polished’s OP and ED\nTsundere video is EXTREMELY bad but there's no other options using their subs (except -ZR-, which is 5 frames out of sync)\nQTS (1080p) would be a much better alt",
+    "notes": "Headpatter is JPN BD Remux+Tsundere (Modified Commie-Rips with polished’s OP and ED) with some minor fixes\nHeadpatter is also QTS with the same subs\nEverything benefits from MPV Deband",
     "comparison": "https://slow.pics/c/LXC8zWik",
     "best_releases": [
       {
-        "name": "JPN BD+Tsundere",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "Tsundere",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -42807,7 +42827,7 @@
     "alt_releases": [
       {
         "name": "Kitsune",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -42882,7 +42902,7 @@
     "alt_releases": [
       {
         "name": "Kitsune",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -42902,7 +42922,7 @@
     "alt_releases": [
       {
         "name": "Kitsune",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
