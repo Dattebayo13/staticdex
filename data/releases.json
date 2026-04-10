@@ -1197,17 +1197,17 @@
     "alt_title": "Aiura",
     "year": 2013,
     "format": "TV_SHORT",
-    "notes": "TTGA is JPN BD Remux+Commie\nPolarwindz is JPN BD Encode+Commie",
+    "notes": "Headpatter is JPN BD Remux+Commie\nThighura is JPN BD Encode+Commie",
     "comparison": "https://slow.pics/c/cvlk9ljw",
     "best_releases": [
       {
-        "name": "TTGA",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "Polarwindz",
+        "name": "Thighura",
         "status": ""
       }
     ]
@@ -12135,15 +12135,20 @@
     "alt_title": "Hibi wa Sugiredo Meshi Umashi",
     "year": 2025,
     "format": "TV",
-    "notes": "RABBIT is JPN BD Remux+CR\nA ReinForce mux would be a decent alt",
+    "notes": "Headpatter is JPN BD Remux+CR\nHeadpatter is also ReinForce+CR",
     "comparison": "https://slow.pics/c/1a6dJILO",
     "best_releases": [
       {
-        "name": "RABBIT",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Food Wars!",
@@ -25669,7 +25674,7 @@
     "year": 2009,
     "format": "TV",
     "notes": "Headpatter is JPN BD Remux+Tsundere (Modified Commie-Rips with polished’s OP and ED) with some minor fixes\nHeadpatter is also QTS with the same subs\nEverything benefits from MPV Deband",
-    "comparison": "https://slow.pics/c/LXC8zWik",
+    "comparison": "https://slow.pics/c/DP16AQ4a",
     "best_releases": [
       {
         "name": "Headpatter",
