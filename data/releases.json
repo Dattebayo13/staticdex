@@ -5975,6 +5975,26 @@
     ]
   },
   {
+    "title": "Brave Bang Bravern!",
+    "alt_title": "Yuuki Bakuhatsu Bang Bravern",
+    "year": 2024,
+    "format": "TV",
+    "notes": "nekotan is VCB-Studio+Restyled CR with \"minor TS edit\"",
+    "comparison": "https://slow.pics/c/noCW2Lnu",
+    "best_releases": [
+      {
+        "name": "JPN BD+nekotan",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Broken Blade",
     "alt_title": "Break Blade 1: Kakusei no Toki",
     "year": 2010,
@@ -8835,6 +8855,46 @@
     ]
   },
   {
+    "title": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc",
+    "alt_title": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+    "year": 2016,
+    "format": "TV",
+    "notes": "TROLLORANGE is a CR WEB-DL\njsum would be a better alt\nMerchant is modified CR",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "JPN BD+Merchant",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "TROLLORANGE",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Danganronpa 3: The End of Hope's Peak High School - Hope Arc",
+    "alt_title": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
+    "year": 2016,
+    "format": "SPECIAL",
+    "notes": "TROLLORANGE is a CR WEB-DL\njsum would be a better alt\nMerchant is modified CR",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "JPN BD+Merchant",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "TROLLORANGE",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Danganronpa: The Animation",
     "alt_title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation",
     "year": 2013,
@@ -8851,6 +8911,26 @@
       {
         "name": "o7 (Dual Audio)",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+    "alt_title": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+    "year": 2016,
+    "format": "TV",
+    "notes": "TROLLORANGE is a CR WEB-DL\njsum would be a better alt\nMerchant is modified CR, introduced at least 1 typo so perhaps diff all episodes",
+    "comparison": "https://slow.pics/c/k6HkilsN\nhttps://www.diffchecker.com/RdPuqkyQ/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Merchant",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "TROLLORANGE",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -12275,7 +12355,7 @@
     "alt_title": "Shokugeki no Souma: Shin no Sara",
     "year": 2019,
     "format": "TV",
-    "notes": "CRUCiBLE is GER BD Remux+Arid (GHS) and PGS\ncrane0922 is Reza+Arid\nStore should be watched with MPV deband",
+    "notes": "CRUCiBLE is GER BD Remux+Arid (GHS) and PGS\ncrane0922 is Reza+Arid. The filenames are incorrectly tagged as Reza, the AB release has been renamed.\nStore should be watched with MPV deband",
     "comparison": "https://slow.pics/c/0thtkuWL",
     "best_releases": [
       {
@@ -14775,20 +14855,15 @@
     "alt_title": "Grand Blue Season 2",
     "year": 2025,
     "format": "TV",
-    "notes": "Sylvar is JPN BD Remux+sam\nsam is CR WEBRip+Fansub based on CR\nThe JPN BD is very similar to the WEBRip, it has massively better compression in a few very busy scenes and a very slight lowpass",
-    "comparison": "https://slow.pics/c/VZEPeE3b\nhttps://slow.pics/c/8hurya5A\nhttps://www.diffchecker.com/SYqsGAr5/",
+    "notes": "SubsMix is Báleygr+sam (Fansub based on CR)",
+    "comparison": "https://slow.pics/c/ylk8PUHQ\nhttps://slow.pics/c/VZEPeE3b\nhttps://slow.pics/c/8hurya5A\nhttps://www.diffchecker.com/SYqsGAr5/",
     "best_releases": [
       {
-        "name": "Sylvar",
-        "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "sam",
+        "name": "SubsMix",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Grave of the Fireflies",
@@ -18412,6 +18487,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Inazuma Eleven: The Seal of Orion",
+    "alt_title": "Inazuma Eleven: Orion no Kokuin",
+    "year": 2018,
+    "format": "TV",
+    "notes": "Puto is AMZN WEB-DL+Modified RyRo (\"slightly edited terminology to match real life soccer terms\", and previews removed for some reason), and stock RyRo",
+    "comparison": "https://slow.pics/c/MNnpvbxw\nhttps://www.diffchecker.com/UHfVWdjX/",
+    "best_releases": [
+      {
+        "name": "Puto",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Infinite Dendrogram",
@@ -28387,6 +28477,30 @@
     "alt_releases": []
   },
   {
+    "title": "Nina the Starry Bride",
+    "alt_title": "Hoshi Furu Oukoku no Nina",
+    "year": 2024,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+CR\nErai-raws and Kitsune are CR WEB-DLs\nThe JPN BD is lowpassed but fares much better than CR which dies with all the grain\nUsual suspects will likely be a better alt",
+    "comparison": "https://slow.pics/c/hcrBnOcs",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      },
+      {
+        "name": "Kitsune (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Nine: Original-ban",
     "alt_title": "",
     "year": 1983,
@@ -38020,12 +38134,12 @@
     "alt_title": "Stranger: Mukou Hadan",
     "year": 2007,
     "format": "MOVIE",
-    "notes": "Vodes is JPN BD Encode+Modified Afro\nThe stores aren't great for this, the JPN BD ends up being the best overall even with the lowpassing, but it needs MPV deband to enjoy",
+    "notes": "Sylvar is JPN BD Remux+Vodes\nVodes is JPN BD Encode+Modified Afro\nThe stores aren't great for this, the JPN BD ends up being the best overall even with the lowpassing, but it needs MPV deband to enjoy",
     "comparison": "https://slow.pics/c/3y0RKWnz\nhttps://slow.pics/c/AVzqO0NK",
     "best_releases": [
       {
-        "name": "JPN BD+Vodes",
-        "status": "unmuxed"
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -44010,6 +44124,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Ultramarine Magmell",
+    "alt_title": "Gunjou no Magmell",
+    "year": 2019,
+    "format": "TV",
+    "notes": "B00BA is JPN BD Remux+ThundraSubs\nwat15 is JPN BD Encode+ThundraSubs\nIrizaRaws would be a significantly better alt",
+    "comparison": "https://slow.pics/c/9s87ZbHE\nhttps://www.diffchecker.com/0HCgwmMo/",
+    "best_releases": [
+      {
+        "name": "B00BA",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "wat15",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Ulysses: Jeanne d'Arc and the Alchemist Knight",
