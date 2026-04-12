@@ -5979,12 +5979,12 @@
     "alt_title": "Yuuki Bakuhatsu Bang Bravern",
     "year": 2024,
     "format": "TV",
-    "notes": "nekotan is VCB-Studio+Restyled CR with \"minor TS edit\"",
+    "notes": "nekotan is JPN BD Remux+Restyled CR with \"minor TS edit\"\nnekotan is also VCB-Studio with the same subs",
     "comparison": "https://slow.pics/c/noCW2Lnu",
     "best_releases": [
       {
-        "name": "JPN BD+nekotan",
-        "status": "unmuxed"
+        "name": "nekotan",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -11858,11 +11858,11 @@
     "alt_title": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note",
     "year": 2019,
     "format": "TV",
-    "notes": "hchcsen is JPN BD Remux+ASC\nASC is BlurayDesuYo with TS fixes (1-3), terrible encode+modified Aniplex (4-13)",
-    "comparison": "https://slow.pics/c/GPAdDT3P\nhttps://slow.pics/c/5dOE9Muz",
+    "notes": "Kawatare is JPN BD Encode+ASC and CR\nASC is BlurayDesuYo with TS fixes (1-3), terrible encode+modified Aniplex (4-13)",
+    "comparison": "https://slow.pics/c/lgwXCRdA\nhttps://slow.pics/c/GPAdDT3P\nhttps://slow.pics/c/5dOE9Muz",
     "best_releases": [
       {
-        "name": "hchcsen (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ],
@@ -11916,11 +11916,11 @@
     "alt_title": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note Tokubetsu-hen",
     "year": 2021,
     "format": "SPECIAL",
-    "notes": "hchcsen is USA BD Remux+CR edited to match ASC with TS from Owari Subs\nNOGRP is VCB-Studio+hchcsen",
+    "notes": "Kawatare is JPN BD Encode+hchcsen (CR edited to match ASC with TS from Owari Subs)\nNOGRP is VCB-Studio+hchcsen",
     "comparison": "",
     "best_releases": [
       {
-        "name": "hchcsen (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ],
@@ -12215,20 +12215,15 @@
     "alt_title": "Hibi wa Sugiredo Meshi Umashi",
     "year": 2025,
     "format": "TV",
-    "notes": "Headpatter is JPN BD Remux+CR\nHeadpatter is also ReinForce+CR",
-    "comparison": "https://slow.pics/c/1a6dJILO",
+    "notes": "YURASUKA is JPN BD Encode+Restyled CR",
+    "comparison": "https://slow.pics/c/fEysJnC6\nhttps://slow.pics/c/1a6dJILO",
     "best_releases": [
       {
-        "name": "Headpatter",
-        "status": "not_nyaa"
+        "name": "YURASUKA",
+        "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Headpatter",
-        "status": "not_nyaa"
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Food Wars!",
@@ -13219,7 +13214,7 @@
     "alt_title": "Glass no Hana to Kowasu Sekai",
     "year": 2016,
     "format": "MOVIE",
-    "notes": "Moxie is JPN BD Remux+GJM, GJK (GJM restlyled with added romaji for songs), and PGS\nGJM is BD encode, poor quality and would be replaced by a VCB-Studio mux",
+    "notes": "Moxie is JPN BD Remux+GJM, GJK (GJM restlyled with added romaji for songs), and PGS\nHeadpatter is VCB-Studio+Moxie",
     "comparison": "https://slow.pics/c/pHSlh6CF",
     "best_releases": [
       {
@@ -13229,8 +13224,8 @@
     ],
     "alt_releases": [
       {
-        "name": "GJM",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -21461,12 +21456,12 @@
     "alt_title": "kiss×sis",
     "year": 2009,
     "format": "OVA",
-    "notes": "Senjou is Kawaiika-Raws+Tsundere with fixed TS timing and fonts, was deleted so mayhaps broken",
+    "notes": "Headpatter is Kawaiika-Raws+Senjou (Tsundere with fixed TS timing and fonts) but actually with all the fonts this time",
     "comparison": "https://slow.pics/c/8C7MDIk1\nhttps://slow.pics/c/09lqF4DU",
     "best_releases": [
       {
-        "name": "Senjou",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -22935,11 +22930,11 @@
     "alt_title": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note - Hakamori to Neko to Majutsu-shi",
     "year": 2018,
     "format": "SPECIAL",
-    "notes": "hchcsen is JPN BD Remux+ASC\nASC is BlurayDesuYo with TS fixes",
+    "notes": "Kawatare is JPN BD Encode+ASC and CR\nASC is BlurayDesuYo with TS fixes",
     "comparison": "",
     "best_releases": [
       {
-        "name": "hchcsen (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ],
@@ -23160,8 +23155,28 @@
     "alt_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
     "year": 2024,
     "format": "MOVIE",
-    "notes": "Team ONIBE is JPN BD Encode+OTL",
+    "notes": "Headpatter is JPN BD Remux+Team ONIBE\nTeam ONIBE is JPN BD Encode+OTL",
     "comparison": "https://slow.pics/c/OhocRSGV\nhttps://www.diffchecker.com/6P74IncB/",
+    "best_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Team ONIBE",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+    "alt_title": "",
+    "year": 2025,
+    "format": "MOVIE",
+    "notes": "Team ONIBE is JPN BD Encode+OTL",
+    "comparison": "https://slow.pics/c/5SPLJZGV",
     "best_releases": [
       {
         "name": "JPN BD+Team ONIBE",
@@ -24737,22 +24752,18 @@
     "alt_title": "",
     "year": 2011,
     "format": "TV",
-    "notes": "tlacatlc6 is JPN BD Encode+WhyNot\nAC is tlacatlc6 with dub\nVCB-Studio would be a better alt",
+    "notes": "Pettan is VCB-Studio+tlacatlc6 (WhyNot) and Doki\nAll BD releases using WhyNot subs aren't synced properly",
     "comparison": "https://slow.pics/c/ZoFJH1IG\nhttps://www.diffchecker.com/6wN3vjCF/",
     "best_releases": [
       {
-        "name": "JPN BD+tlacatlc6",
+        "name": "JPN BD+WhyNot",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "AC (Dual Audio)",
-        "status": "not_nyaa"
-      },
-      {
-        "name": "tlacatlc6",
-        "status": ""
+        "name": "Pettan (Dual Audio)",
+        "status": "broken"
       }
     ]
   },
@@ -45948,7 +45959,7 @@
     "alt_title": "",
     "year": 2014,
     "format": "TV",
-    "notes": "npz is JPN BD Remux+Restyled Plormby (SallySubs with some FFF TS), FFF, and SallySubs\nDrag is Salender-Raws+FFF, Plormby, and SallySubs\nThe JPN BD is lowpassed but still better than the other stores",
+    "notes": "npz is JPN BD Remux+Restyled Plormby (SallySubs with some FFF TS), FFF, and SallySubs\nDrag is Salender-Raws+FFF, Plormby, and SallySubs\nThe JPN BD/BDBOX is lowpassed but still better than the other stores",
     "comparison": "https://slow.pics/c/hgIU9uDK",
     "best_releases": [
       {
@@ -45962,6 +45973,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Witch Craft Works OVA",
+    "alt_title": "Witch Craft Works: Takamiya-kun to Imouto no Warudakumi",
+    "year": 2015,
+    "format": "OVA",
+    "notes": "NAN0 is JPN BDBOX Remux+Watakushi\nThe TS doesn't really match the BD but the video quality is drastically better than all the previous releases",
+    "comparison": "https://slow.pics/c/5RDBv0O0",
+    "best_releases": [
+      {
+        "name": "NAN0",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Witch Hunter ROBIN",
@@ -46712,9 +46738,13 @@
     "alt_title": "Kimi no Na wa.",
     "year": 2016,
     "format": "MOVIE",
-    "notes": "SDR: MegaMTBB is color corrected SWE DCP Encode with BD changes spliced in+MTBB\nNSDAB is ITA BD Encode+Commie\nA Beatrice-Raws mux would be a better alt\n\nHDR: Might need to change video to 24.0fps and use the USA BD for dub, apparently GBR is botched\nTS in HDR gonna be a no-go, so maybe use Commie and make the TS super basic?\nThe HDR grade is rather demure, but has some nice highlights that make it stand out from SDR\n\nThe international master, used on the non JPN releases, has a green tint and worse chroma. This also applies to the recently released DCP, but to a lesser extent with it being 4:4:4.",
+    "notes": "SDR: MegaMTBB is color corrected DCP Encode with BD changes spliced in+MTBB\nBlackRose is MTBB with dub\nBlackRose is also Beatrice-Raws+MTBB\n\nHDR: Might need to change video to 24.0fps and use the USA BD for dub, apparently GBR is botched\nTS in HDR gonna be a no-go, so maybe use Commie and make the TS super basic?\nThe HDR grade is rather demure, but has some nice highlights that make it stand out from SDR\n\nThe international master, used on the non JPN releases, has a green tint and worse chroma. This also applies to the recently released DCP, but to a lesser extent with it being 4:4:4.",
     "comparison": "https://slow.pics/c/Ff4SsSiB\nhttps://slow.pics/c/WsGGSNwX\nhttps://slow.pics/c/MaXBRrtn\nhttps://slow.pics/c/nCEpfyTw\nhttps://slow.pics/c/WCeFFpJS",
     "best_releases": [
+      {
+        "name": "BlackRose (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "MegaMTBB",
         "status": ""
@@ -46722,7 +46752,7 @@
     ],
     "alt_releases": [
       {
-        "name": "NSDAB (Dual Audio)",
+        "name": "BlackRose (Dual Audio)",
         "status": ""
       }
     ]
