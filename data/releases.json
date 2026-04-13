@@ -12941,7 +12941,7 @@
     "year": 2009,
     "format": "TV",
     "notes": "McBalls is Okay-Raws+CR (modified), NF (modified), Eclipse (modified), and PGS",
-    "comparison": "https://slow.pics/c/Nc6YRYjH?image-position=top+left&image-fit=none\nhttps://slow.pics/c/9IAJa95N\nhttps://slow.pics/c/pfcTnqFi\nhttps://slow.pics/c/9IAJa95N\nhttps://slow.pics/c/qGDFZt5M\nhttps://slow.pics/c/uYQtRlAO",
+    "comparison": "https://slow.pics/c/Nc6YRYjH?image-position=top+left&image-fit=none\nhttps://slow.pics/c/9IAJa95N\nhttps://slow.pics/c/pfcTnqFi\nhttps://slow.pics/c/qGDFZt5M\nhttps://slow.pics/c/uYQtRlAO",
     "best_releases": [
       {
         "name": "McBalls (Dual Audio)",
@@ -18484,6 +18484,26 @@
     ]
   },
   {
+    "title": "Inazuma Eleven Ares",
+    "alt_title": "Inazuma Eleven: Ares no Tenbin",
+    "year": 2018,
+    "format": "TV",
+    "notes": "SEV is JPN BD Encode+Puto, has timing issues not present in the original release\nPuto subs are RyRo with slightly edited terminology to match real life soccer terms, and stock RyRo.\n*Commented out signs will need to be restored since Puto used a web source with hardsubbed signs",
+    "comparison": "https://slow.pics/c/7N6j0jjJ\nhttps://www.diffchecker.com/FeBGzj0d/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Puto*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SEV",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Inazuma Eleven: The Seal of Orion",
     "alt_title": "Inazuma Eleven: Orion no Kokuin",
     "year": 2018,
@@ -24001,6 +24021,46 @@
     ]
   },
   {
+    "title": "ViVid Strike!",
+    "alt_title": "",
+    "year": 2016,
+    "format": "TV",
+    "notes": "B00BA is JPN BD Remux+Fete Rider\nFete Rider is modified ron (Added OP/ED/insert song lyrics, missing line fixes, general QC)",
+    "comparison": "https://slow.pics/c/wMmttDkP\nhttps://www.diffchecker.com/YsP9sbHO/\nhttps://www.diffchecker.com/WhDHQ2oC/",
+    "best_releases": [
+      {
+        "name": "B00BA",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Fete Rider",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "ViVid Strike! OVA",
+    "alt_title": "",
+    "year": 2017,
+    "format": "OVA",
+    "notes": "B00BA is JPN BD Remux+Fete Rider\nFete Rider is modified ron (Added OP/ED/insert song lyrics, missing line fixes, general QC)",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "B00BA",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Fete Rider",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Magical Girl Raising Project",
     "alt_title": "Mahou Shoujo Ikusei Keikaku",
     "year": 2016,
@@ -28492,8 +28552,8 @@
     "alt_title": "Hoshi Furu Oukoku no Nina",
     "year": 2024,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+CR\nErai-raws and Kitsune are CR WEB-DLs\nThe JPN BD is lowpassed but fares much better than CR which dies with all the grain\nUsual suspects will likely be a better alt",
-    "comparison": "https://slow.pics/c/hcrBnOcs",
+    "notes": "NAN0 is JPN BD Remux+CR\nHeadpatter is jsum+CR\nThe JPN BD is lowpassed but fares much better than CR which dies with all the grain",
+    "comparison": "https://slow.pics/c/9R0pMvUb",
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
@@ -28502,11 +28562,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Erai-raws",
-        "status": ""
-      },
-      {
-        "name": "Kitsune (Dual Audio)",
+        "name": "Headpatter (Dual Audio)",
         "status": "not_nyaa"
       }
     ]
@@ -41481,8 +41537,8 @@
     "alt_title": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.",
     "year": 2024,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+CR\nSubsPlease is CR WEB-DL",
-    "comparison": "https://slow.pics/c/Mc1ULSIL",
+    "notes": "-ZR- is JPN BD Remux+CR\nHeadpatter is ReinForce+CR and PGS",
+    "comparison": "https://slow.pics/c/eWoou5pQ",
     "best_releases": [
       {
         "name": "-ZR- (Dual Audio)",
@@ -41491,8 +41547,8 @@
     ],
     "alt_releases": [
       {
-        "name": "SubsPlease",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -42642,6 +42698,21 @@
       {
         "name": "YURI (Dual Audio)",
         "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "The Wings of Rean",
+    "alt_title": "Rean no Tsubasa",
+    "year": 2005,
+    "format": "ONA",
+    "notes": "hchcsen is JPN BD Remux+\"retimed and restyled\" G_P (OCR'd official), and VobSubs\njsum would be a good alt\nEverything benefits from MPV Deband",
+    "comparison": "https://slow.pics/c/z8t0VvVs",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
