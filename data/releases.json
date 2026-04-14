@@ -15712,6 +15712,26 @@
     ]
   },
   {
+    "title": "Hamatora",
+    "alt_title": "Hamatora THE ANIMATION",
+    "year": 2014,
+    "format": "TV",
+    "notes": "ZRK & MK is SallySubs+MK (Modified SallySubs)\nSallySubs is modified Anime-Koi, which is a fansub based on CR\nphilosophy-raws would be a better alt",
+    "comparison": "https://slow.pics/c/TJQSuwdK\nhttps://www.diffchecker.com/ebpkrW7Z/\nhttps://www.diffchecker.com/279dUQXw/",
+    "best_releases": [
+      {
+        "name": "JPN BD+MK",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ZRK & MK (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Hanasaku Iroha ~Blossoms for Tomorrow~",
     "alt_title": "Hanasaku Iroha",
     "year": 2011,
@@ -20129,6 +20149,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Kabukibu!",
+    "alt_title": "",
+    "year": 2017,
+    "format": "TV",
+    "notes": "B00BA is JPN BD Remux+(Yellow) PGS\nTTGA is USA BD Remux+(Yellow) PGS\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/6y6OVJwr",
+    "best_releases": [
+      {
+        "name": "B00BA",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "TTGA",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Kageyama Tamio no Double Fantasy",
