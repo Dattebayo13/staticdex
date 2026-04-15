@@ -10649,9 +10649,14 @@
     "alt_title": "Durarara!!x2 Ten",
     "year": 2015,
     "format": "TV",
-    "notes": "Kametsu is ???",
-    "comparison": "",
-    "best_releases": [],
+    "notes": "Kametsu is JPN BD Encode+Dekinai\nDekinai subs are Pn8 (Modified CR) for E1-7, modified CR for E8-12",
+    "comparison": "https://slow.pics/c/zAyTSUVt\nhttps://www.diffchecker.com/wMbqAnvk/\nhttps://www.diffchecker.com/eWDWxRqA/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Dekinai",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
         "name": "Kametsu (Dual Audio)",
@@ -10680,7 +10685,7 @@
     "year": 2016,
     "format": "TV",
     "notes": "Kametsu is Beatrice-Raws+Glue",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/HrHaVdYy",
     "best_releases": [
       {
         "name": "Kametsu (Dual Audio)",
@@ -12230,17 +12235,17 @@
     "alt_title": "Shokugeki no Souma",
     "year": 2015,
     "format": "TV",
-    "notes": "Reza is JPN BD Encode+Datte13 (FFF)\nStore needs MPV Deband",
+    "notes": "crane0922 is Reza+Datte13 (MK, which is FFF with some improved TS)\nStore needs MPV Deband",
     "comparison": "https://slow.pics/c/74tVoVHv",
     "best_releases": [
       {
-        "name": "JPN BD+FFF",
+        "name": "JPN BD+MK",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "Reza (Dual Audio)",
+        "name": "crane0922 (Dual Audio)",
         "status": ""
       }
     ]
@@ -17809,6 +17814,26 @@
     ]
   },
   {
+    "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+    "alt_title": "Tensei Shitara Dai Nana Ouji Datta node, Kimamani Majutsu wo Kiwamemasu 2nd Season",
+    "year": 2025,
+    "format": "TV",
+    "notes": "VARYG is a CR WEB-DL\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/qO7sf9pd",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "I'm Getting Married to a Girl I Hate in My Class",
     "alt_title": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.",
     "year": 2025,
@@ -22216,6 +22241,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Lagrange: The Flower of Rin-ne",
+    "alt_title": "Rinne no Lagrange",
+    "year": 2012,
+    "format": "TV",
+    "notes": "Metal is Beatrice-Raws+Modified Coalgirls (Modified Underwater)",
+    "comparison": "https://slow.pics/c/ny3xaUQT",
+    "best_releases": [
+      {
+        "name": "Metal",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Laid-Back Camp",
@@ -40653,6 +40693,26 @@
     ]
   },
   {
+    "title": "The Girl in Twilight",
+    "alt_title": "Akane Sasu Shoujo",
+    "year": 2018,
+    "format": "TV",
+    "notes": "Fix-Fontsizecolor is Yarashii+Modified HIDI. The edits are bad and it's not synced properly but there aren't really any other options",
+    "comparison": "https://slow.pics/c/2YKo2D5g\nhttps://www.diffchecker.com/hlSekVNN/",
+    "best_releases": [
+      {
+        "name": "JPN BD+HIDI",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Fix-Fontsizecolor",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "The Girl Who Leapt Through Space",
     "alt_title": "Sora wo Kakeru Shoujo",
     "year": 2009,
@@ -42182,8 +42242,8 @@
     "alt_title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
     "year": 2024,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+CR\nSubsPlease is a CR WEB-DL\nBoth sources are very similar, the BD just has slightly better compression",
-    "comparison": "https://slow.pics/c/JzovxOAo",
+    "notes": "NAN0 is JPN BD Remux+CR\nshw is VCB-Studio+CR",
+    "comparison": "https://slow.pics/c/w9bFPkpK",
     "best_releases": [
       {
         "name": "NAN0",
@@ -42192,8 +42252,8 @@
     ],
     "alt_releases": [
       {
-        "name": "SubsPlease",
-        "status": ""
+        "name": "shw",
+        "status": "not_nyaa"
       }
     ]
   },
