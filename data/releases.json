@@ -12305,7 +12305,7 @@
     "alt_title": "Shokugeki no Souma: San no Sara",
     "year": 2017,
     "format": "TV",
-    "notes": "Reza is JPN BD Encode+Foodgasm (retimed FFF)\nStore needs MPV Deband",
+    "notes": "crane0922 is Reza+Foodgasm (XuN, which is FFF shifted to BD)\nStore needs MPV Deband",
     "comparison": "https://slow.pics/c/mqLz2nWt",
     "best_releases": [
       {
@@ -12315,7 +12315,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Reza (Dual Audio)",
+        "name": "crane0922 (Dual Audio)",
         "status": ""
       }
     ]
@@ -12340,12 +12340,12 @@
     "alt_title": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
     "year": 2018,
     "format": "TV",
-    "notes": "",
+    "notes": "crane0922 is Reza+Foodgasm (Astral-DKILLER1)",
     "comparison": "",
     "best_releases": [],
     "alt_releases": [
       {
-        "name": "Reza (Dual Audio)",
+        "name": "crane0922 (Dual Audio)",
         "status": ""
       }
     ]
@@ -12375,7 +12375,7 @@
     "alt_title": "Shokugeki no Souma: Gou no Sara",
     "year": 2020,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+BluE and PGS\nReza is JPN BD Encode+BluE\nKawaii is Reza with dub\nStore NEEDS MPV deband, otherwise get the encode",
+    "notes": "-ZR- is JPN BD Remux+BluE and PGS\nKawaii is Reza+BluE (Restyled CR with TS)\nStore NEEDS MPV deband, otherwise get the encode",
     "comparison": "https://slow.pics/c/jmuLY3pU",
     "best_releases": [
       {
@@ -12386,10 +12386,6 @@
     "alt_releases": [
       {
         "name": "Kawaii (Dual Audio)",
-        "status": ""
-      },
-      {
-        "name": "Reza (Dual Audio)",
         "status": ""
       }
     ]
@@ -17818,8 +17814,8 @@
     "alt_title": "Tensei Shitara Dai Nana Ouji Datta node, Kimamani Majutsu wo Kiwamemasu 2nd Season",
     "year": 2025,
     "format": "TV",
-    "notes": "VARYG is a CR WEB-DL\njsum would be a better alt",
-    "comparison": "https://slow.pics/c/qO7sf9pd",
+    "notes": "VARYG is a CR WEB-DL\nH-Enc would be a better alt",
+    "comparison": "https://slow.pics/c/qO7sf9pd\nhttps://slow.pics/c/GMIKS8uv",
     "best_releases": [
       {
         "name": "JPN BD+CR",
@@ -27081,6 +27077,21 @@
     "alt_releases": []
   },
   {
+    "title": "My Hero Academia: You’re Next",
+    "alt_title": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
+    "year": 2024,
+    "format": "MOVIE",
+    "notes": "Arg0 is JPN BD Remux+Restyled official dubtitles with three liners removed and improved timing\nWEB is utterly destroyed, get the remux at all costs",
+    "comparison": "https://slow.pics/c/kNGMsIuP",
+    "best_releases": [
+      {
+        "name": "Arg0 (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "My Hero Academia Season 7",
     "alt_title": "Boku no Hero Academia 7",
     "year": 2024,
@@ -27103,21 +27114,6 @@
         "status": ""
       }
     ]
-  },
-  {
-    "title": "My Hero Academia: You’re Next",
-    "alt_title": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
-    "year": 2024,
-    "format": "MOVIE",
-    "notes": "Arg0 is JPN BD Remux+Restyled official dubtitles with three liners removed and improved timing\nWEB is utterly destroyed, get the remux at all costs",
-    "comparison": "https://slow.pics/c/kNGMsIuP",
-    "best_releases": [
-      {
-        "name": "Arg0 (Dual Audio)",
-        "status": ""
-      }
-    ],
-    "alt_releases": []
   },
   {
     "title": "My Hero Academia: Vigilantes",
@@ -35165,8 +35161,8 @@
     "alt_title": "",
     "year": 2016,
     "format": "TV",
-    "notes": "Moxie is JPN BD Remux+Asenshi",
-    "comparison": "https://slow.pics/c/w2OYfBlj",
+    "notes": "Moxie is JPN BD Remux+Asenshi\nReinForce would be a better alt",
+    "comparison": "https://slow.pics/c/QFZOZuiF",
     "best_releases": [
       {
         "name": "Moxie",
@@ -42807,7 +42803,7 @@
     "alt_title": "Rean no Tsubasa",
     "year": 2005,
     "format": "ONA",
-    "notes": "hchcsen is JPN BD Remux+\"retimed and restyled\" G_P (OCR'd official), and VobSubs\njsum would be a good alt\nEverything benefits from MPV Deband",
+    "notes": "hchcsen is JPN BD Remux+\"retimed and restyled\" G_P (OCR'd official), and VobSubs\nHeadpatter is jsum+hchcsen\nEverything benefits from MPV Deband",
     "comparison": "https://slow.pics/c/z8t0VvVs",
     "best_releases": [
       {
@@ -42815,7 +42811,12 @@
         "status": "not_nyaa"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "The Witch and the Beast",
