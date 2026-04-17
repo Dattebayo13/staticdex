@@ -15638,6 +15638,26 @@
     "alt_releases": []
   },
   {
+    "title": "Hajime no Ippo: The Fighting!",
+    "alt_title": "Hajime no Ippo: THE FIGHTING!",
+    "year": 2000,
+    "format": "TV",
+    "notes": "Yellow-Flash is USA BD Encode+R1",
+    "comparison": "https://slow.pics/c/9X7gI8MK",
+    "best_releases": [
+      {
+        "name": "USA BD+Yellow-Flash",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Yellow-Flash (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Hajime no Ippo: The Fighting! New Challenger",
     "alt_title": "Hajime no Ippo: New Challenger",
     "year": 2009,
@@ -16094,6 +16114,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Headhunted to Another World: From Salaryman to Big Four!",
+    "alt_title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+    "year": 2025,
+    "format": "ONA",
+    "notes": "Poopoo is JPN BD Encode+Restyled CR. The dub is tagged as Japanese so automatic selection won't work.",
+    "comparison": "https://slow.pics/c/XA7DvZDo",
+    "best_releases": [
+      {
+        "name": "Poopoo (Dual Audio)",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Heaven's Lost Property",
@@ -21427,12 +21462,12 @@
     "alt_title": "Kingdom 5th Season",
     "year": 2024,
     "format": "TV",
-    "notes": "RUDY is CR WEB-DL restyled, with added TS & songs, and Chinese state and Japanese character names to match the manga TL\nBoth should be watched with MPV Deband, but if you can't then CR would be the better play. The JPN BD is pretty bad and sometimes has less detail than CR, but with deband it's an overall better experience",
-    "comparison": "https://slow.pics/c/malSZOny",
+    "notes": "Sylvar is JPN BD Remux+RUDY\nRUDY is CR WEB-DL restyled, with added TS & songs. Uses Chinese state and Japanese character names to match the scanlation manga TL. Also includes Erai-raws (full Japanese names) and stock CR (full Chinese names)\nBoth should be watched with MPV Deband, but if you can't then CR would be the better play. The JPN BD is pretty bad and sometimes has less detail than CR, but with deband it's an overall better experience",
+    "comparison": "https://slow.pics/c/malSZOny\nhttps://www.diffchecker.com/lO4P7ejp/\nhttps://www.diffchecker.com/G9piY3Sl/",
     "best_releases": [
       {
-        "name": "JPN BD+RUDY",
-        "status": "unmuxed"
+        "name": "Sylvar",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -21542,7 +21577,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -38293,6 +38328,46 @@
     ]
   },
   {
+    "title": "SWORDGAI The Animation",
+    "alt_title": "Sword Gai The Animation",
+    "year": 2018,
+    "format": "ONA",
+    "notes": "TTGA is USA BD Remux+(Yellow) PGS\nNOGRP is LowPower-Raws+HorribleSubs (NF)\nThe USA BD sucks but the other options are much worse",
+    "comparison": "https://slow.pics/c/S3LRcthA",
+    "best_releases": [
+      {
+        "name": "TTGA (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "NOGRP",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "SWORDGAI The Animation Part II",
+    "alt_title": "Sword Gai The Animation Part II",
+    "year": 2018,
+    "format": "ONA",
+    "notes": "TTGA is USA BD Remux+(Yellow) PGS\nNOGRP is LowPower-Raws+HorribleSubs (NF)",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "TTGA (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "NOGRP",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Symphogear",
     "alt_title": "Senki Zesshou Symphogear",
     "year": 2012,
@@ -40356,6 +40431,21 @@
     "best_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "The Fragrant Flower Blooms With Dignity",
+    "alt_title": "Kaoru Hana wa Rin to Saku",
+    "year": 2025,
+    "format": "TV",
+    "notes": "FLE is JPN BD Encode+OTL",
+    "comparison": "https://slow.pics/c/4NlIGsyc\nhttps://www.diffchecker.com/qGlJNHfi/",
+    "best_releases": [
+      {
+        "name": "FLE (Dual Audio)",
         "status": ""
       }
     ],
@@ -45559,8 +45649,8 @@
     "alt_title": "Tenki no Ko",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "RiMJOB is ITA BD Remux+Kaizoku, Lonely Hikikomori, PGS, and iT\nKawatare is ITA BD Encode+Kaizoku, Lonely Hikikomori, and iT\nKawatare is using outdated Kaizoku subs\nRiMJOB subs with a few fixes are available here https://bin.theindex.moe/?07357c74e4b67ab1#3WtdrfgcEsfEm7ngcNHzrfZF2YuWyjfDBVaXqPgftwve",
-    "comparison": "https://slow.pics/c/6YLH2qh5\nhttps://slow.pics/c/j0h3fB8K\nhttps://slow.pics/c/mQTJ7JyQ\nhttps://www.diffchecker.com/xacc5GHF/\nhttps://www.diffchecker.com/qDqC5xuu/\nhttps://www.diffchecker.com/nypK5f6K/\nhttps://www.diffchecker.com/15VhWtVn/",
+    "notes": "RiMJOB is ITA BD Remux+Kaizoku (Github), Lonely Hikikomori, PGS, and iT\nKawatare is ITA BD Encode+Kaizoku (Github), Lonely Hikikomori, and iT\nKaizoku (Github) subs with a few fixes are linked in the comp section",
+    "comparison": "https://slow.pics/c/6YLH2qh5\nhttps://slow.pics/c/j0h3fB8K\nhttps://slow.pics/c/mQTJ7JyQ\nhttps://www.diffchecker.com/9EsWa1uJ/\nhttps://www.diffchecker.com/qDqC5xuu/\nhttps://www.diffchecker.com/nypK5f6K/\nhttps://www.diffchecker.com/15VhWtVn/\nhttps://bin.theindex.moe/?07357c74e4b67ab1#3WtdrfgcEsfEm7ngcNHzrfZF2YuWyjfDBVaXqPgftwve",
     "best_releases": [
       {
         "name": "RiMJOB (Dual Audio)",
@@ -45570,7 +45660,7 @@
     "alt_releases": [
       {
         "name": "Kawatare",
-        "status": "broken"
+        "status": ""
       }
     ]
   },
