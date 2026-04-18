@@ -17849,12 +17849,12 @@
     "alt_title": "Tensei Shitara Dai Nana Ouji Datta node, Kimamani Majutsu wo Kiwamemasu 2nd Season",
     "year": 2025,
     "format": "TV",
-    "notes": "VARYG is a CR WEB-DL\nH-Enc would be a better alt",
+    "notes": "WR3CK is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nH-Enc would be a better alt",
     "comparison": "https://slow.pics/c/qO7sf9pd\nhttps://slow.pics/c/GMIKS8uv",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "WR3CK (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -42898,7 +42898,7 @@
     "best_releases": [
       {
         "name": "hchcsen",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -44403,8 +44403,8 @@
     "alt_title": "Gunjou no Magmell",
     "year": 2019,
     "format": "TV",
-    "notes": "B00BA is JPN BD Remux+ThundraSubs\nwat15 is JPN BD Encode+ThundraSubs\nIrizaRaws would be a significantly better alt",
-    "comparison": "https://slow.pics/c/9s87ZbHE\nhttps://www.diffchecker.com/0HCgwmMo/",
+    "notes": "B00BA is JPN BD Remux+ThundraSubs\nHeadpatter is IrizaRaws+Modified ThundraSubs (Restyled, reduced OP/ED size, line splits, removed lenny face meme from episode 9), and stock ThundraSubs",
+    "comparison": "https://slow.pics/c/9s87ZbHE\nhttps://www.diffchecker.com/0HCgwmMo/\nhttps://www.diffchecker.com/lu0yJvkC/",
     "best_releases": [
       {
         "name": "B00BA",
@@ -44413,8 +44413,8 @@
     ],
     "alt_releases": [
       {
-        "name": "wat15",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
