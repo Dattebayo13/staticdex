@@ -394,7 +394,7 @@
     "alt_title": "Toaru Kagaku no Accelerator",
     "year": 2019,
     "format": "TV",
-    "notes": "Moxie is JPN BD Remux+GJM, OCR'd official for the special\nHolomux is UQW (USA BD Encode)+GJM, Gremlin, and official subs",
+    "notes": "Moxie is JPN BD Remux+GJM, OCR'd official for the special\nA jsum mux would probably be a good alt\nHolomux has desynced audio and subs in at least episode 2 and 3",
     "comparison": "https://slow.pics/c/DirpapZH",
     "best_releases": [
       {
@@ -402,12 +402,7 @@
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Holomux (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Toaru Kagaku no Accelerator: Tobidase Ippou-san Hachamecha Kaishingeki",
@@ -15642,7 +15637,7 @@
     "alt_title": "Hajime no Ippo: THE FIGHTING!",
     "year": 2000,
     "format": "TV",
-    "notes": "Yellow-Flash is USA BD Encode+R1",
+    "notes": "Yellow-Flash is USA BD Encode+R1\nThe USA BD has poor deinterlacing but is still the best watchable source",
     "comparison": "https://slow.pics/c/9X7gI8MK",
     "best_releases": [
       {
@@ -22199,6 +22194,26 @@
     "alt_releases": [
       {
         "name": "SEV (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Kuroko's Basketball: Last Game",
+    "alt_title": "Kuroko no Basket: Last Game",
+    "year": 2017,
+    "format": "MOVIE",
+    "notes": "whomst is SEV+Modified CR (Restyled, line breaks redone, some lines combined, improved TS for the one (1) sign in the movie)",
+    "comparison": "https://slow.pics/c/J7vfSekL\nhttps://www.diffchecker.com/S6GtCmOt/\nhttps://www.diffchecker.com/jGXnD7Y3/",
+    "best_releases": [
+      {
+        "name": "JPN BD+whomst",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "whomst (Dual Audio)",
         "status": ""
       }
     ]
