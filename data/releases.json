@@ -2607,6 +2607,21 @@
     ]
   },
   {
+    "title": "Armed Girl's Machiavellism",
+    "alt_title": "Busou Shoujo Machiavellianism",
+    "year": 2017,
+    "format": "TV",
+    "notes": "AOmundson is USA BD Remux+Saitei (Modified AMZN). Has scenebleeds that were also present in the original subs\nThe USA BD is lowpassed but the JPN BD is hoarded and the encodes from it aren't good, and both the GER BD and CR are starved\nAmoeba (on U2) would be a good alt, Yara-Raws (used in the Drag release) seems to be a mux of this which introduced playback issues",
+    "comparison": "https://slow.pics/c/DHzLtngm\nhttps://www.diffchecker.com/5Rk3QMRN/\nhttps://www.diffchecker.com/cVhcY6Dn/",
+    "best_releases": [
+      {
+        "name": "AOmundson (Dual Audio)",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Armor Shop for Ladies & Gentlemen",
     "alt_title": "Otona no Bouguya-san",
     "year": 2018,
@@ -5207,7 +5222,7 @@
     "alt_title": "BLEACH: Sennen Kessen-hen",
     "year": 2022,
     "format": "TV",
-    "notes": "LGH is ITA BD Remux+Modified Lazy (minor timing fixes and typesetting improvements, OP/ED TL added to episodes missing them) and PGS\nA ReinForce mux would make a decent alt",
+    "notes": "LGH is ITA BD Remux+Modified Lazy (minor timing fixes and typesetting improvements, OP/ED TL added to episodes missing them) and PGS\nLGH is also ReinForce with the same subs",
     "comparison": "https://slow.pics/c/97Oine7J\nhttps://slow.pics/c/goC9rJoa\nhttps://slow.pics/c/MZVn42Yx\nhttps://slow.pics/c/qJsXkQfM",
     "best_releases": [
       {
@@ -5215,7 +5230,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "LGH (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "BLEACH: Thousand-Year Blood War - The Separation",
@@ -22199,6 +22219,50 @@
     ]
   },
   {
+    "title": "Kuroko's Basketball 2",
+    "alt_title": "Kuroko no Basket 2nd SEASON",
+    "year": 2013,
+    "format": "TV",
+    "notes": "Saizen is JPN BD Encode+Modified CR\n-KS- is Saizen with dub",
+    "comparison": "https://slow.pics/c/CIV4bo20\nhttps://www.diffchecker.com/tP1GpvBo/",
+    "best_releases": [
+      {
+        "name": "sergey_krs+Saizen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "-KS- (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "Saizen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Kuroko's Basketball 3",
+    "alt_title": "Kuroko no Basket 3rd SEASON",
+    "year": 2015,
+    "format": "TV",
+    "notes": "SEV is JPN BD Encode+-KS- (Saizen for E1-5, CR with Saizen OP/ED for cour 1, Saizen styling & title cards, and some fixed sign timing for 6-25)",
+    "comparison": "https://slow.pics/c/izzK33vk\nhttps://www.diffchecker.com/rrFTQ8xu/",
+    "best_releases": [
+      {
+        "name": "JPN BD+-KS-",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SEV (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Kuroko's Basketball: Last Game",
     "alt_title": "Kuroko no Basket: Last Game",
     "year": 2017,
@@ -33572,18 +33636,18 @@
     "alt_title": "",
     "year": 2018,
     "format": "ONA",
-    "notes": "Mysteria is Beatrice-Raws+FFF (Astral edit)",
-    "comparison": "",
+    "notes": "GHOST is USA BD Encode+PGS\nOther releases use an ESL TL\nBeatrice-Raws would be a better alt",
+    "comparison": "https://www.diffchecker.com/6D15mVNW/",
     "best_releases": [
       {
-        "name": "JPN BD+Mysteria",
+        "name": "JPN BD+PGS",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "Mysteria (Dual Audio)",
-        "status": ""
+        "name": "GHOST",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -33592,17 +33656,17 @@
     "alt_title": "ReLIFE: Kanketsu-hen",
     "year": 2018,
     "format": "OVA",
-    "notes": "Mysteria is Beatrice-Raws+FFF (Astral edit)\nStore needs MPV deband, otherwise get the encode",
+    "notes": "RigAfterMe is JPN BD Remux+Mysteria (FFF (Astral edit)) with various fixes\nRigAV1 is JPN BD Encode+RigAfterMe\nStore needs MPV deband, otherwise get the encode\nBeatrice-Raws+RigAfterMe would be a better alt",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JPN BD+Mysteria",
-        "status": "unmuxed"
+        "name": "RigAfterMe (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Mysteria (Dual Audio)",
+        "name": "RigAV1 (Dual Audio)",
         "status": ""
       }
     ]
