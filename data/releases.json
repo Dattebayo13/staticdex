@@ -1158,6 +1158,26 @@
     ]
   },
   {
+    "title": "Air",
+    "alt_title": "AIR",
+    "year": 2005,
+    "format": "TV",
+    "notes": "ForeForFour is yan04000985+Modified Doki (Some adjustments to blurs for signs, synced and TPP’d for keyframe snaps and gap reduction)\nFourTooZero is ForeForFour re-encoded to 4:2:0 for better compatibility",
+    "comparison": "https://slow.pics/c/bSp2CQC3\nhttps://slow.pics/c/ZsBWCmMl",
+    "best_releases": [
+      {
+        "name": "ForeForFour (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "FourTooZero (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Air Gear",
     "alt_title": "",
     "year": 2006,
@@ -19957,6 +19977,26 @@
     ]
   },
   {
+    "title": "JUNI TAISEN：ZODIAC WAR",
+    "alt_title": "Juuni Taisen",
+    "year": 2017,
+    "format": "TV",
+    "notes": "AnoZu is a CR WEB-DL\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/34jIvTte",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "AnoZu (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Just Because!",
     "alt_title": "",
     "year": 2017,
@@ -24956,6 +24996,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Mask of Zeguy",
+    "alt_title": "Unkai no Meikyuu ZEGUY",
+    "year": 1993,
+    "format": "OVA",
+    "notes": "Kuraze is R1US DVD Encode+OCR'd and modified VobSubs",
+    "comparison": "https://slow.pics/c/F7HaHUVX",
+    "best_releases": [
+      {
+        "name": "Kuraze (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Master of Martial Hearts",
