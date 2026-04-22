@@ -15772,8 +15772,8 @@
     "alt_title": "Hamatora THE ANIMATION",
     "year": 2014,
     "format": "TV",
-    "notes": "ZRK & MK is SallySubs+MK (Modified SallySubs)\nSallySubs is modified Anime-Koi, which is a fansub based on CR\nphilosophy-raws would be a better alt",
-    "comparison": "https://slow.pics/c/TJQSuwdK\nhttps://www.diffchecker.com/ebpkrW7Z/\nhttps://www.diffchecker.com/279dUQXw/",
+    "notes": "SallySubs is USA BD Encode+modified Anime-Koi (fansub based on CR)\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/SD3zh954\nhttps://www.diffchecker.com/ebpkrW7Z/\nhttps://www.diffchecker.com/279dUQXw/",
     "best_releases": [
       {
         "name": "JPN BD+MK",
@@ -15782,7 +15782,7 @@
     ],
     "alt_releases": [
       {
-        "name": "ZRK & MK (Dual Audio)",
+        "name": "SallySubs",
         "status": ""
       }
     ]
