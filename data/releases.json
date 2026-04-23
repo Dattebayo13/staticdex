@@ -8554,6 +8554,21 @@
     ]
   },
   {
+    "title": "Cosmic Princess Kaguya!",
+    "alt_title": "Chou Kaguya-hime!",
+    "year": 2026,
+    "format": "ONA",
+    "notes": "Buggy is Nekomoe kissaten&LoliHouse+Modified NF (Retimed, typesetting, song styling, split overlapping dialogue, adjusted some linebreaks)\nNetflix quality is cooked, Nekomoe kissaten&LoliHouse is primarily based on the H.264 stream but switches to AV1 for the extremely bitstarved scenes",
+    "comparison": "https://slow.pics/c/0YhnFqlT\nhttps://slow.pics/c/7OBafPTF",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "Buggy (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Cowboy Bebop",
     "alt_title": "",
     "year": 1998,
@@ -9079,11 +9094,11 @@
     "alt_title": "Darling in the Franxx",
     "year": 2018,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Chotab and PGS\nChotab is JPN BD Encode+LostYears with fixes and Mew OP/ED for E1-15",
-    "comparison": "https://slow.pics/c/FvoTOPtZ",
+    "notes": "Kawatare is JPN BD Encode+Chotab and CR\nChotab is JPN BD Encode+LostYears with fixes and Mew OP/ED for E1-15",
+    "comparison": "https://slow.pics/c/hlHZKlW5\nhttps://slow.pics/c/FvoTOPtZ",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ],
@@ -15777,6 +15792,26 @@
     "best_releases": [
       {
         "name": "JPN BD+MK",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SallySubs",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Re: Hamatora",
+    "alt_title": "Re:_HAMATORA",
+    "year": 2014,
+    "format": "TV",
+    "notes": "SallySubs is JPN BD Encode+Modified Anime-Koi\nSallySubs Episodes 4 and 9 contain conformance errors, they play fine but for a future mux you can fix mediainfo reporting errors with the h264_redundant_pps ffmpeg filter",
+    "comparison": "https://slow.pics/c/m1OPb7wM\nhttps://www.diffchecker.com/DJEYxD9U/\nhttps://www.diffchecker.com/moPlTETB/",
+    "best_releases": [
+      {
+        "name": "JPN BD+SallySubs",
         "status": "unmuxed"
       }
     ],
@@ -22904,12 +22939,12 @@
     "alt_title": "Shiguang Dailiren",
     "year": null,
     "format": "ONA",
-    "notes": "Dae-P9 is Zagzad+FUNI Edited, Timed, and TSed\nStore needs MPV deband\nMake sure to use the fixed audio from the Dae-P9 release https://nyaa.si/view/1563597#com-7\nE.N.D is the unmuxed best but in their infinite wisdom they chose to include no fonts",
+    "notes": "Mehul is JPN BD Remux+Dae-P9\nDae-P9 is Zagzad+FUNI Edited, Timed, and TSed\nBoth releases splice the original OP and ED in\nStore needs MPV deband, otherwise get the encode",
     "comparison": "https://slow.pics/c/qcvJbU9P\nhttps://slow.pics/c/vacAOsDi\nhttps://slow.pics/c/LbipMPE2",
     "best_releases": [
       {
-        "name": "JPN BD+Dae-P9",
-        "status": "unmuxed"
+        "name": "Mehul (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -22924,12 +22959,12 @@
     "alt_title": "Shiguang Dailiren Special",
     "year": null,
     "format": "ONA",
-    "notes": "Dae-P9 is Zagzad+FUNI Edited, Timed, and TSed\nStore needs MPV deband",
+    "notes": "Mehul is JPN BD Remux+Dae-P9\nDae-P9 is Zagzad+FUNI Edited, Timed, and TSed\nBoth releases splice the original OP and ED in\nStore needs MPV deband, otherwise get the encode",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JPN BD+Dae-P9",
-        "status": "unmuxed"
+        "name": "Mehul (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26290,6 +26325,26 @@
     ]
   },
   {
+    "title": "Monster Girl Doctor",
+    "alt_title": "Monster Musume no Oisha-san",
+    "year": 2020,
+    "format": "TV",
+    "notes": "TTGA is JPN BD Remux+CR\nHeadpatter is VCB-Studio+CR\nBoth releases have broken typesetting due to sourcing from HorribleSubs\nIrizaRaws would be a better alt",
+    "comparison": "https://slow.pics/c/JTtsDojS",
+    "best_releases": [
+      {
+        "name": "TTGA (Dual Audio)",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Monster Musume: Everyday Life With Monster Girls",
     "alt_title": "Monster Musume no Iru Nichijou",
     "year": 2015,
@@ -26599,12 +26654,12 @@
     "alt_title": "Mushishi: Hihamukage",
     "year": 2014,
     "format": "SPECIAL",
-    "notes": "ARC is Kawaiika-Raws+Dekinai (modified Vivid)",
-    "comparison": "",
+    "notes": "Bohemia is JPN BD Encode+Dekinai\nARC is Kawaiika-Raws+Dekinai (modified Vivid)",
+    "comparison": "https://slow.pics/c/dPlDySyf",
     "best_releases": [
       {
-        "name": "JPN BD+Dekinai",
-        "status": "unmuxed"
+        "name": "Bohemia",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26619,12 +26674,12 @@
     "alt_title": "Mushishi Zoku Shou",
     "year": 2014,
     "format": "TV",
-    "notes": "ARC is Kawaiika-Raws+Dekinai (modified Vivid)",
-    "comparison": "https://slow.pics/c/9YZLSX1E",
+    "notes": "Bohemia is JPN BD Encode+Dekinai \nARC is Kawaiika-Raws+Dekinai (modified Vivid)",
+    "comparison": "https://slow.pics/c/3EmWRCH4\nhttps://slow.pics/c/9YZLSX1E",
     "best_releases": [
       {
-        "name": "JPN BD+Dekinai",
-        "status": "unmuxed"
+        "name": "Bohemia",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26639,12 +26694,12 @@
     "alt_title": "Mushishi Zoku Shou 2",
     "year": 2014,
     "format": "TV",
-    "notes": "ARC is Kawaiika-Raws+Dekinai (modified Vivid)",
+    "notes": "Bohemia is JPN BD Encode+Dekinai \nARC is Kawaiika-Raws+Dekinai (modified Vivid)",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JPN BD+Dekinai",
-        "status": "unmuxed"
+        "name": "Bohemia",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26659,12 +26714,12 @@
     "alt_title": "Mushishi Zoku Shou: Odoro no Michi",
     "year": 2014,
     "format": "SPECIAL",
-    "notes": "ARC is Kawaiika-Raws+Dekinai (modified Vivid)",
-    "comparison": "",
+    "notes": "Bohemia is JPN BD Encode+Dekinai\nARC is Kawaiika-Raws+Dekinai (modified Vivid)",
+    "comparison": "https://slow.pics/c/YNpqwc88",
     "best_releases": [
       {
-        "name": "JPN BD+Dekinai",
-        "status": "unmuxed"
+        "name": "Bohemia",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26679,12 +26734,12 @@
     "alt_title": "Mushishi Tokubetsu-hen: Suzu no Shizuku",
     "year": 2015,
     "format": "MOVIE",
-    "notes": "ARC is Kawaiika-Raws+Dekinai (modified Vivid)",
-    "comparison": "",
+    "notes": "Bohemia is JPN BD Encode+Dekinai\nARC is Kawaiika-Raws+Dekinai (modified Vivid)",
+    "comparison": "https://slow.pics/c/PMM0hIDI",
     "best_releases": [
       {
-        "name": "JPN BD+Dekinai",
-        "status": "unmuxed"
+        "name": "Bohemia",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -32721,6 +32776,26 @@
     "alt_releases": [
       {
         "name": "sgt",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Rage of Bahamut: Virgin Soul",
+    "alt_title": "Shingeki no Bahamut: VIRGIN SOUL",
+    "year": 2017,
+    "format": "TV",
+    "notes": "UDF is neko-raws+Modified VON (Modified AMZN)\nSumire is a fansub based on AMZN, only covers cour 1\nStore needs MPV Deband",
+    "comparison": "https://slow.pics/c/jxLwN6iy\nhttps://www.diffchecker.com/Zp1xiNsN/\nhttps://www.diffchecker.com/WjPpdiJt/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Sumire/UDF",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "UDF",
         "status": ""
       }
     ]
