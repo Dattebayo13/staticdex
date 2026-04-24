@@ -9095,7 +9095,7 @@
     "year": 2018,
     "format": "TV",
     "notes": "Kawatare is JPN BD Encode+Chotab and CR\nChotab is JPN BD Encode+LostYears with fixes and Mew OP/ED for E1-15",
-    "comparison": "https://slow.pics/c/hlHZKlW5\nhttps://slow.pics/c/FvoTOPtZ",
+    "comparison": "https://slow.pics/c/hlHZKlW5\nhttps://slow.pics/c/7ily3mNE",
     "best_releases": [
       {
         "name": "Kawatare",
@@ -12465,8 +12465,8 @@
     "alt_title": "Piano no Mori (TV)",
     "year": 2018,
     "format": "TV",
-    "notes": "KH is Moozzi2+PAS",
-    "comparison": "https://slow.pics/c/GSRViTQJ",
+    "notes": "KH is Moozzi2+PAS\nMoozzi2 is very bad but there's a drastic amount of BD changes, jsum would be a significantly better alt",
+    "comparison": "https://slow.pics/c/uMCh1aiB",
     "best_releases": [
       {
         "name": "JPN BD+PAS",
@@ -12485,7 +12485,7 @@
     "alt_title": "Piano no Mori 2 (TV)",
     "year": 2019,
     "format": "TV",
-    "notes": "KH is Moozzi2+PAS",
+    "notes": "KH is Moozzi2+PAS\nMoozzi2 is very bad but there's a drastic amount of BD changes, jsum would be a significantly better alt",
     "comparison": "",
     "best_releases": [
       {
@@ -16526,6 +16526,46 @@
     "alt_releases": [
       {
         "name": "AnoZu (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Hen Zemi",
+    "alt_title": "",
+    "year": 2010,
+    "format": "OVA",
+    "notes": "grimf is R2J DVD Encode+WhyNot",
+    "comparison": "https://slow.pics/c/GKXCabo4",
+    "best_releases": [
+      {
+        "name": "dAnime+WhyNot",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "grimf",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Hen Zemi (TV)",
+    "alt_title": "",
+    "year": 2011,
+    "format": "TV_SHORT",
+    "notes": "Final8 is JPN BD Encode+IB\nMoozzi2 would be a better alt\nStore should be watched with MPV Deband",
+    "comparison": "https://slow.pics/c/gxayBSJF",
+    "best_releases": [
+      {
+        "name": "JPN BD+Final8",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Final8",
         "status": ""
       }
     ]
@@ -21623,6 +21663,26 @@
     ]
   },
   {
+    "title": "KINMOZA The Movie: Thank you!!",
+    "alt_title": "Kiniro Mosaic: Thank you!!",
+    "year": 2021,
+    "format": "MOVIE",
+    "notes": "nekotan is JPN BD Remux+Pasokon\no7 is VCB-Studio+Pasokon",
+    "comparison": "https://slow.pics/c/c6YUDdU7\nhttps://www.diffchecker.com/H6x8IVkg/",
+    "best_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "o7",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Kino's Journey -the Beautiful World- the Animated Series",
     "alt_title": "Kino no Tabi -the Beautiful World- the Animated Series",
     "year": 2017,
@@ -22278,17 +22338,21 @@
     "alt_title": "Kuroko no Basket",
     "year": 2012,
     "format": "TV",
-    "notes": "SEV is JPN BD Encode+Saizen",
-    "comparison": "https://slow.pics/c/954HVpx0\nhttps://www.diffchecker.com/RbxIUjAo/",
+    "notes": "Saizen is JPN BD Encode+Modified CR\n-KS- is Saizen with dub\n*Remove meme credits and moon runes from the OP/ED please",
+    "comparison": "https://slow.pics/c/BvJVczhJ\nhttps://slow.pics/c/954HVpx0\nhttps://www.diffchecker.com/6WOePlEp/\nhttps://www.diffchecker.com/RbxIUjAo/",
     "best_releases": [
       {
-        "name": "JPN BD+Saizen",
+        "name": "JPN BD+Saizen*",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "SEV (Dual Audio)",
+        "name": "-KS- (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "Saizen",
         "status": ""
       }
     ]
@@ -26330,7 +26394,7 @@
     "year": 2020,
     "format": "TV",
     "notes": "TTGA is JPN BD Remux+CR\nHeadpatter is VCB-Studio+CR\nBoth releases have broken typesetting due to sourcing from HorribleSubs\nIrizaRaws would be a better alt",
-    "comparison": "https://slow.pics/c/JTtsDojS",
+    "comparison": "https://slow.pics/c/qqr2zjNE",
     "best_releases": [
       {
         "name": "TTGA (Dual Audio)",
@@ -31922,6 +31986,30 @@
       {
         "name": "Pod",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Pompo: The Cinéphile",
+    "alt_title": "Eiga Daisuki Pompo-san",
+    "year": 2021,
+    "format": "MOVIE",
+    "notes": "GSK_kun is JPN BD Encode+OTL\nMALDESiUM is GSK_kun+Dub and PGS\nKakumei Subs would be a better alt\nEvery source except the ITA BD has very strong banding, uses the theatrical master, or both",
+    "comparison": "https://slow.pics/c/Bv2yHNUp\nhttps://slow.pics/c/AWAq9bvJ",
+    "best_releases": [
+      {
+        "name": "ITA BD+GSK_kun",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "GSK_kun",
+        "status": ""
+      },
+      {
+        "name": "MALDESiUM (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
