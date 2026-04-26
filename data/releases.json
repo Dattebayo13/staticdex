@@ -9094,17 +9094,17 @@
     "alt_title": "Darling in the Franxx",
     "year": 2018,
     "format": "TV",
-    "notes": "Kawatare is JPN BD Encode+Chotab and CR\nChotab is JPN BD Encode+LostYears with fixes and Mew OP/ED for E1-15",
+    "notes": "BlackRose is Kawatare+Modified Chotab (Fixed typos, name corrections, positioning fixes, missing fonts) and PGS\nWhiteRose is Chotab with the same subs",
     "comparison": "https://slow.pics/c/hlHZKlW5\nhttps://slow.pics/c/7ily3mNE",
     "best_releases": [
       {
-        "name": "Kawatare",
+        "name": "BlackRose (Dual Audio)",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Chotab (Dual Audio)",
+        "name": "WhiteRose (Dual Audio)",
         "status": ""
       }
     ]
@@ -39322,7 +39322,7 @@
     "year": 2006,
     "format": "MOVIE",
     "notes": "",
-    "comparison": "https://slow.pics/c/mbgqy9HQ",
+    "comparison": "https://slow.pics/c/V0eADyhC\nhttps://slow.pics/c/mbgqy9HQ",
     "best_releases": [
       {
         "name": "Afro (Dual Audio)",
