@@ -4041,17 +4041,17 @@
     "alt_title": "Baki: Dai Raitaisai-hen",
     "year": 2020,
     "format": "ONA",
-    "notes": "-KS-/CONFRONT are old NF WEB-DLs, former has dub, latter has all sub options\nThe JPN BD has a strong tint and a lot more banding but massively better compression than NF, MPV deband is a MUST\nThere's a newer 5Mbps NF WEB-DL on PTs but it's not much better\nThe BD seems to be unshared, but there's a mistagged remux here https://nyaa.si/view/1840192",
+    "notes": "VARYG is a NF WEB-DL\nThe JPN BD has a strong tint and a lot more banding but massively better compression than NF, MPV deband is a MUST\nThe BD seems to be unshared, but there's a mistagged remux here https://nyaa.si/view/1840192",
     "comparison": "https://slow.pics/c/4kjwejqG",
     "best_releases": [
       {
-        "name": "JPN BD+KS",
+        "name": "JPN BD+NF",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "-KS- (Dual Audio)",
+        "name": "VARYG (Dual Audio)",
         "status": ""
       }
     ]
@@ -7566,6 +7566,30 @@
     "alt_releases": []
   },
   {
+    "title": "Children of the Whales",
+    "alt_title": "Kujira no Kora wa Sajou ni Utau",
+    "year": 2017,
+    "format": "TV",
+    "notes": "Asenshi is NF WEBRip+OTL\nLostYears is Asenshi with dub\nVCB-Studio would be a better alt\nExisting BD muxes have issues (Wailord has the wrong subs on episode 2, Slysoft has 1-2 frame desyncs and uses jsum which sucks)",
+    "comparison": "https://slow.pics/c/pnBypJ5t\nhttps://www.diffchecker.com/k1iecTEd/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Asenshi",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Asenshi",
+        "status": ""
+      },
+      {
+        "name": "LostYears (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Children who Chase Lost Voices",
     "alt_title": "Hoshi wo Ou Kodomo",
     "year": 2011,
@@ -9853,6 +9877,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Detectives These Days Are Crazy!",
+    "alt_title": "Mattaku Saikin no Tantei to Kitara",
+    "year": 2025,
+    "format": "TV",
+    "notes": "nekotan is JPN BD Remux+Restyled CR with minor sign position adjustment\nnekotan is also ReinForce with the same subs\nThe JPN BD has much better compression than CR but does have a chroma shift throughout and lowpassing in some scenes (particularly the OP)",
+    "comparison": "https://slow.pics/c/SNXLzjQ8",
+    "best_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Detroit Metal City",
@@ -23524,12 +23568,12 @@
     "alt_title": "",
     "year": 2025,
     "format": "MOVIE",
-    "notes": "Team ONIBE is JPN BD Encode+OTL",
+    "notes": "12GaugeShotgun is JPN BD Remux+Team ONIBE\nTeam ONIBE is JPN BD Encode+OTL",
     "comparison": "https://slow.pics/c/5SPLJZGV",
     "best_releases": [
       {
-        "name": "JPN BD+Team ONIBE",
-        "status": "unmuxed"
+        "name": "12GaugeShotgun",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -32391,6 +32435,21 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Protocol: Rain",
+    "alt_title": "Bokura no Ameiro Protocol",
+    "year": 2023,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL\nThe JPN BD is lowpassed and not really better than CR anywhere except the ED anyway\nShould be watched with MPV Deband",
+    "comparison": "https://slow.pics/c/i4UHRAHo",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Pseudo Harem",
@@ -43310,11 +43369,26 @@
     "alt_title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
     "year": 2025,
     "format": "TV",
-    "notes": "Headpatter is YURASUKA+Restyled Chihiro (Fansub based on YT) with minor fixes",
-    "comparison": "https://slow.pics/c/7d6rbvAV\nhttps://slow.pics/c/65PGKGfk\nhttps://www.diffchecker.com/IvAqH3Pl/",
+    "notes": "YURASUKA is JPN BD Encode+Headpatter (Restyled Chihiro with minor fixes)\nChihiro is a fansub based on YT",
+    "comparison": "https://slow.pics/c/Ara15AxN\nhttps://slow.pics/c/7d6rbvAV\nhttps://slow.pics/c/65PGKGfk\nhttps://www.diffchecker.com/IvAqH3Pl/",
     "best_releases": [
       {
-        "name": "Headpatter",
+        "name": "YURASUKA",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~",
+    "alt_title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
+    "year": 2026,
+    "format": "TV",
+    "notes": "YURASUKA is JPN BD Encode+Modified YT (Team Arcedo TS, Chihiro OP/ED, restyled, snapped to keyframes, fixed typos, italics where necessary)",
+    "comparison": "https://www.diffchecker.com/JH7AiUuQ/",
+    "best_releases": [
+      {
+        "name": "YURASUKA",
         "status": ""
       }
     ],
