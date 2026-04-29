@@ -872,6 +872,26 @@
     ]
   },
   {
+    "title": "Ace of the Diamond Second Season",
+    "alt_title": "Diamond no Ace: Second Season",
+    "year": 2015,
+    "format": "TV",
+    "notes": "FLAV1N is JPN BD Encode+Commie\nHas some scenebleeds not present in the original subs (probably sourced from hchcsen)\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/9EY9xhpF\nhttps://www.diffchecker.com/bQWopUaD/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "FLAV1N",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Actors: Songs Connection",
     "alt_title": "ACTORS: Songs Connection",
     "year": 2019,
@@ -4534,8 +4554,8 @@
     "alt_title": "Boushoku no Berserk",
     "year": 2023,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR and PGS\nVARYG is a CR WEB-DL",
-    "comparison": "https://slow.pics/c/FeEgJERN",
+    "notes": "CRUCiBLE is JPN BD Remux+CR and PGS\nVARYG is a CR WEB-DL\nH-Enc would be a better alt",
+    "comparison": "https://slow.pics/c/FeEgJERN\nhttps://slow.pics/c/BAPsVOp8",
     "best_releases": [
       {
         "name": "CRUCiBLE (Dual Audio)",
@@ -11819,7 +11839,7 @@
     "year": 2013,
     "format": "ONA",
     "notes": "CRUCiBLE is JPN BD Remux+Kaleido-subs and PGS\nArid is =^_^=+Kaleido-subs\nStore requires MPV deband",
-    "comparison": "https://slow.pics/c/hCqCsGXN",
+    "comparison": "https://slow.pics/c/eDDtyIXq\nhttps://slow.pics/c/kzZpGpBE",
     "best_releases": [
       {
         "name": "CRUCiBLE (Dual Audio)",
@@ -34930,6 +34950,26 @@
     ]
   },
   {
+    "title": "Samurai Bride",
+    "alt_title": "Hyakka Ryouran: Samurai Bride",
+    "year": 2013,
+    "format": "TV",
+    "notes": "GetItTwisted is JPN BD Remux+Modified FFF (Restyled to match S1, fixed a sign in episode 1, added a missing line in episode 6 from the USA BD, fixed a typo in episode 10) and PGS\nGetItTwisted is also FFF with the same subs",
+    "comparison": "https://slow.pics/c/aeuAWyoD",
+    "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Samurai: Hunt for the Sword",
     "alt_title": "Kaitouranma: THE ANIMATION",
     "year": 1999,
@@ -42495,6 +42535,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "The Saint's Magic Power is Omnipotent II",
+    "alt_title": "Seijo no Maryoku wa Bannou desu Season 2",
+    "year": 2023,
+    "format": "TV",
+    "notes": "sam is CR WEBRip+Retimed and restyled CR with TS\nThe USA BD is lowpassed with grain spammed on top, the GER BD is full of banding, and both have basically no compression benefits over CR anyway",
+    "comparison": "https://slow.pics/c/bWEXg4mv\nhttps://slow.pics/c/0IB6vgwh",
+    "best_releases": [
+      {
+        "name": "sam (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "The Secret World of Arrietty",
