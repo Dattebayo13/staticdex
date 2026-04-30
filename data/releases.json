@@ -892,6 +892,26 @@
     ]
   },
   {
+    "title": "Ace of the Diamond act II",
+    "alt_title": "Diamond no Ace act II",
+    "year": 2019,
+    "format": "TV",
+    "notes": "Commie is CR WEBRip+Modified CR\nCR should be watched with MPV Deband",
+    "comparison": "https://slow.pics/c/xDJe6zAF\nhttps://www.diffchecker.com/37Rh0vlG/",
+    "best_releases": [
+      {
+        "name": "CR+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Commie",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Actors: Songs Connection",
     "alt_title": "ACTORS: Songs Connection",
     "year": 2019,
@@ -32496,8 +32516,8 @@
     "alt_title": "Nerawareta Gakuen",
     "year": 2012,
     "format": "MOVIE",
-    "notes": "Noiy is JPN BD encode+TODO (modified gg) restyled to Gandhi Sans",
-    "comparison": "https://slow.pics/c/zBmohhdw",
+    "notes": "Noiy is JPN/GBR BD Encode+Restyled TODO (gg with minor fixes) with a few fixes/edits",
+    "comparison": "https://slow.pics/c/P7zX3No6",
     "best_releases": [
       {
         "name": "Noiy (Dual Audio)",
@@ -34644,15 +34664,20 @@
     "alt_title": "Saenai Heroine no Sodatekata",
     "year": 2015,
     "format": "TV",
-    "notes": "Mysteria is Beatrice-Raws+FFF",
-    "comparison": "https://slow.pics/c/0gYRF9qS\nhttps://slow.pics/c/KWquurr4",
+    "notes": "Kawatare is JPN BD Encode+FFF\nMysteria is Beatrice-Raws+FFF",
+    "comparison": "https://slow.pics/c/V08yGP7e\nhttps://slow.pics/c/0gYRF9qS\nhttps://slow.pics/c/KWquurr4",
     "best_releases": [
+      {
+        "name": "Kawatare",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "Mysteria",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Saekano: How to Raise a Boring Girlfriend ♭",
@@ -34661,12 +34686,7 @@
     "format": "TV",
     "notes": "Mysteria is Beatrice-Raws+Sumire",
     "comparison": "https://slow.pics/c/0gYRF9qS\nhttps://slow.pics/c/KWquurr4",
-    "best_releases": [
-      {
-        "name": "Mysteria",
-        "status": ""
-      }
-    ],
+    "best_releases": [],
     "alt_releases": [
       {
         "name": "Mysteria",
@@ -34950,6 +34970,26 @@
     ]
   },
   {
+    "title": "Samurai Bride Specials",
+    "alt_title": "Hyakka Ryouran: Samurai Bride Specials",
+    "year": 2013,
+    "format": "SPECIAL",
+    "notes": "GetItTwisted is JPN BD Remux+Restyled FFF and PGS\nGetItTwisted is also FFF with the same subs",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Samurai Bride",
     "alt_title": "Hyakka Ryouran: Samurai Bride",
     "year": 2013,
@@ -34959,13 +34999,13 @@
     "best_releases": [
       {
         "name": "GetItTwisted (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "GetItTwisted (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -39380,7 +39420,7 @@
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
