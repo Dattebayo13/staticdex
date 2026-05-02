@@ -6180,6 +6180,26 @@
     ]
   },
   {
+    "title": "Brynhildr in the Darkness OVA",
+    "alt_title": "Gokukoku no Brynhildr OVA",
+    "year": 2014,
+    "format": "OVA",
+    "notes": "SubsMix is sergery_krs+Pookie (BlurayDesuYo with some sign timing fixes)",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "JPN BD+Pookie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SubsMix",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "BTOOOM!",
     "alt_title": "",
     "year": 2012,
@@ -11858,20 +11878,15 @@
     "alt_title": "",
     "year": 2013,
     "format": "ONA",
-    "notes": "CRUCiBLE is JPN BD Remux+Kaleido-subs and PGS\nArid is =^_^=+Kaleido-subs\nStore requires MPV deband",
+    "notes": "LG is JPN BD Encode+Kaleido-subs",
     "comparison": "https://slow.pics/c/eDDtyIXq\nhttps://slow.pics/c/kzZpGpBE",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
+        "name": "LG (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Arid (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Fate/kaleid liner Prisma☆Illya 2wei!",
@@ -11898,20 +11913,15 @@
     "alt_title": "Fate/kaleid liner Prisma☆Illya: Undoukai DE Dance!",
     "year": 2014,
     "format": "OVA",
-    "notes": "CRUCiBLE is JPN BD Remux+Arid and PGS\nArid is =^_^=+Kaleido-subs\nStore requires MPV deband",
+    "notes": "LG is JPN BD Encode+Kaleido-subs",
     "comparison": "",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
+        "name": "LG (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Arid (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Fate/stay night: Unlimited Blade Works",
@@ -38396,6 +38406,26 @@
     "alt_releases": [
       {
         "name": "Hentai-Subs",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Super Robot Wars OG: The Inspector",
+    "alt_title": "Super Robot Taisen OG: The Inspector",
+    "year": 2010,
+    "format": "TV",
+    "notes": "Zurako is JPN BD Encode+Updated CR with OP and ED TLs",
+    "comparison": "https://slow.pics/c/OpfXWijd\nhttps://www.diffchecker.com/5GBMqlF6/\nhttps://www.diffchecker.com/4SuSngIe/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Zurako",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Zurako",
         "status": ""
       }
     ]
