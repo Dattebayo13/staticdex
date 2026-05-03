@@ -135,6 +135,26 @@
     ]
   },
   {
+    "title": "2.43: Seiin High School Boys Volleyball Team",
+    "alt_title": "2.43: Seiin Koukou Danshi Volley-bu",
+    "year": 2021,
+    "format": "TV",
+    "notes": "CDL is old FUNI WEB-DL+Erai-raws (FUNI with TS)\nIrizaRaws would be a better alt",
+    "comparison": "https://slow.pics/c/daYzUiKp",
+    "best_releases": [
+      {
+        "name": "JPN BD+CDL",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "CDL (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "2.5 Dimensional Seduction",
     "alt_title": "2.5 Jigen no Ririsa",
     "year": 2024,
@@ -7674,17 +7694,17 @@
     "alt_title": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
     "year": 2024,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+neoDESU (Restyled CR with OP/ED) and PGS\n∞ is VCB-Studio+neoDESU and PGS\nStore should ideally be watched with MPV deband",
-    "comparison": "https://slow.pics/c/uHeizfQh",
+    "notes": "Starbez is YURASUKA+neoDESU (CR with OP/ED) with improved typesetting, styling, and added kfx\nStore should ideally be watched with MPV deband",
+    "comparison": "https://slow.pics/c/DaeYdXua\nhttps://slow.pics/c/uHeizfQh\nhttps://slow.pics/c/fWfYmxd6",
     "best_releases": [
       {
-        "name": "NAN0 (Dual Audio)",
-        "status": ""
+        "name": "JPN BD+Starbez",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "∞ (Dual Audio)",
+        "name": "Starbez (Dual Audio)",
         "status": ""
       }
     ]
@@ -26138,6 +26158,26 @@
     "alt_releases": []
   },
   {
+    "title": "Mobile Suit Gundam",
+    "alt_title": "Kidou Senshi Gundam",
+    "year": 1979,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+OCR'd R1 (Fixed up EG for 1-14, their own OCR for 15 onwards) \"Timing, styling and TS has been overhauled\". NCOP spliced in since it uses a superior scan.\nNOGRP is Kagura+hchcsen",
+    "comparison": "https://slow.pics/c/aOuvtHlJ\nhttps://www.diffchecker.com/iVo3aPMg/",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "NOGRP",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit GUNDAM Iron Blooded Orphans",
     "alt_title": "Kidou Senshi Gundam: Tekketsu no Orphans",
     "year": 2015,
@@ -26156,6 +26196,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Mobile Suit Gundam: The Origin",
+    "alt_title": "Kidou Senshi Gundam: THE ORIGIN",
+    "year": 2015,
+    "format": "OVA",
+    "notes": "sam is JPN BD Encode+modified ZetaRebel \"Retimed dialogue (roughly) and signs, styled, added missing lines, and did some basic TS.\"",
+    "comparison": "https://slow.pics/c/OUHQHvEX",
+    "best_releases": [
+      {
+        "name": "sam (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Mobile Suit Gundam: The Witch from Mercury",
@@ -26227,21 +26282,6 @@
     "best_releases": [
       {
         "name": "PMR",
-        "status": ""
-      }
-    ],
-    "alt_releases": []
-  },
-  {
-    "title": "Mobile Suit Gundam: The Origin",
-    "alt_title": "Kidou Senshi Gundam: THE ORIGIN",
-    "year": 2015,
-    "format": "OVA",
-    "notes": "sam is JPN BD Encode+modified ZetaRebel \"Retimed dialogue (roughly) and signs, styled, added missing lines, and did some basic TS.\"",
-    "comparison": "https://slow.pics/c/OUHQHvEX",
-    "best_releases": [
-      {
-        "name": "sam (Dual Audio)",
         "status": ""
       }
     ],
@@ -46185,12 +46225,12 @@
     "alt_title": "Mairimashita! Iruma-kun 2",
     "year": 2021,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR, PGS, and AMZN\n-ZR- and SubsPlease are CR WEB-DLs\nYou'll really wanna get the BD for this",
+    "notes": "CRUCiBLE is JPN BD Remux+CR, PGS, and AMZN. Subs are 1 frame off for episode 2 onwards.\n-ZR- and SubsPlease are CR WEB-DLs\nYou'll really wanna get the BD for this",
     "comparison": "https://slow.pics/c/LgmYORto",
     "best_releases": [
       {
         "name": "CRUCiBLE (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
