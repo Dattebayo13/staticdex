@@ -7694,17 +7694,17 @@
     "alt_title": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
     "year": 2024,
     "format": "TV",
-    "notes": "Starbez is YURASUKA+neoDESU (CR with OP/ED) with improved typesetting, styling, and added kfx\nStore should ideally be watched with MPV deband",
+    "notes": "LaCroiX is JPN BD Remux+Starbez with some minor issues fixed and modified OP/ED TLs, CR, and PGS\nNetaro is YURASUKA+LaCroiX\nStarbez subs are neoDESU (CR with OP/ED) with improved typesetting, styling, and added kfx\nStore should ideally be watched with MPV deband",
     "comparison": "https://slow.pics/c/DaeYdXua\nhttps://slow.pics/c/uHeizfQh\nhttps://slow.pics/c/fWfYmxd6",
     "best_releases": [
       {
-        "name": "JPN BD+Starbez",
-        "status": "unmuxed"
+        "name": "LaCroiX (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Starbez (Dual Audio)",
+        "name": "Netaro (Dual Audio)",
         "status": ""
       }
     ]
@@ -15806,18 +15806,18 @@
     "alt_title": "Hajime no Ippo: THE FIGHTING!",
     "year": 2000,
     "format": "TV",
-    "notes": "Yellow-Flash is USA BD Encode+R1\nThe USA BD has poor deinterlacing but is still the best watchable source",
+    "notes": "nekotan is USA BD Remux+Modified Yellow-Flash\nYellow-Flash is USA BD Encode+R1. Doesn't have a signs track\nThe USA BD has poor deinterlacing but is still the best watchable source",
     "comparison": "https://slow.pics/c/9X7gI8MK",
     "best_releases": [
       {
-        "name": "USA BD+Yellow-Flash",
-        "status": "unmuxed"
+        "name": "nekotan (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Yellow-Flash (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -22520,12 +22520,12 @@
     "alt_title": "Kuroko no Basket: Last Game",
     "year": 2017,
     "format": "MOVIE",
-    "notes": "whomst is SEV+Modified CR (Restyled, line breaks redone, some lines combined, improved TS for the one (1) sign in the movie)",
+    "notes": "Arg0 is JPN BD Remux+whomst, CR, and NF\nwhomst is SEV+Modified CR (Restyled, line breaks redone, some lines combined, improved TS for the one (1) sign in the movie)",
     "comparison": "https://slow.pics/c/J7vfSekL\nhttps://www.diffchecker.com/S6GtCmOt/\nhttps://www.diffchecker.com/jGXnD7Y3/",
     "best_releases": [
       {
-        "name": "JPN BD+whomst",
-        "status": "unmuxed"
+        "name": "Arg0 (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -46951,6 +46951,26 @@
     "alt_releases": [
       {
         "name": "Dae (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Words Bubble Up Like Soda Pop",
+    "alt_title": "Cider no You ni Kotoba ga Wakiagaru",
+    "year": 2021,
+    "format": "MOVIE",
+    "notes": "kikuri is VCB-Studio+NF",
+    "comparison": "https://slow.pics/c/gIE530F6\nhttps://www.diffchecker.com/3U1G1gKD/",
+    "best_releases": [
+      {
+        "name": "JPN BD+NF",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "kikuri",
         "status": ""
       }
     ]
