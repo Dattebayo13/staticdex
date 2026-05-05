@@ -18899,7 +18899,7 @@
     ]
   },
   {
-    "title": "IS: Infinite Stratos - World Purge-hen",
+    "title": "IS: Infinite Stratos 2 - World Purge-hen",
     "alt_title": "",
     "year": 2014,
     "format": "OVA",
@@ -26178,6 +26178,46 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam Wing",
+    "alt_title": "Shin Kidou Senki Gundam Wing",
+    "year": 1995,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\nOZC is JPN BD Encode+OCR'd R1\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/LRJKJ1BS\nhttps://www.diffchecker.com/qTlHzBQ7/",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "OZC (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mobile Suit Gundam 00",
+    "alt_title": "Kidou Senshi Gundam 00",
+    "year": 2007,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+Official timed and typeset, TS is a mix of SubZero and some original work\nAll stores benefit from MPV Deband",
+    "comparison": "https://slow.pics/c/o5ruRHXu\nhttps://www.diffchecker.com/nNNXkt1a/\nhttps://www.diffchecker.com/EA3CX8j0/",
+    "best_releases": [
+      {
+        "name": "FRA BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit GUNDAM Iron Blooded Orphans",
     "alt_title": "Kidou Senshi Gundam: Tekketsu no Orphans",
     "year": 2015,
@@ -26207,6 +26247,21 @@
     "best_releases": [
       {
         "name": "sam (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Mobile Suit GUNDAM Iron Blooded Orphans 2",
+    "alt_title": "Kidou Senshi Gundam: Tekketsu no Orphans 2",
+    "year": 2016,
+    "format": "TV",
+    "notes": "PMR is JPN BD Remux+hchcsen (OCR'd PGS with a mix of modified Manko and original typesetting)\nThere's not really any viable alts to list, a jsum mux would work",
+    "comparison": "https://slow.pics/c/oZgaSiw9",
+    "best_releases": [
+      {
+        "name": "PMR (Dual Audio)",
         "status": ""
       }
     ],
