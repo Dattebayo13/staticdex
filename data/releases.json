@@ -414,7 +414,7 @@
     "alt_title": "Toaru Kagaku no Accelerator",
     "year": 2019,
     "format": "TV",
-    "notes": "Moxie is JPN BD Remux+GJM, OCR'd official for the special\nA jsum mux would probably be a good alt\nHolomux has desynced audio and subs in at least episode 2 and 3",
+    "notes": "Moxie is JPN BD Remux+GJM\nHeadpatter is jsum+GJM",
     "comparison": "https://slow.pics/c/DirpapZH",
     "best_releases": [
       {
@@ -422,14 +422,19 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Toaru Kagaku no Accelerator: Tobidase Ippou-san Hachamecha Kaishingeki",
     "alt_title": "",
     "year": 2019,
     "format": "SPECIAL",
-    "notes": "Moxie is JPN BD Remux+OCR’d USBD subs with some basic TS",
+    "notes": "Moxie is JPN BD Remux+OCR’d USBD subs with some basic TS\nHeadpatter is jsum+Moxie",
     "comparison": "",
     "best_releases": [
       {
@@ -437,7 +442,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "A Certain Scientific Railgun T",
@@ -8254,17 +8264,17 @@
     "alt_title": "",
     "year": 1989,
     "format": "OVA",
-    "notes": "ProRemux666 is JPN BD Remux+563\n563 is JPN BD Encode+A-FanRips",
-    "comparison": "https://slow.pics/c/sLZc0DuE\nhttps://slow.pics/c/ellNYLlv\nhttps://slow.pics/c/piS7YUtW\nhttps://slow.pics/c/vDOLv2pi",
+    "notes": "Headpatter is JPN BD Remux+Restyled and stock A-FanRips\nKawatare is JPN BD Encode+A-FanRips",
+    "comparison": "https://slow.pics/c/sLZc0DuE\nhttps://slow.pics/c/ellNYLlv\nhttps://slow.pics/c/Awmdoz5V\nhttps://slow.pics/c/piS7YUtW\nhttps://slow.pics/c/vDOLv2pi",
     "best_releases": [
       {
-        "name": "ProRemux666",
+        "name": "Headpatter",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "563",
+        "name": "Kawatare",
         "status": ""
       }
     ]
@@ -35737,7 +35747,7 @@
     "alt_title": "",
     "year": 2016,
     "format": "TV",
-    "notes": "Moxie is JPN BD Remux+Asenshi\nReinForce would be a better alt",
+    "notes": "Moxie is JPN BD Remux+Asenshi\nHeadpatter is ReinForce+Asenshi\nMPV Deband helps everything",
     "comparison": "https://slow.pics/c/QFZOZuiF",
     "best_releases": [
       {
@@ -35747,8 +35757,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Asenshi",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -37722,15 +37732,20 @@
     "alt_title": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF",
     "year": 2024,
     "format": "TV",
-    "notes": "9volt is WEBRip+CR with the full fansub treatment\nThe JPN BD has tons of horrible banding which harms details, and is super inconsistent in motion even with MPV deband. The WEBRip does have less detail and struggles a lot in busy scenes, but is overall a much more consistent and stable experience. Without deband it's not even a contest, the BD is simply unwatchable. The encodes from the BD also suck.",
-    "comparison": "https://slow.pics/c/MtRmXH6i\nhttps://slow.pics/c/UO0eyj3f",
+    "notes": "Nora Best Girl is JPN BD/CR Encode+Restyled 9volt with 2 typos fixed and Norah changed to Nora\n9volt is WEBRip+CR with the full fansub treatment\nThe JPN BD is very bad with extreme banding, however it has a substantial amount of BD changes, particularly in the later episodes (see https://pastebin.com/5qkeUUKe). While 9volt's WEBRip offers better quality, it misses out on all these important animation improvements.",
+    "comparison": "https://slow.pics/c/MtRmXH6i\nhttps://slow.pics/c/UO0eyj3f\nhttps://slow.pics/c/r9FcFIb1",
     "best_releases": [
+      {
+        "name": "Nora Best Girl (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "9volt (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Spirited Away",
@@ -39884,8 +39899,8 @@
     "alt_title": "Tensei Shitara Slime Datta Ken 3rd Season",
     "year": 2024,
     "format": "TV",
-    "notes": "Asakura is VCB-Studio+modified CR\n-ZR-/NAN0 is the unmuxed best however uses old web subs",
-    "comparison": "https://slow.pics/c/1j1eG0kZ",
+    "notes": "Asakura is VCB-Studio+modified CR\n-ZR-/NAN0 is the unmuxed best however uses old web subs\nBeatrice-Raws would be a better alt",
+    "comparison": "https://slow.pics/c/4WYj6hIz\nhttps://slow.pics/c/1j1eG0kZ",
     "best_releases": [
       {
         "name": "JPN BD+Asakura (BD)",
@@ -43253,6 +43268,26 @@
     "alt_releases": [
       {
         "name": "Yoghurt",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
+    "alt_title": "Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru",
+    "year": 2025,
+    "format": "ONA",
+    "notes": "Erai-raws is a CR WEB-DL",
+    "comparison": "https://slow.pics/c/xFYKAbOS",
+    "best_releases": [
+      {
+        "name": "H-Enc+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
         "status": ""
       }
     ]
