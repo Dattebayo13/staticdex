@@ -12480,7 +12480,7 @@
     "year": 2017,
     "format": "TV",
     "notes": "crane0922 is Reza+Foodgasm (XuN, which is FFF shifted to BD)\nStore needs MPV Deband",
-    "comparison": "https://slow.pics/c/mqLz2nWt",
+    "comparison": "https://slow.pics/c/EN5rNapX\nhttps://slow.pics/c/mqLz2nWt",
     "best_releases": [
       {
         "name": "JPN BD+Foodgasm",
@@ -40976,6 +40976,106 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "The Familiar of Zero",
+    "alt_title": "Zero no Tsukaima",
+    "year": 2006,
+    "format": "TV",
+    "notes": "deanzel is Doki (HEVC)+Doki (SS-AYU) and CBM (R1)\nThe video quality is ass but the VCB mux has no fonts and the other encodes are even worse, the BDs are bad upscales anyway",
+    "comparison": "https://slow.pics/c/EN9TNRBt\nhttps://www.diffchecker.com/6fH8N24k/",
+    "best_releases": [
+      {
+        "name": "Yousei-raws (DVD)+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "deanzel (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Familiar of Zero: Knight of the Twin Moons",
+    "alt_title": "Zero no Tsukaima: Futatsuki no Kishi",
+    "year": 2007,
+    "format": "TV",
+    "notes": "Doki is JPN BD Encode+SS-AYU\nThe video quality is ass but the VCB mux has no fonts and the other encodes are even worse, the BDs are bad upscales anyway",
+    "comparison": "https://slow.pics/c/aDbo0lGx",
+    "best_releases": [
+      {
+        "name": "Yousei-raws (DVD)+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Doki",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Familiar of Zero: \"Rondo\" of Princesses - Seductive Beach",
+    "alt_title": "Zero no Tsukaima: Princesses no Rondo - Yuuwaku no Sunahama",
+    "year": 2008,
+    "format": "OVA",
+    "notes": "ABstinence is VCB-Studio+Doki (SS-Eclipse)\nThe BDs are bad upscales",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "Yousei-raws (DVD)+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ABstinence",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "The Familiar of Zero: \"Rondo\" of Princesses",
+    "alt_title": "Zero no Tsukaima: Princesses no Rondo",
+    "year": 2008,
+    "format": "TV",
+    "notes": "ABstinence is VCB-Studio+Doki (SS-Eclipse)\nThe BDs are bad upscales",
+    "comparison": "https://slow.pics/c/MgPpAw0B",
+    "best_releases": [
+      {
+        "name": "Yousei-raws (DVD)+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ABstinence",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "The Familiar of Zero F",
+    "alt_title": "Zero no Tsukaima F",
+    "year": 2012,
+    "format": "TV",
+    "notes": "TSuNDeRe is JPN BD Encode+Commie",
+    "comparison": "https://slow.pics/c/gMaH05Dt\nhttps://www.diffchecker.com/KTx8jpKI/",
+    "best_releases": [
+      {
+        "name": "JPN BD+TSuNDeRe",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "TSuNDeRe",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "The Faraway Paladin",
