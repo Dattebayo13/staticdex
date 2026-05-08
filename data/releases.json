@@ -26353,6 +26353,26 @@
     "alt_releases": []
   },
   {
+    "title": "Mobile Suit Gundam ZZ",
+    "alt_title": "Kidou Senshi Gundam Double Zeta",
+    "year": 1986,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed, typeset, and tweaked\nZetaRebel is USA BD Encode+PGS and EG\nThe JPN BD has some detail loss from debanding but is still the best watchable source as the alternatives are starved and full of blocking",
+    "comparison": "https://slow.pics/c/lDz90fqh\nhttps://www.diffchecker.com/ulNf97My/\nhttps://www.diffchecker.com/N4iwQApZ/",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ZetaRebel",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam: The Witch from Mercury - PROLOGUE",
     "alt_title": "Kidou Senshi Gundam: Suisei no Majo - PROLOGUE",
     "year": 2022,
@@ -31500,7 +31520,7 @@
     "alt_title": "Persona 4 the Golden Animation",
     "year": 2014,
     "format": "TV",
-    "notes": "LazyRemux is JPN BD+orz",
+    "notes": "LazyRemux is JPN BD+orz\norz is abysmal, literally anything would be a better alt (jsumbros...)",
     "comparison": "https://slow.pics/c/YjHUpdLL",
     "best_releases": [
       {
