@@ -18265,7 +18265,7 @@
     "title": "I'm the Villainess, So I'm Taming the Final Boss",
     "alt_title": "Akuyaku Reijou nano de Last Boss wo Kattemimashita",
     "year": 2022,
-    "format": "TV",
+    "format": "ONA",
     "notes": "Both are CR WEB-DLs, the USA BD is lowpassed, has a chroma shift, has ugly grain slapped on top, and has worse compression than CR",
     "comparison": "https://slow.pics/c/uY7rMhV0\nhttps://slow.pics/c/dTtkJHvd",
     "best_releases": [
@@ -26188,6 +26188,46 @@
     ]
   },
   {
+    "title": "Mobile Suit Zeta Gundam",
+    "alt_title": "Kidou Senshi Z Gundam",
+    "year": 1985,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+Mix of OCR'd PGS and CR, timed, typeset, and edited. NCs spliced in as they use a better scan, and original OP/ED songs spliced into the dub track\nZetaRebel is JPN BD Encode+PGS and OZC",
+    "comparison": "https://slow.pics/c/M2zJhVLq",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ZetaRebel (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mobile Suit Gundam ZZ",
+    "alt_title": "Kidou Senshi Gundam Double Zeta",
+    "year": 1986,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed, typeset, and tweaked\nZetaRebel is USA BD Encode+PGS and EG\nThe JPN BD has some detail loss from debanding but is still the best watchable source as the alternatives are starved and full of blocking",
+    "comparison": "https://slow.pics/c/lDz90fqh\nhttps://www.diffchecker.com/ulNf97My/\nhttps://www.diffchecker.com/N4iwQApZ/",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ZetaRebel",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam Wing",
     "alt_title": "Shin Kidou Senki Gundam Wing",
     "year": 1995,
@@ -26203,6 +26243,26 @@
     "alt_releases": [
       {
         "name": "OZC (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "After War Gundam X",
+    "alt_title": "Kidou Shin Seiki Gundam X",
+    "year": 1996,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+/m/'s R1 OCR spliced with OCR'd PGS to fix some cut off lines of dialogue. Restyled, heavily dialed back the meme subbing, and fixed some lines ending early\nZetaRebel is USA BD Encode+PGS and /m/\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/4KdfuSvS",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ZetaRebel",
         "status": ""
       }
     ]
@@ -26224,6 +26284,26 @@
       {
         "name": "hchcsen (Dual Audio)",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Gundam: Reconguista in G",
+    "alt_title": "Gundam: G no Reconguista",
+    "year": 2014,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+OZC \"retimed, restyled and with tweaked TS and OP and ED\"\nThe JPN BD is lowpassed but significantly better than the gigastarved USA/FRA BD",
+    "comparison": "https://slow.pics/c/uXDjjWI2",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "OZC",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -26351,26 +26431,6 @@
       }
     ],
     "alt_releases": []
-  },
-  {
-    "title": "Mobile Suit Gundam ZZ",
-    "alt_title": "Kidou Senshi Gundam Double Zeta",
-    "year": 1986,
-    "format": "TV",
-    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed, typeset, and tweaked\nZetaRebel is USA BD Encode+PGS and EG\nThe JPN BD has some detail loss from debanding but is still the best watchable source as the alternatives are starved and full of blocking",
-    "comparison": "https://slow.pics/c/lDz90fqh\nhttps://www.diffchecker.com/ulNf97My/\nhttps://www.diffchecker.com/N4iwQApZ/",
-    "best_releases": [
-      {
-        "name": "hchcsen",
-        "status": ""
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "ZetaRebel",
-        "status": ""
-      }
-    ]
   },
   {
     "title": "Mobile Suit Gundam: The Witch from Mercury - PROLOGUE",
@@ -31500,7 +31560,7 @@
     "alt_title": "",
     "year": 2014,
     "format": "SPECIAL",
-    "notes": "LazyRemux is JPN BD+orz",
+    "notes": "LazyRemux is JPN BD+orz\nAdosin is VCB-Studio+orz",
     "comparison": "",
     "best_releases": [
       {
@@ -31510,7 +31570,7 @@
     ],
     "alt_releases": [
       {
-        "name": "orz",
+        "name": "Adosin",
         "status": ""
       }
     ]
@@ -31520,8 +31580,8 @@
     "alt_title": "Persona 4 the Golden Animation",
     "year": 2014,
     "format": "TV",
-    "notes": "LazyRemux is JPN BD+orz\norz is abysmal, literally anything would be a better alt (jsumbros...)",
-    "comparison": "https://slow.pics/c/YjHUpdLL",
+    "notes": "LazyRemux is JPN BD+orz\nAdosin is VCB-Studio+orz",
+    "comparison": "https://slow.pics/c/eUzAQ7pu",
     "best_releases": [
       {
         "name": "LazyRemux",
@@ -31530,7 +31590,7 @@
     ],
     "alt_releases": [
       {
-        "name": "orz",
+        "name": "Adosin",
         "status": ""
       }
     ]
@@ -34800,7 +34860,7 @@
     "year": 2015,
     "format": "TV",
     "notes": "Kawatare is JPN BD Encode+FFF\nMysteria is Beatrice-Raws+FFF",
-    "comparison": "https://slow.pics/c/V08yGP7e\nhttps://slow.pics/c/0gYRF9qS\nhttps://slow.pics/c/KWquurr4",
+    "comparison": "https://slow.pics/c/V08yGP7e\nhttps://slow.pics/c/0gYRF9qS",
     "best_releases": [
       {
         "name": "Kawatare",
@@ -34819,9 +34879,14 @@
     "alt_title": "Saenai Heroine no Sodatekata ♭",
     "year": 2017,
     "format": "TV",
-    "notes": "Mysteria is Beatrice-Raws+Sumire",
-    "comparison": "https://slow.pics/c/0gYRF9qS\nhttps://slow.pics/c/KWquurr4",
-    "best_releases": [],
+    "notes": "Kawatare is JPN BD Encode+Mysteria\nMysteria is Beatrice-Raws+Sumire",
+    "comparison": "https://slow.pics/c/zzun9snu",
+    "best_releases": [
+      {
+        "name": "Kawatare",
+        "status": ""
+      }
+    ],
     "alt_releases": [
       {
         "name": "Mysteria",
@@ -43481,9 +43546,14 @@
     "alt_title": "Juuni Kokuki",
     "year": 2002,
     "format": "TV",
-    "notes": "CTR is HQR+KAA",
-    "comparison": "https://slow.pics/c/zCYY9mXp",
-    "best_releases": [],
+    "notes": "CTR is HQR+Restyled KAA (R1) with some QC\nStore must be watched with MPV Deband, otherwise get the encode",
+    "comparison": "https://slow.pics/c/nzu8kGcS",
+    "best_releases": [
+      {
+        "name": "JPN BD+CTR",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
         "name": "CTR (Dual Audio)",
@@ -46286,7 +46356,7 @@
     "year": 2019,
     "format": "TV",
     "notes": "Smoke is Beatrice-Raws+Astral",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/w2equNPZ",
     "best_releases": [
       {
         "name": "Smoke",
@@ -46301,7 +46371,7 @@
     "year": 2019,
     "format": "OVA",
     "notes": "Smoke is Beatrice-Raws+CR",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/J8h3KW0t",
     "best_releases": [
       {
         "name": "Smoke",
