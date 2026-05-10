@@ -25742,6 +25742,21 @@
     "alt_releases": []
   },
   {
+    "title": "Minami-ke",
+    "alt_title": "",
+    "year": 2007,
+    "format": "TV",
+    "notes": "kokorozashi is Yousei-Raws+ADZ and A-E & Saizen. ADZ is desynced, switch to the A-E & Saizen track!!!\nThe BD is a very bad upscale",
+    "comparison": "https://slow.pics/c/OQUBSlrL\nhttps://www.diffchecker.com/JAqYceuZ/",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "kokorozashi",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Mind Game",
     "alt_title": "",
     "year": 2004,
@@ -26283,6 +26298,30 @@
     "alt_releases": [
       {
         "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mobile Suit Gundam AGE",
+    "alt_title": "Kidou Senshi Gundam AGE",
+    "year": 2011,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+nks with tweaked TS and restyled dialogue\nnks is JPN BD Encode+Sage\nKH is nks with dub",
+    "comparison": "https://slow.pics/c/phL7VUjA",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "KH (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "nks",
         "status": ""
       }
     ]
