@@ -425,7 +425,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -445,7 +445,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -1287,7 +1287,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -9034,7 +9034,7 @@
     "alt_releases": [
       {
         "name": "TROLLORANGE",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -9054,7 +9054,7 @@
     "alt_releases": [
       {
         "name": "TROLLORANGE",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -9094,7 +9094,7 @@
     "alt_releases": [
       {
         "name": "TROLLORANGE",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -9414,7 +9414,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -13400,7 +13400,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -14768,7 +14768,7 @@
     "year": 2020,
     "format": "TV",
     "notes": "gooder is JPN BD Remux+Pritt (Restyled official with OP/ED and TS)",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/qq70clNB",
     "best_releases": [
       {
         "name": "gooder",
@@ -18088,7 +18088,7 @@
     "best_releases": [
       {
         "name": "WR3CK (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -20250,7 +20250,7 @@
     "best_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -20470,7 +20470,7 @@
     "best_releases": [
       {
         "name": "B00BA",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -21327,14 +21327,19 @@
     "year": 2006,
     "format": "TV",
     "notes": "Figmentos-omarhidan is GYAO WEB-DL+External Figmentos subs (AnimeForever & Yoroshiku TL)\nGYAO has dupe frames, can be fixed in MPV with the decimate filter. Paste the following in input.conf and change the key to your liking\nX vf toggle \"decimate\"\nGYAO is massively better than the DVD and awful HDTV rip and is likely a better experience even without decimating, should be watched with MPV deband if possible.",
-    "comparison": "https://slow.pics/c/KUzC3Azg",
+    "comparison": "https://slow.pics/c/8hTSK1Kh\nhttps://slow.pics/c/KUzC3Azg",
     "best_releases": [
+      {
+        "name": "AMZN+Figmentos",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "Figmentos-omarhidan",
         "status": "broken"
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "KENGAN ASHURA Part I",
@@ -21721,7 +21726,7 @@
     "best_releases": [
       {
         "name": "Sylvar",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -21802,7 +21807,7 @@
     "alt_releases": [
       {
         "name": "o7",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -23633,7 +23638,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -24483,7 +24488,7 @@
     "best_releases": [
       {
         "name": "B00BA",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -24503,7 +24508,7 @@
     "best_releases": [
       {
         "name": "B00BA",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -25757,6 +25762,61 @@
     ]
   },
   {
+    "title": "Minami-ke: Omatase",
+    "alt_title": "",
+    "year": 2012,
+    "format": "OVA",
+    "notes": "NOGRP is AMZN WEB-DL+Chihiro, doesn't have any fonts\nAMZN is the only HD source, the \"BD\" releases are DVD upscales",
+    "comparison": "https://slow.pics/c/4eQdEt8Q",
+    "best_releases": [
+      {
+        "name": "AMZN+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "NOGRP",
+        "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "Minami-ke Natsuyasumi",
+    "alt_title": "Minami-ke: Natsuyasumi",
+    "year": 2013,
+    "format": "OVA",
+    "notes": "NOGRP is AMZN WEB-DL+Chihiro, doesn't have any fonts\nAMZN is the only HD source, the \"BD\" releases are DVD upscales",
+    "comparison": "https://slow.pics/c/utBAJ4LI",
+    "best_releases": [
+      {
+        "name": "AMZN+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "NOGRP",
+        "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "Minami-ke Tadaima",
+    "alt_title": "Minami-ke: Tadaima",
+    "year": 2013,
+    "format": "TV",
+    "notes": "NOGRP is Yousei-raws+FFF (UTW)",
+    "comparison": "https://slow.pics/c/KApBXZAx",
+    "best_releases": [
+      {
+        "name": "NOGRP",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Mind Game",
     "alt_title": "",
     "year": 2004,
@@ -26501,13 +26561,13 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -29245,7 +29305,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -31593,6 +31653,36 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Persona 4 the Animation",
+    "alt_title": "",
+    "year": 2011,
+    "format": "TV",
+    "notes": "SubsMix is Salender-Raws+LazyRemux (asc3ns10n with some fixed TS, and Doki)\nasc3ns10n subs seem to be modified Commie with OCR'd PGS used for new scenes on the BD",
+    "comparison": "https://slow.pics/c/1jAnuUtH\nhttps://www.diffchecker.com/Od5Q8wZt/\nhttps://www.diffchecker.com/B3Lg5Nca/",
+    "best_releases": [
+      {
+        "name": "SubsMix (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Persona 4 the Animation: No One is Alone",
+    "alt_title": "",
+    "year": 2012,
+    "format": "SPECIAL",
+    "notes": "SubsMix is Salender-Raws+LazyRemux (asc3ns10n with some fixed TS, and Doki)\nasc3ns10n subs seem to be modified Commie",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "SubsMix (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Persona 4 the Golden Animation: Thank you Mr. Accomplice",
@@ -35882,7 +35972,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -39017,7 +39107,7 @@
     "best_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -39043,7 +39133,7 @@
     "alt_releases": [
       {
         "name": "NOGRP",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -39063,7 +39153,7 @@
     "alt_releases": [
       {
         "name": "NOGRP",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -41157,7 +41247,7 @@
     "alt_releases": [
       {
         "name": "ABstinence",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -41177,7 +41267,7 @@
     "alt_releases": [
       {
         "name": "ABstinence",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -42534,7 +42624,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -43154,7 +43244,7 @@
     "alt_releases": [
       {
         "name": "shw",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -43501,20 +43591,15 @@
     "alt_title": "Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru",
     "year": 2025,
     "format": "ONA",
-    "notes": "Erai-raws is a CR WEB-DL",
+    "notes": "Headpatter is H-Enc+CR\nH-Enc is a Delowpassed JPN BD Encode",
     "comparison": "https://slow.pics/c/xFYKAbOS",
     "best_releases": [
       {
-        "name": "H-Enc+CR",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Erai-raws",
+        "name": "Headpatter",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "The Troubled Life of Miss Kotoura: Haruka no Heya",
@@ -43744,7 +43829,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -45269,7 +45354,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
