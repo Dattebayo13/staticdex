@@ -596,7 +596,7 @@
     "alt_title": "Ninja to Koroshiya no Futarigurashi",
     "year": 2025,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+CR, Nyaa version is outdated\nYURASUKA is JPN BD Encode+neoDESU (Restyled CR with their usual suspect OP/ED TL)\nThe JPN BD has much better quality and significant BD changes. There is a tint and chroma shift though",
+    "notes": "NAN0 is JPN BD Remux+CR, Nyaa version is outdated\nYURASUKA is JPN BD Encode+neoDESU (Restyled CR with their usual suspect OP/ED TL). The preview at the end of episode 11 is broken (subs play during the ED instead)\nThe JPN BD has much better quality and significant BD changes. There is a tint and chroma shift though",
     "comparison": "https://slow.pics/c/WS5PT6ij\nhttps://slow.pics/c/9W612W44",
     "best_releases": [
       {
@@ -607,7 +607,7 @@
     "alt_releases": [
       {
         "name": "YURASUKA",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -20821,12 +20821,12 @@
     "alt_title": "Kamisama Hajimemashita",
     "year": 2012,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+AC and PGS\nAC is Yousei-Raws+Commie with Anime-Koi OP/ED\nStore absolutely requires MPV Deband",
+    "notes": "AC is Yousei-Raws+Commie with Anime-Koi OP/ED\nStore absolutely requires MPV Deband\n-ZR- is the unmuxed best but has desynced audio on episode 13",
     "comparison": "https://slow.pics/c/oMAFFKQi",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": ""
+        "name": "JPN BD+AC",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
@@ -25753,10 +25753,70 @@
     "format": "TV",
     "notes": "kokorozashi is Yousei-Raws+ADZ and A-E & Saizen. ADZ is desynced, switch to the A-E & Saizen track!!!\nThe BD is a very bad upscale",
     "comparison": "https://slow.pics/c/OQUBSlrL\nhttps://www.diffchecker.com/JAqYceuZ/",
+    "best_releases": [
+      {
+        "name": "Yousei-raws+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "kokorozashi",
+        "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "Minami-ke: Okawari",
+    "alt_title": "",
+    "year": 2008,
+    "format": "TV",
+    "notes": "kokorozashi is Yousei-raws+Ayu and Ayako-sae. Ayu is desynced, switch to the Ayako-sae track!!! It still has timing issues not present in the original release, but to a much lesser extent. Also it's missing the hardsubbed TS\nThe BD is a very bad upscale",
+    "comparison": "https://slow.pics/c/dbtaIkEY",
+    "best_releases": [
+      {
+        "name": "Yousei-raws+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "kokorozashi",
+        "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "Minami-ke: Betsubara",
+    "alt_title": "",
+    "year": 2009,
+    "format": "OVA",
+    "notes": "kokorozashi is Yousei-raws+Chihiro-Sprocket and Ayako\nThe \"BD\" releases are DVD upscales",
+    "comparison": "https://slow.pics/c/ea56MPmN",
     "best_releases": [],
     "alt_releases": [
       {
         "name": "kokorozashi",
+        "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "Minami-ke: Okaeri",
+    "alt_title": "",
+    "year": 2009,
+    "format": "TV",
+    "notes": "BBT-RMX is Yousei-raws+Ayako, has timing issues not present in the original release, and is missing some TS since it was hardsubbed\nkokorozashi is the same mux but with massively desynced subs\nThe BD is a very bad upscale",
+    "comparison": "https://slow.pics/c/TPkt6NLt",
+    "best_releases": [
+      {
+        "name": "Yousei-raws+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "BBT-RMX",
         "status": "broken"
       }
     ]
@@ -25767,7 +25827,7 @@
     "year": 2012,
     "format": "OVA",
     "notes": "NOGRP is AMZN WEB-DL+Chihiro, doesn't have any fonts\nAMZN is the only HD source, the \"BD\" releases are DVD upscales",
-    "comparison": "https://slow.pics/c/4eQdEt8Q",
+    "comparison": "https://slow.pics/c/8DnNX61v",
     "best_releases": [
       {
         "name": "AMZN+?",
@@ -25787,7 +25847,7 @@
     "year": 2013,
     "format": "OVA",
     "notes": "NOGRP is AMZN WEB-DL+Chihiro, doesn't have any fonts\nAMZN is the only HD source, the \"BD\" releases are DVD upscales",
-    "comparison": "https://slow.pics/c/utBAJ4LI",
+    "comparison": "https://slow.pics/c/u16N64tt",
     "best_releases": [
       {
         "name": "AMZN+?",
@@ -35766,20 +35826,15 @@
     "alt_title": "Seikon no Qwaser",
     "year": 2010,
     "format": "TV",
-    "notes": "kuchikirukia is JPN BD Encode+Doki\nThe source is cross-converted so it's completely unwatchable as is, Moozzi2's \"weak filter version\" is the least bad option since VCB didn't fix it properly and kuchikirukia is incredibly starved.",
+    "notes": "Headpatter is Moozzi2 Weak Filter Ver+Restyled Doki and PGS\nThe source is cross-converted so it's completely unwatchable as is, Moozzi2's \"weak filter version\" is the least bad option",
     "comparison": "https://slow.pics/c/8Vx4SU0X",
     "best_releases": [
       {
-        "name": "Moozzi2 Weak Filter Ver+Doki",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "kuchikirukia",
+        "name": "Headpatter",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "The Qwaser of Stigmata II",
@@ -45593,11 +45648,11 @@
     "alt_title": "",
     "year": 2016,
     "format": "OVA",
-    "notes": "BKC is Beatrice-Raws+BDY",
-    "comparison": "https://slow.pics/c/3UyT9rfN",
+    "notes": "BANDiNG is USA BD Encode+RigAV1 (BlurayDesuYo and PGS)",
+    "comparison": "https://slow.pics/c/4M6F380P",
     "best_releases": [
       {
-        "name": "BKC",
+        "name": "BANDiNG",
         "status": ""
       }
     ],
