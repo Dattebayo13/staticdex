@@ -26039,20 +26039,15 @@
     "alt_title": "Kobayashi-san Chi no Maidragon: Samishigariya no Ryuu",
     "year": 2025,
     "format": "MOVIE",
-    "notes": "who is JPN BD Remux+whomst\nwhomst is H-Enc+NF with improved timing, some missing signs added, and mistakes fixed",
-    "comparison": "https://slow.pics/c/V2VSCWyJ\nhttps://www.diffchecker.com/B6YuK9cy/",
+    "notes": "YURASUKA is JPN BD Encode+whomst with signs and songs adapted from Kopajasubs\nwhomst subs are NF with improved timing, some missing signs added, and mistakes fixed",
+    "comparison": "https://slow.pics/c/oIMVbJUj\nhttps://slow.pics/c/BqvqKC8l\nhttps://slow.pics/c/V2VSCWyJ\nhttps://www.diffchecker.com/B6YuK9cy/",
     "best_releases": [
       {
-        "name": "who",
+        "name": "YURASUKA",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "whomst",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Mitsuboshi Colors",
@@ -27926,24 +27921,15 @@
     "alt_title": "Yamada-kun to Lv999 no Koi wo Suru",
     "year": 2023,
     "format": "TV",
-    "notes": "NAN0 is USA BD Remux+CR and PGS\n-ZR- and SubsPlease are CR WEB-DLs\nJPN and USA video are identical",
-    "comparison": "https://slow.pics/c/ttfqS8Yb\nhttps://slow.pics/c/TjCElCZM",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+Restyled neoDESU with overlapping lines moved to top & some typos fixed, and PGS\nneoDESU subs are CR with TS adapted from the Italian subs, and official OP/ED TLs",
+    "comparison": "https://slow.pics/c/x6HWjc4x\nhttps://slow.pics/c/ttfqS8Yb\nhttps://slow.pics/c/TjCElCZM",
     "best_releases": [
       {
-        "name": "NAN0 (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      },
-      {
-        "name": "SubsPlease",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "My Love Story!!",
@@ -34524,12 +34510,12 @@
     "alt_title": "Shoujo Kakumei Utena",
     "year": 1997,
     "format": "TV",
-    "notes": "Lisata598 is Chyrka/Yurasyk+GrimRipper\nThe store is straight up awful",
+    "notes": "yolerejiju is Chyrka/Yurasyk+Some-Stuffs (GitHub). Contains the first 13 episodes\nLisata598 is Chyrka/Yurasyk+GrimRipper\nThe store is straight up awful",
     "comparison": "https://slow.pics/c/Oir7aoTA",
     "best_releases": [
       {
-        "name": "Chyrka/Yurasyk+Some-Stuffs",
-        "status": "unmuxed"
+        "name": "yolerejiju (Dual Audio)",
+        "status": "incomplete"
       }
     ],
     "alt_releases": [
@@ -35088,11 +35074,11 @@
     "alt_title": "Saenai Heroine no Sodatekata Fine",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "Headpatter is JPN BD Remux+SCY-Circle\nMysteria is Beatrice-Raws+SCY-Circle (OTL)",
-    "comparison": "https://slow.pics/c/yBZrWAGG",
+    "notes": "Kawatare is JPN BD Encode+SCY-Circle\nMysteria is Beatrice-Raws+SCY-Circle (OTL)",
+    "comparison": "https://slow.pics/c/h9YXzsJI\nhttps://slow.pics/c/yBZrWAGG",
     "best_releases": [
       {
-        "name": "Headpatter",
+        "name": "Kawatare",
         "status": ""
       }
     ],
@@ -38121,20 +38107,15 @@
     "alt_title": "SPY×FAMILY CODE: White",
     "year": 2023,
     "format": "MOVIE",
-    "notes": "DemiHuman is JPN BD Remux+Restyled CR, whomst, and PGS\nVARYG is CR WEB-DL\nBoth could do with MPV deband",
-    "comparison": "https://slow.pics/c/xLo6UV23",
+    "notes": "BlackRose is JPN BD Encode with GER BD Chroma+Modified DemiHuman (OCR'd USA BD PGS), and CR",
+    "comparison": "https://slow.pics/c/j9EREgMy\nhttps://slow.pics/c/xLo6UV23",
     "best_releases": [
       {
-        "name": "DemiHuman (Dual Audio)",
+        "name": "BlackRose (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "VARYG (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "SPY x FAMILY Season 2",
@@ -40188,11 +40169,11 @@
     "alt_title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
     "year": 2023,
     "format": "TV",
-    "notes": "derpie is CR WEBRip+neoDESU (CR with OP/ED KFX and animecenter/hatty TS) with various fixes\nThe BD is chroma lowpassed, covered in nasty grain, has destructive deband that nukes detail and still leaves behind banding, and to top it off has a slight tint",
-    "comparison": "https://slow.pics/c/dzVAlEZv\nhttps://slow.pics/c/RFw5IgAl\nhttps://slow.pics/c/ZwnTmyyx",
+    "notes": "YURASUKA is JPN BD Encode+derpie, Delowpassed USA BD and CR were used to restore detail from destructive debanding on the JPN BD\nderpie is subs are neoDESU (CR with OP/ED KFX and animecenter/hatty TS) with various fixes",
+    "comparison": "https://slow.pics/c/7vQoxuMQ\nhttps://slow.pics/c/dzVAlEZv\nhttps://slow.pics/c/RFw5IgAl\nhttps://slow.pics/c/ZwnTmyyx",
     "best_releases": [
       {
-        "name": "derpie (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
