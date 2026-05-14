@@ -15280,9 +15280,13 @@
     "alt_title": "",
     "year": 2011,
     "format": "TV",
-    "notes": "Kawatare is JPN BD Encode+SCY, NF, and PGS\nSCY is Beatrice-Raws+Modified Coalgirls (Commie)",
+    "notes": "Kawatare is JPN BD Encode+SCY, NF, and PGS\nHeadpatter is Kawatare with dub\nSCY is Beatrice-Raws+Modified Coalgirls (Commie)",
     "comparison": "https://slow.pics/c/TVVwqHVP\nhttps://slow.pics/c/KFsLd4o3\nhttps://slow.pics/c/1tmR253Y",
     "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      },
       {
         "name": "Kawatare",
         "status": ""
@@ -21326,20 +21330,15 @@
     "alt_title": "",
     "year": 2006,
     "format": "TV",
-    "notes": "Figmentos-omarhidan is GYAO WEB-DL+External Figmentos subs (AnimeForever & Yoroshiku TL)\nGYAO has dupe frames, can be fixed in MPV with the decimate filter. Paste the following in input.conf and change the key to your liking\nX vf toggle \"decimate\"\nGYAO is massively better than the DVD and awful HDTV rip and is likely a better experience even without decimating, should be watched with MPV deband if possible.",
+    "notes": "Headpatter is AMZN WEB-DL+Figmentos (AnimeForever & Yoroshiku TL)\nBest watched with MPV Deband",
     "comparison": "https://slow.pics/c/8hTSK1Kh\nhttps://slow.pics/c/KUzC3Azg",
     "best_releases": [
       {
-        "name": "AMZN+Figmentos",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Figmentos-omarhidan",
-        "status": "broken"
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "KENGAN ASHURA Part I",
@@ -26402,20 +26401,15 @@
     "alt_title": "Kidou Senshi Gundam 00",
     "year": 2007,
     "format": "TV",
-    "notes": "hchcsen is JPN BD Remux+Official timed and typeset, TS is a mix of SubZero and some original work\nAll stores benefit from MPV Deband",
+    "notes": "hchcsen is FRA BD Remux+Official timed and typeset (TS is a mix of SubZero and some original work), CR, and PGS\nAll stores benefit from MPV Deband",
     "comparison": "https://slow.pics/c/o5ruRHXu\nhttps://www.diffchecker.com/nNNXkt1a/\nhttps://www.diffchecker.com/EA3CX8j0/",
     "best_releases": [
       {
-        "name": "FRA BD+hchcsen",
-        "status": "unmuxed"
+        "name": "hchcsen (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "hchcsen (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Mobile Suit Gundam AGE",
@@ -32951,15 +32945,20 @@
     "alt_title": "PSYCHO-PASS Movie",
     "year": 2015,
     "format": "MOVIE",
-    "notes": "",
-    "comparison": "",
+    "notes": "SCY is JPN BD Encode+notCommie and MTBB v1\n*MTBB splices in the dub to remove Engrish (see YouTube link) so you'll need to use his audio",
+    "comparison": "https://slow.pics/c/n77AfKJd\nhttps://www.diffchecker.com/Mr6rWZwt/\nhttps://www.youtube.com/watch?v=y-opFPcRNY0",
     "best_releases": [
+      {
+        "name": "JPN BD+MTBB v2*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "SCY (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "PSYCHO-PASS 3",
@@ -46689,7 +46688,7 @@
     "alt_title": "Mairimashita! Iruma-kun 3",
     "year": 2022,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR, PGS, and AMZN\nCurrently nothing decent enough for alt since CR is destroyed, a jsum mux would work",
+    "notes": "CRUCiBLE is JPN BD Remux+CR, PGS, and AMZN\nHeadpatter is jsum+Restyled CR and PGS",
     "comparison": "https://slow.pics/c/kyP3Y4y3",
     "best_releases": [
       {
@@ -46697,7 +46696,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Welcome to Japan, Ms. Elf!",
@@ -47772,6 +47776,26 @@
     "alt_releases": [
       {
         "name": "Reza (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "YOHANE THE PARHELION -SUNSHINE in the MIRROR-",
+    "alt_title": "Genjitsu no Yohane: SUNSHINE in the MIRROR",
+    "year": 2023,
+    "format": "TV",
+    "notes": "GetItTwisted is JPN BD Remux+Setsugen with minor fixes, CR, and PGS\nSetsugen is CR WEBRip+OTL\nStore should ideally be watched with MPV Deband",
+    "comparison": "https://slow.pics/c/U2rrS6MU\nhttps://www.diffchecker.com/VFqUUorp/",
+    "best_releases": [
+      {
+        "name": "GetItTwisted",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Setsugen",
         "status": ""
       }
     ]
