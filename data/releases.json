@@ -26357,6 +26357,26 @@
     ]
   },
   {
+    "title": "Mobile Fighter G Gundam",
+    "alt_title": "Kidou Butouden G Gundam",
+    "year": 1994,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\nZetaRebel is USA BD Encode+PGS and CR\nAll the encodes are bad but ZetaRebel is the least offensive, the remux is highly recommended",
+    "comparison": "https://slow.pics/c/BAKPHm5x\nhttps://www.diffchecker.com/FTocWNwX/",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ZetaRebel (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam Wing",
     "alt_title": "Shin Kidou Senki Gundam Wing",
     "year": 1995,
@@ -26451,7 +26471,7 @@
     "alt_releases": [
       {
         "name": "OZC",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
