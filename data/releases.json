@@ -7660,21 +7660,17 @@
     "alt_title": "Kujira no Kora wa Sajou ni Utau",
     "year": 2017,
     "format": "TV",
-    "notes": "Asenshi is NF WEBRip+OTL\nLostYears is Asenshi with dub\nVCB-Studio would be a better alt\nExisting BD muxes have issues (Wailord has the wrong subs on episode 2, Slysoft has 1-2 frame desyncs and uses jsum which sucks)",
+    "notes": "Mehul is JPN BD Remux+Asenshi (OTL) with titles made consistent across episodes\nMehul is also VCB-Studio with the same subs",
     "comparison": "https://slow.pics/c/pnBypJ5t\nhttps://www.diffchecker.com/k1iecTEd/",
     "best_releases": [
       {
-        "name": "JPN BD+Asenshi",
-        "status": "unmuxed"
+        "name": "Mehul (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Asenshi",
-        "status": ""
-      },
-      {
-        "name": "LostYears (Dual Audio)",
+        "name": "Mehul (Dual Audio)",
         "status": ""
       }
     ]
@@ -12037,11 +12033,11 @@
     "alt_title": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note",
     "year": 2019,
     "format": "TV",
-    "notes": "Kawatare is JPN BD Encode+ASC and CR\nASC is BlurayDesuYo with TS fixes (1-3), terrible encode+modified Aniplex (4-13)",
+    "notes": "NTRX is Kawatare+Modified ASC (Blur for most TS reduced to match the video, episodes 4-13 retimed)\nASC is BlurayDesuYo with TS fixes (1-3), terrible encode+modified Aniplex (4-13)",
     "comparison": "https://slow.pics/c/lgwXCRdA\nhttps://slow.pics/c/GPAdDT3P\nhttps://slow.pics/c/5dOE9Muz",
     "best_releases": [
       {
-        "name": "Kawatare",
+        "name": "NTRX (Dual Audio)",
         "status": ""
       }
     ],
@@ -12095,11 +12091,11 @@
     "alt_title": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note Tokubetsu-hen",
     "year": 2021,
     "format": "SPECIAL",
-    "notes": "Kawatare is JPN BD Encode+hchcsen (CR edited to match ASC with TS from Owari Subs)\nNOGRP is VCB-Studio+hchcsen",
+    "notes": "NTRX is Kawatare+Modified hchcsen (Retimed, \"Sir\" changed to \"Master\" to match BDY/ASC)\nNOGRP is VCB-Studio+hchcsen (CR with edits to match ASC, scene bleeds fixed, TS adapted from Owari Subs)",
     "comparison": "",
     "best_releases": [
       {
-        "name": "Kawatare",
+        "name": "NTRX (Dual Audio)",
         "status": ""
       }
     ],
@@ -14768,7 +14764,7 @@
     "year": 2020,
     "format": "TV",
     "notes": "gooder is JPN BD Remux+Pritt (Restyled official with OP/ED and TS)",
-    "comparison": "https://slow.pics/c/qq70clNB",
+    "comparison": "https://slow.pics/c/tA5JjqFt",
     "best_releases": [
       {
         "name": "gooder",
@@ -23407,11 +23403,11 @@
     "alt_title": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note - Hakamori to Neko to Majutsu-shi",
     "year": 2018,
     "format": "SPECIAL",
-    "notes": "Kawatare is JPN BD Encode+ASC and CR\nASC is BlurayDesuYo with TS fixes",
+    "notes": "NTRX is Kawatare+Modified ASC (Blur for most TS reduced to match the video)\nASC is BlurayDesuYo with TS fixes",
     "comparison": "",
     "best_releases": [
       {
-        "name": "Kawatare",
+        "name": "NTRX (Dual Audio)",
         "status": ""
       }
     ],
@@ -24453,6 +24449,26 @@
     "alt_releases": [
       {
         "name": "yolerejiju (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Magical Destroyers",
+    "alt_title": "Mahou Shoujo Magical Destroyers",
+    "year": 2023,
+    "format": "TV",
+    "notes": "GetItTwisted is JPN BD Remux+Restyled OtakuHero for E1-3, CR with OtakuHero OP/ED for 4-12\nGetItTwisted is also IrizaRaws with the same subs\nThe JPN BD is chroma lowpassed but has massively better compression than CR",
+    "comparison": "https://slow.pics/c/YfrswQ5U\nhttps://slow.pics/c/uScrQeM0\nhttps://www.diffchecker.com/KRdpe6yB/",
+    "best_releases": [
+      {
+        "name": "GetItTwisted",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "GetItTwisted",
         "status": ""
       }
     ]
@@ -29291,7 +29307,7 @@
     "alt_title": "",
     "year": 2023,
     "format": "TV",
-    "notes": "PMR and -ZR- are JPN BD Remux+GLORY (Fansub based on CR), the latter with stock CR too\nPolarwindz is JPN BD Encode+PMR\nBD has significant changes over WEB",
+    "notes": "PMR and -ZR- are JPN BD Remux+GLORY (Fansub based on CR), the latter with stock CR too\nPolarwindz and StarLight are broken (desynced subs and dub respectively), a fixed version of Polarwindz would make a good alt",
     "comparison": "https://slow.pics/c/KnKO4vaZ\nhttps://slow.pics/c/sveLyV9D\nhttps://slow.pics/c/9KwzE9eP\nhttps://www.diffchecker.com/DhRYEVml/",
     "best_releases": [
       {
@@ -29303,12 +29319,7 @@
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Polarwindz",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "NieR:Automata Ver1.1a Cour 2",
@@ -32965,7 +32976,7 @@
     "alt_title": "PSYCHO-PASS Movie",
     "year": 2015,
     "format": "MOVIE",
-    "notes": "SCY is JPN BD Encode+notCommie and MTBB v1\n*MTBB splices in the dub to remove Engrish (see YouTube link) so you'll need to use his audio",
+    "notes": "SCY is JPN BD Encode+Modified notCommie and MTBB v2\nThe MTBB subs need to be watched with the \"Engrish Eradication Edition\" audio. This track splices the dub into the Japanese audio for the English speaking characters (see YouTube link).\n*You'll need to use MTBB audio due to the above, might be worth borrowing some TS from SCY",
     "comparison": "https://slow.pics/c/n77AfKJd\nhttps://www.diffchecker.com/Mr6rWZwt/\nhttps://www.youtube.com/watch?v=y-opFPcRNY0",
     "best_releases": [
       {
