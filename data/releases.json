@@ -886,12 +886,12 @@
     "alt_title": "Diamond no Ace",
     "year": 2013,
     "format": "TV",
-    "notes": "RUDY is JPN BD Remux+DB (Commie sloppily shifted to BD), has some scenebleeds on TS and dialogue which aren't present in the original subs, but it's the only watchable release anyway\nhchcsen is Moozzi2+Commie shifted to BD with \"frame bleeds fixed\" (still has some, but better than DB). The video obviously sucks but Commie is unwatchable and nobody synced the subs to the new CR rips",
+    "notes": "RUDY is JPN BD Remux+DB (Commie sloppily shifted to BD), has some scenebleeds on TS and dialogue which aren't present in the original subs, but it's the only watchable release anyway. EPISODE 8 AND 9 ARE SWITCHED!!!\nhchcsen is Moozzi2+Commie shifted to BD with \"frame bleeds fixed\" (still has some, but better than DB). The video obviously sucks but Commie is unwatchable and nobody synced the subs to the new CR rips",
     "comparison": "https://slow.pics/c/ZcwoCvpa",
     "best_releases": [
       {
         "name": "RUDY",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -1768,20 +1768,15 @@
     "alt_title": "Amanchu! Advance",
     "year": 2018,
     "format": "TV",
-    "notes": "GUDish is neko-raws+CR Sushi'd and TPP'd, with Asenshi signs and songs\nThe JPN BD and BDBOX are both heavily lowpassed, but unfortunately the only other source is an old bitstarved CR WEB-DL that just isn't safe for watching. CsS cleans up a lot of the ringing to at least make the BD bearable.",
+    "notes": "Mehul is CsS+Restyled and retimed GUDish (CR with Asenshi signs and songs)\nThe JPN BD and BDBOX are both heavily lowpassed, but unfortunately the only other source is an old bitstarved CR WEB-DL that just isn't safe for watching. CsS cleans up a lot of the ringing to at least make the BD bearable.",
     "comparison": "https://slow.pics/c/0iBPQRr7\nhttps://www.diffchecker.com/9nrmWTwB/",
     "best_releases": [
       {
-        "name": "CsS+GUDish",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "GUDish",
+        "name": "Mehul",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Amatsuki",
@@ -4604,7 +4599,7 @@
     "alt_title": "Boushoku no Berserk",
     "year": 2023,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR and PGS\nVARYG is a CR WEB-DL\nH-Enc would be a better alt",
+    "notes": "CRUCiBLE is JPN BD Remux+CR and PGS\nHeadpatter is H-Enc+Restyled CR and PGS",
     "comparison": "https://slow.pics/c/FeEgJERN\nhttps://slow.pics/c/BAPsVOp8",
     "best_releases": [
       {
@@ -4614,8 +4609,8 @@
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -26448,6 +26443,26 @@
     "alt_releases": []
   },
   {
+    "title": "Mobile Suit Gundam 00 Second Season",
+    "alt_title": "Kidou Senshi Gundam 00 2nd Season",
+    "year": 2008,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nAll stores benefit from MPV Deband\nPlease v2 this one as well",
+    "comparison": "https://slow.pics/c/nctdd3Vq",
+    "best_releases": [
+      {
+        "name": "FRA BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam AGE",
     "alt_title": "Kidou Senshi Gundam AGE",
     "year": 2011,
@@ -32721,12 +32736,12 @@
     "alt_title": "Mononoke-hime",
     "year": 1997,
     "format": "MOVIE",
-    "notes": "Arid is THORA with additional REVO/niizk track\nThe recently \"released\" DCP looks very good",
+    "notes": "giosann is dh+THORA and eli v2\nArid is THORA with additional REVO/niizk track\nNewer DCP encodes have since released and should be comped",
     "comparison": "https://slow.pics/c/YC73NqXD\nhttps://slow.pics/c/JIyEmJhW\nhttps://slow.pics/c/EZeCj7wp\nhttps://www.diffchecker.com/ejpHsUww/\nhttps://www.diffchecker.com/9IrznBmX/\nhttps://www.diffchecker.com/bT6CWyXS/",
     "best_releases": [
       {
-        "name": "dh+THORA",
-        "status": "unmuxed"
+        "name": "giosann (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -36752,12 +36767,12 @@
     "alt_title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
     "year": 2015,
     "format": "TV",
-    "notes": "YURI is Beatrice-Raws+SallySubs (Modified Hiryuu/FUNI)\nStore requires MPV deband\nHeadpatter is the unmuxed best but has various issues (mislabelled tracks, random symbols in dialogue, advertising for a tattoo website)",
-    "comparison": "https://slow.pics/c/vNFnC5lA",
+    "notes": "Headpatter is JPN BD Remux+SallySubs with a bunch of fixes (see rentry) and PGS\nYURI is Beatrice-Raws+SallySubs (Modified Hiryuu/FUNI)\nStore requires MPV deband",
+    "comparison": "https://slow.pics/c/vNFnC5lA\nhttps://rentry.co/2pidetfz",
     "best_releases": [
       {
-        "name": "JPN BD+SallySubs",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
