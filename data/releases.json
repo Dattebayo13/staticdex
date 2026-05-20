@@ -942,6 +942,21 @@
     ]
   },
   {
+    "title": "Active Raid",
+    "alt_title": "Active Raid: Kidou Kyoushuushitsu Dai Hakkei",
+    "year": 2016,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD (Director's Cut) Remux+Impatience. New scenes were spliced out since they're unsubbed, Additionally episodes 8 and 9 have 30-60 seconds of the TV cut spliced in.\nThe director's cut has better video quality as well as animation updates and new scenes\nThere aren't any viable options for alt, there's a VCB mux from Gyuunyuu but the subs are mistimed, also it's the airing version which is both a lower quality source and encode from VCB\nStore benefits from MPV Deband",
+    "comparison": "https://slow.pics/c/oGQxqq7y\nhttps://www.diffchecker.com/JfAN2CYD/",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Actors: Songs Connection",
     "alt_title": "ACTORS: Songs Connection",
     "year": 2019,
@@ -26546,7 +26561,7 @@
     "alt_title": "Kidou Senshi Gundam: Tekketsu no Orphans 2",
     "year": 2016,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+hchcsen (OCR'd PGS with a mix of modified Manko and original typesetting)\nThere's not really any viable alts to list, a jsum mux would work",
+    "notes": "PMR is JPN BD Remux+hchcsen (OCR'd PGS with a mix of modified Manko and original typesetting)\nHeadpatter is jsum+hchcsen",
     "comparison": "https://slow.pics/c/oZgaSiw9",
     "best_releases": [
       {
@@ -26554,7 +26569,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Mobile Suit Gundam: The Witch from Mercury",
@@ -32991,7 +33011,7 @@
     "alt_title": "PSYCHO-PASS Movie",
     "year": 2015,
     "format": "MOVIE",
-    "notes": "SCY is JPN BD Encode+Modified notCommie and MTBB v2\nThe MTBB subs need to be watched with the \"Engrish Eradication Edition\" audio. This track splices the dub into the Japanese audio for the English speaking characters (see YouTube link).\n*You'll need to use MTBB audio due to the above, might be worth borrowing some TS from SCY",
+    "notes": "Subinator is SCY+SCY (Modified notCommie and MTBB v2) with restyled OP and minor edits to the notCommie track\nThe MTBB subs need to be watched with the \"Engrish Eradication Edition\" audio. This track splices the dub into the Japanese audio for the English speaking characters (see YouTube link).\n*You'll need to use MTBB audio due to the above, might be worth borrowing some TS from SCY",
     "comparison": "https://slow.pics/c/n77AfKJd\nhttps://www.diffchecker.com/Mr6rWZwt/\nhttps://www.youtube.com/watch?v=y-opFPcRNY0",
     "best_releases": [
       {
@@ -33001,7 +33021,7 @@
     ],
     "alt_releases": [
       {
-        "name": "SCY (Dual Audio)",
+        "name": "Subinator (Dual Audio)",
         "status": ""
       }
     ]
@@ -34980,6 +35000,21 @@
     "best_releases": [
       {
         "name": "YURASUKA",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Rurouni Kenshin",
+    "alt_title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "year": 1996,
+    "format": "TV",
+    "notes": "hchcsen is SOFCJ-Raws+modified Hoj (Retimed, additional TS where necessary, actual subtitles for the next episode previews and whole lot of small tweaks). Includes both dubs",
+    "comparison": "https://slow.pics/c/umMz4lB0",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
         "status": ""
       }
     ],
