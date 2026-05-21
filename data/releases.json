@@ -26447,7 +26447,7 @@
     "alt_title": "Kidou Senshi Gundam 00",
     "year": 2007,
     "format": "TV",
-    "notes": "hchcsen is FRA BD Remux+Official timed and typeset (TS is a mix of SubZero and some original work), CR, and PGS\nAll stores benefit from MPV Deband",
+    "notes": "hchcsen is FRA BD Remux+Official timed and typeset (TS is a mix of SubZero and some original work), CR, and PGS\nZetaRebel is USA BD Encode+CR and PGS\nEverything benefits from MPV Deband",
     "comparison": "https://slow.pics/c/o5ruRHXu\nhttps://www.diffchecker.com/nNNXkt1a/\nhttps://www.diffchecker.com/EA3CX8j0/",
     "best_releases": [
       {
@@ -26455,24 +26455,29 @@
         "status": "not_nyaa"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "ZetaRebel (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Mobile Suit Gundam 00 Second Season",
     "alt_title": "Kidou Senshi Gundam 00 2nd Season",
     "year": 2008,
     "format": "TV",
-    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nAll stores benefit from MPV Deband\nPlease v2 this one as well",
+    "notes": "hchcsen is FRA BD Remux+Official timed and typeset, CR, and PGS\nZetaRebel is USA BD Encode+CR and PGS\nEverything benefits from MPV Deband",
     "comparison": "https://slow.pics/c/nctdd3Vq",
     "best_releases": [
       {
-        "name": "FRA BD+hchcsen",
-        "status": "unmuxed"
+        "name": "hchcsen (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "hchcsen (Dual Audio)",
+        "name": "ZetaRebel (Dual Audio)",
         "status": ""
       }
     ]
@@ -27316,12 +27321,12 @@
     "alt_title": "Mushibugyou",
     "year": 2013,
     "format": "TV",
-    "notes": "Pog42 is VCB-Studio+Final8 (CR with very minor edits, basic TS, and OP/ED TLs)\nStore should be watched with MPV Deband\n*Remove \"Final8 presents\" meme in the OP please",
+    "notes": "NOGRP is JPN BD Remux+Pog42 with \"Final8 presents\" meme removed\nPog42 is VCB-Studio+Final8 (CR with very minor edits, basic TS, and OP/ED TLs)\nStore should be watched with MPV Deband",
     "comparison": "https://slow.pics/c/pXxWwCpE\nhttps://www.diffchecker.com/Z93kSqvV/",
     "best_releases": [
       {
-        "name": "JPN BD+Final8*",
-        "status": "unmuxed"
+        "name": "NOGRP",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -32508,12 +32513,12 @@
     "alt_title": "Eiga Daisuki Pompo-san",
     "year": 2021,
     "format": "MOVIE",
-    "notes": "GSK_kun is JPN BD Encode+OTL\nMALDESiUM is GSK_kun+Dub and PGS\nKakumei Subs would be a better alt\nEvery source except the ITA BD has very strong banding, uses the theatrical master, or both",
-    "comparison": "https://slow.pics/c/Bv2yHNUp\nhttps://slow.pics/c/AWAq9bvJ",
+    "notes": "Sylvar is ITA BD Remux+Restyled GSK_Kun with some minor edits and positioning adjusted for the hardsubbed scenes\nGSK_kun is JPN BD Encode+OTL\nMALDESiUM is GSK_kun+Dub and PGS\nKakumei Subs would be a better alt\nEvery source except the ITA BD has very strong banding, uses the theatrical master, or both",
+    "comparison": "https://slow.pics/c/Bv2yHNUp\nhttps://slow.pics/c/AWAq9bvJ\nhttps://slow.pics/c/fNJXJ2A9\nhttps://www.diffchecker.com/ylWRNbBD/",
     "best_releases": [
       {
-        "name": "ITA BD+GSK_kun",
-        "status": "unmuxed"
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -34569,6 +34574,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Revenger",
+    "alt_title": "REVENGER",
+    "year": 2023,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL\nThe USA BD has a strong lowpass but CR is starved and misses out on BD changes",
+    "comparison": "https://slow.pics/c/4ECuyM9a\nhttps://slow.pics/c/wQwd1MXG\nhttps://slow.pics/c/VmUnqpVj",
+    "best_releases": [
+      {
+        "name": "USA BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Revolutionary Girl Utena",
