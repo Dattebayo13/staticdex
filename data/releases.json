@@ -9611,6 +9611,46 @@
     ]
   },
   {
+    "title": "DearS",
+    "alt_title": "",
+    "year": 2004,
+    "format": "TV",
+    "notes": "mottoj is R2J DVD Encode+Exiled-Destiny (OCR'd R1, and stock VobSubs)",
+    "comparison": "https://slow.pics/c/ZM9XzezF\nhttps://www.diffchecker.com/d2u53U9T/",
+    "best_releases": [
+      {
+        "name": "mottoj+PGS",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "mottoj",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "DearS: Is It A Golden Ball?",
+    "alt_title": "DearS: Kin no Tama desu no?",
+    "year": 2005,
+    "format": "SPECIAL",
+    "notes": "mottoj is R2J DVD Encode+Exiled-Destiny (OCR'd R1, and stock VobSubs)",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "mottoj+PGS",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "mottoj",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Death Billiards",
     "alt_title": "",
     "year": 2013,
