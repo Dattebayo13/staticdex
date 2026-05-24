@@ -7199,6 +7199,26 @@
     ]
   },
   {
+    "title": "Catch Me at the Ballpark!",
+    "alt_title": "Ballpark de Tsukamaete!",
+    "year": 2025,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+CR\nErai-raws is a CR WEB-DL\nThe BD and CR are quite similar, the BD just has slightly better compression and some BD changes\nI suppose jsum would be a better alt because of the changes",
+    "comparison": "https://slow.pics/c/NhgnXlye",
+    "best_releases": [
+      {
+        "name": "NAN0",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
     "alt_title": "Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru",
     "year": 2019,
@@ -25346,6 +25366,26 @@
     ]
   },
   {
+    "title": "May I Ask for One Final Thing?",
+    "alt_title": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
+    "year": 2025,
+    "format": "ONA",
+    "notes": "Sylvar is JPN BD Remux+Chihiro and Cyan\nSylvar is also H-Enc with the same subs",
+    "comparison": "https://slow.pics/c/GPYb8MO1\nhttps://slow.pics/c/eL7GRpYD\nhttps://www.diffchecker.com/G4AUHrxU/",
+    "best_releases": [
+      {
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Mayo Chiki!",
     "alt_title": "",
     "year": 2011,
@@ -27478,6 +27518,36 @@
         "status": "broken"
       }
     ]
+  },
+  {
+    "title": "Muv-Luv Alternative",
+    "alt_title": "",
+    "year": 2021,
+    "format": "TV",
+    "notes": "SubsPlease is a CR WEB-DL\nThe JPN BD is mostly worse than CR with added grain, banding, and gunk. It does fare better in very busy scenes, particularly the extremely grainy flashback scenes where CR completely falls apart, though the BD also looks terrible for those too so meh",
+    "comparison": "https://slow.pics/c/8Qq82Qux",
+    "best_releases": [
+      {
+        "name": "SubsPlease",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Muv-Luv Alternative Season 2",
+    "alt_title": "Muv-Luv Alternative 2nd Season",
+    "year": 2022,
+    "format": "TV",
+    "notes": "SubsPlease is a CR WEB-DL\nThe JPN BD is mostly worse than CR with added grain, banding, and gunk. It does fare better in very busy scenes, particularly the extremely grainy flashback scenes where CR completely falls apart, though the BD also looks terrible for those too so meh. The BD bitrate also decreases significantly for the second half of the season",
+    "comparison": "https://slow.pics/c/Q6Z2VJss\nhttps://slow.pics/c/q2Fq6eLs",
+    "best_releases": [
+      {
+        "name": "SubsPlease",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
@@ -40030,15 +40100,20 @@
     "alt_title": "Tengoku Daimakyou",
     "year": 2023,
     "format": "TV",
-    "notes": "Ignore is JPN BD Encode+Dae",
-    "comparison": "https://slow.pics/c/R4gOb6lH\nhttps://slow.pics/c/LNW7tPXq\nhttps://www.diffchecker.com/f8yJeZOs/",
+    "notes": "Ignore is JPN BD Encode+Dae\nYURASUKA is JPN BD Encode+Dae",
+    "comparison": "https://slow.pics/c/R4gOb6lH\nhttps://slow.pics/c/X0z8Y2e0\nhttps://slow.pics/c/LNW7tPXq\nhttps://www.diffchecker.com/f8yJeZOs/",
     "best_releases": [
       {
         "name": "Ignore (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "YURASUKA (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Tenkuu Danzai Skelter Heaven",
@@ -45940,8 +46015,8 @@
     "alt_releases": []
   },
   {
-    "title": "Urusei Yatsura (2022)",
-    "alt_title": "",
+    "title": "Urusei Yatsura (2022) Seasons 1 & 2",
+    "alt_title": "Urusei Yatsura (2022)",
     "year": 2022,
     "format": "TV",
     "notes": "WAP is JPN BD Remux+Pizza with \"additional QC/consistency fixes, and missing songs inserted\"\nNiBBA is IrizaRaws+LostYears (Pizza)",
