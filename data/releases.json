@@ -16515,6 +16515,21 @@
     ]
   },
   {
+    "title": "Heavy Metal L-Gaim",
+    "alt_title": "Juusenki L-Gaim",
+    "year": 1984,
+    "format": "TV",
+    "notes": "PMR is JPN BD Remux+Daisuki (Official subs ripped and re-timed by anonymous at /m/) with mSubs songs\nThe OP/ED are poor upscales of the old master, ideally the NCs would be spliced in",
+    "comparison": "https://slow.pics/c/UQTt9muj\nhttps://slow.pics/c/iQId4JmD?image-fit=contain",
+    "best_releases": [
+      {
+        "name": "PMR",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Heavy Object",
     "alt_title": "",
     "year": 2015,
@@ -20275,21 +20290,6 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": ""
-      }
-    ],
-    "alt_releases": []
-  },
-  {
-    "title": "Juusenki L-Gaim",
-    "alt_title": "",
-    "year": 1984,
-    "format": "TV",
-    "notes": "PMR is JPN BD Remux+Daisuki (Official subs ripped and re-timed by anonymous at /m/) with mSubs songs\nThe OP/ED are poor upscales of the old master, ideally the NCs would be spliced in",
-    "comparison": "https://slow.pics/c/UQTt9muj\nhttps://slow.pics/c/iQId4JmD?image-fit=contain",
-    "best_releases": [
-      {
-        "name": "PMR",
         "status": ""
       }
     ],
@@ -27516,6 +27516,26 @@
       {
         "name": "Shirσ (Dual Audio)",
         "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "Schwarzes Marken",
+    "alt_title": "Schwarzesmarken",
+    "year": 2016,
+    "format": "TV",
+    "notes": "-ZR- is JPN BD Remux+SallySubs (Not Bolshevik like he claims)\nSallySubs is JPN BD Encode+Edited CR with modified Commie TS\nThe JPN BD has very strong banding but the encodes all suck. The GER BD is even worse (10Mbps enjoyings)\nStore should be watched with MPV Deband, otherwise get the encode",
+    "comparison": "https://slow.pics/c/gx9SU5OR\nhttps://www.diffchecker.com/IZbO08Jt/\nhttps://www.diffchecker.com/PkGAIFkp/\nhttps://www.diffchecker.com/GfkChuBP/",
+    "best_releases": [
+      {
+        "name": "-ZR-",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SallySubs",
+        "status": ""
       }
     ]
   },
@@ -42132,6 +42152,46 @@
     "alt_releases": []
   },
   {
+    "title": "The Heroic Legend of Arslan",
+    "alt_title": "Arslan Senki (TV)",
+    "year": 2015,
+    "format": "TV",
+    "notes": "WBDP is Snow-Raws+PGS\nThe GER BD is the only source that doesn't have extreme banding without relying on spamming grain everywhere like the JPN BD. It's not perfect and still has noticeable banding especially in motion, but it offers a much cleaner image with more detail than the JPN BD (which does have the same banding, just covered by grain so it's less noticeable). Every other BD is completely unwatchable\nDragon-Releases is Kaitou for E1-4, restyled Techmod (OCR'd PGS) with added TS for the rest. Kaitou OP/ED used for cour 1, their own for cour 2. Can be found at https://nyaa.si/view/1826265#com-6\nUQW would be a better alt",
+    "comparison": "https://slow.pics/c/nNsCwXcI\nhttps://www.diffchecker.com/aXMPF1op/\nhttps://www.diffchecker.com/ETwRbmaU/",
+    "best_releases": [
+      {
+        "name": "GER BD+Dragon-Releases",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "WBDP (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Heroic Legend of Arslan: Dust Storm Dance",
+    "alt_title": "Arslan Senki: Fuujin Ranbu",
+    "year": 2016,
+    "format": "TV",
+    "notes": "WBDP is Snow-Raws+PGS\nAs with Season 1 the JPN BD spams grain all over the image, however there is no GER BD to save it this time. The other BDs are completely unwatchable and the encodes suck\nThe releases using Merchant subs (mottoj, Techmod, UQW) are desynced\nDragon-Releases is Merchant synced to BD with improved OP/ED styling, TS, and some minor edits. Can be found at https://nyaa.si/view/1826265#com-6\nUQW would be a better alt",
+    "comparison": "https://slow.pics/c/fBOJR7lw\nhttps://www.diffchecker.com/da318MM6/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Dragon-Releases",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "WBDP (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "The Hidden Dungeon Only I Can Enter",
     "alt_title": "Ore dake Haireru Kakushi Dungeon",
     "year": 2021,
@@ -48863,8 +48923,8 @@
     "alt_title": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
     "year": 2023,
     "format": "TV",
-    "notes": "Zoombie is Undimmed USA BD/WEB Encode+Fansub based on CR",
-    "comparison": "https://slow.pics/c/q9BQLnMR\nhttps://slow.pics/c/Uk46eGKt\nhttps://slow.pics/c/sA9dSZBz",
+    "notes": "Zoombie is Undimmed USA BD/WEB Encode+Fansub based on CR\nThe GER BD has since released which contains BD changes, however it has been heavily debanded resulting in significant detail loss. Additionally it has other issues such as a chroma shift, dimming, and ghosting",
+    "comparison": "https://slow.pics/c/qD9PFoX1\nhttps://slow.pics/c/q9BQLnMR\nhttps://slow.pics/c/Uk46eGKt\nhttps://slow.pics/c/sA9dSZBz",
     "best_releases": [
       {
         "name": "Zoombie (Dual Audio)",
