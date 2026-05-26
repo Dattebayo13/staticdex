@@ -7203,7 +7203,7 @@
     "alt_title": "Ballpark de Tsukamaete!",
     "year": 2025,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+CR\nErai-raws is a CR WEB-DL\nThe BD and CR are quite similar, the BD just has slightly better compression and some BD changes\nI suppose jsum would be a better alt because of the changes",
+    "notes": "NAN0 is JPN BD Remux+CR\nHeadpatter is jsum+Restyled CR\nThe BD and CR are quite similar, the BD just has slightly better compression and some BD changes",
     "comparison": "https://slow.pics/c/NhgnXlye",
     "best_releases": [
       {
@@ -7213,8 +7213,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Erai-raws",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -8699,7 +8699,7 @@
     "year": 2026,
     "format": "ONA",
     "notes": "Buggy is Nekomoe kissaten&LoliHouse+Modified NF (Retimed, typesetting, song styling, split overlapping dialogue, adjusted some linebreaks)\nNetflix quality is cooked, Nekomoe kissaten&LoliHouse is primarily based on the H.264 stream but switches to AV1 for the extremely bitstarved scenes",
-    "comparison": "https://slow.pics/c/0YhnFqlT\nhttps://slow.pics/c/7OBafPTF",
+    "comparison": "https://slow.pics/c/0YhnFqlT\nhttps://slow.pics/c/7OBafPTF\nhttps://www.diffchecker.com/A0GmixFy/",
     "best_releases": [],
     "alt_releases": [
       {
@@ -10998,6 +10998,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Ebiten: Ebisugawa's Public High School Temonbu",
+    "alt_title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu",
+    "year": 2012,
+    "format": "ONA",
+    "notes": "Headpatter is JPN BD Remux+Restyled Final8 (Staircase with their own ED) with a bunch of fixes, and PGS\nHeadpatter is also Yousei-raws with the same subs\nYousei does fix some of the aliasing in the store but it's a little too lacking in the bits department",
+    "comparison": "https://slow.pics/c/vxlyrcJf",
+    "best_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Eden of the East",
@@ -19705,6 +19725,26 @@
     ]
   },
   {
+    "title": "ISHURA",
+    "alt_title": "Ishura",
+    "year": 2024,
+    "format": "TV",
+    "notes": "8RM is JPN BD Encode+DSNP\nSpoony subs are DSNP converted to ass, restyled to Cabin F, linebreaks adjusted, overlaps edited, split lines joined, proper emdashes, OP/ED KFX, some TS. Earlier episodes need the OP/ED backported, and they didn't do episode 12",
+    "comparison": "https://slow.pics/c/MY5FirPu\nhttps://www.diffchecker.com/LyWHOgKM/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Spoony/DSNP",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "8RM (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "ISLAND",
     "alt_title": "",
     "year": 2018,
@@ -26463,6 +26503,26 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam 0083: Stardust Memory",
+    "alt_title": "Kidou Senshi Gundam 0083: STARDUST MEMORY",
+    "year": 1991,
+    "format": "OVA",
+    "notes": "hchcsen is UC JPN BD Remux+OCR'd PGS timed, slightly edited, and typeset. Includes both the original 2.0 and new 5.1 recordings\nEverything uses the same dated scan that looks rather poor, ITA just has slightly better compression",
+    "comparison": "https://slow.pics/c/oy5BLKQE",
+    "best_releases": [
+      {
+        "name": "ITA BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Fighter G Gundam",
     "alt_title": "Kidou Butouden G Gundam",
     "year": 1994,
@@ -32441,7 +32501,7 @@
     "year": 2024,
     "format": "TV_SHORT",
     "notes": "YURASUKA is JPN BD Encode+Freehold and PGS\nFreehold subs are SubsPlus+ (HIDI with automated improvements) with additional timing fixes, with WorldFansubs OP/ED/TS translated to English\nThe OP sounding like ass is not a BD specific issue",
-    "comparison": "https://slow.pics/c/RcjyQASj\nhttps://slow.pics/c/Z70stRMY",
+    "comparison": "https://slow.pics/c/nl8xbqWu\nhttps://slow.pics/c/RcjyQASj\nhttps://slow.pics/c/Z70stRMY",
     "best_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
@@ -32456,7 +32516,7 @@
     "year": 2024,
     "format": "ONA",
     "notes": "YURASUKA is JPN BD Encode+Freehold and PGS\nFreehold subs are SubsPlus+ (HIDI with automated improvements) with additional timing fixes, with WorldFansubs OP/ED/TS translated to English",
-    "comparison": "https://slow.pics/c/58P9WgNM",
+    "comparison": "https://slow.pics/c/S1nS6iKC",
     "best_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
@@ -38466,6 +38526,21 @@
     ]
   },
   {
+    "title": "Stardust Telepath",
+    "alt_title": "Hoshikuzu Telepath",
+    "year": 2023,
+    "format": "TV",
+    "notes": "RRA is JPN BD Encode+Edited CR with additional TS",
+    "comparison": "https://slow.pics/c/1CfKaOcb\nhttps://www.diffchecker.com/nAGKg6DM/",
+    "best_releases": [
+      {
+        "name": "RRA",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Stars Align",
     "alt_title": "Hoshiai no Sora",
     "year": 2019,
@@ -40619,7 +40694,7 @@
     "alt_title": "Kusuriya no Hitorigoto 2nd Season",
     "year": 2025,
     "format": "TV",
-    "notes": "FLE is JPN BD Remux+Half-Baked with several QC fixes and additional TS\nHalf-Baked is WEB Encode+modified CR\nMALD is Half-Baked+dub",
+    "notes": "FLE is JPN BD Remux+Half-Baked with several QC fixes and additional TS\nCytox is Half-Baked+FLE with a couple of TS fixes, CR, and NF",
     "comparison": "https://slow.pics/c/9obOIePI",
     "best_releases": [
       {
@@ -40629,11 +40704,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Half-Baked",
-        "status": ""
-      },
-      {
-        "name": "MALD (Dual Audio)",
+        "name": "Cytox (Dual Audio)",
         "status": ""
       }
     ]
