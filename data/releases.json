@@ -17432,6 +17432,21 @@
     ]
   },
   {
+    "title": "His and Her Circumstances",
+    "alt_title": "Kareshi Kanojo no Jijou",
+    "year": 1998,
+    "format": "TV",
+    "notes": "WSE is Judgment (R2J DVD Encode+Modified R1) with dub\nEpisode 14 and the first half of episode 15 use Exiled-Destiny video and VobSubs since the R2 video was a completely different cut and unsubbed in Judgment's release. These are recaps and can be skipped",
+    "comparison": "https://slow.pics/c/dvN3dRHn",
+    "best_releases": [
+      {
+        "name": "WSE (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Hitoribocchi no Marumaruseikatsu",
     "alt_title": "Hitoribocchi no ○○ Seikatsu",
     "year": 2019,
@@ -18188,7 +18203,7 @@
     "alt_title": "Tensei Shitara Dai Nana Ouji Datta node, Kimamani Majutsu wo Kiwamemasu 2nd Season",
     "year": 2025,
     "format": "TV",
-    "notes": "WR3CK is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nH-Enc would be a better alt",
+    "notes": "WR3CK is JPN BD Remux+CR\nHeadpatter is H-Enc+CR",
     "comparison": "https://slow.pics/c/qO7sf9pd\nhttps://slow.pics/c/GMIKS8uv",
     "best_releases": [
       {
@@ -18198,8 +18213,8 @@
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -21771,8 +21786,8 @@
     "alt_title": "Ousama Game The Animation",
     "year": 2017,
     "format": "TV",
-    "notes": "Almighty is USA BD Encode+PGS\nFRA BD is the only source with correct chroma, also has the best compression, BD changes, and doesn't randomly zoom the OP/ED like the USA BD does\nThe encodes suck, it is what it is",
-    "comparison": "https://slow.pics/c/LhKt90dQ",
+    "notes": "Almighty is USA BD Encode+PGS\nThe JPN and FRA BD are pretty much identical for the actual episode, but the JPN BD struggles on the busy scenes in the OP/ED and is lowpassed for many of them. USA is just completely cooked\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/rcEBj7PP",
     "best_releases": [
       {
         "name": "FRA BD+CR",
@@ -22669,6 +22684,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Kämpfer",
+    "alt_title": "",
+    "year": 2009,
+    "format": "TV",
+    "notes": "AOmundson is JPN BD Encode+Commie (gg). The 20 second recap at the start and OP KFX are desynced due to not accounting for Commie's sadeemed NCOP splice, the episode itself is fine (same with KH)",
+    "comparison": "https://slow.pics/c/KXIkKI6U\nhttps://www.diffchecker.com/DMcErRdY/\nhttps://www.diffchecker.com/iBhYFrqd/\nhttps://www.diffchecker.com/CIvziIdy/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "AOmundson (Dual Audio)",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "Ladies Versus Butlers",
@@ -26578,6 +26613,26 @@
     "alt_releases": [
       {
         "name": "ZetaRebel",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mobile Suit Gundam: The 08th MS Team",
+    "alt_title": "Kidou Senshi Gundam: Dai 08 MS Shotai",
+    "year": 1996,
+    "format": "OVA",
+    "notes": "hchcsen is UC JPN BD Remux+OCR'd PGS styled, timed and typeset. Includes both the original 2.0 and new 5.1 recordings\nEverything uses the same dated scan that looks rather poor, ITA just has slightly better compression",
+    "comparison": "https://slow.pics/c/eUkAR15t",
+    "best_releases": [
+      {
+        "name": "ITA BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
         "status": ""
       }
     ]
