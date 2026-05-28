@@ -23268,6 +23268,21 @@
     ]
   },
   {
+    "title": "Linebarrels of Iron",
+    "alt_title": "Kurogane no Linebarrels",
+    "year": 2008,
+    "format": "TV",
+    "notes": "NOGRP is jsum+Restyled Exiled-Destiny (R1). Missing the signs that were hardsubbed on the R1US DVD\njsum's encode (brought to you by ANK-RAWS) is pretty terrible but it's the only watchable option as the JPN BD is cross-converted and the DVDs are DVDs",
+    "comparison": "https://slow.pics/c/UhyPDh16",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "NOGRP (Dual Audio)",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Link Click",
     "alt_title": "Shiguang Dailiren",
     "year": null,
@@ -34825,12 +34840,12 @@
     "alt_title": "REVENGER",
     "year": 2023,
     "format": "TV",
-    "notes": "Erai-raws is a CR WEB-DL\nThe USA BD has a strong lowpass but CR is starved and misses out on BD changes",
+    "notes": "NOGRP is USA BD Remux+CR and PGS, signs track is PGS only\nErai-raws is a CR WEB-DL\nThe USA BD has a strong lowpass but CR is starved and misses out on BD changes",
     "comparison": "https://slow.pics/c/4ECuyM9a\nhttps://slow.pics/c/wQwd1MXG\nhttps://slow.pics/c/VmUnqpVj",
     "best_releases": [
       {
-        "name": "USA BD+CR",
-        "status": "unmuxed"
+        "name": "NOGRP (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -35609,12 +35624,12 @@
     "alt_title": "",
     "year": 2017,
     "format": "TV",
-    "notes": "Rye is JPN BD Encode+KOTEX (CR) with Nii-Sama TS and Astral song styling for 1-13; 14-25 is restyled Nii-Sama songs. Technically dual audio but not marked as such as it's missing a signs track.",
+    "notes": "Headpatter is Rye+Rye (CR with Nii-Sama TS and Astral song styling for E1-13, restyled Nii-Sama songs for E14-25) and PGS",
     "comparison": "https://slow.pics/c/avE9NFjy",
     "best_releases": [
       {
-        "name": "Rye",
-        "status": "broken"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
