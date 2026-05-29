@@ -957,6 +957,26 @@
     "alt_releases": []
   },
   {
+    "title": "Active Raid Second",
+    "alt_title": "Active Raid: Kidou Kyoushuushitsu Dai Hakkei 2",
+    "year": 2016,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD (Director's Cut) Remux+Impatience. New scenes were spliced out since they're unsubbed, additionally episodes 6, 8, and 10 have 4-20 seconds of the TV cut spliced in\nGyuunyuu is VCB-Studio (Airing version)+Impatience. Some episodes have subs desynced by 1-2 frames, and VCB's airing version is a lower quality encode\nPretty much the exact same story as Season 1, the director's cut has better video quality (though it's even more drastic this time) as well as animation updates and new scenes\nStore benefits from MPV Deband",
+    "comparison": "https://slow.pics/c/oh0alWS5\nhttps://www.diffchecker.com/Lchg3Gcd/",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Gyuunyuu",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Actors: Songs Connection",
     "alt_title": "ACTORS: Songs Connection",
     "year": 2019,
