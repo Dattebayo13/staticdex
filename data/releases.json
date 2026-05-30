@@ -3594,17 +3594,17 @@
     "alt_title": "",
     "year": 2018,
     "format": "ONA",
-    "notes": "KH is neko-raws+GSK_kun",
+    "notes": "Mehul is JPN BD Remux+GSK_kun with a few minor issues fixed and ugly ED styling nuked, and PGS\nMehul is also neko-raws with the same subs\nGSK_kun subs are NF retimed, restyled, and typeset",
     "comparison": "https://slow.pics/c/7bHmyp1W\nhttps://www.diffchecker.com/qKCBCL8B/",
     "best_releases": [
       {
-        "name": "JPN BD+GSK_kun",
-        "status": "unmuxed"
+        "name": "Mehul (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "KH (Dual Audio)",
+        "name": "Mehul (Dual Audio)",
         "status": ""
       }
     ]
@@ -5362,12 +5362,12 @@
     "alt_title": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
     "year": 2023,
     "format": "TV",
-    "notes": "Lazier is DSNP WEB-DL retimed and with some basic OP/ED styling and TS, LostYears is the same with dub",
-    "comparison": "",
+    "notes": "LGH is ITA/JPN BD Remux+Lazy/Lazier with updated OP/ED backported to earlier episodes, minor timing fixes, and some signs typeset. Video is primarily from the ITA BD, with JPN BD used for episodes 16, 19, and 20 since the international master is missing a field\nLazier is DSNP WEB-DL retimed and with some basic OP/ED styling and TS, LostYears is the same with dub",
+    "comparison": "https://slow.pics/c/qJsXkQfM\nhttps://slow.pics/c/BflpRdRV",
     "best_releases": [
       {
-        "name": "ITA BD+Lazy/Lazier",
-        "status": "unmuxed"
+        "name": "LGH (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26234,12 +26234,12 @@
     "alt_title": "Kobayashi-san Chi no Maidragon S",
     "year": 2021,
     "format": "TV",
-    "notes": "UltraRemux is JPN BD Remux+Dae and CR\nDae is Kawaiika-Raws+modified DameDesuYo\nStore should be watched with MPV deband, otherwise get the encode",
+    "notes": "UltraRemux is JPN BD Remux+Dae and CR, has half a second of corruption in episode 4\nDae is Kawaiika-Raws+modified DameDesuYo\nStore should be watched with MPV deband, otherwise get the encode",
     "comparison": "https://slow.pics/c/npEj4mFa",
     "best_releases": [
       {
         "name": "UltraRemux (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
