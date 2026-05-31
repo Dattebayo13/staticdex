@@ -966,7 +966,7 @@
     "best_releases": [
       {
         "name": "hchcsen",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -4141,12 +4141,12 @@
     "alt_title": "Baki: Dai Raitaisai-hen",
     "year": 2020,
     "format": "ONA",
-    "notes": "VARYG is a NF WEB-DL\nThe JPN BD has a strong tint and a lot more banding but massively better compression than NF, MPV deband is a MUST\nThe BD seems to be unshared, but there's a mistagged remux here https://nyaa.si/view/1840192",
+    "notes": "Humble is JPN BD Remux+NF\nVARYG is a NF WEB-DL\nThe JPN BD has a strong tint and a lot more banding but massively better compression than NF, MPV deband is a MUST",
     "comparison": "https://slow.pics/c/4kjwejqG",
     "best_releases": [
       {
-        "name": "JPN BD+NF",
-        "status": "unmuxed"
+        "name": "Humble (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -9254,8 +9254,8 @@
     "alt_title": "Darling in the Franxx",
     "year": 2018,
     "format": "TV",
-    "notes": "BlackRose is Kawatare+Modified Chotab (Fixed typos, name corrections, positioning fixes, missing fonts) and PGS\nBlackRose is also Beatrice-Raws with the same subs",
-    "comparison": "https://slow.pics/c/hlHZKlW5\nhttps://slow.pics/c/7ily3mNE",
+    "notes": "BlackRose is Kawatare+Modified Chotab (Fixed typos, name corrections, positioning fixes, missing fonts, missing-glyph/typesetting issues) and PGS\nBlackRose is also Beatrice-Raws with the same subs",
+    "comparison": "https://slow.pics/c/hlHZKlW5\nhttps://slow.pics/c/7ily3mNE\nhttps://rentry.co/franxx-blackrose",
     "best_releases": [
       {
         "name": "BlackRose (Dual Audio)",
@@ -25626,6 +25626,26 @@
     "alt_releases": []
   },
   {
+    "title": "Medalist Season 2",
+    "alt_title": "Medalist 2nd Season",
+    "year": 2026,
+    "format": "TV",
+    "notes": "Sylvar is JPN BD Remux+Salchow\nSalchow is DSNP WEB-DL+OTL, only the first 3 episodes are dual audio",
+    "comparison": "https://slow.pics/c/kiINT7YZ\nhttps://www.diffchecker.com/U5FFM5TI/",
+    "best_releases": [
+      {
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Salchow",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Megalobox",
     "alt_title": "Megalo Box",
     "year": 2018,
@@ -26234,12 +26254,12 @@
     "alt_title": "Kobayashi-san Chi no Maidragon S",
     "year": 2021,
     "format": "TV",
-    "notes": "UltraRemux is JPN BD Remux+Dae and CR, has half a second of corruption in episode 4\nDae is Kawaiika-Raws+modified DameDesuYo\nStore should be watched with MPV deband, otherwise get the encode",
-    "comparison": "https://slow.pics/c/npEj4mFa",
+    "notes": "Dae is Kawaiika-Raws+modified DameDesuYo",
+    "comparison": "https://slow.pics/c/7cTkqwJY\nhttps://slow.pics/c/npEj4mFa",
     "best_releases": [
       {
-        "name": "UltraRemux (Dual Audio)",
-        "status": "broken"
+        "name": "H-Enc+Dae",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
@@ -26682,7 +26702,7 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26702,7 +26722,7 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -27146,15 +27166,15 @@
     "alt_title": "Monster Musume no Iru Nichijou",
     "year": 2015,
     "format": "TV",
-    "notes": "AOmundson is SallySubs with dual audio and resampled subs.",
-    "comparison": "",
-    "best_releases": [],
-    "alt_releases": [
+    "notes": "Lulu is =^_^=+Modified SallySubs (CR TL with Chihiro/SallySubs TS)",
+    "comparison": "https://slow.pics/c/vnaAOLOv",
+    "best_releases": [
       {
-        "name": "AOmundson (Dual Audio)",
+        "name": "Lulu (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Monster Musume: Everyday Life With Monster Girls OVA",
@@ -32888,6 +32908,26 @@
     "alt_releases": [
       {
         "name": "PorkChops (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Possibly the Greatest Alchemist of All Time",
+    "alt_title": "Izure Saikyou no Renkinjutsushi?",
+    "year": 2025,
+    "format": "TV",
+    "notes": "VARYG is a CR WEB-DL\nThe USA BD is poor as usual, CR is just too starved",
+    "comparison": "https://slow.pics/c/NOiPqlSm",
+    "best_releases": [
+      {
+        "name": "USA BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
         "status": ""
       }
     ]
