@@ -65,6 +65,26 @@
     ]
   },
   {
+    "title": "100 METERS",
+    "alt_title": "Hyakuemu.",
+    "year": 2025,
+    "format": "MOVIE",
+    "notes": "ppkhoa is JPN BD Remux+NF\nZoroSenpai is JPN BD Encode+NF\nThe JPN BD is heavily lowpassed but has a significant amount of BD changes. The DCP has better compression in busy scenes and doesn't have the horrible ringing but is missing these BD changes and has other issues like bad chroma and black crush",
+    "comparison": "https://slow.pics/c/vjWg6pOV\nhttps://slow.pics/c/V1MOEaZj",
+    "best_releases": [
+      {
+        "name": "ppkhoa (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ZoroSenpai (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "11eyes",
     "alt_title": "",
     "year": 2009,
@@ -10358,20 +10378,15 @@
     "alt_title": "Ijiranaide, Nagatoro-san",
     "year": 2021,
     "format": "TV",
-    "notes": "LYS1TH3A is JPN BD Remux+BullySubs with dub\nBunny-Apocalypse is ReinForce+BullySubs with dub",
-    "comparison": "https://slow.pics/c/KxFZrBKn\nhttps://slow.pics/c/0qwCubqK",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+Restyled BullySubs with \"BullySubs Presents\" meme removed and missing fonts/styles fixed",
+    "comparison": "https://slow.pics/c/dRYH2l75\nhttps://slow.pics/c/KxFZrBKn\nhttps://slow.pics/c/0qwCubqK",
     "best_releases": [
       {
-        "name": "LYS1TH3A (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Bunny-Apocalypse (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "DON'T TOY WITH ME, MISS NAGATORO 2nd Attack",
@@ -13949,6 +13964,26 @@
     "alt_releases": [
       {
         "name": "IK (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Ghost in the Shell: SAC_2045",
+    "alt_title": "Koukaku Kidoutai: SAC_2045",
+    "year": 2020,
+    "format": "ONA",
+    "notes": "Commie is JPN BD Encode+Fansub based on NF\nCommie is 50% audio so an opus sneedsplit would be valid",
+    "comparison": "https://slow.pics/c/IEW2CXiO\nhttps://www.diffchecker.com/YR0AvQqp/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Commie (Dual Audio)",
         "status": ""
       }
     ]
@@ -25635,7 +25670,7 @@
     "best_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26217,7 +26252,7 @@
     "year": 2017,
     "format": "TV",
     "notes": "Okay-Subs is JPN BD Encode+0x539 with an additional honorifics track\nderp is Okay-Subs+dub\n0x539 is modified DDY with added TS",
-    "comparison": "https://slow.pics/c/kvZfsEfK",
+    "comparison": "https://slow.pics/c/kvZfsEfK\nhttps://slow.pics/c/q4UVlv6A",
     "best_releases": [
       {
         "name": "Okay-Subs",
@@ -33081,8 +33116,8 @@
     "alt_title": "Mononoke-hime",
     "year": 1997,
     "format": "MOVIE",
-    "notes": "giosann is dh+THORA and eli v2\nArid is THORA with additional REVO/niizk track\nNewer DCP encodes have since released and should be comped",
-    "comparison": "https://slow.pics/c/YC73NqXD\nhttps://slow.pics/c/JIyEmJhW\nhttps://slow.pics/c/EZeCj7wp\nhttps://www.diffchecker.com/ejpHsUww/\nhttps://www.diffchecker.com/9IrznBmX/\nhttps://www.diffchecker.com/bT6CWyXS/",
+    "notes": "giosann is dh+THORA and eli v2\nArid is THORA with additional REVO/niizk track\nThe DCP and derived encodes (like dh) are much higher quality than the BD releases",
+    "comparison": "https://slow.pics/c/UmoZid0H\nhttps://slow.pics/c/YC73NqXD\nhttps://slow.pics/c/JIyEmJhW\nhttps://slow.pics/c/EZeCj7wp\nhttps://www.diffchecker.com/ejpHsUww/\nhttps://www.diffchecker.com/9IrznBmX/\nhttps://www.diffchecker.com/bT6CWyXS/",
     "best_releases": [
       {
         "name": "giosann (Dual Audio)",
@@ -36057,6 +36092,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Scarlet",
+    "alt_title": "Hateshinaki Scarlet",
+    "year": 2025,
+    "format": "MOVIE",
+    "notes": "CiNEPHiLES is 4K USA BD Remux+OCR'd PGS, AMZN, and PGS. Web HDR10+ metadata injected\nBYNDR is an AMZN 4K SDR WEB-DL\n1080p sources are downscales and look significantly worse. The 4K USA and 4K EUR BDs are essentially identical",
+    "comparison": "https://slow.pics/c/BCLYV44S",
+    "best_releases": [
+      {
+        "name": "CiNEPHiLES (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "BYNDR (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Scarlet Nexus",
@@ -40090,7 +40145,7 @@
     "alt_title": "Tamayomi",
     "year": 2020,
     "format": "TV",
-    "notes": "Moxie is JPN BD Remux+Chintu and PGS\nChintu is Thicc+FUNI Retimed, TSed, with OP/ED lyrics\nChintu video is very bad, would recommend muxing onto literally anything else\nStore should be watched with MPV deband",
+    "notes": "Moxie is JPN BD Remux+Chintu and PGS\nNOGRP is VCB-Studio+Chintu\nChintu is Thicc+FUNI Retimed, TSed, with OP/ED lyrics\nStore should be watched with MPV deband",
     "comparison": "https://slow.pics/c/R3s0nwGK\nhttps://slow.pics/c/hppGEtos",
     "best_releases": [
       {
@@ -40100,8 +40155,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Chintu",
-        "status": ""
+        "name": "NOGRP",
+        "status": "not_nyaa"
       }
     ]
   },
