@@ -4665,7 +4665,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -7254,7 +7254,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -7553,6 +7553,26 @@
     "alt_releases": [
       {
         "name": "chasa (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Champignon Witch",
+    "alt_title": "Champignon no Majo",
+    "year": 2026,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+Cyan (Fansub based on CR) and stock CR\nKekkan is CR WEBRip+Restyled and stock Cyan\njsum would be a much better alt",
+    "comparison": "https://slow.pics/c/AnOIwLn0\nhttps://www.diffchecker.com/zb9N7UTL/",
+    "best_releases": [
+      {
+        "name": "NAN0",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kekkan",
         "status": ""
       }
     ]
@@ -11044,13 +11064,13 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -15426,7 +15446,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       },
       {
         "name": "Kawatare",
@@ -18269,7 +18289,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -19810,7 +19830,7 @@
     "alt_releases": [
       {
         "name": "8RM (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -25520,13 +25540,13 @@
     "best_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -26289,20 +26309,15 @@
     "alt_title": "Kobayashi-san Chi no Maidragon S",
     "year": 2021,
     "format": "TV",
-    "notes": "Dae is Kawaiika-Raws+modified DameDesuYo",
+    "notes": "NTRX is H-Enc+Dae (Modified DameDesuYo) with missing glyphs fixed and TL added for the episode 12 ED",
     "comparison": "https://slow.pics/c/7cTkqwJY\nhttps://slow.pics/c/npEj4mFa",
     "best_releases": [
       {
-        "name": "H-Enc+Dae",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Dae (Dual Audio)",
+        "name": "NTRX (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved",
@@ -26862,7 +26877,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -34708,11 +34723,11 @@
     "alt_title": "Tensei Shitara Ken Deshita",
     "year": 2022,
     "format": "ONA",
-    "notes": "nyadex is JPN BD Remux+Kaleido-subs (1-5), neoAV1 (6-12)\nYURASUKA is JPN BD Encode+nyadex\nneoAV1 subs are HIDI resampled, restyled, with added OP/ED from Kaleido and TS for titles",
-    "comparison": "https://slow.pics/c/lDDS0LHq\nhttps://slow.pics/c/UBuCAwnK",
+    "notes": "NTRX is JPN BD Remux+Kaleido-subs for E1-5, modified HIDI (restyled, retimed, typeset, Kaleido OP/ED, minor fixes) for E6-12\nYURASUKA is JPN BD Encode+nyadex (neoAV1)\nneoAV1 subs Kaleido-subs for E1-5, modified HIDI (restyled, Kaleido OP/ED, TS for titles) for E6-12",
+    "comparison": "https://slow.pics/c/1Fi1vKzk\nhttps://slow.pics/c/lDDS0LHq\nhttps://slow.pics/c/UBuCAwnK",
     "best_releases": [
       {
-        "name": "nyadex (Dual Audio)",
+        "name": "NTRX (Dual Audio)",
         "status": ""
       }
     ],
@@ -35724,7 +35739,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -40156,7 +40171,7 @@
     "alt_releases": [
       {
         "name": "NOGRP",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -47236,7 +47251,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
