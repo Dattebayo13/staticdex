@@ -4674,12 +4674,12 @@
     "alt_title": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
     "year": 2022,
     "format": "TV",
-    "notes": "LostYears is Commie with dub\nStore requires MPV Deband",
+    "notes": "NOGRP is JPN BD Remux+Commie\nLostYears is Commie with dub\nCommie video is really bad, jsum is probably a better alt and you can just thug out the banding\nStore should be watched with MPV Deband",
     "comparison": "https://slow.pics/c/DIb2HG0R",
     "best_releases": [
       {
-        "name": "JPN BD+Commie",
-        "status": "unmuxed"
+        "name": "NOGRP (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -21861,12 +21861,12 @@
     "alt_title": "Ousama Game The Animation",
     "year": 2017,
     "format": "TV",
-    "notes": "Almighty is USA BD Encode+PGS\nThe JPN and FRA BD are pretty much identical for the actual episode, but the JPN BD struggles on the busy scenes in the OP/ED and is lowpassed for many of them. USA is just completely cooked\njsum would be a better alt",
+    "notes": "NOGRP is FRA BD Remux+CR and PGS, missing fonts and signs track is PGS only\nAlmighty is USA BD Encode+PGS\nThe JPN and FRA BD are pretty much identical for the actual episode, but the JPN BD struggles on the busy scenes in the OP/ED and is lowpassed for many of them. USA is just completely cooked\njsum would be a better alt",
     "comparison": "https://slow.pics/c/rcEBj7PP",
     "best_releases": [
       {
-        "name": "FRA BD+CR",
-        "status": "unmuxed"
+        "name": "NOGRP (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -26320,6 +26320,21 @@
     "alt_releases": []
   },
   {
+    "title": "Miss Kobayashi’s Dragon Maid S: Japanese Hospitality (The Attendant Is a Dragon)",
+    "alt_title": "Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)",
+    "year": 2022,
+    "format": "OVA",
+    "notes": "NTRX is H-Enc+BlurayDesuYo",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "NTRX (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved",
     "alt_title": "Kobayashi-san Chi no Maidragon: Samishigariya no Ryuu",
     "year": 2025,
@@ -27626,7 +27641,7 @@
     "best_releases": [
       {
         "name": "NOGRP",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -37222,7 +37237,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -45935,7 +45950,7 @@
     "best_releases": [
       {
         "name": "B00BA",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
