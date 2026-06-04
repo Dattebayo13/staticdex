@@ -4679,7 +4679,7 @@
     "best_releases": [
       {
         "name": "NOGRP (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -24769,6 +24769,21 @@
     ]
   },
   {
+    "title": "Magical Girl Lyrical Nanoha: The Movie 1st",
+    "alt_title": "Mahou Shoujo Lyrical Nanoha: The MOVIE 1st",
+    "year": 2010,
+    "format": "MOVIE",
+    "notes": "Kaleido-subs is JPN BD Encode+OTL",
+    "comparison": "https://slow.pics/c/94DCF6b4",
+    "best_releases": [
+      {
+        "name": "Kaleido-subs",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Magical Girl Raising Project",
     "alt_title": "Mahou Shoujo Ikusei Keikaku",
     "year": 2016,
@@ -40993,12 +41008,12 @@
     "alt_title": "Gakusen Toshi Asterisk 2",
     "year": 2016,
     "format": "TV",
-    "notes": "RASETSU is Amoeba+Heroine/Harunatsu and PGS\nStore needs MPV Deband, otherwise watch the encode\nBeatrice-Raws would be a better alt",
+    "notes": "Cryooon is USA BD Remux+RASETSU\nRASETSU is Amoeba+Heroine/Harunatsu and PGS\nRASETSU splices in the next episode previews at the end but Cryooon didn't account for this, so the preview subs/dub audio play for a second before abruptly cutting off\nStore needs MPV Deband, otherwise watch the encode\nBeatrice-Raws would be a better alt",
     "comparison": "https://slow.pics/c/uq96pN9A\nhttps://www.diffchecker.com/RFqL7hov/",
     "best_releases": [
       {
-        "name": "JPN BD+RASETSU",
-        "status": "unmuxed"
+        "name": "Cryooon (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
