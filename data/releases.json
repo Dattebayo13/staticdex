@@ -11768,15 +11768,20 @@
     "alt_title": "Isekai Nonbiri Nouka",
     "year": 2023,
     "format": "TV",
-    "notes": "Ignore is JPN BD Encode+neoDesu (Restyled HIDI with OP/ED and TS)",
+    "notes": "RedKite is VCB-Studio+HIDI restyled, retimed, and typeset\n*Perhaps change the styling",
     "comparison": "https://slow.pics/c/fSRaWSEZ",
     "best_releases": [
       {
-        "name": "Ignore (Dual Audio)",
-        "status": ""
+        "name": "Ignore+RedKite*",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "RedKite",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Fastest Finger First",
@@ -13222,7 +13227,7 @@
     "year": 2003,
     "format": "TV",
     "notes": "NTRM is SOFCJ-Raws+modified FMA1394",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/Rco8CBWP",
     "best_releases": [
       {
         "name": "NTRM (Dual Audio)",
@@ -18555,6 +18560,36 @@
     "best_releases": [
       {
         "name": "DiabloTripleA (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Ichigo 100% Special 2",
+    "alt_title": "Strawberry 100%",
+    "year": 2005,
+    "format": "SPECIAL",
+    "notes": "Headpatter is HQR+Restyled Tsundere",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "Headpatter",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Strawberry 100%",
+    "alt_title": "Ichigo 100%",
+    "year": 2005,
+    "format": "TV",
+    "notes": "Headpatter is HQR+Restyled Tsundere\nThe BD has much more detail and way better compression but comes with some field tomfoolery, HQR mostly fixes it but there's still some messed up lines",
+    "comparison": "https://slow.pics/c/YMoIiFeo",
+    "best_releases": [
+      {
+        "name": "Headpatter",
         "status": ""
       }
     ],
@@ -28218,7 +28253,7 @@
     "year": 2022,
     "format": "TV",
     "notes": "fig is JPN BD Remux+Tenrai-Sensei (Restyled CR with TS and OP/ED KFX) with various fixes\nC3NTRIC is CR WEB-DL+Tenrai-Sensei and stock CR",
-    "comparison": "https://slow.pics/c/4fwzDtTj\nhttps://www.diffchecker.com/7R2paGl4/",
+    "comparison": "https://slow.pics/c/y9pe2pWu\nhttps://slow.pics/c/4fwzDtTj\nhttps://www.diffchecker.com/7R2paGl4/",
     "best_releases": [
       {
         "name": "fig (Dual Audio)",
@@ -32893,24 +32928,15 @@
     "alt_title": "Eiga Daisuki Pompo-san",
     "year": 2021,
     "format": "MOVIE",
-    "notes": "Sylvar is ITA BD Remux+Restyled GSK_Kun with some minor edits and positioning adjusted for the hardsubbed scenes\nGSK_kun is JPN BD Encode+OTL\nMALDESiUM is GSK_kun+Dub and PGS\nKakumei Subs would be a better alt\nEvery source except the ITA BD has very strong banding, uses the theatrical master, or both",
-    "comparison": "https://slow.pics/c/Bv2yHNUp\nhttps://slow.pics/c/AWAq9bvJ\nhttps://slow.pics/c/fNJXJ2A9\nhttps://www.diffchecker.com/ylWRNbBD/",
+    "notes": "Kawatare is ITA BD Encode+Sylvar (Restyled GSK_Kun with some minor edits and positioning adjusted for the hardsubbed scenes) and PGS\nEvery source except the ITA BD has very strong banding, uses the theatrical master, or both",
+    "comparison": "https://slow.pics/c/Bv2yHNUp\nhttps://slow.pics/c/1zIOjBMv\nhttps://slow.pics/c/fNJXJ2A9\nhttps://www.diffchecker.com/ylWRNbBD/",
     "best_releases": [
       {
-        "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "Kawatare",
+        "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "GSK_kun",
-        "status": ""
-      },
-      {
-        "name": "MALDESiUM (Dual Audio)",
-        "status": "not_nyaa"
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Ponyo",
@@ -34914,6 +34940,26 @@
       {
         "name": "YURASUKA (Dual Audio)",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Rent-a-Girlfriend Season 3",
+    "alt_title": "Kanojo, Okarishimasu 3rd Season",
+    "year": 2023,
+    "format": "TV",
+    "notes": "YURASUKA is JPN BD Encode+neoDESU (Restyled CR with OP/ED). TS is broken (perspective/colors)\nThe JPN and GBR BDs are both lowpassed, the GER BD isn't but has the gamma bug and is starved, and CR is giga starved",
+    "comparison": "https://slow.pics/c/dPFUzcKy\nhttps://slow.pics/c/xaqbtRPW",
+    "best_releases": [
+      {
+        "name": "GBR BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "YURASUKA (Dual Audio)",
+        "status": "broken"
       }
     ]
   },
@@ -42577,6 +42623,26 @@
     ]
   },
   {
+    "title": "The Idol Master",
+    "alt_title": "THE IDOLM@STER",
+    "year": 2011,
+    "format": "TV",
+    "notes": "CookieSubs is VCB-Studio+GSK_kun (FFF (Chibiki)), also includes a desynced Doki track for \"options\"\nGetItTwisted subs are restyled FFF with a bunch of minor fixes\nVCB is surprisingly transparent and the lineart sweeps",
+    "comparison": "https://slow.pics/c/Cei1dIoy\nhttps://slow.pics/c/Kf3JUmZT\nhttps://www.diffchecker.com/tL0XEZXg/",
+    "best_releases": [
+      {
+        "name": "VCB-Studio+GetItTwisted",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "CookieSubs",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "THE IDOLM@STER CINDERELLA GIRLS U149",
     "alt_title": "THE iDOLM@STER Cinderella Girls: U149",
     "year": 2023,
@@ -44709,6 +44775,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "To Be Hero X",
+    "alt_title": "Tu Bian Yingxiong X",
+    "year": null,
+    "format": "ONA",
+    "notes": "Kitsune is a CR WEB-DL\nMPV Deband helps everything",
+    "comparison": "https://slow.pics/c/J558q6zi",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kitsune (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "To Love Ru",
@@ -47823,7 +47909,7 @@
     "best_releases": [
       {
         "name": "NAN0",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
