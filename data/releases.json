@@ -10776,15 +10776,11 @@
     "alt_title": "Jashin-chan Dropkick",
     "year": 2018,
     "format": "TV",
-    "notes": "Noms and Pog42 are VCB-Studio+CR",
-    "comparison": "",
+    "notes": "AnoZu CR+Restyled CR\nThe JPN BD is extremely pauper",
+    "comparison": "https://slow.pics/c/Dv96tYFs",
     "best_releases": [
       {
-        "name": "Noms",
-        "status": "not_nyaa"
-      },
-      {
-        "name": "Pog42",
+        "name": "AnoZu",
         "status": ""
       }
     ],
@@ -10795,15 +10791,11 @@
     "alt_title": "Jashin-chan Dropkick ONA",
     "year": 2018,
     "format": "ONA",
-    "notes": "Noms and Pog42 are VCB-Studio+CR",
+    "notes": "AnoZu CR+Restyled CR",
     "comparison": "",
     "best_releases": [
       {
-        "name": "Noms",
-        "status": "not_nyaa"
-      },
-      {
-        "name": "Pog42",
+        "name": "AnoZu",
         "status": ""
       }
     ],
@@ -26808,6 +26800,26 @@
     ]
   },
   {
+    "title": "Turn A Gundam",
+    "alt_title": "∀ Gundam",
+    "year": 1999,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+Official (Combination of OCR'd PGS and YT) timed and typeset with some styling from Sadame no Fansub\nEG is JPN BD Encode+Revised version of their DVD subs\nEpisode 16 is an SD upscale, can be skipped since it's just a recap\nKagura would be a better alt",
+    "comparison": "https://slow.pics/c/u7vrKCXW\nhttps://www.diffchecker.com/4wosqNTv/",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "EG",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam 00",
     "alt_title": "Kidou Senshi Gundam 00",
     "year": 2007,
@@ -42627,20 +42639,30 @@
     "alt_title": "THE IDOLM@STER",
     "year": 2011,
     "format": "TV",
-    "notes": "CookieSubs is VCB-Studio+GSK_kun (FFF (Chibiki)), also includes a desynced Doki track for \"options\"\nGetItTwisted subs are restyled FFF with a bunch of minor fixes\nVCB is surprisingly transparent and the lineart sweeps",
+    "notes": "GetItTwisted is VCB-Studio+FFF (Chibiki) restyled with a bunch of minor fixes\nVCB is surprisingly transparent and the lineart sweeps",
     "comparison": "https://slow.pics/c/Cei1dIoy\nhttps://slow.pics/c/Kf3JUmZT\nhttps://www.diffchecker.com/tL0XEZXg/",
     "best_releases": [
       {
-        "name": "VCB-Studio+GetItTwisted",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "CookieSubs",
+        "name": "GetItTwisted",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "The Idolm@ster: 765 Pro to Iu Monogatari",
+    "alt_title": "",
+    "year": 2012,
+    "format": "SPECIAL",
+    "notes": "GetItTwisted is VCB-Studio+FFF (Chibiki) restyled with a bunch of minor fixes",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "GetItTwisted",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "THE IDOLM@STER CINDERELLA GIRLS U149",
