@@ -3630,6 +3630,26 @@
     ]
   },
   {
+    "title": "B: The Beginning: Succession",
+    "alt_title": "B: The Beginning Succession",
+    "year": 2021,
+    "format": "ONA",
+    "notes": "Mehul is USA BD Remux+PGS\nErai-raws is NF 5Mbps WEB-DL\nNF is pauper, get the remux isn't it?",
+    "comparison": "https://slow.pics/c/y6J2UgAP",
+    "best_releases": [
+      {
+        "name": "Mehul (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Baby Steps",
     "alt_title": "",
     "year": 2014,
@@ -10413,20 +10433,15 @@
     "alt_title": "Ijiranaide, Nagatoro-san 2nd Attack",
     "year": 2023,
     "format": "TV",
-    "notes": "fig is JPN BD Remux+BullySubs (Fansub based on CR) for episodes 1-10, CR for episodes 11-12\nStarLight is JPN BD Encode+fig",
-    "comparison": "https://slow.pics/c/PIbNdZQx\nhttps://slow.pics/c/ynZytcCE\nhttps://www.diffchecker.com/0vHWvanC/",
+    "notes": "YURASUKA is JPN BD Encode+Restyled BullySubs with missing glyphs fixed for E1-10, Restyled CR with minor TS changes and BullySubs OP/ED for E11-12",
+    "comparison": "https://slow.pics/c/59CIZoUG\nhttps://slow.pics/c/PIbNdZQx\nhttps://slow.pics/c/ynZytcCE\nhttps://www.diffchecker.com/0vHWvanC/",
     "best_releases": [
       {
-        "name": "fig (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "StarLight (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Doraemon: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
