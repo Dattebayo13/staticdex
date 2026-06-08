@@ -7099,26 +7099,6 @@
     ]
   },
   {
-    "title": "Case Closed: The Million-dollar Pentagram",
-    "alt_title": "Meitantei Conan: 100-man Dollar no Michishirube",
-    "year": 2024,
-    "format": "MOVIE",
-    "notes": "ConanFusion is JPN BD Encode with web spliced in for hardsubbed scenes+Microsoft Store with an additional edit pass and typesetting\nStore should be watched with MPV Deband\n*Make sure to account for the spliced web scenes",
-    "comparison": "https://slow.pics/c/7xGeP9Yp\nhttps://www.diffchecker.com/JKuifJU7/",
-    "best_releases": [
-      {
-        "name": "JPN BD+ConanFusion*",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "ConanFusion",
-        "status": ""
-      }
-    ]
-  },
-  {
     "title": "Casshern Sins",
     "alt_title": "",
     "year": 2008,
@@ -7594,6 +7574,26 @@
       {
         "name": "Kekkan",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Chaos Dragon",
+    "alt_title": "Chaos Dragon: Sekiryuu Sen'eki",
+    "year": 2015,
+    "format": "TV",
+    "notes": "ShitAnime is JPN BD Encode+DameDesuYo (Localized) sushi'd to BD. The video sucks and has the wrong gamma (can fix with -6 gamma in MPV) but the only alternatives are Moozzi2 muxes with mistimed subs\nAmoeba would be a better alt",
+    "comparison": "https://slow.pics/c/RQMpm1nF\nhttps://www.diffchecker.com/72LpUm9U/\nhttps://www.diffchecker.com/mz0Ud4wZ/",
+    "best_releases": [
+      {
+        "name": "JPN BD+DameDesuYo",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ShitAnime",
+        "status": "broken"
       }
     ]
   },
@@ -10113,6 +10113,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Detective Conan: The Million-dollar Pentagram",
+    "alt_title": "Meitantei Conan: 100-man Dollar no Michishirube",
+    "year": 2024,
+    "format": "MOVIE",
+    "notes": "ConanFusion is JPN BD Encode with web spliced in for hardsubbed scenes+Microsoft Store with an additional edit pass and typesetting\nStore should be watched with MPV Deband\n*Make sure to account for the spliced web scenes",
+    "comparison": "https://slow.pics/c/7xGeP9Yp\nhttps://www.diffchecker.com/JKuifJU7/",
+    "best_releases": [
+      {
+        "name": "JPN BD+ConanFusion*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ConanFusion",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Detectives These Days Are Crazy!",
