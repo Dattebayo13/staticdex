@@ -14045,20 +14045,15 @@
     "alt_title": "Koukaku Kidoutai: STAND ALONE COMPLEX",
     "year": 2002,
     "format": "TV",
-    "notes": "CTR is VCB-Studio & philosophy-raws+OZC",
-    "comparison": "",
+    "notes": "SubsMix is Beatrice-Raws+MiraiAnime (Restyled OZC (R1) with improved TS, a-S for the Tachikomatic Days specials at the end), stock OZC, a-S, and \"Nyaa\"? Littered with scenebleeds but seemingly so is every other release",
+    "comparison": "https://slow.pics/c/x8DG9Gbs",
     "best_releases": [
       {
-        "name": "Beatrice-Raws+(?)",
-        "status": "unmuxed"
+        "name": "SubsMix (Dual Audio)",
+        "status": "broken"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "CTR (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
@@ -43353,12 +43348,12 @@
     "alt_title": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.",
     "year": 2024,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+CR\nHeadpatter is ReinForce+CR and PGS",
-    "comparison": "https://slow.pics/c/eWoou5pQ",
+    "notes": "Poopoo is Delowpassed JPN BD Encode+Restyled CR\nHeadpatter is ReinForce+CR and PGS",
+    "comparison": "https://slow.pics/c/plIeqwFj\nhttps://slow.pics/c/eWoou5pQ",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "Poopoo (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -43845,6 +43840,26 @@
     "alt_releases": [
       {
         "name": "Holomux (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Seven Deadly Sins the Movie: Prisoners of the Sky",
+    "alt_title": "Nanatsu no Taizai Movie: Tenkuu no Torawarebito",
+    "year": 2018,
+    "format": "MOVIE",
+    "notes": "TTGA is JPN BD Remux+Restyled and stock NF\nKulot is LoliHouse+Restyled NF\nThe JPN BD is lowpassed but has much better quality and tons of BD changes compared to NF, the encodes are all coal\nSnow-Raws would be a better alt (Without 60% audio too perhaps)\nStore should be watched with MPV Deband",
+    "comparison": "https://slow.pics/c/sieJf9jm",
+    "best_releases": [
+      {
+        "name": "TTGA (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kulot (Dual Audio)",
         "status": ""
       }
     ]
