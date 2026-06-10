@@ -14647,17 +14647,17 @@
     "alt_title": "Given: Hiiragi mix",
     "year": 2024,
     "format": "MOVIE",
-    "notes": "Moxie is JPN BD Remux+CR\nVARYG is a CR WEB-DL\njsum would be a better alt\nizu is NOT safe for plex",
+    "notes": "Moxie is JPN BD Remux+Restyled CR with styled songs\nHeadpatter is jsum+Moxie and stock CR\nizu is NOT safe for plex",
     "comparison": "https://slow.pics/c/lkeaOjgS\nhttps://www.diffchecker.com/ZRKoDS1W/",
     "best_releases": [
       {
-        "name": "Moxie",
+        "name": "Moxie (Dual Audio)",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "VARYG",
+        "name": "Headpatter (Dual Audio)",
         "status": ""
       }
     ]
@@ -14667,17 +14667,17 @@
     "alt_title": "Given: Umi e",
     "year": 2024,
     "format": "MOVIE",
-    "notes": "Moxie is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nThe JPN BD and CR have different gamma (not the usual 0.88 bug), but the BD has much better video quality and has BD changes\nThe izu & aarinfantasy TL is ESL and should be avoided, CR looks to have better TS anyway",
+    "notes": "Moxie is JPN BD Remux+Restyled CR with styled songs\nToonsHub is a CR WEB-DL\nThe JPN BD and CR have different gamma (not the usual 0.88 bug), but the BD has much better video quality and has BD changes\nThe izu & aarinfantasy TL is ESL and should be avoided, CR looks to have better TS anyway",
     "comparison": "https://slow.pics/c/ULkZ533T\nhttps://www.diffchecker.com/nOzZYaR5/",
     "best_releases": [
       {
-        "name": "Moxie",
+        "name": "Moxie (Dual Audio)",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "VARYG",
+        "name": "ToonsHub (Dual Audio)",
         "status": ""
       }
     ]
@@ -19881,6 +19881,26 @@
     "best_releases": [
       {
         "name": "JPN BD+Spoony/DSNP",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "8RM (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "ISHURA Season 2",
+    "alt_title": "Ishura 2nd Season",
+    "year": 2025,
+    "format": "TV",
+    "notes": "8RM is JPN BD Encode+DSNP\nDSNP subs are dubtitles (unlucker)",
+    "comparison": "https://slow.pics/c/eVWqY7BL\nhttps://www.diffchecker.com/Fo58QYlx/",
+    "best_releases": [
+      {
+        "name": "JPN BD+DSNP",
         "status": "unmuxed"
       }
     ],
@@ -28379,6 +28399,26 @@
     "alt_releases": [
       {
         "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "My Hero Academia FINAL SEASON",
+    "alt_title": "Boku no Hero Academia FINAL SEASON",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Pico is a CR WEB-DL with Z-A song styling and typesetting, a few missing lines in episode 5 were added from the dubtitles",
+    "comparison": "https://slow.pics/c/Bgptp9La",
+    "best_releases": [
+      {
+        "name": "JPN BD+Pico",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Pico (Dual Audio)",
         "status": ""
       }
     ]
@@ -40817,15 +40857,20 @@
     "alt_title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
     "year": 2025,
     "format": "TV",
-    "notes": "YURASUKA is JPN BD Encode+derpie (Restyled CR with minor TS adjustments)\nAs usual it's lacking bits, but still beats the store with strong halos",
-    "comparison": "https://slow.pics/c/Hi8G6axS\nhttps://slow.pics/c/ycj5eXlq",
+    "notes": "derpie is JPN BD Encode+Restyled CR with glyph fixes, titles adjusted for consistency, and ending speech adjusted to fit its sign\nYURASUKA is JPN BD Encode+derpie",
+    "comparison": "https://slow.pics/c/P2rRwlIU\nhttps://slow.pics/c/Hi8G6axS\nhttps://slow.pics/c/ycj5eXlq",
     "best_releases": [
+      {
+        "name": "derpie (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "The 8th Son? Are You Kidding Me?",
