@@ -15899,7 +15899,7 @@
     "year": 2015,
     "format": "TV",
     "notes": "sam is JPN BD Encode+Commie",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/jVDAeO9A",
     "best_releases": [
       {
         "name": "sam (Dual Audio)",
@@ -21425,11 +21425,11 @@
     "alt_title": "Asagao to Kase-san.",
     "year": 2018,
     "format": "OVA",
-    "notes": "smol is JPN BD Encode+HIDI subs with Anonyneko TS and Anonyneko",
-    "comparison": "https://slow.pics/c/SqRiXj1t\nhttps://slow.pics/c/bqcZUZgW\nhttps://slow.pics/c/SArGTADk\nhttps://www.diffchecker.com/usLPtdGq/",
+    "notes": "GUCD is JPN BD Encode+OTL",
+    "comparison": "https://slow.pics/c/OE8xHWsH\nhttps://slow.pics/c/SqRiXj1t\nhttps://slow.pics/c/SArGTADk\nhttps://www.diffchecker.com/K4LiHIpl/\nhttps://www.diffchecker.com/usLPtdGq/",
     "best_releases": [
       {
-        "name": "smol (Dual Audio)",
+        "name": "GUCD (Dual Audio)",
         "status": ""
       }
     ],
@@ -27104,6 +27104,26 @@
     ]
   },
   {
+    "title": "Mobile Suit Victory Gundam",
+    "alt_title": "Kidou Senshi Victory Gundam",
+    "year": 1993,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\nEG is JPN BD Encode+Revised version of their DVD subs\nSwitches from 35mm to 16mm at episode 11\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/C0rnxh2K\nhttps://slow.pics/c/EnF0RtCG\nhttps://slow.pics/c/EjJrYe1R\nhttps://www.diffchecker.com/SbQNwSFd/",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "EG",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Modern Magic Made Simple",
     "alt_title": "Yokuwakaru Gendaimahou",
     "year": 2009,
@@ -30808,6 +30828,26 @@
     "alt_releases": [
       {
         "name": "AV1ARY",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Omamori Himari",
+    "alt_title": "",
+    "year": 2010,
+    "format": "TV",
+    "notes": "Koten_Gars is JPN BD Encode+Tsundere (Ryuumaru)\nThe source is cross-converted so ANK-Raws is the only watchable option, files need to be put in the toolnix expeditiously\n*Make sure you get the v2 for episode 10",
+    "comparison": "https://slow.pics/c/NMOIAYD7?image-position=left&image-fit=none\nhttps://www.diffchecker.com/AwvMj87q/\nhttps://www.diffchecker.com/MKF4Ovap/\nhttps://www.diffchecker.com/9ipgZ5Zq/",
+    "best_releases": [
+      {
+        "name": "ANK-Raws+?*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Koten_Gars",
         "status": ""
       }
     ]
@@ -40518,15 +40558,20 @@
     "alt_title": "Tekkon Kinkreet",
     "year": 2006,
     "format": "MOVIE",
-    "notes": "",
-    "comparison": "https://slow.pics/c/V0eADyhC\nhttps://slow.pics/c/mbgqy9HQ",
+    "notes": "Afro is Sony EUR/USA BD Encode+Modified official\nThere's 2 color grades available for this movie, the original found on the Sony EUR/USA BDs, and the new one found on the JPN, FRA/GBR/GER, and TWN BDs. The new grade is extremely red and vibrant, and looks to be due to a mastering error rather than a deliberate choice. Production material matches the original grade (See rentry). Colors aside, the original version also has English intertitles, credits, and at least 1 sign.\n*Some of the edits look worse than store and should be reverted, also restyle lol. \nOne of the copies of the EUR BD has corruption at frames 9649-51 so check for that before remuxing.",
+    "comparison": "https://slow.pics/c/spw1fl8e\nhttps://www.diffchecker.com/AeNJCtOZ/\nhttps://rentry.org/htmmmn6f",
     "best_releases": [
+      {
+        "name": "Sony EUR/USA BD+Afro*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "Afro (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Tenchi Muyo! War on Geminar",
