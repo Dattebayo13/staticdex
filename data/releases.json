@@ -24861,6 +24861,36 @@
     "alt_releases": []
   },
   {
+    "title": "Magical Girl Lyrical Nanoha: The Movie 2nd A's",
+    "alt_title": "Mahou Shoujo Lyrical Nanoha: The MOVIE 2nd A's",
+    "year": 2012,
+    "format": "MOVIE",
+    "notes": "Kaleido-subs is JPN BD Encode+OTL",
+    "comparison": "https://slow.pics/c/N8mnnFml",
+    "best_releases": [
+      {
+        "name": "Kaleido-subs",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Mahou Shoujo Lyrical Nanoha: The MOVIE 2nd A's Mini Picture Drama",
+    "alt_title": "",
+    "year": 2013,
+    "format": "SPECIAL",
+    "notes": "Kaleido-subs is JPN BD Encode+OTL",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "Kaleido-subs",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Magical Girl Raising Project",
     "alt_title": "Mahou Shoujo Ikusei Keikaku",
     "year": 2016,
@@ -27082,6 +27112,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "MOBILE SUIT GUNDAM UNICORN RE:0096",
+    "alt_title": "Kidou Senshi Gundam Unicorn RE: 0096",
+    "year": 2016,
+    "format": "TV",
+    "notes": "gcs8 is JPN BD Encode+CR. No signs track, no fonts, and not properly synced to the BD (though the original timing is bad to begin with, and there's no actual TS anyway). Also the first 2 minutes of episode 22 are unsubbed but it's a recap\nThe -ZR- release has subs desynced by 1 second in the second half of each episode so don't redeem that either\nMiraiAnime subs are CR with TS for episode titles and styled OP/ED TLs, the recap at the start of episode 22 is transcribed from the dub\n*Subs still don't look properly synced to the BD, also the ED TL is nonsense and should be removed",
+    "comparison": "https://slow.pics/c/2Q9jWvJ6",
+    "best_releases": [
+      {
+        "name": "JPN BD+MiraiAnime*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "gcs8 (Dual Audio)",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "Mobile Suit Gundam: The Witch from Mercury - PROLOGUE",
@@ -46905,7 +46955,7 @@
   },
   {
     "title": "Vermeil in Gold",
-    "alt_title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu",
+    "alt_title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu",
     "year": 2022,
     "format": "TV",
     "notes": "-ZR and TTGA are both JPN BD Remux+RaptoR\nBunny-Apocalypse is UCCUSS+RaptoR\nRaptoR subs are HIDIVE resampled, restyled, retimed, typeset and added OP/ED song styling",
