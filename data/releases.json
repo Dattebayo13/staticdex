@@ -7514,6 +7514,21 @@
     ]
   },
   {
+    "title": "Chained Soldier Season 2",
+    "alt_title": "Mato Seihei no Slave 2",
+    "year": 2026,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+Freehold (SubsPlus+ (HIDI with automated improvements) with OP/ED TLs and TS)\nWeb sources are utterly cooked, jsum would be a good alt\nEverything needs MPV Deband",
+    "comparison": "https://slow.pics/c/HOadm2qN",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Chainsaw Man",
     "alt_title": "",
     "year": 2022,
@@ -10857,6 +10872,26 @@
     ]
   },
   {
+    "title": "Dropkick on My Devil!!! X",
+    "alt_title": "Jashin-chan Dropkick X",
+    "year": 2022,
+    "format": "TV",
+    "notes": "SubsPlease is a CR WEB-DL\nEverything benefits from MPV Deband",
+    "comparison": "https://slow.pics/c/1roL56ZE",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SubsPlease",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Dropout Idol Fruit Tart",
     "alt_title": "Ochikobore Fruit Tart",
     "year": 2020,
@@ -11319,6 +11354,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Elf 17",
+    "alt_title": "",
+    "year": 1987,
+    "format": "OVA",
+    "notes": "Orphan is VHS Encode+Subs based on BOX with insert song translated and a lot more typesetting\nPlaceholder entry until somebody remuxes the BD, or an encode of it. Not suitable for actually watching yet!!!\n*The BD video is vastly different so it's likely that none of the TS will be viable, good luck",
+    "comparison": "https://slow.pics/c/pjvyob2p",
+    "best_releases": [
+      {
+        "name": "JPN BD+Orphan*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Orphan",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Elfen Lied",
@@ -17783,11 +17838,11 @@
     "alt_title": "Dumbbell Nan Kilo Moteru?",
     "year": 2019,
     "format": "TV",
-    "notes": "Spirale is JPN BD Encode+modified Astral",
-    "comparison": "https://slow.pics/c/zAAG3eGW",
+    "notes": "Animorphs is Spirale+Fansub based on DameDesuYo for E1-4, Astral for E5-12 with some TS from matheousse",
+    "comparison": "https://slow.pics/c/zAAG3eGW\nhttps://www.diffchecker.com/vvnlYOYU/",
     "best_releases": [
       {
-        "name": "Spirale (Dual Audio)",
+        "name": "Animorphs (Dual Audio)",
         "status": ""
       }
     ],
@@ -24015,6 +24070,26 @@
     "alt_releases": []
   },
   {
+    "title": "Love Through A Prism",
+    "alt_title": "Prism Rondo",
+    "year": 2026,
+    "format": "ONA",
+    "notes": "Trix is NF HDR AV1 WEB-DL+Restyled NF, has re-encoded audio (average AV1 group)\nVARYG is NF SDR WEB-DL\nNetflix quality is yet again cooked, the HDR AV1 stream is the least offensive but it's not good by any means and still falls apart badly in many scenes. It will get a BD one day right guys...right?",
+    "comparison": "https://slow.pics/c/jlRt6FIV",
+    "best_releases": [
+      {
+        "name": "Trix",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Love To-LIE-Angle",
     "alt_title": "Tachibanakan To Lie Angle",
     "year": 2018,
@@ -26964,6 +27039,26 @@
     ]
   },
   {
+    "title": "Gundam Build Fighters",
+    "alt_title": "",
+    "year": 2013,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+Restyled and retimed OZC with additional TS from sage\nMetal is naiyas+hchcsen",
+    "comparison": "https://slow.pics/c/ywkNhI2U\nhttps://www.diffchecker.com/P3Q5Qcst/\nhttps://www.diffchecker.com/QKjBzzSI/",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Metal (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Gundam: Reconguista in G",
     "alt_title": "Gundam: G no Reconguista",
     "year": 2014,
@@ -27112,6 +27207,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Mobile Suit Gundam UC",
+    "alt_title": "Kidou Senshi Gundam UC",
+    "year": 2010,
+    "format": "OVA",
+    "notes": "Coalgirls is JPN BD Encode+Modified Official\nThe JPN BDBOX contains animation improvements not present on any other source. Video quality is mostly the same as the JPN/ITA/THA BD, slightly worse in some scenes. None of the encodes are based on it\nYuki is restyled Coalgirls with improvements to the typesetting\nKagura would be a better alt",
+    "comparison": "https://slow.pics/c/gH0iQKWT\nhttps://slow.pics/c/7t5OqS26\nhttps://slow.pics/c/262VfGm6\nhttps://www.diffchecker.com/IuvVVA4I/",
+    "best_releases": [
+      {
+        "name": "JPN BDBOX+Yuki",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Coalgirls (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "MOBILE SUIT GUNDAM UNICORN RE:0096",
