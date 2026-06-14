@@ -11137,6 +11137,46 @@
     ]
   },
   {
+    "title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu Specials",
+    "alt_title": "",
+    "year": 2012,
+    "format": "SPECIAL",
+    "notes": "Headpatter is JPN BD Remux+Restyled Kaibrid-TMU\no7 is Yousei-raws+Kaibrid-TMU",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "Headpatter",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "o7",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu OVA",
+    "alt_title": "",
+    "year": 2013,
+    "format": "OVA",
+    "notes": "Headpatter is JPN BD Remux+Restyled WBDP and PGS\nWBDP is ReinForce+Slightly modified Hybrid-TMU",
+    "comparison": "https://www.diffchecker.com/9zS5locz/",
+    "best_releases": [
+      {
+        "name": "Headpatter",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "WBDP",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Eden of the East",
     "alt_title": "Higashi no Eden",
     "year": 2009,
@@ -25545,14 +25585,10 @@
     "alt_title": "",
     "year": 2011,
     "format": "TV",
-    "notes": "MATSU is RUELL-Raws+Commie, hchcsen is the same with dub",
-    "comparison": "",
+    "notes": "hchcsen is Kagura+Commie, AB version is outdated",
+    "comparison": "https://slow.pics/c/lm0jScE8",
     "best_releases": [],
     "alt_releases": [
-      {
-        "name": "MATSU",
-        "status": ""
-      },
       {
         "name": "hchcsen (Dual Audio)",
         "status": ""
@@ -26855,6 +26891,26 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam 0080: War in the Pocket",
+    "alt_title": "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou",
+    "year": 1989,
+    "format": "OVA",
+    "notes": "hchcsen is Beatrice+MTBB (Official timed, typeset, with minor editing)\nKawatare is a much better encode but kinda defeats the purpose of the alt slot when it's 5GB/episode, atp simply get store",
+    "comparison": "https://slow.pics/c/6yhpOjHp",
+    "best_releases": [
+      {
+        "name": "JPN BD+MTBB",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam 0083: Stardust Memory",
     "alt_title": "Kidou Senshi Gundam 0083: STARDUST MEMORY",
     "year": 1991,
@@ -27418,20 +27474,15 @@
     "alt_title": "",
     "year": 2025,
     "format": "TV",
-    "notes": "Headpatter is JPN BD Remux+washed\nwashed is CR WEB-DL+Modified CR\nThe JPN BD and CR are basically identical, the main difference is the presence of BD changes",
-    "comparison": "https://slow.pics/c/ie8j4Kgx\nhttps://www.diffchecker.com/14fqyT2f/\nhttps://www.diffchecker.com/VTIBH2Ds/\nhttps://www.diffchecker.com/ofYfYjaa/\nhttps://www.diffchecker.com/dfeO8pYy/\nhttps://www.diffchecker.com/66DR5RTQ/\nhttps://www.diffchecker.com/Kq5I7drc/\nhttps://www.diffchecker.com/Z5RceRWg/\nhttps://www.diffchecker.com/r95FY4iO/",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+washed (Modified CR)\nThe JPN BD and CR are basically identical, the main difference is the presence of BD changes",
+    "comparison": "https://slow.pics/c/WnPDJJ4Q\nhttps://slow.pics/c/ie8j4Kgx\nhttps://www.diffchecker.com/14fqyT2f/\nhttps://www.diffchecker.com/VTIBH2Ds/\nhttps://www.diffchecker.com/ofYfYjaa/\nhttps://www.diffchecker.com/dfeO8pYy/\nhttps://www.diffchecker.com/66DR5RTQ/\nhttps://www.diffchecker.com/Kq5I7drc/\nhttps://www.diffchecker.com/Z5RceRWg/\nhttps://www.diffchecker.com/r95FY4iO/",
     "best_releases": [
       {
-        "name": "Headpatter (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "washed",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Mononoke",
