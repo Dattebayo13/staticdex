@@ -7518,7 +7518,7 @@
     "alt_title": "Mato Seihei no Slave 2",
     "year": 2026,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+Freehold (SubsPlus+ (HIDI with automated improvements) with OP/ED TLs and TS)\nWeb sources are utterly cooked, jsum would be a good alt\nEverything needs MPV Deband",
+    "notes": "NAN0 is JPN BD Remux+Freehold (SubsPlus+ (HIDI with automated improvements) with OP/ED TLs and TS)\nHeadpatter is jsum+Freehold, HIDI, and BILI\nEverything needs MPV Deband",
     "comparison": "https://slow.pics/c/HOadm2qN",
     "best_releases": [
       {
@@ -7526,7 +7526,12 @@
         "status": "not_nyaa"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Chainsaw Man",
@@ -12948,7 +12953,7 @@
     "year": 2011,
     "format": "TV",
     "notes": "-ZR- is JPN BD Remux+AC and PGS\nAC is Yousei-raws+Hiryuu",
-    "comparison": "https://slow.pics/c/WH9726xo",
+    "comparison": "https://slow.pics/c/WH9726xo\nhttps://slow.pics/c/JpGoRqOx",
     "best_releases": [
       {
         "name": "-ZR- (Dual Audio)",
@@ -25343,7 +25348,7 @@
     "year": 2011,
     "format": "TV",
     "notes": "KH is sergey_krs+polished (Hatsuyuki with Kiryuu OP/ED and additional typesetting)",
-    "comparison": "https://slow.pics/c/w1IFEBxU",
+    "comparison": "https://slow.pics/c/w1IFEBxU\nhttps://slow.pics/c/PeGY7Ac3",
     "best_releases": [
       {
         "name": "JPN BD+?",
@@ -26891,16 +26896,36 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam: Char's Counterattack",
+    "alt_title": "Kidou Senshi Gundam: Gyakushuu no Char",
+    "year": 1988,
+    "format": "MOVIE",
+    "notes": "hydes is 2018 JPN BD Remux+Modified official and PGS. Has original laserdisc 2.0 audio alongside the 4.1 and 5.1 remixes/upmixes. AB version is outdated\nThe 2018 JPN BD is from the new 4k scan",
+    "comparison": "https://slow.pics/c/STbso9QE?image-position=bottom\nhttps://slow.pics/c/KIhSik5P?image-position=top&image-fit=none",
+    "best_releases": [
+      {
+        "name": "4K JPN BD+hydes",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hydes (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam 0080: War in the Pocket",
     "alt_title": "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou",
     "year": 1989,
     "format": "OVA",
-    "notes": "hchcsen is Beatrice+MTBB (Official timed, typeset, with minor editing)\nKawatare is a much better encode but kinda defeats the purpose of the alt slot when it's 5GB/episode, atp simply get store",
-    "comparison": "https://slow.pics/c/6yhpOjHp",
+    "notes": "hchcsen is JPN BD Remux+Modified MTBB (Restyled, updated terminology for consistency with the rest of the franchise, better OP/ED styling) and PGS\nhchcsen is also Beatrice+MTBB (Official timed, typeset, with minor editing)\nKawatare is a much better encode but kinda defeats the purpose of the alt slot when it's 5GB/episode, atp simply get store",
+    "comparison": "https://slow.pics/c/6yhpOjHp\nhttps://www.diffchecker.com/Q8Hm0nWx/",
     "best_releases": [
       {
-        "name": "JPN BD+MTBB",
-        "status": "unmuxed"
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26926,6 +26951,46 @@
     "alt_releases": [
       {
         "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mobile Suit Gundam F91",
+    "alt_title": "Kidou Senshi Gundam F91",
+    "year": 1991,
+    "format": "MOVIE",
+    "notes": "Kawatare is JPN BD Encode+hchcsen (OCR'd PGS styled and keyframe snapped). Although unfiltered, it's mostly transparent and crops out the windowboxing\nThe new scan (used on the 2019 JPN BD and 4K JPN BD, none of the encodes) is technically superior but has heavy DNR. There's an argument to be made for watching the original scan as an alternate viewing experience\nA remux of the 2019 JPN BD would be a good alt",
+    "comparison": "https://slow.pics/c/3P6q78cU\nhttps://slow.pics/c/Sxc7e6ae",
+    "best_releases": [
+      {
+        "name": "4K JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kawatare",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mobile Suit Victory Gundam",
+    "alt_title": "Kidou Senshi Victory Gundam",
+    "year": 1993,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\nEG is JPN BD Encode+Revised version of their DVD subs\nSwitches from 35mm to 16mm at episode 11\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/C0rnxh2K\nhttps://slow.pics/c/EnF0RtCG\nhttps://slow.pics/c/EjJrYe1R\nhttps://www.diffchecker.com/SbQNwSFd/",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "EG",
         "status": ""
       }
     ]
@@ -27071,6 +27136,26 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam UC",
+    "alt_title": "Kidou Senshi Gundam UC",
+    "year": 2010,
+    "format": "OVA",
+    "notes": "Coalgirls is JPN BD Encode+Modified Official\nThe JPN BDBOX contains animation improvements not present on any other source. Video quality is mostly the same as the JPN/ITA/THA BD, slightly worse in some scenes. None of the encodes are based on it\nYuki is restyled Coalgirls with improvements to the typesetting\nKagura would be a better alt",
+    "comparison": "https://slow.pics/c/gH0iQKWT\nhttps://slow.pics/c/7t5OqS26\nhttps://slow.pics/c/262VfGm6\nhttps://www.diffchecker.com/IuvVVA4I/",
+    "best_releases": [
+      {
+        "name": "JPN BDBOX+Yuki",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Coalgirls (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam AGE",
     "alt_title": "Kidou Senshi Gundam AGE",
     "year": 2011,
@@ -27190,6 +27275,26 @@
     ]
   },
   {
+    "title": "MOBILE SUIT GUNDAM UNICORN RE:0096",
+    "alt_title": "Kidou Senshi Gundam Unicorn RE: 0096",
+    "year": 2016,
+    "format": "TV",
+    "notes": "gcs8 is JPN BD Encode+CR. No signs track, no fonts, and not properly synced to the BD (though the original timing is bad to begin with, and there's no actual TS anyway). Also the first 2 minutes of episode 22 are unsubbed but it's a recap\nThe -ZR- release has subs desynced by 1 second in the second half of each episode so don't redeem that either\nMiraiAnime subs are CR with TS for episode titles and styled OP/ED TLs, the recap at the start of episode 22 is transcribed from the dub\n*Subs still don't look properly synced to the BD, also the ED TL is nonsense and should be removed",
+    "comparison": "https://slow.pics/c/2Q9jWvJ6",
+    "best_releases": [
+      {
+        "name": "JPN BD+MiraiAnime*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "gcs8 (Dual Audio)",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam: The Witch from Mercury",
     "alt_title": "Kidou Senshi Gundam: Suisei no Majo",
     "year": 2022,
@@ -27265,46 +27370,6 @@
     "alt_releases": []
   },
   {
-    "title": "Mobile Suit Gundam UC",
-    "alt_title": "Kidou Senshi Gundam UC",
-    "year": 2010,
-    "format": "OVA",
-    "notes": "Coalgirls is JPN BD Encode+Modified Official\nThe JPN BDBOX contains animation improvements not present on any other source. Video quality is mostly the same as the JPN/ITA/THA BD, slightly worse in some scenes. None of the encodes are based on it\nYuki is restyled Coalgirls with improvements to the typesetting\nKagura would be a better alt",
-    "comparison": "https://slow.pics/c/gH0iQKWT\nhttps://slow.pics/c/7t5OqS26\nhttps://slow.pics/c/262VfGm6\nhttps://www.diffchecker.com/IuvVVA4I/",
-    "best_releases": [
-      {
-        "name": "JPN BDBOX+Yuki",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Coalgirls (Dual Audio)",
-        "status": ""
-      }
-    ]
-  },
-  {
-    "title": "MOBILE SUIT GUNDAM UNICORN RE:0096",
-    "alt_title": "Kidou Senshi Gundam Unicorn RE: 0096",
-    "year": 2016,
-    "format": "TV",
-    "notes": "gcs8 is JPN BD Encode+CR. No signs track, no fonts, and not properly synced to the BD (though the original timing is bad to begin with, and there's no actual TS anyway). Also the first 2 minutes of episode 22 are unsubbed but it's a recap\nThe -ZR- release has subs desynced by 1 second in the second half of each episode so don't redeem that either\nMiraiAnime subs are CR with TS for episode titles and styled OP/ED TLs, the recap at the start of episode 22 is transcribed from the dub\n*Subs still don't look properly synced to the BD, also the ED TL is nonsense and should be removed",
-    "comparison": "https://slow.pics/c/2Q9jWvJ6",
-    "best_releases": [
-      {
-        "name": "JPN BD+MiraiAnime*",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "gcs8 (Dual Audio)",
-        "status": "broken"
-      }
-    ]
-  },
-  {
     "title": "Mobile Suit Gundam: The Witch from Mercury - PROLOGUE",
     "alt_title": "Kidou Senshi Gundam: Suisei no Majo - PROLOGUE",
     "year": 2022,
@@ -27320,26 +27385,6 @@
     "alt_releases": [
       {
         "name": "NOGRP (Dual Audio)",
-        "status": ""
-      }
-    ]
-  },
-  {
-    "title": "Mobile Suit Victory Gundam",
-    "alt_title": "Kidou Senshi Victory Gundam",
-    "year": 1993,
-    "format": "TV",
-    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\nEG is JPN BD Encode+Revised version of their DVD subs\nSwitches from 35mm to 16mm at episode 11\njsum would be a better alt",
-    "comparison": "https://slow.pics/c/C0rnxh2K\nhttps://slow.pics/c/EnF0RtCG\nhttps://slow.pics/c/EjJrYe1R\nhttps://www.diffchecker.com/SbQNwSFd/",
-    "best_releases": [
-      {
-        "name": "hchcsen",
-        "status": ""
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "EG",
         "status": ""
       }
     ]
@@ -27836,6 +27881,26 @@
       {
         "name": "YURASUKA",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Murder Princess",
+    "alt_title": "",
+    "year": 2007,
+    "format": "OVA",
+    "notes": "Kitsune is GER BD Encode+Tsundere, subs off by a frame in some episodes, and episode title TS is exclusive to the signs track for some reason (also massively desyned in episode 1)\nThe GER BD has the quicktime gamma bug but it's the only viable source, can be fixed with -6 gamma in mpv",
+    "comparison": "https://slow.pics/c/UriY7ch3\nhttps://www.diffchecker.com/w1sflMJm/",
+    "best_releases": [
+      {
+        "name": "GER BD+Tsundere",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kitsune (Dual Audio)",
+        "status": "broken"
       }
     ]
   },
@@ -48584,7 +48649,7 @@
     "year": 2022,
     "format": "TV",
     "notes": "Sekkon is JPN BD encode+EMBER subs",
-    "comparison": "https://slow.pics/c/csO9y051",
+    "comparison": "https://slow.pics/c/csO9y051\nhttps://slow.pics/c/tiCbXVQc",
     "best_releases": [
       {
         "name": "Sekkon",
