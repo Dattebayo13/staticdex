@@ -10613,20 +10613,15 @@
     "alt_title": "",
     "year": 1986,
     "format": "TV",
-    "notes": "SoM is color-corrected. You can read about the details here https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
-    "comparison": "https://slow.pics/c/QAEYdS3g",
+    "notes": "SoM is color corrected R2J/R1US Dragon Box DVD Encode+Heavily modified official\nSee the pdf links and their nyaa description for extensive detail",
+    "comparison": "https://slow.pics/c/ttnnmSKi\nhttps://slow.pics/c/QAEYdS3g\nhttps://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf\nhttps://jysze.github.io/SoM-DBZ-Merge/mergeproject/R1R2.pdf",
     "best_releases": [
       {
         "name": "SoM (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "iKaos (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Dragon Ball Z",
@@ -14324,12 +14319,12 @@
     "alt_title": "Gintama°",
     "year": 2015,
     "format": "TV",
-    "notes": "Wailyn is SOFCJ-Raws+Glue",
+    "notes": "Sylvar is JPN BD Remux+Wailyn\nWailyn is SOFCJ-Raws+Glue",
     "comparison": "https://slow.pics/c/CJwUHR8Q",
     "best_releases": [
       {
-        "name": "JPN BD+Glue",
-        "status": "unmuxed"
+        "name": "Sylvar",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -21955,38 +21950,40 @@
     "alt_title": "Kimi ni Todoke",
     "year": 2009,
     "format": "TV",
-    "notes": "Shimatta is Yousei-Raws+Golo (Eclipse), NoEffort is the same thing but restyled and with dub",
+    "notes": "Shimatta is Yousei-Raws+Golo (Eclipse)\nNoEffort is the same thing but restyled and with dub, their restyle caused 3 and 4 liners so only get this release if you're watching dubbed",
     "comparison": "",
     "best_releases": [
-      {
-        "name": "NoEffort (Dual Audio)",
-        "status": ""
-      },
       {
         "name": "Shimatta",
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "NoEffort (Dual Audio)",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "Kimi ni Todoke: From Me to You Season 2",
     "alt_title": "Kimi ni Todoke 2ND SEASON",
     "year": 2011,
     "format": "TV",
-    "notes": "Shimatta is Yousei-Raws+Golo (Eclipse), NoEffort is the same thing but restyled and with dub",
+    "notes": "Shimatta is Yousei-Raws+Golo (Eclipse for E0-9, m.3.3.w for E10-12)\nNoEffort is the same thing but restyled and with dub, their restyle caused 3 and 4 liners so only get this release if you're watching dubbed",
     "comparison": "",
     "best_releases": [
-      {
-        "name": "NoEffort (Dual Audio)",
-        "status": ""
-      },
       {
         "name": "Shimatta",
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "NoEffort (Dual Audio)",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "Kimi no Iru Machi OVA",
@@ -26856,6 +26853,26 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam I",
+    "alt_title": "Kidou Senshi Gundam I",
+    "year": 1981,
+    "format": "MOVIE",
+    "notes": "hydes-WPR is 2020 JPN BD+Modified GundamTheCompleteVersions v3 (Some edits reverted, switched rank names for consistency with other releases, some missing lines and commas added, few errors fixed, restyled, fully retimed). Uses the original stereo laserdisc audio\nGundamTheCompleteVersions subs are based on the updated 2011 translation which brings the terminology in line with the rest of the franchise\nThe 2020 JPN BD is from the new 4k scan",
+    "comparison": "https://slow.pics/c/qLx8o678\nhttps://slow.pics/c/8Ji4ZM6I",
+    "best_releases": [
+      {
+        "name": "4K FRA BD+hydes-WPR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hydes-WPR",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Zeta Gundam",
     "alt_title": "Kidou Senshi Z Gundam",
     "year": 1985,
@@ -27076,6 +27093,26 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam Wing: Endless Waltz",
+    "alt_title": "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu-hen",
+    "year": 1998,
+    "format": "MOVIE",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\nThe new scan (used on the 2026 JPN BD and 4K JPN BD) is much better but has heavy DNR\nThe 2026 JPN BD would be a better alt",
+    "comparison": "https://slow.pics/c/5XoFoThV",
+    "best_releases": [
+      {
+        "name": "4K JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Turn A Gundam",
     "alt_title": "∀ Gundam",
     "year": 1999,
@@ -27220,6 +27257,26 @@
     ]
   },
   {
+    "title": "Gundam Build Fighters Try",
+    "alt_title": "",
+    "year": 2014,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+\"Overhauled\" xPearse & nks\nxPearse & nks is nks with flac debloat and added dub for E1-13, JPN BD Encode+Modified CR for E14-25\nnks subs are sage for E1-2, not-sage for E3-13, both heavily retimed\nThe FRA BD contains BD changes not present on any other source, but they're extremely minor. There's only 7 changes across the entire season and it's mostly limited to the previews (see comp 2)",
+    "comparison": "https://slow.pics/c/tj2EjYZJ\nhttps://slow.pics/c/BK9gwESy\nhttps://www.diffchecker.com/3EIwye7I/\nhttps://www.diffchecker.com/Fb5JAgIb/\nhttps://www.diffchecker.com/GbKZUzI6/\nhttps://www.diffchecker.com/Gh5Gcho2/",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "xPearse & nks (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit GUNDAM Iron Blooded Orphans",
     "alt_title": "Kidou Senshi Gundam: Tekketsu no Orphans",
     "year": 2015,
@@ -27291,6 +27348,66 @@
       {
         "name": "gcs8 (Dual Audio)",
         "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "Gundam Build Divers",
+    "alt_title": "",
+    "year": 2018,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nKitsune is a CR WEB-DL, episode 25 doesn't have a dub\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/1nNVRW2e",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kitsune (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Gundam Build Divers Re:RISE",
+    "alt_title": "",
+    "year": 2019,
+    "format": "ONA",
+    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nErai-raws is a CR WEB-DL\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/ttakMy9b",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Gundam Build Divers Re:RISE 2nd Season",
+    "alt_title": "",
+    "year": 2020,
+    "format": "ONA",
+    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nErai-raws is a CR WEB-DL\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/b5zkf8Ou",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
       }
     ]
   },
@@ -31118,20 +31235,15 @@
     "alt_title": "",
     "year": 2010,
     "format": "TV",
-    "notes": "Koten_Gars is JPN BD Encode+Tsundere (Ryuumaru)\nThe source is cross-converted so ANK-Raws is the only watchable option, files need to be put in the toolnix expeditiously\n*Make sure you get the v2 for episode 10",
+    "notes": "Headpatter is ANK-Raws+Restyled and stock Tsundere (Ryuumaru) with a few fixes\nThe source is cross-converted so ANK-Raws is the only watchable option",
     "comparison": "https://slow.pics/c/NMOIAYD7?image-position=left&image-fit=none\nhttps://www.diffchecker.com/AwvMj87q/\nhttps://www.diffchecker.com/MKF4Ovap/\nhttps://www.diffchecker.com/9ipgZ5Zq/",
     "best_releases": [
       {
-        "name": "ANK-Raws+?*",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Koten_Gars",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Omoi, Omoware, Furi, Furare",
@@ -45224,12 +45336,12 @@
     "alt_title": "Tu Bian Yingxiong X",
     "year": null,
     "format": "ONA",
-    "notes": "Kitsune is a CR WEB-DL\nMPV Deband helps everything",
+    "notes": "Sylvar is JPN BD Remux+CR, subs sometimes overlap with the hardsubs\nKitsune is a CR WEB-DL\nThe JPN BD has hardsubbed moon runes for most signs\nMPV Deband helps everything",
     "comparison": "https://slow.pics/c/eLHoYo0D\nhttps://slow.pics/c/J558q6zi",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
