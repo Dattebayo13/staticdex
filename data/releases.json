@@ -1160,6 +1160,36 @@
     ]
   },
   {
+    "title": "Agent Aika",
+    "alt_title": "AIKa",
+    "year": 1997,
+    "format": "OVA",
+    "notes": "RASETSU is mottoj+Heavily modified Tsundere",
+    "comparison": "https://slow.pics/c/eowizElA\nhttps://www.diffchecker.com/BSq7UyfB/",
+    "best_releases": [
+      {
+        "name": "RASETSU (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "AIKa ZERO",
+    "alt_title": "",
+    "year": 2009,
+    "format": "OVA",
+    "notes": "Quetzal is JPN BD encode+FTV TL with Seto-Otaku TS",
+    "comparison": "https://slow.pics/c/xA6REMOB\nhttps://slow.pics/c/xBsICY8i",
+    "best_releases": [
+      {
+        "name": "Quetzal",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Aharen-san wa Hakarenai",
     "alt_title": "",
     "year": 2022,
@@ -1246,21 +1276,6 @@
         "status": ""
       }
     ]
-  },
-  {
-    "title": "AIKa ZERO",
-    "alt_title": "",
-    "year": 2009,
-    "format": "OVA",
-    "notes": "Quetzal is JPN BD encode+FTV TL with Seto-Otaku TS",
-    "comparison": "https://slow.pics/c/xA6REMOB\nhttps://slow.pics/c/xBsICY8i",
-    "best_releases": [
-      {
-        "name": "Quetzal",
-        "status": ""
-      }
-    ],
-    "alt_releases": []
   },
   {
     "title": "Aim for the Ace!",
@@ -2418,9 +2433,14 @@
     "alt_title": "",
     "year": 2012,
     "format": "TV",
-    "notes": "hchcsen is FFF with dual audio",
-    "comparison": "",
-    "best_releases": [],
+    "notes": "FFF is JPN BD Encode+Modified gg\nhchcsen is FFF with dub\nSnow-Raws would be a better alt",
+    "comparison": "https://slow.pics/c/9LJDJct7\nhttps://www.diffchecker.com/dvVwq7y8/",
+    "best_releases": [
+      {
+        "name": "JPN BD+FFF",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
         "name": "FFF",
@@ -6841,7 +6861,7 @@
     "year": 2022,
     "format": "TV",
     "notes": "Okay-Subs is JPN BD Encode+Commie with a different (basic but actually readable) OP, and additional editing in episode 9\nNTRX is Okay-Subs with dub and optional track that includes Commie OP",
-    "comparison": "https://slow.pics/c/kDIaSmDH",
+    "comparison": "https://slow.pics/c/kDIaSmDH\nhttps://www.diffchecker.com/h8EenqdW/",
     "best_releases": [
       {
         "name": "NTRX (Dual Audio)",
@@ -7498,12 +7518,12 @@
     "alt_title": "Mato Seihei no Slave",
     "year": 2024,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Freehold and AMZN\nFreehold is ReinForce+Modified Kakumei Subs with English text from SubsPlus+",
-    "comparison": "https://slow.pics/c/zt1aMbUE",
+    "notes": "Freehold is ReinForce+Modified Kakumei Subs with English text from SubsPlus+",
+    "comparison": "https://slow.pics/c/zt1aMbUE\nhttps://slow.pics/c/omzG97rT",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
-        "status": ""
+        "name": "H-Enc+Freehold",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
@@ -7529,7 +7549,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -18321,8 +18341,8 @@
     "alt_title": "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
     "year": 2024,
     "format": "TV",
-    "notes": "PMR JPN BD Remux+SubsPlus+ with fades added to some TS\nYURASUKA is JPN BD Encode+PMR",
-    "comparison": "https://slow.pics/c/sMMz0sIU\nhttps://slow.pics/c/wZ8m2Ix6",
+    "notes": "PMR JPN BD Remux+SubsPlus+ with fades added to some TS\nYURASUKA is JPN BD Encode+PMR v1, subs are desynced\nThe JPN BD has strong lowpassing in busy scenes but is also the only source with BD changes (see comp 2)",
+    "comparison": "https://slow.pics/c/QosUwQ3C\nhttps://slow.pics/c/fR9tIBpx",
     "best_releases": [
       {
         "name": "PMR",
@@ -18332,7 +18352,7 @@
     "alt_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -20837,7 +20857,7 @@
     "alt_title": "",
     "year": 2017,
     "format": "TV",
-    "notes": "B00BA is JPN BD Remux+(Yellow) PGS\nTTGA is USA BD Remux+(Yellow) PGS\njsum would be a better alt",
+    "notes": "B00BA is JPN BD Remux+(Yellow) PGS\nHeadpatter is jsum+(Yellow) PGS",
     "comparison": "https://slow.pics/c/6y6OVJwr",
     "best_releases": [
       {
@@ -20847,7 +20867,27 @@
     ],
     "alt_releases": [
       {
-        "name": "TTGA",
+        "name": "Headpatter",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Kabukibu!: Oogiri - Chiyokoreito Kassen",
+    "alt_title": "",
+    "year": 2017,
+    "format": "SPECIAL",
+    "notes": "B00BA is JPN BD Remux+(Yellow) PGS\nHeadpatter is jsum+(Yellow) PGS",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "B00BA",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter",
         "status": ""
       }
     ]
@@ -27133,6 +27173,26 @@
     ]
   },
   {
+    "title": "∀ Gundam I: Earth Light",
+    "alt_title": "Turn A Gundam I: Earth Light",
+    "year": 2002,
+    "format": "MOVIE",
+    "notes": "hchcsen is JPN BD Remux+OZC (Official) timed\nKulot is Kagura+AnimeRG (Retimed and restyled OZC), and restyled EG with OZC signs and songs",
+    "comparison": "https://slow.pics/c/okLwXCPg",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kulot",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam 00",
     "alt_title": "Kidou Senshi Gundam 00",
     "year": 2007,
@@ -27361,7 +27421,7 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -27381,7 +27441,7 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -27401,7 +27461,7 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -31240,7 +31300,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -45341,7 +45401,7 @@
     "best_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
