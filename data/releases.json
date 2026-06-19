@@ -7518,40 +7518,30 @@
     "alt_title": "Mato Seihei no Slave",
     "year": 2024,
     "format": "TV",
-    "notes": "Freehold is ReinForce+Modified Kakumei Subs with English text from SubsPlus+",
+    "notes": "Headpatter is H-Enc+Freehold (Modified Kakumei Subs with English text from SubsPlus+)",
     "comparison": "https://slow.pics/c/zt1aMbUE\nhttps://slow.pics/c/omzG97rT",
     "best_releases": [
       {
-        "name": "H-Enc+Freehold",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Freehold (Dual Audio)",
+        "name": "Headpatter (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Chained Soldier Season 2",
     "alt_title": "Mato Seihei no Slave 2",
     "year": 2026,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+Freehold (SubsPlus+ (HIDI with automated improvements) with OP/ED TLs and TS)\nHeadpatter is jsum+Freehold, HIDI, and BILI\nEverything needs MPV Deband",
-    "comparison": "https://slow.pics/c/HOadm2qN",
+    "notes": "Headpatter is H-Enc+Freehold (SubsPlus+ (HIDI with automated improvements) with OP/ED TLs and TS), HIDI, and BILI",
+    "comparison": "https://slow.pics/c/MPRz09ue\nhttps://slow.pics/c/HOadm2qN",
     "best_releases": [
-      {
-        "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Chainsaw Man",
@@ -14344,7 +14334,7 @@
     "best_releases": [
       {
         "name": "Sylvar",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -27033,6 +27023,21 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam 0083: The Afterglow Of Zeon",
+    "alt_title": "Kidou Senshi Gundam 0083: Zeon no Zankou",
+    "year": 1992,
+    "format": "MOVIE",
+    "notes": "hchcsen is JPN BD Remux+Guin (Official with basic TS) timed, slightly edited, improved typesetting\nNo other releases are using these subs so I guess QTS (10 bit version) would be a good alt\nLike Stardust Memory it's a dated scan that looks terrible",
+    "comparison": "https://slow.pics/c/AiuDNW1o\nhttps://www.diffchecker.com/8Vxz0yKU/\nhttps://www.diffchecker.com/2231TCLd/",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Mobile Suit Victory Gundam",
     "alt_title": "Kidou Senshi Victory Gundam",
     "year": 1993,
@@ -27188,7 +27193,7 @@
     "alt_releases": [
       {
         "name": "Kulot",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -27697,7 +27702,7 @@
     "year": 2025,
     "format": "TV",
     "notes": "YURASUKA is Delowpassed JPN BD Encode+washed (Modified CR)\nThe JPN BD and CR are basically identical, the main difference is the presence of BD changes",
-    "comparison": "https://slow.pics/c/WnPDJJ4Q\nhttps://slow.pics/c/ie8j4Kgx\nhttps://www.diffchecker.com/14fqyT2f/\nhttps://www.diffchecker.com/VTIBH2Ds/\nhttps://www.diffchecker.com/ofYfYjaa/\nhttps://www.diffchecker.com/dfeO8pYy/\nhttps://www.diffchecker.com/66DR5RTQ/\nhttps://www.diffchecker.com/Kq5I7drc/\nhttps://www.diffchecker.com/Z5RceRWg/\nhttps://www.diffchecker.com/r95FY4iO/",
+    "comparison": "https://slow.pics/c/UWAS9f5X\nhttps://www.diffchecker.com/14fqyT2f/\nhttps://www.diffchecker.com/VTIBH2Ds/\nhttps://www.diffchecker.com/ofYfYjaa/\nhttps://www.diffchecker.com/dfeO8pYy/\nhttps://www.diffchecker.com/66DR5RTQ/\nhttps://www.diffchecker.com/Kq5I7drc/\nhttps://www.diffchecker.com/Z5RceRWg/\nhttps://www.diffchecker.com/r95FY4iO/",
     "best_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
@@ -33598,12 +33603,12 @@
     "alt_title": "Izure Saikyou no Renkinjutsushi?",
     "year": 2025,
     "format": "TV",
-    "notes": "VARYG is a CR WEB-DL\nThe USA BD is poor as usual, CR is just too starved",
+    "notes": "Headpatter is USA BD Remux+CR\nVARYG is a CR WEB-DL\nThe USA BD is poor as usual, CR is just too starved",
     "comparison": "https://slow.pics/c/NOiPqlSm",
     "best_releases": [
       {
-        "name": "USA BD+CR",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -42597,18 +42602,18 @@
     "alt_title": "Mirai Nikki",
     "year": 2011,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+hchcsen and PGS\nhchcsen is sergey_krs+modified IB/FF/Kaorism subtitles\nSubs have various issues, see https://bin.theindex.moe/?deaa4479cf861697#EGZTRd4H3bXTHMSMm8iBU3LMrrRvKaVTofHbpgBNgMGK",
+    "notes": "Headpatter is sergey_krs+hchcsen (Modified IB/FF/Kaorism) with various fixes",
     "comparison": "https://slow.pics/c/r9F5QDcm",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
-        "status": "broken"
+        "name": "JPN BD+Headpatter",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "hchcsen (Dual Audio)",
-        "status": "broken"
+        "name": "Headpatter (Dual Audio)",
+        "status": ""
       }
     ]
   },
