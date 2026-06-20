@@ -4837,6 +4837,26 @@
     "alt_releases": []
   },
   {
+    "title": "Biaoren",
+    "alt_title": "",
+    "year": null,
+    "format": "ONA",
+    "notes": "MuGi is CHN BD Remux+PGS\nPi13 is CHN BD Encode+PGS and WeTV\nThe BD is lowpassed but massively better than the awful web sources",
+    "comparison": "https://slow.pics/c/NcIZoD4p",
+    "best_releases": [
+      {
+        "name": "MuGi",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Pi13",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Big Fish & Begonia",
     "alt_title": "Da Yu Hai Tang",
     "year": null,
@@ -16747,7 +16767,7 @@
     "year": 1984,
     "format": "TV",
     "notes": "PMR is JPN BD Remux+Daisuki (Official subs ripped and re-timed by anonymous at /m/) with mSubs songs\nThe OP/ED are poor upscales of the old master, ideally the NCs would be spliced in",
-    "comparison": "https://slow.pics/c/UQTt9muj\nhttps://slow.pics/c/iQId4JmD?image-fit=contain",
+    "comparison": "https://slow.pics/c/UQTt9muj\nhttps://slow.pics/c/iQId4JmD?image-fit=contain\nhttps://slow.pics/c/BCfHTNlv",
     "best_releases": [
       {
         "name": "PMR",
