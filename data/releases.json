@@ -660,6 +660,21 @@
     ]
   },
   {
+    "title": "A Playthrough of a Certain Dude's VRMMO Life",
+    "alt_title": "Toaru Ossan no VRMMO Katsudouki",
+    "year": 2023,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL\nThe JPN BD is heavily lowpassed, do not redeem\nBest watched with MPV Deband",
+    "comparison": "https://slow.pics/c/EjUAvLKG",
+    "best_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "A Returner's Magic Should Be Special",
     "alt_title": "Kikansha no Mahou wa Tokubetsu desu",
     "year": 2023,
@@ -1663,7 +1678,7 @@
   },
   {
     "title": "Alya Sometimes Hides Her Feelings in Russian",
-    "alt_title": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
+    "alt_title": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
     "year": 2024,
     "format": "TV",
     "notes": "NTRX is CR WEB-DL with BD audio+Chihiro BD subs and CR\nBoth BDs are heavily lowpassed",
@@ -25648,6 +25663,36 @@
     ]
   },
   {
+    "title": "Marriage of God & Soul Godannar!!",
+    "alt_title": "Shinkon Gattai Godannar",
+    "year": 2003,
+    "format": "TV",
+    "notes": "NOGRP is R1US DVD Encode+Restyled MiraiAnime (OCR'd PGS) with added signs and missing insert songs. The encode isn't good and the subs weren't properly synced but it's the only watchable option. Signs track is also VobSubs only :skull:\nThe upscale used on the BDs is absolutely atrocious",
+    "comparison": "https://slow.pics/c/dAa7XYzg",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "NOGRP (Dual Audio)",
+        "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "Marriage of God & Soul Godannar!! (2004)",
+    "alt_title": "Shinkon Gattai Godannar!! SECOND SEASON",
+    "year": 2004,
+    "format": "TV",
+    "notes": "NOGRP is R1US DVD Encode+Restyled MiraiAnime (OCR'd PGS) with added signs and missing insert songs. The encode isn't good and the subs weren't properly synced but it's the only watchable option. Signs track is also VobSubs only :skull:\nThe upscale used on the BDs is absolutely atrocious",
+    "comparison": "",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "NOGRP (Dual Audio)",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "MARS RED",
     "alt_title": "",
     "year": 2021,
@@ -26944,7 +26989,7 @@
   },
   {
     "title": "Mobile Suit Gundam ZZ",
-    "alt_title": "Kidou Senshi Gundam Double Zeta",
+    "alt_title": "Kidou Senshi Gundam ZZ",
     "year": 1986,
     "format": "TV",
     "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed, typeset, and tweaked\nZetaRebel is USA BD Encode+PGS and EG\nThe JPN BD has some detail loss from debanding but is still the best watchable source as the alternatives are starved and full of blocking",
@@ -27059,7 +27104,7 @@
   },
   {
     "title": "Mobile Suit Victory Gundam",
-    "alt_title": "Kidou Senshi Victory Gundam",
+    "alt_title": "Kidou Senshi V Gundam",
     "year": 1993,
     "format": "TV",
     "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\nEG is JPN BD Encode+Revised version of their DVD subs\nSwitches from 35mm to 16mm at episode 11\njsum would be a better alt",
@@ -35907,6 +35952,26 @@
     ]
   },
   {
+    "title": "Rock is a Lady’s Modesty",
+    "alt_title": "Rock wa Lady no Tashinami Deshite",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Chihiro is AMZN WEBRip+Fansub based on HIDI\nThe USA BD has a strong lowpass but it's the only viable option with how starved web sources are and the extreme lowpass on the JPN BD",
+    "comparison": "https://slow.pics/c/nabMaRDF\nhttps://www.diffchecker.com/LN0XCzoI/",
+    "best_releases": [
+      {
+        "name": "USA BD+Chihiro",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Chihiro",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Rokka -Braves of the Six Flowers-",
     "alt_title": "Rokka no Yuusha",
     "year": 2015,
@@ -39437,6 +39502,26 @@
     ]
   },
   {
+    "title": "Steamboy",
+    "alt_title": "",
+    "year": 2004,
+    "format": "MOVIE",
+    "notes": "Afro is JPN BD Encode+Modified official and haWks\nThe international master used on the GER, ITA, and AUS BDs has a different (cooler and duller) grade. Additionally the ITA and AUS BDs are based on a film scan which looks significantly worse given that this movie was a digital production. JPN appears to be the original version as it has proper highlights, no lineart tint, and matches the production videos",
+    "comparison": "https://slow.pics/c/tEpnxgjs\nhttps://slow.pics/c/vfum59lZ\nhttps://www.diffchecker.com/WaziOckl/\nhttps://www.diffchecker.com/vf0V7kEh/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Afro",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Afro (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Steins;Gate 0: 23β -Divide by Zero-",
     "alt_title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
     "year": 2015,
@@ -42622,12 +42707,12 @@
     "alt_title": "Mirai Nikki",
     "year": 2011,
     "format": "TV",
-    "notes": "Headpatter is sergey_krs+hchcsen (Modified IB/FF/Kaorism) with various fixes",
+    "notes": "BlackRose is JPN BD Remux+Headpatter and PGS\nHeadpatter is sergey_krs+hchcsen (Modified IB/FF/Kaorism) with various fixes",
     "comparison": "https://slow.pics/c/r9F5QDcm",
     "best_releases": [
       {
-        "name": "JPN BD+Headpatter",
-        "status": "unmuxed"
+        "name": "BlackRose (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -42642,18 +42727,18 @@
     "alt_title": "Mirai Nikki: Redial",
     "year": 2013,
     "format": "OVA",
-    "notes": "CRUCiBLE is JPN BD Remux+hchcsen and PGS\nhchcsen is sergey_krs+modified IB/FF/Kaorism subtitles\nSubs have various issues, see https://bin.theindex.moe/?deaa4479cf861697#EGZTRd4H3bXTHMSMm8iBU3LMrrRvKaVTofHbpgBNgMGK",
+    "notes": "BlackRose is JPN BD Remux+Headpatter and PGS\nHeadpatter is sergey_krs+hchcsen (Modified IB/FF/Kaorism) with various fixes",
     "comparison": "",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
-        "status": "broken"
+        "name": "BlackRose (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "hchcsen (Dual Audio)",
-        "status": "broken"
+        "name": "Headpatter (Dual Audio)",
+        "status": ""
       }
     ]
   },
@@ -47793,6 +47878,26 @@
     "alt_releases": [
       {
         "name": "FFF",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Wash It All Away",
+    "alt_title": "Kirei ni Shitemoraemasu ka.",
+    "year": 2026,
+    "format": "TV",
+    "notes": "VARYG is a CR WEB-DL\nBatch contains one (1) typo fix\nThe JPN BD has a slight lowpass but better compression than CR",
+    "comparison": "https://slow.pics/c/NXs0N2v0",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG",
         "status": ""
       }
     ]
