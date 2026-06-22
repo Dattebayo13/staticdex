@@ -2929,20 +2929,15 @@
     "alt_title": "Tensei Kizoku, Kantei Skill de Nariagaru",
     "year": 2024,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+CR\nSAi0NJi is ReinForce+CR",
-    "comparison": "https://slow.pics/c/7fANP9OT",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+CR",
+    "comparison": "https://slow.pics/c/WSzUe7Jf\nhttps://slow.pics/c/7fANP9OT",
     "best_releases": [
       {
-        "name": "-ZR-",
-        "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "SAi0NJi",
+        "name": "YURASUKA",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "As Miss Beelzebub Likes it.",
@@ -25668,7 +25663,7 @@
     "year": 2003,
     "format": "TV",
     "notes": "NOGRP is R1US DVD Encode+Restyled MiraiAnime (OCR'd PGS) with added signs and missing insert songs. The encode isn't good and the subs weren't properly synced but it's the only watchable option. Signs track is also VobSubs only :skull:\nThe upscale used on the BDs is absolutely atrocious",
-    "comparison": "https://slow.pics/c/dAa7XYzg",
+    "comparison": "https://slow.pics/c/D5bpxdf1",
     "best_releases": [],
     "alt_releases": [
       {
@@ -27243,6 +27238,26 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam Seed",
+    "alt_title": "Kidou Senshi Gundam SEED",
+    "year": 2002,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+sage (Modified official) with a timing and styling overhaul for E1-24, Crescent (Modified official) with additional TS and an even larger overhaul of the styling and timing for E25-50\nhchcsen is also QTS+sage for E1-24, crescent for E25-50. Subs are an older inferior version compared to the remux\nBoth releases are the HD remaster which provides much better quality and animation updates, however a lot of content is cropped during the 4:3 -> 16:9 reframing, and some rare scenes are badly upscaled\nEpisodes 14 and 26 are not present since they were not included in the HD remaster due to being recaps\nBoth releases contain the NYAV Post and Ocean Productions English dubs",
+    "comparison": "https://slow.pics/c/QbVwn7Az\nhttps://www.diffchecker.com/cMaLbYGQ/\nhttps://www.diffchecker.com/3ELeufUI/",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "∀ Gundam I: Earth Light",
     "alt_title": "Turn A Gundam I: Earth Light",
     "year": 2002,
@@ -27597,6 +27612,26 @@
     "alt_releases": [
       {
         "name": "Kaleido-subs (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mobile Suit Gundam Seed Destiny",
+    "alt_title": "Kidou Senshi Gundam SEED DESTINY",
+    "year": 2004,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+Lunamaria (Modified official) with some timing and styling tweaks\nhchcsen is also kewenyu+Lunamaria. Subs are an older inferior version compared to the remux\nBoth releases are the HD remaster which provides much better quality and animation updates, however a lot of content is cropped during the 4:3 -> 16:9 reframing, and some rare scenes are badly upscaled\nThe original episode 41 (Refrain, a recap) is not included and the final episode is split two parts based on the TV special \"The Chosen Future\"\nBoth releases contain the NYAV Post and Ocean Productions English dubs",
+    "comparison": "https://slow.pics/c/5r2lxGHT\nhttps://www.diffchecker.com/D4U7iXuo/",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
         "status": ""
       }
     ]
@@ -44999,12 +45034,12 @@
     "alt_title": "Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru",
     "year": 2025,
     "format": "ONA",
-    "notes": "Headpatter is H-Enc+CR\nH-Enc is a Delowpassed JPN BD Encode",
+    "notes": "Headpatter is H-Enc+CR with a fixed typo\nH-Enc is a Delowpassed JPN BD Encode",
     "comparison": "https://slow.pics/c/xFYKAbOS",
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": ""
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -46388,6 +46423,26 @@
     "alt_releases": [
       {
         "name": "ZeroBuild (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "TRIGUN STARGAZE",
+    "alt_title": "",
+    "year": 2026,
+    "format": "TV",
+    "notes": "VARYG is a CR WEB-DL, contains the fixed OP in episode 2\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/MJTLVO9Y",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
         "status": ""
       }
     ]
@@ -48609,8 +48664,8 @@
     "alt_title": "Tsue to Tsurugi no Wistoria",
     "year": 2024,
     "format": "TV",
-    "notes": "FLE is JPN BD Remux+CR typeset with OP/ED TL\nStarbez is Reza+FLE",
-    "comparison": "https://slow.pics/c/7Gl6d0yO\nhttps://slow.pics/c/XohFAAAw",
+    "notes": "FLE is JPN BD Remux+CR typeset with OP/ED TL\nStarbez is Reza+FLE\nH-Enc would make a better alt",
+    "comparison": "https://slow.pics/c/7Gl6d0yO\nhttps://slow.pics/c/XohFAAAw\nhttps://slow.pics/c/kyA820o2",
     "best_releases": [
       {
         "name": "FLE (Dual Audio)",
