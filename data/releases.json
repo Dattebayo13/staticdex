@@ -19427,20 +19427,15 @@
     "alt_title": "Hotarubi no Mori e",
     "year": 2011,
     "format": "MOVIE",
-    "notes": "MH93 is JPN BD Remux + Commie\nExp is sergey+Commie",
-    "comparison": "https://slow.pics/c/s9gH5Mvx",
+    "notes": "Bohemia is JPN BD Encode+Commie",
+    "comparison": "https://slow.pics/c/kxaYYmfr",
     "best_releases": [
       {
-        "name": "MH93",
+        "name": "Bohemia",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Exp",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Inu X Boku Secret Service",
@@ -23455,6 +23450,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Letter Bee",
+    "alt_title": "Tegami Bachi",
+    "year": 2009,
+    "format": "TV",
+    "notes": "hchcsen is Beatrice-Raws+Seemingly modified Commie sloppily shifted to BD with typesetting? Has many timing issues not present in the original Commie subs and misses their edits in the latter episodes\nThe store is full of banding but Beatrice is too destructive, zabr is much more demure\nThe FRA BD is the only BD release for this show, and it has French credits for the OP/ED, removes the episode title signs, and splices in the academy specials before the ED\n*zabr (on rutracker) removes the academy specials so those segments need to be removed from hchc, also needs to be properly synced to the BD and should check dialogue against Commie",
+    "comparison": "https://slow.pics/c/DdRliUpg\nhttps://www.diffchecker.com/jSnDbOIo/\nhttps://www.diffchecker.com/ZAXVyxUo/",
+    "best_releases": [
+      {
+        "name": "zabr+hchcsen/Commie*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "Level 1 Demon Lord and One Room Hero",
@@ -37209,6 +37224,26 @@
     ]
   },
   {
+    "title": "Selection Project",
+    "alt_title": "SELECTION PROJECT",
+    "year": 2021,
+    "format": "TV",
+    "notes": "B00BA is JPN BD Remux+WBDP\nWBDP is IrizaRaws+Modified Setsugen for E1-8, Modified CR for E9-13. As usual their changes are massively overstated and in reality they barely did anything",
+    "comparison": "https://slow.pics/c/GG0IKerw\nhttps://www.diffchecker.com/7GJaiZpR/\nhttps://www.diffchecker.com/XQancDao/",
+    "best_releases": [
+      {
+        "name": "B00BA",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "WBDP",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "selector destructed WIXOSS",
     "alt_title": "",
     "year": 2016,
@@ -45039,7 +45074,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -49428,17 +49463,17 @@
     "alt_title": "Your Forma",
     "year": 2025,
     "format": "TV",
-    "notes": "Chihiro is JPN BD Encode+Fansub based on YT\n*Episode 2 15:43 Farman -> Furman",
+    "notes": "Headpatter is JPN BD Remux+Chihiro (Fansub based on YT) with a typo fixed\nHeadpatter is also Chihiro with the same subs",
     "comparison": "https://slow.pics/c/FmO52qdf\nhttps://www.diffchecker.com/M6g33ksx/\nhttps://www.diffchecker.com/7ZHWvKJy/",
     "best_releases": [
       {
-        "name": "JPN BD+Chihiro*",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Chihiro",
+        "name": "Headpatter (Dual Audio)",
         "status": ""
       }
     ]
