@@ -3083,7 +3083,7 @@
   },
   {
     "title": "Asobi Asobase Specials",
-    "alt_title": "",
+    "alt_title": "Asobi Asobase Mini Anime",
     "year": 2018,
     "format": "SPECIAL",
     "notes": "Datte is Seicher + qwert/Astral (Modified)",
@@ -3744,7 +3744,7 @@
     "alt_releases": []
   },
   {
-    "title": "Baccano! Specials",
+    "title": "Baccano! Bangai-hen",
     "alt_title": "",
     "year": 2008,
     "format": "SPECIAL",
@@ -5359,7 +5359,7 @@
   },
   {
     "title": "Bladedance of Elementalers Specials",
-    "alt_title": "Seirei Tsukai no Blade Dance Specials",
+    "alt_title": "Seirei Tsukai no Blade Dance Mini OVAs",
     "year": 2014,
     "format": "SPECIAL",
     "notes": "Moxie is JPN BD Remux+Thighs \nThighs is JPN BD Encode+FFF\nStore needs MPV Deband, otherwise get the encode",
@@ -22823,7 +22823,7 @@
   },
   {
     "title": "Kumamiko -Girl Meets Bear Specials",
-    "alt_title": "Kuma Miko Specials",
+    "alt_title": "Kuma Miko OVAs",
     "year": 2016,
     "format": "SPECIAL",
     "notes": "Drag is Beatrice-Raws+Z4ST1N (1), USA BD PGS OCR'd, restyled, edited, typeset, Chyuu OP/ED (2)",
@@ -29985,8 +29985,8 @@
     ]
   },
   {
-    "title": "Natsume's Book of Friends Season 5 Specials",
-    "alt_title": "Natsume Yuujinchou Go Specials",
+    "title": "Natsume Yuujinchou Go Tokubetsu-hen",
+    "alt_title": "",
     "year": 2017,
     "format": "SPECIAL",
     "notes": "LostYears is sergey_krs+Commie",
@@ -30005,8 +30005,8 @@
     ]
   },
   {
-    "title": "Natsume's Book of Friends Season 6 Specials",
-    "alt_title": "Natsume Yuujinchou Roku Specials",
+    "title": "Natsume Yuujinchou Roku Tokubetsu-hen",
+    "alt_title": "",
     "year": 2017,
     "format": "SPECIAL",
     "notes": "-ZR- is JPN BD Remux+Commie\nLostYears is sergey_krs+Commie",
@@ -30682,7 +30682,7 @@
   },
   {
     "title": "No Game No Life Specials",
-    "alt_title": "",
+    "alt_title": "No Game No Life Mini OVAs",
     "year": 2014,
     "format": "SPECIAL",
     "notes": "Lulu is Kawaiika-Raws+SallySubs",
@@ -37489,10 +37489,10 @@
     ]
   },
   {
-    "title": "Senyuu. Specials",
+    "title": "Senyuu. OVAs",
     "alt_title": "",
     "year": 2013,
-    "format": "SPECIAL",
+    "format": "OVA",
     "notes": "",
     "comparison": "",
     "best_releases": [],
@@ -37799,7 +37799,7 @@
     ]
   },
   {
-    "title": "Shaman King Specials",
+    "title": "Shaman King Tokubetsu Soushuuhen",
     "alt_title": "",
     "year": 2002,
     "format": "SPECIAL",
@@ -42070,7 +42070,7 @@
   },
   {
     "title": "The Comic Artist and Assistants Specials",
-    "alt_title": "Mangaka-san to Assistant-san to THE ANIMATION: Mini OVA",
+    "alt_title": "Mangaka-san to Assistant-san to THE ANIMATION: Mini OVAs",
     "year": 2014,
     "format": "SPECIAL",
     "notes": "Mysteria is frost+modified Chihiro",
@@ -47418,7 +47418,7 @@
   },
   {
     "title": "Valkyrie Drive: Mermaid Specials",
-    "alt_title": "Valkyrie Drive: Mermaid Mini OVA",
+    "alt_title": "Valkyrie Drive: Mermaid Mini OVAs",
     "year": 2016,
     "format": "SPECIAL",
     "notes": "-ZR- is JPN BD Remux+Commie and PGS\nBrrrrrrr is Beatrice-Raws+Commie",
