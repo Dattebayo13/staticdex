@@ -4287,7 +4287,7 @@
     "alt_releases": []
   },
   {
-    "title": "Bakuman. 3rd Season Specials",
+    "title": "Bakuman. 3 Specials",
     "alt_title": "",
     "year": null,
     "format": "SPECIAL",
@@ -6669,7 +6669,7 @@
   },
   {
     "title": "Bunny Drop Specials",
-    "alt_title": "Usagi Drop Specials",
+    "alt_title": "Usagi Drop Mini Story",
     "year": 2011,
     "format": "SPECIAL",
     "notes": "Pog42 is Kawaiika-Raws+Zurako(Oyatsu)",
@@ -16198,11 +16198,11 @@
     "alt_title": "Hakumei to Mikochi",
     "year": 2018,
     "format": "TV",
-    "notes": "Mehul is JPN BD Remux+MTBB and PGS\nMehul is also Kawaiika-Raws+MTBB and PGS",
-    "comparison": "https://slow.pics/c/4ndHbfFO",
+    "notes": "MegaMTBB is JPN BD Encode+MTBB\nMehul is Kawaiika-Raws+MTBB and PGS\nMTBB is a fansub based on Wakanim, detailed info can be found on the gist",
+    "comparison": "https://slow.pics/c/X3WkoieS\nhttps://slow.pics/c/4ndHbfFO\nhttps://gist.githubusercontent.com/motbob/88b577fbd6dd1f02437c016b34e5cd43/raw/ef25949cb63d6fcf5ecc7e2d94e4737d72c5d328/HtM_MTBB_postmortem.txt",
     "best_releases": [
       {
-        "name": "Mehul (Dual Audio)",
+        "name": "MegaMTBB",
         "status": ""
       }
     ],
@@ -16218,11 +16218,11 @@
     "alt_title": "Hakumei to Mikochi: Neji to Bed to Irori to Bakuchi",
     "year": 2018,
     "format": "OVA",
-    "notes": "Mehul is JPN BD Remux+MTBB and PGS\nMehul is also Kawaiika-Raws+MTBB and PGS\nED signs were modified since these releases don't use creditless video",
+    "notes": "MegaMTBB is JPN BD Encode+MTBB\nMehul is Kawaiika-Raws+MTBB and PGS, ED signs were modified since this release don't use creditless video",
     "comparison": "",
     "best_releases": [
       {
-        "name": "Mehul (Dual Audio)",
+        "name": "MegaMTBB",
         "status": ""
       }
     ],
@@ -27293,6 +27293,26 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam Seed Special Edition",
+    "alt_title": "Kidou Senshi Gundam SEED Special Edition",
+    "year": 2004,
+    "format": "SPECIAL",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\nKitsune is JPN BD Encode+hchcsen \nSame as the main series, HD remaster with much better quality and BD changes",
+    "comparison": "https://slow.pics/c/FBpzKwR0",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kitsune",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam 00",
     "alt_title": "Kidou Senshi Gundam 00",
     "year": 2007,
@@ -27648,6 +27668,26 @@
       {
         "name": "hchcsen (Dual Audio)",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mobile Suit Gundam Seed Destiny Special Edition",
+    "alt_title": "Kidou Senshi Gundam SEED DESTINY Special Edition",
+    "year": 2006,
+    "format": "SPECIAL",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\nKitsune is JPN BD Encode+hchcsen \nSame as the main series, HD remaster with much better quality and BD changes",
+    "comparison": "https://slow.pics/c/oSaxA06t",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kitsune",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -37039,6 +37079,26 @@
     "alt_releases": [
       {
         "name": "Reza (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "SD GUNDAM WORLD HEROES",
+    "alt_title": "SD Gundam World Heroes",
+    "year": 2021,
+    "format": "ONA",
+    "notes": "hchcsen is JPN BD Remux+Restyled CR with some fixed timing\nErai-raws is a CR WEB-DL\nThe JPN BD has some heavily chroma lowpassed scenes but otherwise is significantly better than CR\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/UUqhhJjG",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
         "status": ""
       }
     ]
