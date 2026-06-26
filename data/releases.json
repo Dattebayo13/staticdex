@@ -5318,8 +5318,8 @@
     "alt_title": "",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "Cunnysseur is JPN BD Remux+Focks (Edited CR)\nErai-Raws and -KS- are CR WEB-DLs",
-    "comparison": "",
+    "notes": "Cunnysseur is JPN BD Remux+Focks\nFocks is IrizaRaws+CR with a few pointless edits",
+    "comparison": "https://slow.pics/c/Ygg1OTgv\nhttps://www.diffchecker.com/uNFgIxIk/",
     "best_releases": [
       {
         "name": "Cunnysseur",
@@ -5328,11 +5328,7 @@
     ],
     "alt_releases": [
       {
-        "name": "-KS-",
-        "status": ""
-      },
-      {
-        "name": "Erai-raws",
+        "name": "Focks",
         "status": ""
       }
     ]
@@ -27353,6 +27349,26 @@
     ]
   },
   {
+    "title": "SD Gundam Sangokuden Brave Battle Warriors",
+    "alt_title": "",
+    "year": 2010,
+    "format": "TV_SHORT",
+    "notes": "hchcsen is JPN BD Remux+Restyled OZC\nOZC is JPN BD Encode+Huzzah\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/zUvZ4q8Y",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "OZC (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam UC",
     "alt_title": "Kidou Senshi Gundam UC",
     "year": 2010,
@@ -27552,6 +27568,26 @@
     ]
   },
   {
+    "title": "SD Gundam World Sangoku Soketsuden",
+    "alt_title": "",
+    "year": 2019,
+    "format": "ONA",
+    "notes": "hchcsen is JPN BD Remux+Restyled CR\nErai-raws is a CR WEB-DL, first episode is the old CRF 15 stream\nThe JPN BD has a fair amount of lowpassed scenes but much better compression than CR\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/q17XLV1U",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Gundam Build Divers Re:RISE",
     "alt_title": "",
     "year": 2019,
@@ -27581,6 +27617,26 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "SD GUNDAM WORLD HEROES",
+    "alt_title": "SD Gundam World Heroes",
+    "year": 2021,
+    "format": "ONA",
+    "notes": "hchcsen is JPN BD Remux+Restyled CR with some fixed timing\nErai-raws is a CR WEB-DL\nThe JPN BD has some heavily chroma lowpassed scenes but otherwise is significantly better than CR\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/UUqhhJjG",
+    "best_releases": [
+      {
+        "name": "hchcsen",
         "status": ""
       }
     ],
@@ -37084,26 +37140,6 @@
     ]
   },
   {
-    "title": "SD GUNDAM WORLD HEROES",
-    "alt_title": "SD Gundam World Heroes",
-    "year": 2021,
-    "format": "ONA",
-    "notes": "hchcsen is JPN BD Remux+Restyled CR with some fixed timing\nErai-raws is a CR WEB-DL\nThe JPN BD has some heavily chroma lowpassed scenes but otherwise is significantly better than CR\njsum would be a better alt",
-    "comparison": "https://slow.pics/c/UUqhhJjG",
-    "best_releases": [
-      {
-        "name": "hchcsen",
-        "status": ""
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Erai-raws",
-        "status": ""
-      }
-    ]
-  },
-  {
     "title": "Secrets of the Silent Witch",
     "alt_title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
     "year": 2025,
@@ -42545,6 +42581,26 @@
     ]
   },
   {
+    "title": "Grisaia: Phantom Trigger THE ANIMATION - Stargazer",
+    "alt_title": "",
+    "year": 2020,
+    "format": "MOVIE",
+    "notes": "Moxie is JPN BD Remux+Chihiro\nChihiro is JPN BD Encode+OTL\nStore needs MPV Deband, otherwise get the encode\nLike the first 2 movies the JPN BD is lowpassed, however there's no GER BD this time to save it, unlucker!",
+    "comparison": "https://slow.pics/c/v0fqhBUE",
+    "best_releases": [
+      {
+        "name": "Moxie",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Chihiro",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "The Elusive Samurai",
     "alt_title": "Nige Jouzu no Wakagimi",
     "year": 2024,
@@ -46492,15 +46548,15 @@
     "alt_title": "TRIGUN",
     "year": 1998,
     "format": "TV",
-    "notes": "SneedFix is km+OCR'd VobSubs, and stock VobSubs",
-    "comparison": "https://slow.pics/c/z1Ba0mZH",
-    "best_releases": [],
-    "alt_releases": [
+    "notes": "SneedFix is km+OCR'd and stock VobSubs. Signs track is VobSubs only",
+    "comparison": "https://slow.pics/c/eZQBGAQ6",
+    "best_releases": [
       {
         "name": "SneedFix (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "TRIGUN STAMPEDE",
