@@ -37570,6 +37570,26 @@
     "alt_releases": []
   },
   {
+    "title": "Sentenced to Be a Hero",
+    "alt_title": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "year": 2026,
+    "format": "TV",
+    "notes": "PMR is JPN BD Remux+Restyled CR\nVARYG is a CR WEB-DL",
+    "comparison": "https://slow.pics/c/ogI1yump",
+    "best_releases": [
+      {
+        "name": "PMR (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Senyuu",
     "alt_title": "Senyuu.",
     "year": 2013,
@@ -42565,12 +42585,12 @@
     "alt_title": "",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "Chihiro is terrible JPN BD Encode\nStore NEEDS MPV deband",
+    "notes": "Moxie is GER BD Remux+Chihiro\nChihiro is JPN BD Encode+Fansub based on YT, the encode for Movie 1 is messed up and adds a lot of banding\nThe JPN BD has strong lowpassing and grain spammed on top, the GER BD doesn't have these issues however does have pretty strong banding so MPV Deband is a must",
     "comparison": "https://slow.pics/c/Boew5pGU\nhttps://slow.pics/c/EwJToI3R\nhttps://slow.pics/c/J9n8kGxm",
     "best_releases": [
       {
-        "name": "GER BD+Chihiro",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -42585,7 +42605,7 @@
     "alt_title": "",
     "year": 2020,
     "format": "MOVIE",
-    "notes": "Moxie is JPN BD Remux+Chihiro\nChihiro is JPN BD Encode+OTL\nStore needs MPV Deband, otherwise get the encode\nLike the first 2 movies the JPN BD is lowpassed, however there's no GER BD this time to save it, unlucker!",
+    "notes": "Moxie is JPN BD Remux+Chihiro\nChihiro is JPN BD Encode+Fansub based on YT\nStore needs MPV Deband, otherwise get the encode\nLike the first 2 movies the JPN BD is lowpassed, however there's no GER BD this time to save it, unlucker!",
     "comparison": "https://slow.pics/c/v0fqhBUE",
     "best_releases": [
       {
@@ -43572,6 +43592,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "THE IDOLM@STER MOVIE: Kagayaki no Mukougawa e!",
+    "alt_title": "",
+    "year": 2014,
+    "format": "MOVIE",
+    "notes": "GetItTwisted is VCB-Studio+Chibiki (OTL)",
+    "comparison": "https://slow.pics/c/kk2f6JXQ",
+    "best_releases": [
+      {
+        "name": "GetItTwisted",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "The Irregular at Magic High School",
@@ -50300,6 +50335,21 @@
     "best_releases": [
       {
         "name": "sam",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Zombie Land Saga: Yumeginga Paradise",
+    "alt_title": "Zombie Land Saga: Yume Ginga Paradise",
+    "year": 2025,
+    "format": "MOVIE",
+    "notes": "YURASUKA is JPN BD Encode+Modified CR (Restyled, removed unnecessary line breaks, fixed typos, minor edits, typesetting, song TLs)",
+    "comparison": "https://slow.pics/c/Uthilsjn\nhttps://slow.pics/c/Eb9MdWI6",
+    "best_releases": [
+      {
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
