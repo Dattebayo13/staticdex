@@ -9008,12 +9008,12 @@
     "alt_title": "",
     "year": 2014,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+FFF (Vivid) and PGS\ndeanzel is FFF with dub",
+    "notes": "FFF is JPN BD Encode+Modified Vivid\ndeanzel is FFF with dub\n-ZR- is the unmuxed best but has mistimed subs",
     "comparison": "https://slow.pics/c/9VE05h6z",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "JPN BD+FFF",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
@@ -14156,7 +14156,7 @@
     "alt_title": "Koukaku Kidoutai: SAC_2045",
     "year": 2020,
     "format": "ONA",
-    "notes": "Commie is JPN BD Encode+Fansub based on NF\nCommie is 50% audio so an opus sneedsplit would be valid",
+    "notes": "Commie is JPN BD Encode+Fansub based on NF\nHeadpatter is Commie with audio debloat",
     "comparison": "https://slow.pics/c/IEW2CXiO\nhttps://www.diffchecker.com/YR0AvQqp/",
     "best_releases": [
       {
@@ -14166,8 +14166,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Commie (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -14390,18 +14390,18 @@
     "alt_title": "Gintama.",
     "year": 2017,
     "format": "TV",
-    "notes": "CBT is SOFCJ-Raws+CR",
-    "comparison": "",
+    "notes": "Sylvar is JPN BD Remux+Modified CBT (Conservative TPP to fix scenebleeds, missing fonts added, outro scene in E12 subbed)\nCBT is SOFCJ-Raws+CR sloppily shifted to BD",
+    "comparison": "https://slow.pics/c/XZhUtrF7",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "Sylvar",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
         "name": "CBT",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -17715,6 +17715,26 @@
     "alt_releases": []
   },
   {
+    "title": "Holmes of Kyoto",
+    "alt_title": "Kyoto Teramachi Sanjou no Holmes",
+    "year": 2018,
+    "format": "TV",
+    "notes": "CDL is a CR WEB-DL\nThe USA BD is a lot better and has tons of BD changes, no other BDs shared (yet?)",
+    "comparison": "https://slow.pics/c/101woBbv",
+    "best_releases": [
+      {
+        "name": "USA BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "CDL",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Honey and Clover",
     "alt_title": "Hachimitsu to Clover",
     "year": 2005,
@@ -18337,18 +18357,18 @@
     "alt_title": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
     "year": 2025,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+Chihiro and CR, contains the first 4 episodes",
-    "comparison": "https://slow.pics/c/MhdYMLEo\nhttps://slow.pics/c/TKtt04zh",
+    "notes": "Headpatter is JPN BD Remux+Chihiro, has a broken sign at the end of E12 from a BD change\nYURASUKA is JPN BD Encode+Chihiro, has a crunch sound at the start of each episode on the dub from improperly trimmed intro",
+    "comparison": "https://slow.pics/c/OCbJs1Wf\nhttps://slow.pics/c/MhdYMLEo\nhttps://slow.pics/c/TKtt04zh",
     "best_releases": [
       {
-        "name": "PMR (Dual Audio)",
-        "status": "incomplete"
+        "name": "Headpatter (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
-        "name": "Chihiro",
-        "status": ""
+        "name": "YURASUKA (Dual Audio)",
+        "status": "broken"
       }
     ]
   },
@@ -23915,7 +23935,7 @@
   },
   {
     "title": "Lord of Mysteries",
-    "alt_title": "Guimi Zhi Zhu",
+    "alt_title": "Guimi Zhi Zhu: Xiaochou Pian",
     "year": null,
     "format": "ONA",
     "notes": "MoodiSubs is 1440P CR WEB-DL+Modified CR with improved TS\nThe 1440p stream is the best quality despite the lower bitrate. That said the quality is cooked regardless so you'll want to use MPV Deband and employ the distance strat.",
@@ -24191,7 +24211,7 @@
     "comparison": "https://slow.pics/c/jlRt6FIV",
     "best_releases": [
       {
-        "name": "Trix",
+        "name": "Trix (Dual Audio)",
         "status": ""
       }
     ],
@@ -25658,7 +25678,7 @@
     "alt_title": "",
     "year": 2011,
     "format": "TV",
-    "notes": "hchcsen is Kagura+Commie, AB version is outdated",
+    "notes": "hchcsen is Kagura+Commie",
     "comparison": "https://slow.pics/c/lm0jScE8",
     "best_releases": [],
     "alt_releases": [
@@ -27187,6 +27207,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Mobile Suit Gundam Wing: Operation Meteor",
+    "alt_title": "Shin Kidou Senki Gundam Wing: Operation Meteor - ODD＆EVEN NUMBERS",
+    "year": 1996,
+    "format": "OVA",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\njsum would be a good alt",
+    "comparison": "https://slow.pics/c/jBV7vfxM",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Mobile Suit Gundam: The 08th MS Team",
@@ -30334,12 +30369,16 @@
     "alt_title": "Evangelion Shin Movie: Jo",
     "year": 2007,
     "format": "MOVIE",
-    "notes": "QM is JPN BD Remux+Baws\nBaws is Beatrice-Raws+modified THORA and PGS",
+    "notes": "QM is JPN BD Remux+Baws\nhchcsen is JPN BD Remux+Baws and both PGS tracks. Contains both dubs. The ED KFX is broken on the signs track, arguably a feature with how obnoxious it was\nBaws is Beatrice-Raws+modified THORA and PGS",
     "comparison": "https://slow.pics/c/qbBiwsKW",
     "best_releases": [
       {
         "name": "QM",
         "status": ""
+      },
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -30354,12 +30393,16 @@
     "alt_title": "Evangelion Shin Movie: Ha",
     "year": 2009,
     "format": "MOVIE",
-    "notes": "QM is JPN BD Remux+Baws\nBaws is Beatrice-Raws+modified THORA and PGS",
+    "notes": "QM is JPN BD Remux+Baws\nhchcsen is JPN BD Remux+Baws with moon runes removed from the songs, and both PGS tracks. Contains both dubs\nBaws is Beatrice-Raws+modified THORA and PGS\nAll the BDs are quite poor, the JPN/TWN/HKG/USA (GKIDS) BD has a lot of badly debanded scenes with grain spammed everywhere harming detail, the ITA BD does the same but on steroids, the GBR/GER/USA (Funimation) BD has tons of banding everywhere, the FRA BD is also the same but on steroids plus gamma bugged and wrong matrix. What about the fabled RUS BD? It looks to just be a re-encode of the GBR BD for the intro sequence and a re-encode of the JPN BD for the rest of the movie, presumably to remove the hardsubs present in the intro\nThe 4K JPN BD has none of these issues and much better compression. The catch? The terrible upscale destroys the lineart. Unlucker",
     "comparison": "https://slow.pics/c/DPomNMhO\nhttps://slow.pics/c/ge0RagAy",
     "best_releases": [
       {
         "name": "QM",
         "status": ""
+      },
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -34352,8 +34395,8 @@
     "alt_title": "PSYCHO-PASS PROVIDENCE",
     "year": 2023,
     "format": "MOVIE",
-    "notes": "-ZR- (Remux) is JPN BD Remux+CR\n-ZR- (WEB) and SubsPlease are CR WEB-DLs\nCR is pretty bad so any BD encode should easily beat it",
-    "comparison": "https://slow.pics/c/STp0TO2C",
+    "notes": "-ZR- is JPN BD Remux+CR\nEggs is JPN BD Encode+CR\nThe JPN BD is lowpassed in busy scenes but is still the best option, the USA BD is an average CR release with the full gauntlet of issues, and the GER BD has the gamma bug and worse compression\nNAN0 has a remux with better dub audio but muh slots",
+    "comparison": "https://slow.pics/c/STp0TO2C\nhttps://slow.pics/c/jvnWgR92",
     "best_releases": [
       {
         "name": "-ZR- (Dual Audio)",
@@ -34362,12 +34405,8 @@
     ],
     "alt_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
+        "name": "Eggs (Dual Audio)",
         "status": "not_nyaa"
-      },
-      {
-        "name": "SubsPlease",
-        "status": ""
       }
     ]
   },
@@ -37116,6 +37155,21 @@
       {
         "name": "HorribleSubs",
         "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Scum of the Brave",
+    "alt_title": "Yuusha no Kuzu",
+    "year": 2026,
+    "format": "TV",
+    "notes": "VARYG is a CR WEB-DL\nThe usual suspects would be better alt once the BD finishes releasing",
+    "comparison": "https://slow.pics/c/UHp2LEnc",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "VARYG",
+        "status": ""
       }
     ]
   },
@@ -42570,15 +42624,20 @@
     "alt_title": "Grisaia no Rakuen",
     "year": 2015,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Coalgirls\nStore requires MPV deband, sergey_krs is the only viable encode but it's not muxed",
+    "notes": "Coalgirls is JPN BD Encode+Chihiro\nCRUCiBLE is the unmuxed best but subs weren't adapted to work on 16:9 video\nStore requires MPV deband, sergey_krs is the only viable encode but it's not muxed",
     "comparison": "https://slow.pics/c/PAq9lGhB",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
-        "status": ""
+        "name": "JPN BD+Coalgirls",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Coalgirls",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Grisaia: Phantom Trigger THE ANIMATION",
@@ -43603,7 +43662,7 @@
     "best_releases": [
       {
         "name": "GetItTwisted",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -46235,7 +46294,7 @@
     "alt_title": "",
     "year": 2013,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+YURI and PGS\nYURI is sergey_krs+FFF and Animekoi",
+    "notes": "CRUCiBLE is JPN BD Remux+YURI and PGS\nHeadpatter is sergey_krs+FFF and PGS",
     "comparison": "https://slow.pics/c/J5UTD5GE",
     "best_releases": [
       {
@@ -46245,8 +46304,8 @@
     ],
     "alt_releases": [
       {
-        "name": "YURI (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
