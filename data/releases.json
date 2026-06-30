@@ -9585,17 +9585,17 @@
     "alt_title": "Gimai Seikatsu",
     "year": 2024,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR and AMZN\nRaiN is WEB Encode+CR\nMaybe look into SSKN subs for a future release",
-    "comparison": "https://slow.pics/c/xvnS5G9r\nhttps://slow.pics/c/xGV6zIvL",
+    "notes": "Kawatare is JPN BD Encode+neoDESU and CR\nTasokare is JPN BD Encode+neoDESU and CR\nneoDESU subs are SSKN for E1-7, Restyled CR with SSKN OP/ED and TS for reoccurring signs for E8-12",
+    "comparison": "https://slow.pics/c/8ikSMeOF\nhttps://slow.pics/c/fD8ckkiK\nhttps://www.diffchecker.com/YHiDFklB/",
     "best_releases": [
       {
-        "name": "CRUCiBLE",
+        "name": "Kawatare",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "RaiN",
+        "name": "Tasokare",
         "status": ""
       }
     ]
@@ -27384,6 +27384,26 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam 00 Special Edition",
+    "alt_title": "Kidou Senshi Gundam 00 Special Edition",
+    "year": 2009,
+    "format": "OVA",
+    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nLike the main series the JPN BD has quite a strong lowpass, there's no FRA BD this time so the slightly tinted USA BD will have to suffice\nEverything benefits from MPV Deband",
+    "comparison": "https://slow.pics/c/yHihH2cl",
+    "best_releases": [
+      {
+        "name": "USA BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "SD Gundam Sangokuden Brave Battle Warriors",
     "alt_title": "",
     "year": 2010,
@@ -28644,6 +28664,21 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "My Bride is a Mermaid",
+    "alt_title": "Seto no Hanayome",
+    "year": 2007,
+    "format": "TV",
+    "notes": "jellyville is Zero-Raws+OCR'd VobSubs\nZero-Raws is the only watchable video, ReinForce is full of frame blending and Doki is sharpmaxxed",
+    "comparison": "https://slow.pics/c/1slN5ZK4",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "jellyville (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
@@ -31539,7 +31574,7 @@
     "best_releases": [
       {
         "name": "NAN0",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -34395,12 +34430,12 @@
     "alt_title": "PSYCHO-PASS PROVIDENCE",
     "year": 2023,
     "format": "MOVIE",
-    "notes": "-ZR- is JPN BD Remux+CR\nEggs is JPN BD Encode+CR\nThe JPN BD is lowpassed in busy scenes but is still the best option, the USA BD is an average CR release with the full gauntlet of issues, and the GER BD has the gamma bug and worse compression\nNAN0 has a remux with better dub audio but muh slots",
+    "notes": "NAN0 is JPN BD Remux+CR and PGS\nEggs is JPN BD Encode+CR and PGS\nThe JPN BD is lowpassed in busy scenes but is still the best option, the USA BD is an average CR release with the full gauntlet of issues, and the GER BD has the gamma bug and worse compression",
     "comparison": "https://slow.pics/c/STp0TO2C\nhttps://slow.pics/c/jvnWgR92",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "NAN0 (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -45620,6 +45655,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "The Yakuza's Guide to Babysitting",
+    "alt_title": "Kumichou Musume to Sewagakari",
+    "year": 2022,
+    "format": "TV",
+    "notes": "nekotan is VCB-Studio+DiabloTripleA (Restyled CR with improved TS and nonsense OP/ED TLs)\nStore lineart is terrible, drastic Chinese measures have been taken",
+    "comparison": "https://slow.pics/c/Bmb4eFL4",
+    "best_releases": [
+      {
+        "name": "nekotan (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "There's No Freaking Way I'll Be Your Lover! Unless…",
