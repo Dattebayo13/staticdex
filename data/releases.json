@@ -139,7 +139,7 @@
     "alt_title": "",
     "year": 2017,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+CR and PGS\nPrata is S3rNx+CR\nThe JPN BD is lowpassed but it's not very noticeable aside from text, the other BDs have worse issues (starved, gamma bug) and web sources are too starved and have censorship",
+    "notes": "NAN0 is JPN BD Remux+CR and PGS\nHeadpatter is S3rNx+CR and PGS\nThe JPN BD is lowpassed but it's not very noticeable aside from text, the other BDs have worse issues (starved, gamma bug) and web sources are too starved and have censorship",
     "comparison": "https://slow.pics/c/8YEWwunB\nhttps://slow.pics/c/vudshlLy",
     "best_releases": [
       {
@@ -149,7 +149,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Prata",
+        "name": "Headpatter (Dual Audio)",
         "status": ""
       }
     ]
@@ -14167,7 +14167,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -14395,7 +14395,7 @@
     "best_releases": [
       {
         "name": "Sylvar",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -20913,7 +20913,7 @@
     "best_releases": [
       {
         "name": "B00BA",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -26706,6 +26706,21 @@
     "alt_releases": []
   },
   {
+    "title": "Mistress Kanan is Devilishly Easy",
+    "alt_title": "Kanan-sama wa Akumade Choroi",
+    "year": 2026,
+    "format": "TV",
+    "notes": "SubsMix is a CR WEB-DL with TS adapted from the German track\nThe JPN BD has a strong lowpass\nStore goes well with MPV Deband",
+    "comparison": "https://slow.pics/c/Bo4UH5pd",
+    "best_releases": [
+      {
+        "name": "SubsMix",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Mitsuboshi Colors",
     "alt_title": "",
     "year": 2018,
@@ -30437,7 +30452,7 @@
       },
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -34441,7 +34456,7 @@
     "alt_releases": [
       {
         "name": "Eggs (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -37663,8 +37678,8 @@
     "alt_title": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "year": 2026,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+Restyled CR\nVARYG is a CR WEB-DL",
-    "comparison": "https://slow.pics/c/ogI1yump",
+    "notes": "PMR is JPN BD Remux+Restyled CR\nSylvar is H-Enc+CR",
+    "comparison": "https://slow.pics/c/65d6QCXM",
     "best_releases": [
       {
         "name": "PMR (Dual Audio)",
@@ -37673,8 +37688,8 @@
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
-        "status": ""
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -42684,7 +42699,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -46355,7 +46370,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
