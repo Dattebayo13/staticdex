@@ -4660,6 +4660,26 @@
     ]
   },
   {
+    "title": "BELLE",
+    "alt_title": "Ryuu to Sobakasu no Hime",
+    "year": 2021,
+    "format": "MOVIE",
+    "notes": "GSK_kun is naiyas+EMBER (OCR'd PGS) retimed, fixed OCR errors, added missing song lyrics\nThe 4K releases are significantly better than the 1080p options and are highly recommended, even if you have to tonemap\nThe 4K GER and 4K ITA BDs have artificially boosted brightness, and the latter has a completely broken encode. 4K JPN has a bunch of ugly grain spammed on top with bad compression. 4K GBR/FRA and 4K USA are quite competitive and trade blows for compression, but the former has blurred chroma",
+    "comparison": "https://slow.pics/c/3ZgfBSbz\nhttps://slow.pics/c/u4uSCYgG\nhttps://slow.pics/c/QFxL1dde",
+    "best_releases": [
+      {
+        "name": "4K USA BD+GSK_kun",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "GSK_kun",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Ben-To",
     "alt_title": "",
     "year": 2011,
@@ -18162,15 +18182,20 @@
     "alt_title": "Choujigen Game Neptune THE ANIMATION",
     "year": 2013,
     "format": "TV",
-    "notes": "YURI is Yousei-raws+Commie and Yuki (modified loligeddon (modified commie))",
-    "comparison": "",
+    "notes": "YURI is Yousei-raws+Commie and Yuki (modified loligeddon (modified commie))\nThe JPN BD is significantly blurred for the OP but much better than other sources for the rest",
+    "comparison": "https://slow.pics/c/2AGsMzp7\nhttps://www.diffchecker.com/8Gvx4Dia/\nhttps://www.diffchecker.com/XFamugpm/",
     "best_releases": [
+      {
+        "name": "JPN BD+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "YURI (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Hyperdimension Neptunia: The Eternity (True Ending) Promised",
@@ -18181,11 +18206,16 @@
     "comparison": "",
     "best_releases": [
       {
+        "name": "JPN BD+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
         "name": "YURI (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "I Can't Understand What My Husband Is Saying",
@@ -27439,6 +27469,26 @@
     ]
   },
   {
+    "title": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+    "alt_title": "Kidou Senshi Gundam 00: A wakening of the Trailblazer",
+    "year": 2010,
+    "format": "MOVIE",
+    "notes": "kuchikirukia is JPN BD Remux+Modified gSS and Doki\nkuchikirukia is also JPN BD Encode+Modified gSS and Doki\nkuchi's dialogue and song styling isn't great, and even worse on the signs track\nThe JPN BD has a very light lowpass and some rare scenes with extremely strong debanding (Comp 12 and 52) but is still better than the starved and tinted USA BD, and the 2018 JPN BD which is just a downscale of the 4K upscale\nThe upscale is serviceable enough that you may wish to watch the 4K JPN BD for the HDR, otherwise there's no use case",
+    "comparison": "https://slow.pics/c/8DqSpPyo\nhttps://slow.pics/c/rfLsdMIU",
+    "best_releases": [
+      {
+        "name": "kuchikirukia (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "kuchikirukia (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam UC",
     "alt_title": "Kidou Senshi Gundam UC",
     "year": 2010,
@@ -27983,7 +28033,7 @@
     "year": 2025,
     "format": "TV",
     "notes": "YURASUKA is Delowpassed JPN BD Encode+washed (Modified CR)\nThe JPN BD and CR are basically identical, the main difference is the presence of BD changes",
-    "comparison": "https://slow.pics/c/UWAS9f5X\nhttps://www.diffchecker.com/14fqyT2f/\nhttps://www.diffchecker.com/VTIBH2Ds/\nhttps://www.diffchecker.com/ofYfYjaa/\nhttps://www.diffchecker.com/dfeO8pYy/\nhttps://www.diffchecker.com/66DR5RTQ/\nhttps://www.diffchecker.com/Kq5I7drc/\nhttps://www.diffchecker.com/Z5RceRWg/\nhttps://www.diffchecker.com/r95FY4iO/",
+    "comparison": "https://slow.pics/c/ZrKLurLl\nhttps://www.diffchecker.com/14fqyT2f/\nhttps://www.diffchecker.com/VTIBH2Ds/\nhttps://www.diffchecker.com/ofYfYjaa/\nhttps://www.diffchecker.com/dfeO8pYy/\nhttps://www.diffchecker.com/66DR5RTQ/\nhttps://www.diffchecker.com/Kq5I7drc/\nhttps://www.diffchecker.com/Z5RceRWg/\nhttps://www.diffchecker.com/r95FY4iO/",
     "best_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
@@ -37205,6 +37255,26 @@
       {
         "name": "HorribleSubs",
         "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Scott Pilgrim Takes Off",
+    "alt_title": "",
+    "year": 2023,
+    "format": "ONA",
+    "notes": "NAN0 is USA BD Remux+NF and PGS, English audio only\nThe USA BD isn't good by any means, it's just the only BD and NF streams are utterly bitstarved\nThe audio on the USA BD is worse than NF, a replacement disc was issued but it only addressed the missing LFE channel",
+    "comparison": "https://slow.pics/c/Wt3vkNR3\nhttps://slow.pics/c/9ATzJ7hR",
+    "best_releases": [
+      {
+        "name": "USA BD+NF audio",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "NAN0",
+        "status": "broken"
       }
     ]
   },
@@ -47550,6 +47620,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Urusei Yatsura",
+    "alt_title": "",
+    "year": 1981,
+    "format": "TV",
+    "notes": "-ZR- is JPN BD Remux+NOGRP\nNOGRP is Kagura+LRE with \"Punctuation and spelling fixed by some random anon\"\nSubs apparently have various minor issues throughout",
+    "comparison": "https://slow.pics/c/1x4lIpEA",
+    "best_releases": [
+      {
+        "name": "-ZR-",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "NOGRP",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Urusei Yatsura (2022) Seasons 1 & 2",
