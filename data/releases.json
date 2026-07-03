@@ -3289,6 +3289,26 @@
     ]
   },
   {
+    "title": "Atelier Ryza: Ever Darkness & the Secret Hideout The Animation",
+    "alt_title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+    "year": 2023,
+    "format": "TV",
+    "notes": "GetItTwisted is JPN BD Remux+Restyled Mocha and CR\nMocha is CR WEBRip+Fansub based on CR\nThe usual suspects should be a better alt whenever they drop",
+    "comparison": "https://slow.pics/c/c9DNAr8b\nhttps://www.diffchecker.com/Qxj0wF7D/",
+    "best_releases": [
+      {
+        "name": "GetItTwisted",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Mocha",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "ATRI -My Dear Moments-",
     "alt_title": "ATRI: My Dear Moments",
     "year": 2024,
@@ -6624,6 +6644,26 @@
     ]
   },
   {
+    "title": "Bungo Stray Dogs WAN!",
+    "alt_title": "Bungou Stray Dogs Wan!",
+    "year": 2021,
+    "format": "TV_SHORT",
+    "notes": "NAN0 is JPN BD Remux+Impatience\nnekotan is VCB-Studio+Impatience",
+    "comparison": "https://slow.pics/c/co6gLhls\nhttps://www.diffchecker.com/Y3l7gUI3/",
+    "best_releases": [
+      {
+        "name": "NAN0",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "nekotan (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Bungo Stray Dogs 4",
     "alt_title": "Bungou Stray Dogs 4th Season",
     "year": 2023,
@@ -7708,18 +7748,18 @@
     "alt_title": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
     "year": 2024,
     "format": "TV",
-    "notes": "VARYG is a CR WEB-DL\nGrainy show so CR looks pretty bad in motion",
+    "notes": "triple117 is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nBoth releases have some missing signs/left in dialogue on the signs track\nGrainy show so CR looks pretty bad in motion",
     "comparison": "https://slow.pics/c/u9ub9P9H",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "triple117 (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
         "name": "VARYG (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -37486,6 +37526,21 @@
         "status": "unmuxed"
       }
     ],
+    "alt_releases": [
+      {
+        "name": "Holomux (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Sekirei: Pure Engagement",
+    "alt_title": "",
+    "year": 2010,
+    "format": "TV",
+    "notes": "Holomux is Salender-Raws+IK (Ryuuamru restyled and shifted to BD)\nThe JPN BD (which Salender is based on) was heavily debanded at the store resulting in significant detail loss. It's still the best watchable option since the USA BD has the gamma bug and very strong banding that MPV can't fully fix, the GER BD is interlaced, and encodes based on the USA BD such as VCB are just pants. Fixing gamma on playback isn't really viable either since the OP and ED aren't affected by it. The OP/ED are stuttery in Salender since the JPN BD has 24fps animation with 30fps credits, the USA BD avoids this by replace it with their own credits",
+    "comparison": "https://slow.pics/c/HxhOmche",
+    "best_releases": [],
     "alt_releases": [
       {
         "name": "Holomux (Dual Audio)",
