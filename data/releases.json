@@ -7540,6 +7540,26 @@
     ]
   },
   {
+    "title": "Cerberus",
+    "alt_title": "Seisen Cerberus: Ryuukoku no Fatalité",
+    "year": 2016,
+    "format": "TV",
+    "notes": "OxyMux is Moozzi2+CR. The release is utter cheeks, bad video, 40% audio, subs 3-5 frames out of sync, no fonts. Unfortunately it's the only watchable option since CR is completely destroyed\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/jJSoLRp9",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "OxyMux",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Chaika -The Coffin Princess-",
     "alt_title": "Hitsugi no Chaika",
     "year": 2014,
@@ -10709,15 +10729,20 @@
     "alt_title": "",
     "year": 1986,
     "format": "TV",
-    "notes": "SoM is color corrected R2J/R1US Dragon Box DVD Encode+Heavily modified official\nSee the pdf links and their nyaa description for extensive detail",
-    "comparison": "https://slow.pics/c/ttnnmSKi\nhttps://slow.pics/c/QAEYdS3g\nhttps://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf\nhttps://jysze.github.io/SoM-DBZ-Merge/mergeproject/R1R2.pdf",
+    "notes": "SoM is color corrected R2J/R1US Dragon Box DVD Encode+Heavily modified official\nAnime Time is a re-encode of SoM for the less fortunate that can't dedicate half a terabyte to the show\nSee the pdf links and their nyaa description for extensive detail",
+    "comparison": "https://slow.pics/c/ttnnmSKi\nhttps://slow.pics/c/QAEYdS3g\nhttps://slow.pics/c/rHhBxicF\nhttps://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf\nhttps://jysze.github.io/SoM-DBZ-Merge/mergeproject/R1R2.pdf",
     "best_releases": [
       {
         "name": "SoM (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Anime Time (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Dragon Ball Z",
@@ -13861,7 +13886,7 @@
     "comparison": "https://slow.pics/c/r22I2f3r\nhttps://slow.pics/c/7Cyb6jIx",
     "best_releases": [
       {
-        "name": "LazyRemux",
+        "name": "LazyRemux (Dual Audio)",
         "status": "broken"
       }
     ],
@@ -13877,7 +13902,7 @@
     "best_releases": [
       {
         "name": "LazyRemux (Dual Audio)",
-        "status": "not_nyaa"
+        "status": "broken"
       }
     ],
     "alt_releases": []
@@ -27533,12 +27558,12 @@
     "alt_title": "Kidou Senshi Gundam UC",
     "year": 2010,
     "format": "OVA",
-    "notes": "Coalgirls is JPN BD Encode+Modified Official\nThe JPN BDBOX contains animation improvements not present on any other source. Video quality is mostly the same as the JPN/ITA/THA BD, slightly worse in some scenes. None of the encodes are based on it\nYuki is restyled Coalgirls with improvements to the typesetting\nKagura would be a better alt",
+    "notes": "hchcsen is JPN BDBOX Remux+Modified Yuki (Retimed, TS further edited, formatting changes for consistency)\nCoalgirls is JPN BD Encode+Modified Official\nThe JPN BDBOX contains animation improvements not present on any other source. Video quality is mostly the same as the JPN/ITA/THA BD, slightly worse in some scenes. None of the encodes are based on it\nYuki is restyled Coalgirls with improvements to the typesetting\nKagura would be a better alt",
     "comparison": "https://slow.pics/c/gH0iQKWT\nhttps://slow.pics/c/7t5OqS26\nhttps://slow.pics/c/262VfGm6\nhttps://www.diffchecker.com/IuvVVA4I/",
     "best_releases": [
       {
-        "name": "JPN BDBOX+Yuki",
-        "status": "unmuxed"
+        "name": "hchcsen (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -46046,20 +46071,15 @@
     "alt_title": "",
     "year": 2012,
     "format": "OVA",
-    "notes": "Kitsune is JPN BD Encode+Doki and Pomf (OVA 1-2), Doutei (OVA 3-6)\nStore is cooked for these OVAs, VCB is squiggled as per but it's the lesser evil when the lineart is this bad",
+    "notes": "nekotan is VCB-Studio+Doki and Pomf (OVA 1-2), Doutei (OVA 3-6)\nStore is cooked for these OVAs, VCB is squiggled as per but it's the lesser evil when the lineart is this bad",
     "comparison": "https://slow.pics/c/X6hwrbkW\nhttps://slow.pics/c/XcjU2BVm\nhttps://www.diffchecker.com/b4Tf9Vjp/\nhttps://www.diffchecker.com/MAJZtrvT/",
     "best_releases": [
       {
-        "name": "VCB-Studio+?",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Kitsune",
+        "name": "nekotan",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "To Love Ru Darkness",
@@ -48154,7 +48174,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
