@@ -4496,6 +4496,21 @@
     "alt_releases": []
   },
   {
+    "title": "BARTENDER Glass of God",
+    "alt_title": "Bartender: Kami no Glass",
+    "year": 2024,
+    "format": "TV",
+    "notes": "VARYG is a CR WEB-DL\nThe USA BD is the only available BD and it's complete cheeks, strong lowpass, tons of ugly reza grain destroying detail and adding banding. CR is much cleaner, still has some banding though so MPV Deband is recommended",
+    "comparison": "https://slow.pics/c/lbEm5cXV",
+    "best_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "BATTERY the animation",
     "alt_title": "Battery",
     "year": 2016,
@@ -18412,12 +18427,12 @@
     "alt_title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
     "year": 2023,
     "format": "TV",
-    "notes": "Sylvar is H-Enc+Restyled CR",
+    "notes": "nekotan is JPN BD Remux+Sylvar\nSylvar is H-Enc+Restyled CR",
     "comparison": "https://slow.pics/c/TLKtrEDc\nhttps://slow.pics/c/8fhXHOAp",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "nekotan (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -22687,40 +22702,30 @@
     "alt_title": "Kono Subarashii Sekai ni Shukufuku wo!",
     "year": 2016,
     "format": "TV",
-    "notes": "fig is JPN BD Remux+Kametsu (Modified Chihiro) and FFF\nQuetzal is Kawaiika-Raws+Kametsu and FFF",
-    "comparison": "https://slow.pics/c/RCPtb5zJ\nhttps://slow.pics/c/gRuQKMa4\nhttps://slow.pics/c/xaYqahHT",
+    "notes": "YURASUKA is JPN BD Encode+Restyled Kametsu (Modified Chihiro), FFF, and PGS",
+    "comparison": "https://slow.pics/c/3eXehA8A\nhttps://slow.pics/c/RCPtb5zJ",
     "best_releases": [
       {
-        "name": "fig (Dual Audio)",
-        "status": "broken"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Quetzal (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
     "alt_title": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
     "year": 2016,
     "format": "OVA",
-    "notes": "fig is JPN BD Remux+Chihiro (Quetzal's edit) and FFF. Full subs and signs tracks are flipped so you'll need to switch tracks if watching subbed.\nQuetzal is Kawaiika-Raws+Modified Chihiro, FFF, and Mori",
+    "notes": "YURASUKA is JPN BD Encode+Restyled Quetzal (Modified Chihiro), FFF, and PGS",
     "comparison": "",
     "best_releases": [
       {
-        "name": "fig (Dual Audio)",
-        "status": "broken"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Quetzal (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
@@ -27563,7 +27568,7 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -37839,7 +37844,7 @@
     "alt_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -42824,12 +42829,12 @@
     "alt_title": "Grisaia no Rakuen",
     "year": 2015,
     "format": "TV",
-    "notes": "Coalgirls is JPN BD Encode+Chihiro\nCRUCiBLE is the unmuxed best but subs weren't adapted to work on 16:9 video\nStore requires MPV deband, sergey_krs is the only viable encode but it's not muxed",
+    "notes": "nekotan is JPN BD Remux+Coalgirls and PGS\nCoalgirls is JPN BD Encode+Chihiro\nStore requires MPV deband, sergey_krs is the only viable encode but it's not muxed",
     "comparison": "https://slow.pics/c/PAq9lGhB",
     "best_releases": [
       {
-        "name": "JPN BD+Coalgirls",
-        "status": "unmuxed"
+        "name": "nekotan",
+        "status": ""
       }
     ],
     "alt_releases": [
