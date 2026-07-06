@@ -3293,8 +3293,8 @@
     "alt_title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
     "year": 2023,
     "format": "TV",
-    "notes": "GetItTwisted is JPN BD Remux+Restyled Mocha and CR\nMocha is CR WEBRip+Fansub based on CR\nThe usual suspects should be a better alt whenever they drop",
-    "comparison": "https://slow.pics/c/c9DNAr8b\nhttps://www.diffchecker.com/Qxj0wF7D/",
+    "notes": "GetItTwisted is JPN BD Remux+Restyled Mocha (Fansub based on CR). and CR\nGetItTwisted is also jsum with the same subs",
+    "comparison": "https://slow.pics/c/MccB67BL\nhttps://www.diffchecker.com/Qxj0wF7D/",
     "best_releases": [
       {
         "name": "GetItTwisted",
@@ -3303,7 +3303,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Mocha",
+        "name": "GetItTwisted",
         "status": ""
       }
     ]
@@ -7783,12 +7783,12 @@
     "alt_title": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
     "year": 2024,
     "format": "TV",
-    "notes": "triple117 is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nBoth releases have some missing signs/left in dialogue on the signs track\nGrainy show so CR looks pretty bad in motion",
+    "notes": "triple117 is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nVARYG has some missing signs/left in dialogue on the signs track\nGrainy show so CR looks pretty bad in motion",
     "comparison": "https://slow.pics/c/u9ub9P9H",
     "best_releases": [
       {
         "name": "triple117 (Dual Audio)",
-        "status": "broken"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -14979,6 +14979,26 @@
     "alt_releases": []
   },
   {
+    "title": "Go For It, Nakamura-kun!!",
+    "alt_title": "Ganbare! Nakamura-kun!!",
+    "year": 2026,
+    "format": "ONA",
+    "notes": "VARYG is a CR WEB-DL\nGrainy show so the usual suspects will probably be better than CR",
+    "comparison": "https://slow.pics/c/ZjumrXZT",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "GOBLIN SLAYER",
     "alt_title": "Goblin Slayer",
     "year": 2018,
@@ -17211,6 +17231,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Hero Without a Class: Who Even Needs Skills?!",
+    "alt_title": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
+    "year": 2025,
+    "format": "ONA",
+    "notes": "SubsPlus+ is ADN WEB-DL+HIDI with automated improvements\nThe JPN BD has a slight lowpass but is massively better than web sources\nA BD encode from the usual suspects would be a better alt",
+    "comparison": "https://slow.pics/c/FBdXKCrT",
+    "best_releases": [
+      {
+        "name": "JPN BD+SubsPlus+",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SubsPlus+",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Heroic Age",
@@ -35256,12 +35296,12 @@
     "alt_title": "",
     "year": 2024,
     "format": "TV",
-    "notes": "MuGi is H-Enc+CR",
-    "comparison": "https://slow.pics/c/2GVfthB3\nhttps://slow.pics/c/dNHXaD3V",
+    "notes": "ZeroBuild is JPN BD Encode+Restyled CR with some minor retiming on episodes 4 and 9\nMuGi is H-Enc+CR",
+    "comparison": "https://slow.pics/c/S4cf5QF0",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "ZeroBuild (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -43153,19 +43193,15 @@
     "alt_title": "Grisaia no Kajitsu",
     "year": 2014,
     "format": "TV",
-    "notes": "VULCAN is JPN BD Remux+PGS\nWinneon is sergey_krs+TLWiki",
+    "notes": "nekotan is JPN BD Remux+Chihiro\nWinneon is sergey_krs+TLWiki",
     "comparison": "https://slow.pics/c/zk3RYfoO",
     "best_releases": [
       {
-        "name": "VULCAN",
+        "name": "nekotan",
         "status": ""
       }
     ],
     "alt_releases": [
-      {
-        "name": "VULCAN",
-        "status": ""
-      },
       {
         "name": "Winneon",
         "status": ""
@@ -48422,12 +48458,12 @@
     "alt_title": "Kirei ni Shitemoraemasu ka.",
     "year": 2026,
     "format": "TV",
-    "notes": "VARYG is a CR WEB-DL\nBatch contains one (1) typo fix\nThe JPN BD has a slight lowpass but better compression than CR",
+    "notes": "12GaugeShotgun is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nBatch contains one (1) typo fix\nThe JPN BD has a slight lowpass but better compression than CR",
     "comparison": "https://slow.pics/c/NXs0N2v0",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "12GaugeShotgun",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
