@@ -9103,22 +9103,18 @@
     "alt_title": "",
     "year": 2014,
     "format": "TV",
-    "notes": "FFF is JPN BD Encode+Modified Vivid\ndeanzel is FFF with dub\n-ZR- is the unmuxed best but has mistimed subs",
-    "comparison": "https://slow.pics/c/9VE05h6z",
+    "notes": "BlackRose is JPN BD Remux+FFF (Vivid) with various fixes (See rentry), and PGS\nHeadpatter is FFF+BlackRose",
+    "comparison": "https://slow.pics/c/9VE05h6z\nhttps://rentry.co/dfrag-blackrose",
     "best_releases": [
       {
-        "name": "JPN BD+FFF",
-        "status": "unmuxed"
+        "name": "BlackRose (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "FFF",
-        "status": ""
-      },
-      {
-        "name": "deanzel (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -22171,40 +22167,38 @@
     "alt_title": "Kimi ni Todoke",
     "year": 2009,
     "format": "TV",
-    "notes": "Shimatta is Yousei-Raws+Golo (Eclipse)\nNoEffort is the same thing but restyled and with dub, their restyle caused 3 and 4 liners so only get this release if you're watching dubbed",
+    "notes": "Shimatta is Yousei-Raws+Golo (Eclipse)\nnekotan is Yousei-Raws+Restyled Golo with a few TL notes removed",
     "comparison": "",
     "best_releases": [
       {
         "name": "Shimatta",
         "status": ""
+      },
+      {
+        "name": "nekotan (Dual Audio)",
+        "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "NoEffort (Dual Audio)",
-        "status": "broken"
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Kimi ni Todoke: From Me to You Season 2",
     "alt_title": "Kimi ni Todoke 2ND SEASON",
     "year": 2011,
     "format": "TV",
-    "notes": "Shimatta is Yousei-Raws+Golo (Eclipse for E0-9, m.3.3.w for E10-12)\nNoEffort is the same thing but restyled and with dub, their restyle caused 3 and 4 liners so only get this release if you're watching dubbed",
+    "notes": "Shimatta is Yousei-Raws+Golo (Eclipse for E0-9, m.3.3.w for E10-12)\nnekotan is Yousei-Raws+Restyled Golo",
     "comparison": "",
     "best_releases": [
       {
         "name": "Shimatta",
         "status": ""
+      },
+      {
+        "name": "nekotan (Dual Audio)",
+        "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "NoEffort (Dual Audio)",
-        "status": "broken"
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Kimi no Iru Machi OVA",
@@ -26356,6 +26350,26 @@
     ]
   },
   {
+    "title": "Metal Skin Panic MADOX-01",
+    "alt_title": "",
+    "year": 1987,
+    "format": "OVA",
+    "notes": "MrManager is 2022 Unrestored USA BD Remux+PGS\nMrManager is also 2022 Restored USA BD Remux+PGS\nThe restored version is a mixed bag, it has some animation corrections, a subjectively nicer color grade and slightly more detail in dark areas, but is cropped and has stronger DNR resulting in significant ghosting, particularly in the darker areas, as well as artifacts from more aggressive film cleanup",
+    "comparison": "https://slow.pics/c/MiHfcp9o\nhttps://slow.pics/c/hdPFF4kP",
+    "best_releases": [
+      {
+        "name": "MrManager (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "MrManager (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Metallic Rouge",
     "alt_title": "",
     "year": 2024,
@@ -27423,7 +27437,7 @@
     "alt_title": "∀ Gundam",
     "year": 1999,
     "format": "TV",
-    "notes": "hchcsen is JPN BD Remux+Official (Combination of OCR'd PGS and YT) timed and typeset with some styling from Sadame no Fansub\nEG is JPN BD Encode+Revised version of their DVD subs\nEpisode 16 is an SD upscale, can be skipped since it's just a recap\nKagura would be a better alt",
+    "notes": "hchcsen is JPN BD Remux+Official (Combination of OCR'd PGS and YT) timed and typeset with some styling from Sadame no Fansub\nnekotan is Kagura+hchcsen\nEpisode 16 is an SD upscale, can be skipped since it's just a recap",
     "comparison": "https://slow.pics/c/u7vrKCXW\nhttps://www.diffchecker.com/4wosqNTv/",
     "best_releases": [
       {
@@ -27433,7 +27447,7 @@
     ],
     "alt_releases": [
       {
-        "name": "EG",
+        "name": "nekotan",
         "status": ""
       }
     ]
@@ -41915,17 +41929,17 @@
     "alt_title": "Tensei Shitara Slime Datta Ken 3rd Season",
     "year": 2024,
     "format": "TV",
-    "notes": "Asakura is VCB-Studio+modified CR\n-ZR-/NAN0 is the unmuxed best however uses old web subs\nBeatrice-Raws would be a better alt",
+    "notes": "uba is JPN BD Remux+Asakura with various fixes and PGS\nnekotan is Beatrice-Raws+uba",
     "comparison": "https://slow.pics/c/4WYj6hIz\nhttps://slow.pics/c/1j1eG0kZ",
     "best_releases": [
       {
-        "name": "JPN BD+Asakura (BD)",
-        "status": "unmuxed"
+        "name": "uba (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Asakura",
+        "name": "nekotan (Dual Audio)",
         "status": ""
       }
     ]
