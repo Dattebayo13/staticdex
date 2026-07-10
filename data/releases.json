@@ -9652,6 +9652,26 @@
     ]
   },
   {
+    "title": "Day Break Illusion",
+    "alt_title": "Genei wo Kakeru Taiyou",
+    "year": 2013,
+    "format": "TV",
+    "notes": "Final8 is JPN BD Encode+Underwater (Fansub based on CR) shifted to BD\nVCB-Studio would be a better alt\nThe store requires MPV deband",
+    "comparison": "https://slow.pics/c/KWYMkB8L\nhttps://slow.pics/c/4KOOvUZM\nhttps://www.diffchecker.com/cO393ZE7/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Final8",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Final8",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "DAYS",
     "alt_title": "",
     "year": 2016,
@@ -12531,6 +12551,50 @@
     ]
   },
   {
+    "title": "Fate/strange Fake -Whispers of Dawn-",
+    "alt_title": "Fate/strange Fake: Whispers of Dawn",
+    "year": 2023,
+    "format": "SPECIAL",
+    "notes": "PMR is JPN BD Remux+Kaleido-subs\nKaleido-subs is CR WEBRip+OTL\nLostYears is Kaleido-subs with dub",
+    "comparison": "https://slow.pics/c/2rcuzcYl",
+    "best_releases": [
+      {
+        "name": "PMR (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kaleido-subs",
+        "status": ""
+      },
+      {
+        "name": "LostYears (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Fate/strange Fake",
+    "alt_title": "",
+    "year": 2026,
+    "format": "TV",
+    "notes": "PMR is JPN BD Remux+Kaleido-subs\nKaleido-subs is CR WEBRip+OTL, episode 12 is a CR WEB-DL\nThe JPN BD is significantly better than CR but has the usual Aniplex lowpassed scenes\nH-Enc would be a better alt, or just wait for Kaleido's BD release",
+    "comparison": "https://slow.pics/c/0q74Hqnl\nhttps://slow.pics/c/PCMz46Wu",
+    "best_releases": [
+      {
+        "name": "PMR (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kaleido-subs (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Fena: Pirate Princess",
     "alt_title": "Kaizoku Oujo",
     "year": 2021,
@@ -14566,15 +14630,20 @@
     "alt_title": "Gintama: THE FINAL",
     "year": 2021,
     "format": "MOVIE",
-    "notes": "P9 is SOFCJ + USBD subs OCR'ed, retimed, typesetted, and added song tl",
-    "comparison": "",
+    "notes": "P9 is SOFCJ-Raws+OCR'd PGS timed, typeset, with added song TL\n*The USA BD has some hardsubbed TS so make sure to account for that\nThe JPN and USA BDs are quite similar overall, with JPN having the edge for compression, but with it being Aniplex there are many scenes with strong lowpassing where USA looks much better. The 4K JPN BD is just a terrible upscale",
+    "comparison": "https://slow.pics/c/Qg6hVWKE",
     "best_releases": [
+      {
+        "name": "USA BD+P9*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "P9 (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Gintama - The Movie",
@@ -26868,7 +26937,7 @@
     "comparison": "https://slow.pics/c/Bo4UH5pd",
     "best_releases": [
       {
-        "name": "SubsMix",
+        "name": "SubsMix (Dual Audio)",
         "status": ""
       }
     ],
@@ -40440,6 +40509,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Suna no Bara: Yuki no Mokushiroku",
+    "alt_title": "",
+    "year": 1993,
+    "format": "OVA",
+    "notes": "NOGRP is JPN BD Remux+A-FanRips, subs weren't modified for 16:9 video so they're stretched and expand into the pillarboxing\nThe BD is a drastic upgrade from previous releases, the usual suspects will be a good alt when they drop",
+    "comparison": "https://slow.pics/c/eYmAbT62",
+    "best_releases": [
+      {
+        "name": "NOGRP",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Sunday Without God",
