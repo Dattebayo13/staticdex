@@ -25455,7 +25455,7 @@
     "year": 2001,
     "format": "TV",
     "notes": "polished is QTS+Modified zx (Official)\n*Has some cringe weeb edits that should be reverted",
-    "comparison": "https://slow.pics/c/CU33jrDk\nhttps://www.diffchecker.com/PjPHWWz6/",
+    "comparison": "https://slow.pics/c/CU33jrDk\nhttps://slow.pics/c/akSnnk10\nhttps://www.diffchecker.com/PjPHWWz6/",
     "best_releases": [
       {
         "name": "sergey_krs+polished*",
@@ -25578,6 +25578,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Majestic Prince",
+    "alt_title": "Ginga Kikoutai Majestic Prince",
+    "year": 2013,
+    "format": "TV",
+    "notes": "-ZR- is JPN BD Remux+NotSoMajestic-CommieSubs and PGS, missing fonts for the OP and ED\nhchcsen is ReinForce+NotSoMajestic-CommieSubs\nNotSoMajestic-CommieSubs is Commie shifted to BD with restyled OP/ED and added KFX",
+    "comparison": "https://slow.pics/c/8sEdRLOL",
+    "best_releases": [
+      {
+        "name": "-ZR- (Dual Audio)",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Majo Demo Steady",
@@ -31932,19 +31952,24 @@
     "alt_title": "",
     "year": 1999,
     "format": "TV",
-    "notes": "Episodes 1-206: \nA&C is R2J DVD Encode+Modified leorio (adjusted timing, added OP/ED and title card styling)\n\nEpisodes 207-421: \nA&C is old FUNI JPN WEBRip with ED 14/15 restored from HDTV caps and R2J video used for recap scenes+modified CR\n\nEpisodes 422-452: \nF-R is CR ENG WEB-DL\n\nA more up to date WIP version of this can be found on the sheet. Site update soon ?",
+    "notes": "tldr order\nBest: All of A&C -> F-R until 578 -> -ZR-\nAlt: All of A&C -> all of F-R\n\nEpisodes 1-206: \nA&C is R2J DVD Encode+Modified leorio (adjusted timing, added OP/ED and title card styling)\n\nEpisodes 207-452: \nA&C is old FUNI JPN WEBRip+modified CR. ED 14 and 15 were restored from HDTV caps and recap scenes were replaced by R2J DVD video. OP12 is an NCOP from the BD.\n\nEpisodes 453-458: \nA&C is ABEMA, AMZN, and VideoMarket WEBRip+modified CR. SD recaps replaced by R2J DVD video, and HD recaps by their own encodes. OP12 is an NCOP from the BD.\nProduction switches to VFR at 453 but old 24fps OP is used through 458. CR JPN stays at 24fps and is a stuttery mess, CR ENG/FUNI update to 30fps at 471 and revert back at 575, AMZN updates to 30fps at 454 (but now the OP is wrong), reverts for 457-458 (OP right again, episode wrong except flashbacks), and back again at 459 (new OP)\n\nEpisodes 459-470: \nF-R is AMZN WEBRip+CR. Missing a signs track for the dub\nAMZN was re-encoded to fix bad deinterlacing, the cure is arguably worse than the disease but they at least handle the VFR\n\nEpisodes 471-574:\nFR is CR ENG WEBRip+CR\nOnly the OP is re-encoded to fix bad aliasing, but again the cure is worse than the disease. Make sure to get the separate v3 for episodes 487 and 490. Episode 517 is sourced from the BD. Episode 529 is randomly 24fps on most web sources so it's very stuttery (Old FUNI seems fine, at least the dub stream)\n\nEpisodes 575-578: \nF-R is JPN BD Encode+CR\n\nEpisodes 579-628:\n-ZR- is JPN BD Remux+CR\nF-R is JPN BD Encode+HatSubs (579-586), CR, and Yibis\nJPN BD has terrible chroma again, but still beats web sources due to much better compression and FPS issues\nWeb sources have the wrong FPS for most of the season (24 instead of 30fps) resulting in extreme stutter. CR ENG/FUNI correct it at 601, CR JPN at 619, AMZN never\n\nA more up to date WIP version of this can be found on the sheet. Site update soon ?",
     "comparison": "https://slow.pics/c/zasmmwQJ\nhttps://slow.pics/c/2LAAl0we\nhttps://slow.pics/c/2PJjiVTZ\nhttps://slow.pics/c/EP61HARh\nhttps://slow.pics/c/QxEP25k6\nhttps://slow.pics/c/ryX0TXan\nhttps://slow.pics/c/ywLODO1b\nhttps://slow.pics/c/XeOUUmDy\nhttps://slow.pics/c/vM7HX2sv\nhttps://slow.pics/c/k6ZaB9PA\nhttps://slow.pics/c/4pZLPDul",
     "best_releases": [
       {
+        "name": "-ZR- (Dual Audio)",
+        "status": "not_nyaa"
+      },
+      {
         "name": "A&C (Dual Audio)",
         "status": ""
-      },
+      }
+    ],
+    "alt_releases": [
       {
         "name": "F-R (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "One Piece: Stampede",
@@ -42967,7 +42992,7 @@
     "alt_title": "Grisaia no Rakuen",
     "year": 2015,
     "format": "TV",
-    "notes": "nekotan is JPN BD Remux+Coalgirls and PGS\nCoalgirls is JPN BD Encode+Chihiro\nStore requires MPV deband, sergey_krs is the only viable encode but it's not muxed",
+    "notes": "nekotan is JPN BD Remux+Coalgirls and PGS\nnekotan is also sergey_krs+Coalgirls (Chihiro)\nStore requires MPV deband, otherwise get the encode",
     "comparison": "https://slow.pics/c/PAq9lGhB",
     "best_releases": [
       {
@@ -42977,7 +43002,27 @@
     ],
     "alt_releases": [
       {
-        "name": "Coalgirls",
+        "name": "nekotan",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Eden of Grisaia: Grisaia no Tokuten",
+    "alt_title": "Grisaia no Rakuen: Grisaia no Tokuten",
+    "year": 2015,
+    "format": "SPECIAL",
+    "notes": "nekotan is JPN BD Remux+Coalgirls\nnekotan is also sergey_krs+Coalgirls\nStore requires MPV deband, otherwise get the encode",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "nekotan",
         "status": ""
       }
     ]
@@ -43291,7 +43336,7 @@
     "alt_title": "Grisaia no Kajitsu",
     "year": 2014,
     "format": "TV",
-    "notes": "nekotan is JPN BD Remux+Chihiro\nWinneon is sergey_krs+TLWiki",
+    "notes": "nekotan is JPN BD Remux+Chihiro\nnekotan is also sergey_krs+Chihiro\nStore requires MPV deband, otherwise get the encode",
     "comparison": "https://slow.pics/c/zk3RYfoO",
     "best_releases": [
       {
@@ -43301,7 +43346,27 @@
     ],
     "alt_releases": [
       {
-        "name": "Winneon",
+        "name": "nekotan",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Fruit of Grisaia: Grisaia no Tokuten",
+    "alt_title": "Grisaia no Kajitsu: Grisaia no Tokuten",
+    "year": 2015,
+    "format": "SPECIAL",
+    "notes": "nekotan is JPN BD Remux+Chihiro\nnekotan is also sergey_krs+Chihiro\nStore requires MPV deband, otherwise get the encode",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "nekotan",
         "status": ""
       }
     ]
@@ -45384,7 +45449,7 @@
     "alt_title": "Hikaru ga Shinda Natsu",
     "year": 2025,
     "format": "TV",
-    "notes": "Headpatter is JPN BD Remux+NF\nRandomBytes is JPN BD Encode+NF",
+    "notes": "Headpatter is JPN BD Remux+NF\nRandomBytes is broken (episode 4 is a dupe of episode 3), there's a repack up if somebody wants to crosspost that",
     "comparison": "https://slow.pics/c/JUxd0uXO\nhttps://slow.pics/c/XVeh0p2V",
     "best_releases": [
       {
@@ -45392,12 +45457,7 @@
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "RandomBytes (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "The Tale of The Princess Kaguya",
@@ -46603,12 +46663,12 @@
     "alt_title": "",
     "year": 2009,
     "format": "TV",
-    "notes": "MC is philosophy-raws+modified Shiro (BSS)",
+    "notes": "nekotan is JPN BD Remux+MC with a sign in episode 7 shifted by a frame\nMC is philosophy-raws+modified Shiro (BSS)",
     "comparison": "https://slow.pics/c/EAtP2aSi\nhttps://slow.pics/c/CxA1ca0Z",
     "best_releases": [
       {
-        "name": "JPN BD+MC",
-        "status": "unmuxed"
+        "name": "nekotan (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -48397,12 +48457,12 @@
     "alt_title": "Ano Natsu de Matteru",
     "year": 2012,
     "format": "TV",
-    "notes": "Lulu is Salender-Raws+Commie and Chihiro",
+    "notes": "nekotan is JPN BD Remux+Lulu\nLulu is Salender-Raws+Commie and Chihiro",
     "comparison": "https://slow.pics/c/Q2fVZth4\nhttps://slow.pics/c/Upw3l96E",
     "best_releases": [
       {
-        "name": "JPN BD+Lulu",
-        "status": "unmuxed"
+        "name": "nekotan (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -48417,11 +48477,15 @@
     "alt_title": "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteru.",
     "year": 2014,
     "format": "OVA",
-    "notes": "Lulu is Salendar-Raws+Commie",
+    "notes": "nekotan is JPN BD Remux+Lulu\nLulu is Beatrice-Raws-Raws+Commie and FFFaku",
     "comparison": "",
     "best_releases": [
       {
         "name": "Lulu (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "nekotan (Dual Audio)",
         "status": ""
       }
     ],
