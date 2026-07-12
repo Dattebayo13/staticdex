@@ -1677,6 +1677,26 @@
     ]
   },
   {
+    "title": "ALL YOU NEED IS KILL",
+    "alt_title": "",
+    "year": 2026,
+    "format": "MOVIE",
+    "notes": "BLURANiUM is USA BD Remux+PGS and OCR'd PGS\nATELiER is USA BD Encode+OCR'd PGS",
+    "comparison": "https://slow.pics/c/kmVDizbt\nhttps://slow.pics/c/N4AydQfT",
+    "best_releases": [
+      {
+        "name": "BLURANiUM (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ATELiER (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Alya Sometimes Hides Her Feelings in Russian",
     "alt_title": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
     "year": 2024,
@@ -17742,6 +17762,26 @@
     "alt_releases": []
   },
   {
+    "title": "Higurashi: When They Cry - SOTSU",
+    "alt_title": "Higurashi no Naku Koro ni Sotsu",
+    "year": 2021,
+    "format": "TV",
+    "notes": "Bunny-Apocalypse is ReinForce+Nii-sama (FUNI timed, typeset, OP/ED TLs, some cringe weeb edits). Has at least one instance of broken TS (mistimed and overlapping with dialogue, which is an issue from the original Nii-sama release)\nVCB-Studio would be a better alt\n*Revert the bad edits and check for more broken TS, simply",
+    "comparison": "https://slow.pics/c/J02K3pQv\nhttps://www.diffchecker.com/HZqKD2CC/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Modified Nii-sama*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Bunny-Apocalypse (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Himouto! Umaru-chan",
     "alt_title": "",
     "year": 2015,
@@ -26210,6 +26250,21 @@
     ]
   },
   {
+    "title": "Mazinger Edition Z: The Impact!",
+    "alt_title": "Shin Mazinger Shougeki! Z-hen",
+    "year": 2009,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+OCR'd and stock PGS\nThere's basically nothing else that exists for this, a USA BD Remux would make a good alt at half the size",
+    "comparison": "https://slow.pics/c/8JP8zYKR",
+    "best_releases": [
+      {
+        "name": "NAN0",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Mazinger Z: INFINITY",
     "alt_title": "",
     "year": 2018,
@@ -32615,6 +32670,26 @@
     "alt_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "【OSHI NO KO】Season 3",
+    "alt_title": "[Oshi no Ko] 3rd Season",
+    "year": 2026,
+    "format": "TV",
+    "notes": "Sylvar is JPN BD Remux+Restyled CrappySubs\nCrappySubs is RaiN WEBRip+CR with improved typesetting and song TLs\nThe JPN BD has significantly better compression than CR (and as such RaiN, though that does have the benefit of being dehaloed). Still benefits from MPV Deband though",
+    "comparison": "https://slow.pics/c/pYHGURsw",
+    "best_releases": [
+      {
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "CrappySubs",
         "status": ""
       }
     ]
@@ -40540,12 +40615,12 @@
     "alt_title": "",
     "year": 1993,
     "format": "OVA",
-    "notes": "NOGRP is JPN BD Remux+A-FanRips, subs weren't modified for 16:9 video so they're stretched and expand into the pillarboxing\nThe BD is a drastic upgrade from previous releases, the usual suspects will be a good alt when they drop",
+    "notes": "Headpatter is JPN BD Remux+Restyled A-FanRips modified for 16:9 video with title adjusted and overlapping dialogue fixed\nThe BD is a drastic upgrade from previous releases, the usual suspects will be a good alt when they drop",
     "comparison": "https://slow.pics/c/eYmAbT62",
     "best_releases": [
       {
-        "name": "NOGRP",
-        "status": "broken"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -45449,7 +45524,7 @@
     "alt_title": "Hikaru ga Shinda Natsu",
     "year": 2025,
     "format": "TV",
-    "notes": "Headpatter is JPN BD Remux+NF\nRandomBytes is broken (episode 4 is a dupe of episode 3), there's a repack up if somebody wants to crosspost that",
+    "notes": "Headpatter is JPN BD Remux+NF\nRandomBytes is JPN BD Encode+NF",
     "comparison": "https://slow.pics/c/JUxd0uXO\nhttps://slow.pics/c/XVeh0p2V",
     "best_releases": [
       {
@@ -45457,7 +45532,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "RandomBytes (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "The Tale of The Princess Kaguya",
@@ -46663,7 +46743,7 @@
     "alt_title": "",
     "year": 2009,
     "format": "TV",
-    "notes": "nekotan is JPN BD Remux+MC with a sign in episode 7 shifted by a frame\nMC is philosophy-raws+modified Shiro (BSS)",
+    "notes": "nekotan is JPN BD Remux+MC (modified Shiro (BSS)) with a sign in episode 7 shifted by a frame\nnekotan is also philosophy-raws+MC with a scenebleed fixed in episodes 1 and 7",
     "comparison": "https://slow.pics/c/EAtP2aSi\nhttps://slow.pics/c/CxA1ca0Z",
     "best_releases": [
       {
@@ -46673,7 +46753,7 @@
     ],
     "alt_releases": [
       {
-        "name": "MC (Dual Audio)",
+        "name": "nekotan (Dual Audio)",
         "status": ""
       }
     ]
@@ -48910,6 +48990,26 @@
       {
         "name": "UDF (Dual Audio)",
         "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Welcome to the Outcast's Restaurant!",
+    "alt_title": "Tsuihousha Shokudou e Youkoso!",
+    "year": 2025,
+    "format": "TV",
+    "notes": "UnHoly is JPN BD Remux+CR\nErai-raws is a CR WEB-DL\nThe JPN BD has quite a bit better compression than CR and isn't shifted like it either, it does have some mosquito noise that VCB somewhat addresses, but they of course starve their encode\nVCB-Studio would be a better alt",
+    "comparison": "https://slow.pics/c/sazPNL81",
+    "best_releases": [
+      {
+        "name": "UnHoly",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
       }
     ]
   },
