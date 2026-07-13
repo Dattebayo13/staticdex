@@ -2205,7 +2205,7 @@
   },
   {
     "title": "Anime-Gataris",
-    "alt_title": "",
+    "alt_title": "Animegataris",
     "year": 2017,
     "format": "TV",
     "notes": "NAN0 is JPN BD Remux+SmugNeko and PGS\nKH is VCB-Studio+SmugNeko (Modified CR)\nStore needs MPV Deband",
@@ -27541,20 +27541,15 @@
     "alt_title": "Kidou Senshi Gundam: Dai 08 MS Shotai",
     "year": 1996,
     "format": "OVA",
-    "notes": "hchcsen is UC JPN BD Remux+OCR'd PGS styled, timed and typeset. Includes both the original 2.0 and new 5.1 recordings\nEverything uses the same dated scan that looks rather poor, ITA just has slightly better compression",
+    "notes": "hchcsen is ITA BD Remux+OCR'd PGS styled, timed, and typeset (revised from their previous release). Includes both the original 2.0 and new 5.1 recordings\nEverything uses the same dated scan that looks rather poor, ITA just has slightly better compression\nFrom hchcsen regarding the PGS subs \"The translation itself is a revision of the original Bandai DVD release fixing romanization, terminology and changing some lines\"\nA Kagura mux would make a good alt",
     "comparison": "https://slow.pics/c/eUkAR15t",
     "best_releases": [
       {
-        "name": "ITA BD+hchcsen",
-        "status": "unmuxed"
+        "name": "hchcsen (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "hchcsen (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Mobile Suit Gundam Wing: Endless Waltz",
@@ -38056,9 +38051,13 @@
     "alt_title": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "year": 2026,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+Restyled CR\nSylvar is H-Enc+CR",
-    "comparison": "https://slow.pics/c/65d6QCXM",
+    "notes": "Kawatare is JPN BD Encode+PMR\nPMR is Kawatare+Restyled CR\nSylvar is H-Enc+PMR",
+    "comparison": "https://slow.pics/c/qUmrP1OK\nhttps://slow.pics/c/65d6QCXM",
     "best_releases": [
+      {
+        "name": "Kawatare",
+        "status": ""
+      },
       {
         "name": "PMR (Dual Audio)",
         "status": ""
@@ -43063,86 +43062,6 @@
     ]
   },
   {
-    "title": "The Eden of Grisaia",
-    "alt_title": "Grisaia no Rakuen",
-    "year": 2015,
-    "format": "TV",
-    "notes": "nekotan is JPN BD Remux+Coalgirls and PGS\nnekotan is also sergey_krs+Coalgirls (Chihiro)\nStore requires MPV deband, otherwise get the encode",
-    "comparison": "https://slow.pics/c/PAq9lGhB",
-    "best_releases": [
-      {
-        "name": "nekotan",
-        "status": ""
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "nekotan",
-        "status": ""
-      }
-    ]
-  },
-  {
-    "title": "The Eden of Grisaia: Grisaia no Tokuten",
-    "alt_title": "Grisaia no Rakuen: Grisaia no Tokuten",
-    "year": 2015,
-    "format": "SPECIAL",
-    "notes": "nekotan is JPN BD Remux+Coalgirls\nnekotan is also sergey_krs+Coalgirls\nStore requires MPV deband, otherwise get the encode",
-    "comparison": "",
-    "best_releases": [
-      {
-        "name": "nekotan",
-        "status": ""
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "nekotan",
-        "status": ""
-      }
-    ]
-  },
-  {
-    "title": "Grisaia: Phantom Trigger THE ANIMATION",
-    "alt_title": "",
-    "year": 2019,
-    "format": "MOVIE",
-    "notes": "Moxie is GER BD Remux+Chihiro\nChihiro is JPN BD Encode+Fansub based on YT, the encode for Movie 1 is messed up and adds a lot of banding\nThe JPN BD has strong lowpassing and grain spammed on top, the GER BD doesn't have these issues however does have pretty strong banding so MPV Deband is a must",
-    "comparison": "https://slow.pics/c/Boew5pGU\nhttps://slow.pics/c/EwJToI3R\nhttps://slow.pics/c/J9n8kGxm",
-    "best_releases": [
-      {
-        "name": "Moxie",
-        "status": ""
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Chihiro",
-        "status": ""
-      }
-    ]
-  },
-  {
-    "title": "Grisaia: Phantom Trigger THE ANIMATION - Stargazer",
-    "alt_title": "",
-    "year": 2020,
-    "format": "MOVIE",
-    "notes": "Moxie is JPN BD Remux+Chihiro\nChihiro is JPN BD Encode+Fansub based on YT\nStore needs MPV Deband, otherwise get the encode\nLike the first 2 movies the JPN BD is lowpassed, however there's no GER BD this time to save it, unlucker!",
-    "comparison": "https://slow.pics/c/v0fqhBUE",
-    "best_releases": [
-      {
-        "name": "Moxie",
-        "status": ""
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Chihiro",
-        "status": ""
-      }
-    ]
-  },
-  {
     "title": "The Elusive Samurai",
     "alt_title": "Nige Jouzu no Wakagimi",
     "year": 2024,
@@ -43427,6 +43346,26 @@
     ]
   },
   {
+    "title": "The Eden of Grisaia: Grisaia no Tokuten",
+    "alt_title": "Grisaia no Rakuen: Grisaia no Tokuten",
+    "year": 2015,
+    "format": "SPECIAL",
+    "notes": "nekotan is JPN BD Remux+Coalgirls\nnekotan is also sergey_krs+Coalgirls\nStore requires MPV deband, otherwise get the encode",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "The Fruit of Grisaia: Grisaia no Tokuten",
     "alt_title": "Grisaia no Kajitsu: Grisaia no Tokuten",
     "year": 2015,
@@ -43442,6 +43381,106 @@
     "alt_releases": [
       {
         "name": "nekotan",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Labyrinth of Grisaia: Takizono Basket-bu no Nama Cream Party!",
+    "alt_title": "Grisaia no Meikyuu: Takizono Basket-bu no Nama Cream Party!",
+    "year": 2015,
+    "format": "SPECIAL",
+    "notes": "nekotan is JPN BD Remux+Chihiro\nnekotan is also sergey_krs+Chihiro",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Eden of Grisaia",
+    "alt_title": "Grisaia no Rakuen",
+    "year": 2015,
+    "format": "TV",
+    "notes": "nekotan is JPN BD Remux+Coalgirls and PGS\nnekotan is also sergey_krs+Coalgirls (Chihiro)\nStore requires MPV deband, otherwise get the encode",
+    "comparison": "https://slow.pics/c/PAq9lGhB",
+    "best_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Labyrinth of Grisaia",
+    "alt_title": "Grisaia no Meikyuu",
+    "year": 2015,
+    "format": "SPECIAL",
+    "notes": "nekotan is JPN BD Remux+Chihiro and PGS\nnekotan is also sergey_krs+Chihiro\nLike the other seasons the store has quite a lot of banding, but the encodes are really bad and nuke tons of detail so you might prefer to just rawdog the banding anyway. MPV Deband helps but doesn't save the store",
+    "comparison": "https://slow.pics/c/QGI9RxQF",
+    "best_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Grisaia: Phantom Trigger THE ANIMATION",
+    "alt_title": "",
+    "year": 2019,
+    "format": "MOVIE",
+    "notes": "Moxie is GER BD Remux+Chihiro\nChihiro is JPN BD Encode+Fansub based on YT, the encode for Movie 1 is messed up and adds a lot of banding\nThe JPN BD has strong lowpassing and grain spammed on top, the GER BD doesn't have these issues however does have pretty strong banding so MPV Deband is a must",
+    "comparison": "https://slow.pics/c/Boew5pGU\nhttps://slow.pics/c/EwJToI3R\nhttps://slow.pics/c/J9n8kGxm",
+    "best_releases": [
+      {
+        "name": "Moxie",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Chihiro",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Grisaia: Phantom Trigger THE ANIMATION - Stargazer",
+    "alt_title": "",
+    "year": 2020,
+    "format": "MOVIE",
+    "notes": "Moxie is JPN BD Remux+Chihiro\nChihiro is JPN BD Encode+Fansub based on YT\nStore needs MPV Deband, otherwise get the encode\nLike the first 2 movies the JPN BD is lowpassed, however there's no GER BD this time to save it, unlucker!",
+    "comparison": "https://slow.pics/c/v0fqhBUE",
+    "best_releases": [
+      {
+        "name": "Moxie",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Chihiro",
         "status": ""
       }
     ]
