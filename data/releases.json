@@ -9676,18 +9676,18 @@
     "alt_title": "Genei wo Kakeru Taiyou",
     "year": 2013,
     "format": "TV",
-    "notes": "Final8 is JPN BD Encode+Underwater (Fansub based on CR) shifted to BD\nVCB-Studio would be a better alt\nThe store requires MPV deband",
-    "comparison": "https://slow.pics/c/KWYMkB8L\nhttps://slow.pics/c/4KOOvUZM\nhttps://www.diffchecker.com/cO393ZE7/",
+    "notes": "Headpatter is JPN BD Remux+Restyled and stock Underwater\nHeadpatter is also VCB-Studio+Restyled and stock Underwater\nBoth releases are the director's cut with extra footage in episodes 1 and 13\nThe store requires MPV deband",
+    "comparison": "https://slow.pics/c/ItPIg1FC\nhttps://slow.pics/c/4KOOvUZM\nhttps://www.diffchecker.com/cO393ZE7/",
     "best_releases": [
       {
-        "name": "JPN BD+Final8",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "Final8",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -22667,12 +22667,12 @@
     "alt_title": "Kobato.",
     "year": 2009,
     "format": "TV",
-    "notes": "Tsundere is JPN BD Encode+Yuurisan-Subs",
+    "notes": "nekotan is JPN BD Remux+Tsundere with some minor sub fixes\nTsundere is QTS+Yuurisan-Subs",
     "comparison": "https://slow.pics/c/aQJhf2cX",
     "best_releases": [
       {
-        "name": "JPN BD+Tsundere",
-        "status": "unmuxed"
+        "name": "nekotan",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -32674,20 +32674,15 @@
     "alt_title": "[Oshi no Ko] 3rd Season",
     "year": 2026,
     "format": "TV",
-    "notes": "Sylvar is JPN BD Remux+Restyled CrappySubs\nCrappySubs is RaiN WEBRip+CR with improved typesetting and song TLs\nThe JPN BD has significantly better compression than CR (and as such RaiN, though that does have the benefit of being dehaloed). Still benefits from MPV Deband though",
-    "comparison": "https://slow.pics/c/pYHGURsw",
+    "notes": "kikuri is H-Enc+CrappySubs (CR with improved typesetting and song TLs)",
+    "comparison": "https://slow.pics/c/R0SM4qgw",
     "best_releases": [
       {
-        "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "CrappySubs",
+        "name": "kikuri",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Otaku Elf",
@@ -37917,6 +37912,26 @@
     ]
   },
   {
+    "title": "Sengoku Basara: Samurai Kings",
+    "alt_title": "Sengoku BASARA",
+    "year": 2009,
+    "format": "TV",
+    "notes": "philosophy-raws is USA BD Encode+PGS. Has the gamma bug and no signs track\nThe JPN BD is the only good source, it's interlaced but Yousei's encode is transparent. The ITA, USA, and GER BDs seem to all be sourced from the same progressive master which is blurred and has the gamma bug, as well as their own OP/ED credits and hardsubbed signs.\nAs for subs? No idea, maybe Tenrai-Sensei is a good start",
+    "comparison": "https://slow.pics/c/AC0yS0DU",
+    "best_releases": [
+      {
+        "name": "Yousei-Raws+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "philosophy-raws (Dual Audio)",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Sengoku Collection",
     "alt_title": "",
     "year": 2012,
@@ -42739,11 +42754,11 @@
     "alt_title": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
     "year": 2023,
     "format": "ONA",
-    "notes": "MTBB is JPN BD Encode+retimed/edited Sentai with TS and Cait-Sidhe OP/ED\nLostYears is MTBB+dub",
+    "notes": "MTBB is JPN BD Encode+retimed/edited Sentai with TS and Cait-Sidhe OP/ED (with Romaji removed)\nBlackRose is LostYears (MTBB with untouched Cait-Sidhe OP/ED, and dub) with better dub audio\nThe MTBB standalone release and the one included in the season 2 pack are identical aside from file name",
     "comparison": "",
     "best_releases": [
       {
-        "name": "LostYears (Dual Audio)",
+        "name": "BlackRose (Dual Audio)",
         "status": ""
       },
       {
@@ -42758,11 +42773,11 @@
     "alt_title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
     "year": 2024,
     "format": "TV",
-    "notes": "MTBB is JPN BD Encode+retimed/edited Sentai with TS\nLostYears is MTBB+dub",
+    "notes": "MTBB is JPN BD Encode+Retimed and edited Sentai with TS and styled OP\nBlackRose is LostYears (MTBB with Yamada OP/ED, and dub) with fixed honorifics track in episode 3 and better dub audio",
     "comparison": "https://slow.pics/c/YOXeV4b4",
     "best_releases": [
       {
-        "name": "LostYears (Dual Audio)",
+        "name": "BlackRose (Dual Audio)",
         "status": ""
       },
       {
@@ -49037,7 +49052,7 @@
     "alt_title": "Tsuihousha Shokudou e Youkoso!",
     "year": 2025,
     "format": "TV",
-    "notes": "UnHoly is JPN BD Remux+CR\nErai-raws is a CR WEB-DL\nThe JPN BD has quite a bit better compression than CR and isn't shifted like it either, it does have some mosquito noise that VCB somewhat addresses, but they of course starve their encode\nVCB-Studio would be a better alt",
+    "notes": "UnHoly is JPN BD Remux+CR\nnekotan is VCB-Studio+Restyled CR\nThe JPN BD has quite a bit better compression than CR and isn't shifted like it either, it does have some mosquito noise that VCB somewhat addresses, but they of course starve their encode",
     "comparison": "https://slow.pics/c/sazPNL81",
     "best_releases": [
       {
@@ -49047,7 +49062,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Erai-raws",
+        "name": "nekotan",
         "status": ""
       }
     ]
