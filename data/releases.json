@@ -6040,7 +6040,7 @@
     "alt_title": "Kishuku Gakkou no Juliet",
     "year": 2018,
     "format": "TV",
-    "notes": "RaiN is JPN BD Encode+YURI\nYURI is moscowgolem+modified Astral (AMZN base), VCB mux would be preferred",
+    "notes": "RaiN is JPN BD Encode+YURI\nHeadpatter is VCB-Studio+YURI\nYURI subs are Astral (Restyled AMZN with improved timing, removed disclaimers, Pikari-Teshima OP/ED/TS adapted to English, added missing dialogue) with minor timing fixes and missing TS added",
     "comparison": "https://slow.pics/c/lnnjsi8b\nhttps://slow.pics/c/Kz82SPFR",
     "best_releases": [
       {
@@ -6050,8 +6050,8 @@
     ],
     "alt_releases": [
       {
-        "name": "YURI",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -9678,6 +9678,26 @@
     "format": "TV",
     "notes": "Headpatter is JPN BD Remux+Restyled and stock Underwater\nHeadpatter is also VCB-Studio+Restyled and stock Underwater\nBoth releases are the director's cut with extra footage in episodes 1 and 13\nThe store requires MPV deband",
     "comparison": "https://slow.pics/c/ItPIg1FC\nhttps://slow.pics/c/4KOOvUZM\nhttps://www.diffchecker.com/cO393ZE7/",
+    "best_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Genei wo Kakeru Taiyou: Fumikome nai Kokoro",
+    "alt_title": "",
+    "year": null,
+    "format": "OVA",
+    "notes": "Headpatter is JPN BD Remux+Restyled and stock Underwater\nHeadpatter is also VCB-Studio+Restyled and stock Underwater\nStore needs MPV Deband, otherwise get the encode",
+    "comparison": "",
     "best_releases": [
       {
         "name": "Headpatter",
@@ -31103,6 +31123,26 @@
     ]
   },
   {
+    "title": "Ninja Robots Tobikage",
+    "alt_title": "Ninja Senshi Tobikage",
+    "year": 1985,
+    "format": "TV",
+    "notes": "FraMeSToR is USA BD Remux+PGS\nThe USA BD is a re-encode of the JPN BD, a decent enough option for half the size I suppose\nThere's another USA BD Remux on Nyaa but it's ordered chapters and opus",
+    "comparison": "https://slow.pics/c/47iCmHmb",
+    "best_releases": [
+      {
+        "name": "JPN BD+PGS",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "FraMeSToR (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Ninja Scroll",
     "alt_title": "Juubee Ninpuuchou",
     "year": 1993,
@@ -32631,7 +32671,7 @@
     ]
   },
   {
-    "title": "Oshi No Ko",
+    "title": "OSHI NO KO",
     "alt_title": "[Oshi no Ko]",
     "year": 2023,
     "format": "TV",
@@ -32650,7 +32690,7 @@
     "alt_releases": []
   },
   {
-    "title": "Oshi no Ko Season 2",
+    "title": "OSHI NO KO Season 2",
     "alt_title": "[Oshi no Ko] 2nd Season",
     "year": 2024,
     "format": "TV",
@@ -32670,13 +32710,17 @@
     ]
   },
   {
-    "title": "【OSHI NO KO】Season 3",
+    "title": "OSHI NO KO Season 3",
     "alt_title": "[Oshi no Ko] 3rd Season",
     "year": 2026,
     "format": "TV",
-    "notes": "kikuri is H-Enc+CrappySubs (CR with improved typesetting and song TLs)",
+    "notes": "kikuri is H-Enc+CrappySubs (CR with improved typesetting and song TLs)\nHeadpatter is the same with dub",
     "comparison": "https://slow.pics/c/R0SM4qgw",
     "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      },
       {
         "name": "kikuri",
         "status": ""
