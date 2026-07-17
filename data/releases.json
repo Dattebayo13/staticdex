@@ -5738,7 +5738,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Animorphs",
+        "name": "Animorphs (Dual Audio)",
         "status": ""
       },
       {
@@ -25774,6 +25774,26 @@
     ]
   },
   {
+    "title": "Mankatsu",
+    "alt_title": "Monkey Punch Manga Katsudou Dai Shashin",
+    "year": 2004,
+    "format": "TV",
+    "notes": "H1mik is AMZN WEB-DL+External Oranges (Outdated version, allegedly)\nThe JPN BD is pauper and ends up having worse compression than AMZN despite the significantly higher bitrate\nEverything needs MPV Deband\nExternal subs are some major cope so please put the files in the toolnix",
+    "comparison": "https://slow.pics/c/6J2TpyAR",
+    "best_releases": [
+      {
+        "name": "AMZN+Oranges v1.9",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "H1mik",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Manyu Scroll",
     "alt_title": "Manyuu Hikenchou",
     "year": 2011,
@@ -34539,6 +34559,26 @@
     "alt_releases": [
       {
         "name": "FLAV1N",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Private Tutor to the Duke's Daughter",
+    "alt_title": "Koujo Denka no Kateikyoushi",
+    "year": 2025,
+    "format": "ONA",
+    "notes": "Erai-raws is a CR WEB-DL\nH-Enc is Delowpassed JPN BD Encode\nThe BD has substantial animation improvements for the second half, going from 4,800 updated frames in episode 6 to 14,000 in episode 12",
+    "comparison": "https://slow.pics/c/6EffRfyX\nhttps://slow.pics/c/e2cqcbg3",
+    "best_releases": [
+      {
+        "name": "H-Enc+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
         "status": ""
       }
     ]
@@ -44869,6 +44909,21 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Outcast Season 6",
+    "alt_title": "Yi Ren Zhi Xia 6",
+    "year": null,
+    "format": "ONA",
+    "notes": "Erai-raws is a 1440p CR WEB-DL\nThe 1440p (2600x1080) stream is the best quality even with the lower bitrate, the 1080p (1920x800) stream is a downscale that looks much worse\nThe store is absolutely full of banding, MPV Deband is highly recommended",
+    "comparison": "https://slow.pics/c/28EHw2IO",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
         "status": ""
       }
     ]
