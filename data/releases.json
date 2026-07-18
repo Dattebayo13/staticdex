@@ -2274,6 +2274,26 @@
     "alt_releases": []
   },
   {
+    "title": "Anonymous Noise",
+    "alt_title": "Fukumenkei Noise",
+    "year": 2017,
+    "format": "TV",
+    "notes": "TROLLORANGE is a CR WEB-DL\nCR is pauper and still stuck on the old CRF 15 stream, but all the encodes are based on the inferior USA BD with PGS subs only, jsum would be a better alt",
+    "comparison": "https://slow.pics/c/Mt5nzVTV",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "TROLLORANGE",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Another: The Other",
     "alt_title": "Another: The Other - Inga",
     "year": 2012,
@@ -7264,20 +7284,15 @@
     "alt_title": "Tenkuu no Shiro Laputa",
     "year": 1986,
     "format": "MOVIE",
-    "notes": "hydes is 2014 JPN MGVC BD Remux+Modified THORA (Official)\nThe 2014 BD is denoised resulting in ghosting in darker areas (see comp 11, 15, 28)\nThe Shout Factory USA BD has a much better scan for the OP/ED that could be spliced in",
-    "comparison": "https://slow.pics/c/PrAd69yG",
+    "notes": "yolerejiju is 2010 JPN BD Remux+hydes (Modified THORA), THORA, and PGS\nContains Japanese 2.0 audio from the Disney USA BD. English is 5.1 from the Disney USA BD, 5.1 from the Disney R1US DVD, and 2.0 from the JPN LD. See hydes' description for an explanation on the differences\nThe 2014 JPN BD is denoised resulting in ghosting in darker areas (see comp 11, 15, 28)\nThe Shout Factory USA BD has a much better scan for the OP/ED that could be spliced in",
+    "comparison": "https://slow.pics/c/PrAd69yG\nhttps://slow.pics/c/05Gk7HWf\nhttps://slow.pics/c/OJwejCYN\nhttps://slow.pics/c/xOzA4rU0",
     "best_releases": [
       {
-        "name": "2010 JPN BD+hydes",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "hydes (Dual Audio)",
+        "name": "yolerejiju (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Castle Town Dandelion",
@@ -23890,12 +23905,12 @@
     "alt_title": "Shiguang Dailiren",
     "year": null,
     "format": "ONA",
-    "notes": "Mehul is JPN BD Remux+Dae-P9\nDae-P9 is Zagzad+FUNI Edited, Timed, and TSed\nBoth releases splice the original OP and ED in\nStore needs MPV deband, otherwise get the encode",
+    "notes": "Mehul is JPN BD Remux+Dae-P9. Some TS is broken (expands into the letterboxing)\nDae-P9 is Zagzad+FUNI Edited, Timed, and TSed\nBoth releases splice the original OP and ED in\nStore needs MPV deband, otherwise get the encode",
     "comparison": "https://slow.pics/c/qcvJbU9P\nhttps://slow.pics/c/vacAOsDi\nhttps://slow.pics/c/LbipMPE2",
     "best_releases": [
       {
         "name": "Mehul (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -24794,6 +24809,36 @@
     "alt_releases": []
   },
   {
+    "title": "Lupin the 3rd",
+    "alt_title": "Lupin III",
+    "year": 1971,
+    "format": "TV",
+    "notes": "Crash is USA BD Remux+(Yellow) PGS\nThe USA BD is a much better restoration from the raw scan, the JPN BD has super vibrant blown out colors and freezes the grain for parts of the image that aren't in motion which is very inconsistent and distracting\nThe second half of episode 17 is sourced from an old 16mm print which looks significantly worse",
+    "comparison": "https://slow.pics/c/PayRnjA5\nhttps://slow.pics/c/k6Qc3fIB",
+    "best_releases": [
+      {
+        "name": "Crash (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Lupin The 3rd: The Castle of Cagliostro",
+    "alt_title": "Lupin III: Cagliostro no Shiro",
+    "year": 1979,
+    "format": "MOVIE",
+    "notes": "hydes-Crash is 2014 JPN BD Remux with LD audio+Discotek fully retimed, styled, with TS",
+    "comparison": "https://slow.pics/c/4OyJ9OEA",
+    "best_releases": [
+      {
+        "name": "hydes-Crash (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Lupin the 3rd Part IV",
     "alt_title": "Lupin III: PART IV",
     "year": 2015,
@@ -24818,21 +24863,6 @@
     "best_releases": [
       {
         "name": "scoot (Dual Audio)",
-        "status": ""
-      }
-    ],
-    "alt_releases": []
-  },
-  {
-    "title": "Lupin The 3rd: The Castle of Cagliostro",
-    "alt_title": "Lupin III: Cagliostro no Shiro",
-    "year": 1979,
-    "format": "MOVIE",
-    "notes": "hydes-Crash is 2014 JPN BD Remux with LD audio+Discotek fully retimed, styled, with TS",
-    "comparison": "https://slow.pics/c/4OyJ9OEA",
-    "best_releases": [
-      {
-        "name": "hydes-Crash (Dual Audio)",
         "status": ""
       }
     ],
@@ -45335,8 +45365,8 @@
     "alt_title": "Seijo no Maryoku wa Bannou desu Season 2",
     "year": 2023,
     "format": "TV",
-    "notes": "sam is CR WEBRip+Retimed and restyled CR with TS\nThe USA BD is lowpassed with grain spammed on top, the GER BD is full of banding, and both have basically no compression benefits over CR anyway",
-    "comparison": "https://slow.pics/c/bWEXg4mv\nhttps://slow.pics/c/0IB6vgwh",
+    "notes": "sam is CR WEBRip+Retimed and restyled CR with TS\nThe USA BD is lowpassed with grain spammed on top, the GER BD is full of banding, and both have basically no compression benefits over CR anyway. The JPN BD is much better but still is pretty much the same as CR, and worse than the WEBRip",
+    "comparison": "https://slow.pics/c/EhWtCAfY\nhttps://slow.pics/c/bWEXg4mv\nhttps://slow.pics/c/0IB6vgwh",
     "best_releases": [
       {
         "name": "sam (Dual Audio)",
