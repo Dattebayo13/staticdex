@@ -28500,11 +28500,31 @@
     "alt_title": "Gekkan Shoujo Nozaki-kun",
     "year": 2014,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Moby JJ and PGS\nHolomux is E-HARO Raws+Moby JJ (Quincentuple with restyled OP/ED)\nQuincentuple subs are modified Procrastinating, which in turn is modified CR",
-    "comparison": "https://slow.pics/c/wvADxQUf",
+    "notes": "sam is JPN BD Encode+Modified Moby JJ (Timing/typesetting/song styling from Anarchy with various changes/fixes, general dialogue cleanup)\nHolomux is E-HARO Raws+Moby JJ (Quincentuple with restyled OP/ED)\nQuincentuple subs are modified Procrastinating, which in turn is modified CR",
+    "comparison": "https://slow.pics/c/0dnxzRm6\nhttps://slow.pics/c/wvADxQUf",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
+        "name": "sam (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Holomux (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Monthly Girls' Nozaki-kun Specials",
+    "alt_title": "Gekkan Shoujo Nozaki-kun Mini OVAs",
+    "year": 2014,
+    "format": "SPECIAL",
+    "notes": "sam is JPN BD Encode+Modified Moby JJ (Timing/typesetting/song styling from Anarchy with various changes/fixes, general dialogue cleanup)\nHolomux is E-HARO Raws+Moby JJ",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "sam (Dual Audio)",
         "status": ""
       }
     ],
@@ -34602,7 +34622,7 @@
     "comparison": "https://slow.pics/c/6EffRfyX\nhttps://slow.pics/c/e2cqcbg3",
     "best_releases": [
       {
-        "name": "H-Enc+CR",
+        "name": "H-Enc v2+CR",
         "status": "unmuxed"
       }
     ],
