@@ -14407,7 +14407,7 @@
     "year": 2004,
     "format": "TV",
     "notes": "CTR is VCB-Studio & philosophy-raws+OZC\nSubs for episode 6 are mistimed, needs 900ms offset",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/OHJ0mCP8",
     "best_releases": [
       {
         "name": "Beatrice-Raws+(?)",
@@ -17231,6 +17231,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Hell’s Paradise Season 2",
+    "alt_title": "Jigokuraku 2nd Season",
+    "year": 2026,
+    "format": "TV",
+    "notes": "Vodes is CR WEBRip+Fansub based on CR\nLike Season 1 the JPN BD is rather poor. Overall it's slightly better than CR, especially in busy scenes, but it's still full of blocking and not worth taking over the WEBRip",
+    "comparison": "https://slow.pics/c/MuglSWzJ",
+    "best_releases": [
+      {
+        "name": "Vodes",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Hen Zemi",
@@ -25545,7 +25560,7 @@
     "year": 2001,
     "format": "TV",
     "notes": "polished is QTS+Modified zx (Official)\n*Has some cringe weeb edits that should be reverted",
-    "comparison": "https://slow.pics/c/CU33jrDk\nhttps://slow.pics/c/akSnnk10\nhttps://www.diffchecker.com/PjPHWWz6/",
+    "comparison": "https://slow.pics/c/7JVJ9gpe\nhttps://slow.pics/c/CU33jrDk\nhttps://www.diffchecker.com/PjPHWWz6/",
     "best_releases": [
       {
         "name": "sergey_krs+polished*",
@@ -27826,17 +27841,17 @@
     "alt_title": "Kidou Senshi Gundam UC",
     "year": 2010,
     "format": "OVA",
-    "notes": "hchcsen is JPN BDBOX Remux+Modified Yuki (Retimed, TS further edited, formatting changes for consistency)\nCoalgirls is JPN BD Encode+Modified Official\nThe JPN BDBOX contains animation improvements not present on any other source. Video quality is mostly the same as the JPN/ITA/THA BD, slightly worse in some scenes. None of the encodes are based on it\nYuki is restyled Coalgirls with improvements to the typesetting\nKagura would be a better alt",
-    "comparison": "https://slow.pics/c/gH0iQKWT\nhttps://slow.pics/c/7t5OqS26\nhttps://slow.pics/c/262VfGm6\nhttps://www.diffchecker.com/IuvVVA4I/",
+    "notes": "Kawatare is JPN BDBOX Encode+hchcsen\nTasokare is JPN BDBOX Encode+hchcsen\nhchcsen subs are modified Yuki (Retimed, TS further edited, formatting changes for consistency), as well as PGS from both BDs\nYuki is restyled Coalgirls (Modified official) with improvements to the typesetting\nThe JPN BDBOX contains animation improvements not present on any other source. Video quality is mostly the same as the JPN/ITA/THA BD, slightly worse in some scenes",
+    "comparison": "https://slow.pics/c/weCtZk4I\nhttps://slow.pics/c/gH0iQKWT\nhttps://slow.pics/c/7t5OqS26\nhttps://slow.pics/c/262VfGm6\nhttps://www.diffchecker.com/IuvVVA4I/",
     "best_releases": [
       {
-        "name": "hchcsen (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Coalgirls (Dual Audio)",
+        "name": "Tasokare",
         "status": ""
       }
     ]
@@ -50338,6 +50353,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "You and I Are Polar Opposites",
+    "alt_title": "Seihantai na Kimi to Boku",
+    "year": 2026,
+    "format": "TV",
+    "notes": "YURASUKA is JPN BD Encode+Prozac (Asakura with KFX backported to earlier episodes and missing glyphs fixed)\nAsakura is a fansub based on CR\nThe JPN BD has a ton of mosquito noise which YURASUKA cleans up",
+    "comparison": "https://slow.pics/c/l5426lqG",
+    "best_releases": [
+      {
+        "name": "YURASUKA (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "You and Me.",
