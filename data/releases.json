@@ -558,6 +558,26 @@
     ]
   },
   {
+    "title": "A Hundred Scenes of AWAJIMA",
+    "alt_title": "Awajima Hyakkei",
+    "year": 2026,
+    "format": "TV",
+    "notes": "Commie is CR WEBRip+Fansub based on CR\nThe JPN BD is a decent improvement over CR, mostly just better compression and grain retention. There's a very minor lowpass",
+    "comparison": "https://slow.pics/c/VyzouGBq\nhttps://www.diffchecker.com/WPtNqeh7/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Commie",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "A Letter to Momo",
     "alt_title": "Momo e no Tegami",
     "year": 2011,
@@ -8980,7 +9000,7 @@
     "year": 1998,
     "format": "TV",
     "notes": "JySzE is ITBD encode + options enjoyings",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/T0P98x7y",
     "best_releases": [
       {
         "name": "JySzE (Dual Audio)",
@@ -9917,12 +9937,12 @@
     "alt_title": "Onii-sama e...",
     "year": 1991,
     "format": "TV",
-    "notes": "Virtuality is JPN BD Encode+OCR'd Anime Sols\nThe encode is no good and the subs contain some OCR errors, but at least it's not discotek yellow. TL looks to be the same\nA jsum mux would be a better alt\nQC notes regarding the subs can be found here https://pastebin.com/vnMbEVQY",
-    "comparison": "https://slow.pics/c/WPj0czrI",
+    "notes": "NAN0 is JPN BD Remux+OCR'd PGS\nVirtuality is JPN BD Encode+OCR'd Anime Sols. The encode is no good and the subs contain some OCR errors\njsum+NAN0 would be a better alt",
+    "comparison": "https://slow.pics/c/WPj0czrI\nhttps://www.diffchecker.com/p6tzqVlE/",
     "best_releases": [
       {
-        "name": "JPN BD+?",
-        "status": "unmuxed"
+        "name": "NAN0",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -49709,6 +49729,21 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Witch Hat Atelier",
+    "alt_title": "Tongari Boushi no Atelier",
+    "year": 2026,
+    "format": "ONA",
+    "notes": "FLE is CR WEBRip+CR restyled, typeset, OP/ED TLs with NVN KFX, and some minor fixes\nCR is starved so the BD will likely be a lot better",
+    "comparison": "https://slow.pics/c/rHYfaqU8",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "FLE (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Witch Hunter ROBIN",
