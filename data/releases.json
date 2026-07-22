@@ -25705,6 +25705,26 @@
     "alt_releases": []
   },
   {
+    "title": "Maison Ikkoku",
+    "alt_title": "",
+    "year": 1986,
+    "format": "TV",
+    "notes": "Pizza is JPN BD Encode+Timed, typeset, edited, and styled official\nKagura-Copyman is Kagura+External OCR'd R1 (Made by Avatar, re-synced by Copyman, corrections by nht.ctn for the first 20 episodes). Subs are a poor OCR and have various issues throughout\nThe PGS subs floating around are just the Kagura-Copyman OCR converted to PGS, not actually an official release",
+    "comparison": "https://slow.pics/c/AGKrE9x4\nhttps://www.diffchecker.com/hK8reK7k/",
+    "best_releases": [
+      {
+        "name": "Pizza",
+        "status": "incomplete"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kagura-Copyman",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Majestic Prince",
     "alt_title": "Ginga Kikoutai Majestic Prince",
     "year": 2013,
@@ -34553,8 +34573,8 @@
     "alt_title": "Mononoke-hime",
     "year": 1997,
     "format": "MOVIE",
-    "notes": "giosann is dh+THORA and eli v2\nArid is THORA with additional REVO/niizk track\nThe DCP and derived encodes (like dh) are much higher quality than the BD releases",
-    "comparison": "https://slow.pics/c/UmoZid0H\nhttps://slow.pics/c/YC73NqXD\nhttps://slow.pics/c/JIyEmJhW\nhttps://slow.pics/c/EZeCj7wp\nhttps://www.diffchecker.com/ejpHsUww/\nhttps://www.diffchecker.com/9IrznBmX/\nhttps://www.diffchecker.com/bT6CWyXS/",
+    "notes": "giosann is dh+THORA and eli v2\nArid is THORA with additional REVO/niizk track\nThe DCP and derived encodes (like dh) are much higher quality than the 1080p BD releases\nThe 4K JPN BD has a significantly different color grade to previous releases, subjectively it's a lot nicer but you may prefer the old version. Some scenes do have slightly less detail in dark areas. Digital scenes are now film scans which while technically worse, does help it blend in with the rest of the movie\nThe 2026 JPN BD would be a good alt",
+    "comparison": "https://slow.pics/c/nJX0KYfi\nhttps://slow.pics/c/UmoZid0H\nhttps://slow.pics/c/YC73NqXD\nhttps://slow.pics/c/JIyEmJhW\nhttps://slow.pics/c/EZeCj7wp\nhttps://www.diffchecker.com/ejpHsUww/\nhttps://www.diffchecker.com/9IrznBmX/\nhttps://www.diffchecker.com/bT6CWyXS/\nhttps://www.diffchecker.com/1V5GES7O/\nhttps://www.diffchecker.com/qnB4u8Uv/",
     "best_releases": [
       {
         "name": "giosann (Dual Audio)",
@@ -40799,7 +40819,7 @@
     "year": 1993,
     "format": "OVA",
     "notes": "Headpatter is JPN BD Remux+Restyled A-FanRips modified for 16:9 video with title adjusted and overlapping dialogue fixed\nThe BD is a drastic upgrade from previous releases, the usual suspects will be a good alt when they drop",
-    "comparison": "https://slow.pics/c/eYmAbT62",
+    "comparison": "https://slow.pics/c/eYmAbT62\nhttps://www.diffchecker.com/nBXE79px/",
     "best_releases": [
       {
         "name": "Headpatter",
@@ -46373,15 +46393,20 @@
     "alt_title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
     "year": 2026,
     "format": "TV",
-    "notes": "YURASUKA is JPN BD Encode+Modified YT (Team Arcedo TS, Chihiro OP/ED, restyled, snapped to keyframes, fixed typos, italics where necessary)",
-    "comparison": "https://www.diffchecker.com/JH7AiUuQ/",
+    "notes": "Chihiro is JPN BD Encode+Fansub based on YT",
+    "comparison": "https://slow.pics/c/6eA1GAlU\nhttps://www.diffchecker.com/JH7AiUuQ/",
     "best_releases": [
       {
-        "name": "YURASUKA",
-        "status": ""
+        "name": "YURASUKA+Chihiro",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Chihiro",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "This Art Club Has a Problem!",
