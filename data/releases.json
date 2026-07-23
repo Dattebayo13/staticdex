@@ -17202,8 +17202,8 @@
     "alt_title": "HELLSING",
     "year": 2001,
     "format": "TV",
-    "notes": "Urotsuki is 720p dvd upscale so grab from rutracker https://rutracker.org/forum/viewtopic.php?t=5050339",
-    "comparison": "https://slow.pics/c/VjO4JJmZ",
+    "notes": "Tsundere is R2J DVD Encode+Retimed and modified R1\nThe SPA and GER BDs are bad upscales",
+    "comparison": "https://slow.pics/c/Ll7xbqNC",
     "best_releases": [
       {
         "name": "Urotsuki+Tsundere",
@@ -26103,6 +26103,21 @@
       {
         "name": "NOGRP (Dual Audio)",
         "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "MARRIAGETOXIN",
+    "alt_title": "",
+    "year": 2026,
+    "format": "TV",
+    "notes": "derpie is CR WEBRip+Restyled CR",
+    "comparison": "https://slow.pics/c/cUiCUQgW",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "derpie (Dual Audio)",
+        "status": ""
       }
     ]
   },
@@ -43734,8 +43749,8 @@
     "alt_title": "Kara no Kyoukai: Fukan Fuukei",
     "year": 2007,
     "format": "MOVIE",
-    "notes": "Reza is JPN BD Encode+Pretentious (Modified official) retimed, edited, restyled, with new/modified TS",
-    "comparison": "https://slow.pics/c/HE8qu5Qe\nhttps://slow.pics/c/Lpq6R7Ie\nhttps://www.diffchecker.com/dm2lPrIf/",
+    "notes": "Reza is JPN BD Encode+Pretentious (Modified official) retimed, edited, restyled, with new/modified TS\nThe 3D JPN BD contains many scenes with updated animation, which ThanksBB splices into the regular JPN BD for their encode. The 2D master has many scenes with strong debanding that nukes details, and the JPN BD adds even more on top. CR suffers from the former but not the latter, but it's too starved to care about either way. The 3D master (or maybe just the 3D BD, or both) suffers from the same thing but in different scenes to the other sources\n*Veracity check the complaints in Reza's comment section",
+    "comparison": "https://slow.pics/c/rdEfHOQP\nhttps://www.diffchecker.com/dm2lPrIf/",
     "best_releases": [
       {
         "name": "Reza",
@@ -43749,11 +43764,11 @@
     "alt_title": "Kara no Kyoukai: Satsujin Kousatsu (Zen)",
     "year": 2008,
     "format": "MOVIE",
-    "notes": "",
-    "comparison": "",
+    "notes": "Reza is JPN BD Encode+Pretentious (Modified official) retimed, edited, restyled, with new/modified TS\nThe JPN BD was aggressively debanded in many scenes resulting in a fair amount of detail loss, but the only other source is CR which is too starved to matter anyway. Despite this there are still many scenes with strong banding, and the lineart in general is terrible. Reza addresses both of these which results in further detail loss, but it's still the best option",
+    "comparison": "https://slow.pics/c/gPlgEiU7",
     "best_releases": [
       {
-        "name": "ANE",
+        "name": "Reza",
         "status": ""
       }
     ],
@@ -43764,11 +43779,11 @@
     "alt_title": "Kara no Kyoukai: Tsuukaku Zanryuu",
     "year": 2008,
     "format": "MOVIE",
-    "notes": "",
-    "comparison": "",
+    "notes": "Reza is JPN BD Encode+Pretentious (Modified official) retimed, edited, restyled, with new/modified TS\nSame story as previous movies, store has terrible lineart and banding despite the JPN BD already being aggressively debanded. Reza fixes these issues but causes a fair amount of detail loss in the process. CR again doesn't have the deband damage but is too starved to care",
+    "comparison": "https://slow.pics/c/DCCXH0wy",
     "best_releases": [
       {
-        "name": "ANE",
+        "name": "Reza",
         "status": ""
       }
     ],
@@ -43779,11 +43794,11 @@
     "alt_title": "Kara no Kyoukai: Garan no Dou",
     "year": 2008,
     "format": "MOVIE",
-    "notes": "",
-    "comparison": "",
+    "notes": "Reza is JPN BD Encode+CR retimed, edited, restyled, with new/modified TS\nSame story as previous movies, store has terrible lineart (even worse this time?) and banding despite the JPN BD already being aggressively debanded. Reza fixes these issues but causes a fair amount of detail loss in the process. CR again doesn't have the deband damage but is too starved to care",
+    "comparison": "https://slow.pics/c/5fOceecn",
     "best_releases": [
       {
-        "name": "ANE",
+        "name": "Reza",
         "status": ""
       }
     ],
@@ -43794,11 +43809,11 @@
     "alt_title": "Kara no Kyoukai: Mujun Rasen",
     "year": 2008,
     "format": "MOVIE",
-    "notes": "",
-    "comparison": "",
+    "notes": "Reza is JPN BD Encode+CR retimed, edited, restyled, with new/modified TS\nThis movie is a nice change of pace, the store is extremely grainy and doesn't suffer from the same issues as the previous ones. Reza just does a light AA and dehalo and is simply transparent",
+    "comparison": "https://slow.pics/c/nYDYOyQP",
     "best_releases": [
       {
-        "name": "ANE",
+        "name": "Reza",
         "status": ""
       }
     ],
@@ -43809,11 +43824,11 @@
     "alt_title": "Kara no Kyoukai: Boukyaku Rokuon",
     "year": 2009,
     "format": "MOVIE",
-    "notes": "",
-    "comparison": "",
+    "notes": "Reza is JPN BD Encode+Pretentious (Modified official) retimed, edited, restyled, with new/modified TS\nAnd we're back to the store being bad again. Same old story with poor lineart and banding, the JPN BD was still debanded resulting in detail loss, and CR is still too starved to matter. In fact it looks even worse this time and misses BD changes. Reza still causes detail loss addressing these issues, and he's still the best option despite that. Simply",
+    "comparison": "https://slow.pics/c/naHIzqC6",
     "best_releases": [
       {
-        "name": "ANE",
+        "name": "Reza",
         "status": ""
       }
     ],
@@ -43824,11 +43839,11 @@
     "alt_title": "Kara no Kyoukai: Satsujin Kousatsu (Kou)",
     "year": 2009,
     "format": "MOVIE",
-    "notes": "",
-    "comparison": "",
+    "notes": "Reza is JPN BD Encode+CR retimed, edited, restyled, with new/modified TS\nAnother grainy one, but this time complete with all the usual aliased lineart. Reza fixes it again, and causes too much detail loss again",
+    "comparison": "https://slow.pics/c/nvgdu85f",
     "best_releases": [
       {
-        "name": "ANE",
+        "name": "Reza",
         "status": ""
       }
     ],
@@ -43839,11 +43854,11 @@
     "alt_title": "Kara no Kyoukai: Shuushou",
     "year": 2011,
     "format": "OVA",
-    "notes": "",
-    "comparison": "",
+    "notes": "Reza is JPN BD Encode+Pretentious (Modified official) retimed, edited, restyled\nSame old alaised lineart which Reza fixes, without the detail loss this time which is nice. Looks like we've entered the era of AniPLEX chroma lowpassed BDs too, but CR is unwatchably bad anyway",
+    "comparison": "https://slow.pics/c/BmL2f3vC",
     "best_releases": [
       {
-        "name": "ANE",
+        "name": "Reza",
         "status": ""
       }
     ],
@@ -43854,8 +43869,8 @@
     "alt_title": "Kara no Kyoukai: Mirai Fukuin - extra chorus",
     "year": 2013,
     "format": "MOVIE",
-    "notes": "Alt is sergey + UTW",
-    "comparison": "",
+    "notes": "Alt is sergey_krs+UTW\nStore still looks fine, Reza still nukes everything, sergey is still demure",
+    "comparison": "https://slow.pics/c/bFVIFLwb",
     "best_releases": [
       {
         "name": "Alt",
@@ -43869,8 +43884,8 @@
     "alt_title": "Kara no Kyoukai: Mirai Fukuin",
     "year": 2013,
     "format": "MOVIE",
-    "notes": "Arid is sergey + Commie & UTW",
-    "comparison": "",
+    "notes": "Arid is sergey_krs+Commie and UTW\nFinally a Garden of sinners entry that actually looks good. Reza ignored that and nuked it anyway, sergey is a much more demure encode that simply fixes the issues with minimal detail loss",
+    "comparison": "https://slow.pics/c/BFS3uOSi\nhttps://www.diffchecker.com/CKEmwG24/",
     "best_releases": [
       {
         "name": "Arid",
@@ -44682,8 +44697,8 @@
     ]
   },
   {
-    "title": "Kouya no Kotobuki Hikoutai: Kanzenban",
-    "alt_title": "",
+    "title": "The Magnificent Kotobuki: The Movie",
+    "alt_title": "Kouya no Kotobuki Hikoutai: Kanzenban",
     "year": 2020,
     "format": "MOVIE",
     "notes": "Headpatter is JPN BD Remux+o7\no7 is KnK+SubsWhen with additional TS",
