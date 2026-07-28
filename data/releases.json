@@ -6116,6 +6116,26 @@
     ]
   },
   {
+    "title": "Bodacious Space Pirates",
+    "alt_title": "Mouretsu Pirates",
+    "year": 2012,
+    "format": "TV",
+    "notes": "GetItTwisted is JPN BD Remux+Restyled WhyNot (Modified CR) with glyph issues fixed, and PGS\nGetItTwisted is also Yousei-raws with the same subs\nYousei does have some benefits over the store but does more harm than good with the AA and debanding",
+    "comparison": "https://slow.pics/c/PrN8SKXe\nhttps://www.diffchecker.com/xXjz6ejS/\nhttps://www.diffchecker.com/u1UZzbT1/\nhttps://www.diffchecker.com/DifgdLVE/",
+    "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
     "alt_title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
     "year": 2020,
@@ -10831,6 +10851,36 @@
     "alt_releases": []
   },
   {
+    "title": "Dr. STONE SCIENCE FUTURE",
+    "alt_title": "Dr. STONE: SCIENCE FUTURE",
+    "year": 2025,
+    "format": "TV",
+    "notes": "sam is WEBRip+Fansub based on CR\nThe JPN BD is overall worse than CR, it has a lot more banding and not many compression benefits aside from select busy scenes such as the OP (where it is significantly better). MPV Deband helps but there's really no use case when the WEBRip exists",
+    "comparison": "https://slow.pics/c/KHNtHgPi\nhttps://www.diffchecker.com/RoJ4AHbn/",
+    "best_releases": [
+      {
+        "name": "sam (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Dr. STONE SCIENCE FUTURE Cour 2",
+    "alt_title": "Dr. STONE: SCIENCE FUTURE Part 2",
+    "year": 2025,
+    "format": "TV",
+    "notes": "sam is WEBRip+Fansub based on CR\nSame deal as the first cour, the JPN BD has a ton of banding and is worse than CR let alone the WEBRip (aside from the OP/ED, which are much better)",
+    "comparison": "https://slow.pics/c/ouGS2INO\nhttps://www.diffchecker.com/luaBaAzz/",
+    "best_releases": [
+      {
+        "name": "sam (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Dragon Ball",
     "alt_title": "",
     "year": 1986,
@@ -12720,6 +12770,26 @@
     "alt_releases": []
   },
   {
+    "title": "Fire Force Season 3",
+    "alt_title": "Enen no Shouboutai: San no Shou",
+    "year": 2025,
+    "format": "TV",
+    "notes": "VARYG is a CR WEB-DL\nThe JPN is lowpassed but still a nice improvement over CR due much better compression. They didn't mess up the audio this time either",
+    "comparison": "https://slow.pics/c/t7mF5Hcb",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Fireworks",
     "alt_title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
     "year": 2017,
@@ -14336,7 +14406,7 @@
     "alt_title": "GHOST IN THE SHELL: Koukaku Kidoutai",
     "year": 1995,
     "format": "MOVIE",
-    "notes": "MiLQ is 4K JPN BD Remux+Judgment, OCR'd PGS, and stock PGS (Both the original and new translations). Contains the original stereo mix and atmos remix for both Japanese and English audio.\nKawatare is 2018 JPN BD Encode+MiLQ (sans dub)",
+    "notes": "MiLQ is 4K JPN BD Remux+Judgment, OCR'd PGS, and stock PGS (Both the original and new translations). Contains the original stereo mix and atmos remix for both Japanese and English audio.\nKawatare is 2018 JPN BD Encode+MiLQ (sans dub)\nHeadpatter is Kawatare with dub",
     "comparison": "https://slow.pics/c/tiCBVVcD\nhttps://slow.pics/c/9N2HswQL\nhttps://slow.pics/c/DmwdtrZY\nhttps://slow.pics/c/51Vcg38h\nhttps://slow.pics/c/WS0kwhNn\nhttps://slow.pics/c/lmaaphgK",
     "best_releases": [
       {
@@ -14345,6 +14415,10 @@
       }
     ],
     "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      },
       {
         "name": "Kawatare",
         "status": ""
@@ -14645,13 +14719,18 @@
     "alt_title": "Gintama.: Porori-hen",
     "year": 2017,
     "format": "TV",
-    "notes": "CBT is SOFCJ-Raws+CR",
-    "comparison": "",
-    "best_releases": [],
+    "notes": "Sylvar is JPN BD Remux+Modified CBT (Restyled, light TPP, missing fonts added)\nCBT is SOFCJ-Raws+CR",
+    "comparison": "https://slow.pics/c/kdUK1Hq1",
+    "best_releases": [
+      {
+        "name": "Sylvar",
+        "status": "not_nyaa"
+      }
+    ],
     "alt_releases": [
       {
         "name": "CBT",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -14660,13 +14739,18 @@
     "alt_title": "Gintama.: Shirogane no Tamashii-hen",
     "year": 2018,
     "format": "TV",
-    "notes": "CBT is SOFCJ-Raws+CR",
+    "notes": "Sylvar is JPN BD Remux+Modified CBT (Restyled, light TPP, missing fonts added)\nCBT is SOFCJ-Raws+CR",
     "comparison": "",
-    "best_releases": [],
+    "best_releases": [
+      {
+        "name": "Sylvar",
+        "status": "not_nyaa"
+      }
+    ],
     "alt_releases": [
       {
         "name": "CBT",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -14675,13 +14759,18 @@
     "alt_title": "Gintama.: Shirogane no Tamashii-hen - Kouhan-sen",
     "year": 2018,
     "format": "TV",
-    "notes": "CBT is SOFCJ-Raws+CR",
-    "comparison": "",
-    "best_releases": [],
+    "notes": "Sylvar is JPN BD Remux+Modified CBT (Restyled, light TPP, missing fonts added)\nCBT is SOFCJ-Raws+CR",
+    "comparison": "https://slow.pics/c/gkMfNnJj",
+    "best_releases": [
+      {
+        "name": "Sylvar",
+        "status": "not_nyaa"
+      }
+    ],
     "alt_releases": [
       {
         "name": "CBT",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -20939,6 +21028,26 @@
     ]
   },
   {
+    "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+    "alt_title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+    "year": 2026,
+    "format": "TV",
+    "notes": "Kaizoku is WEBRip+CR edited, timed, typeset\nBunny-Apocalypse is Kaizoku v1 with dub\nThe JPN BD has better compression than CR but is still full of blocking, and has significantly blurred chroma throughout. The WEBRip will be the best option until Kaizoku's BD release drops",
+    "comparison": "https://slow.pics/c/SaKd5UGw\nhttps://www.diffchecker.com/jdxIepcV/",
+    "best_releases": [
+      {
+        "name": "Kaizoku",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Bunny-Apocalypse (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "JUNI TAISEN：ZODIAC WAR",
     "alt_title": "Juuni Taisen",
     "year": 2017,
@@ -24863,7 +24972,7 @@
     "alt_title": "Lupin III: Cagliostro no Shiro",
     "year": 1979,
     "format": "MOVIE",
-    "notes": "hydes-Crash is 2014 JPN BD Remux with LD audio+Discotek fully retimed, styled, with TS",
+    "notes": "hydes-Crash is 2025 USA BD Remux+OCR'd PGS (revised 2021 translation) styled, timed, and typeset. Contains laserdisc mono Japanese audio all the English dubs\nThe 2025 USA BD is white balanced but has slightly worse compression than the 2014 JPN BD. The 4K BDs are bad upscales",
     "comparison": "https://slow.pics/c/4OyJ9OEA",
     "best_releases": [
       {
@@ -26403,6 +26512,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Mazinger Z",
+    "alt_title": "",
+    "year": 1972,
+    "format": "TV",
+    "notes": "NOGRP is Simu+OCR'd PGS. The encode is terrible and the subs are a mess with missing fonts, OCR errors, three liners\nUnfortunately there's no other watchable option since the only remux is from the SPA BD which is just a DVD upscale, and the only other encode is...also from the SPA BD\njsum would be a better alt, or even a USA BD Remux since that's small anyway",
+    "comparison": "https://slow.pics/c/qNYdHV4H\nhttps://slow.pics/c/I3L6yXcH",
+    "best_releases": [
+      {
+        "name": "JPN BD+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "NOGRP",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "Mazinger Z: INFINITY",
@@ -29981,6 +30110,21 @@
     ]
   },
   {
+    "title": "My Status as an Assassin Obviously Exceeds the Hero’s",
+    "alt_title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Sylvar is JPN BD Remux+Starbez (CR Timed, typeset, styled, lightly edited)\nNo alt for now since CR is destroyed, might as well wait for a good encode to drop soon, right?",
+    "comparison": "https://slow.pics/c/oPNkEqOK\nhttps://www.diffchecker.com/nPxszuW9/",
+    "best_releases": [
+      {
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "My Stepmom's Daughter is My Ex",
     "alt_title": "Mamahaha no Tsurego ga Motokano datta",
     "year": 2022,
@@ -31044,20 +31188,15 @@
     "alt_title": "Tsuyokute New Saga",
     "year": 2025,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nMPV Deband helps everything, especially for the OP which has very strong banding",
-    "comparison": "https://slow.pics/c/dSnwFyte",
+    "notes": "NOGRP is VCB-Studio+CR, next episode TS is a few frames too long\nThe store is full of aliasing which VCB fixes. Additionally the OP is completely destroyed, it's starved and has extremely strong banding that MPV Deband stands no chance against. VCB uses ancient Chinese techniques to...at least make it bearable",
+    "comparison": "https://slow.pics/c/OefLnm8V",
     "best_releases": [
       {
-        "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "NOGRP",
+        "status": "broken"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "VARYG (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Nichijou - My Ordinary Life",
@@ -32854,15 +32993,11 @@
     "alt_title": "[Oshi no Ko] 3rd Season",
     "year": 2026,
     "format": "TV",
-    "notes": "kikuri is H-Enc+CrappySubs (CR with improved typesetting and song TLs)\nHeadpatter is the same with dub",
-    "comparison": "https://slow.pics/c/R0SM4qgw",
+    "notes": "YURASUKA is JPN BD Encode+CrappySubs (CR with improved typesetting and song TLs). CR was merged/spliced in for scenes where the BD falls apart",
+    "comparison": "https://slow.pics/c/xfKK5a3U\nhttps://slow.pics/c/R0SM4qgw",
     "best_releases": [
       {
-        "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
-      },
-      {
-        "name": "kikuri",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
@@ -39674,18 +39809,18 @@
     "alt_title": "",
     "year": 2008,
     "format": "TV",
-    "notes": "NH is Yousei+AllHailExcalibur, Coalgirls",
-    "comparison": "https://slow.pics/c/pLrQJoUH\nhttps://slow.pics/c/9Pjz9NyZ",
+    "notes": "Chika is Aergia-raws+Okay-Subs, contains episodes 1-13\nNH is Yousei-raws+Modified AllHailExcalibur with Coalgirls OP/ED\nOkay-Subs subs are Coalgirls (Modified official) with light QC\nAllHailExcalibur subs are official with a bunch of terrible weeb edits, Yousei-raws+Coalgirls would be a better alt for 27-51\nYousei-raws is encoded from the USA BD which has the gamma bug, can be fixed with -6 gamma in MPV",
+    "comparison": "https://slow.pics/c/4CB6rnFX\nhttps://slow.pics/c/k0mM0CB1\nhttps://www.diffchecker.com/Y6Bfa4er/",
     "best_releases": [
       {
-        "name": "Aergia-raws+?",
-        "status": "unmuxed"
+        "name": "Chika",
+        "status": "incomplete"
       }
     ],
     "alt_releases": [
       {
         "name": "NH (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -46198,6 +46333,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "The Warrior Princess and the Barbaric King",
+    "alt_title": "Hime Kishi wa Barbaroi no Yome",
+    "year": 2026,
+    "format": "TV",
+    "notes": "Chihiro is CR WEBRip+Fansub based on CR\nThe JPN BD is overall a pretty minor upgrade over CR, with the main benefits being some BD changes and much better compression for busy scenes like grainy flashbacks. Both stores have very strong banding so MPV Deband is a requirement, otherwise get the WEBRip",
+    "comparison": "https://slow.pics/c/no7XaQHw\nhttps://slow.pics/c/KKhnyIxj\nhttps://www.diffchecker.com/MHWj4ODP/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Chihiro",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Chihiro",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "The Water Magician",
