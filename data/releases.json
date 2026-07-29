@@ -9957,7 +9957,7 @@
     "alt_title": "Onii-sama e...",
     "year": 1991,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+OCR'd PGS\nVirtuality is JPN BD Encode+OCR'd Anime Sols. The encode is no good and the subs contain some OCR errors\njsum+NAN0 would be a better alt",
+    "notes": "NAN0 is JPN BD Remux+OCR'd PGS\nHeadpatter is jsum+NAN0",
     "comparison": "https://slow.pics/c/WPj0czrI\nhttps://www.diffchecker.com/p6tzqVlE/",
     "best_releases": [
       {
@@ -9967,8 +9967,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Virtuality",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -10317,6 +10317,26 @@
     "alt_releases": [
       {
         "name": "SEV (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "alt_title": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
+    "year": 2025,
+    "format": "MOVIE",
+    "notes": "new stream is CR \"Majin\" WEB-DL\nThe JPN BD has terrible sharpening (possibly sourced from a 4K upscale?). Compression is better than CR but it doesn't really matter when the lineart is destroyed\nThe Majin stream is a new test encode on CR, it has much higher bitrate peaks and offers significantly better compression in busy scenes, as well as less banding in general\n*Might as well add BD audio and AMZN dub, right?",
+    "comparison": "https://slow.pics/c/0xy1FKZh\nhttps://www.diffchecker.com/xZXrUcmg/",
+    "best_releases": [
+      {
+        "name": "new stream+Unfucked*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "new stream",
         "status": ""
       }
     ]
@@ -12680,7 +12700,7 @@
     "alt_title": "Fate/strange Fake: Whispers of Dawn",
     "year": 2023,
     "format": "SPECIAL",
-    "notes": "PMR is JPN BD Remux+Kaleido-subs\nKaleido-subs is CR WEBRip+OTL\nLostYears is Kaleido-subs with dub",
+    "notes": "PMR is JPN BD Remux+Kaleido-subs (OTL)\nHeadpatter is H-Enc+Kaleido-subs and CR. Dub is tagged as Japanese so you'll need to manually switch tracks if you want that",
     "comparison": "https://slow.pics/c/2rcuzcYl",
     "best_releases": [
       {
@@ -12690,12 +12710,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Kaleido-subs",
-        "status": ""
-      },
-      {
-        "name": "LostYears (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "broken"
       }
     ]
   },
@@ -12704,7 +12720,7 @@
     "alt_title": "",
     "year": 2026,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+Kaleido-subs\nKaleido-subs is CR WEBRip+OTL, episode 12 is a CR WEB-DL\nThe JPN BD is significantly better than CR but has the usual Aniplex lowpassed scenes\nH-Enc would be a better alt, or just wait for Kaleido's BD release",
+    "notes": "PMR is JPN BD Remux+Kaleido-subs (OTL)\nHeadpatter is H-Enc+Kaleido-subs\nThe JPN BD is significantly better than CR but has the usual Aniplex lowpassed scenes",
     "comparison": "https://slow.pics/c/0q74Hqnl\nhttps://slow.pics/c/PCMz46Wu",
     "best_releases": [
       {
@@ -12714,8 +12730,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Kaleido-subs (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -34823,20 +34839,15 @@
     "alt_title": "Koujo Denka no Kateikyoushi",
     "year": 2025,
     "format": "ONA",
-    "notes": "Erai-raws is a CR WEB-DL\nH-Enc is Delowpassed JPN BD Encode\nThe BD has substantial animation improvements for the second half, going from 4,800 updated frames in episode 6 to 14,000 in episode 12",
+    "notes": "Headpatter is H-Enc+Restyled and stock CR\nH-Enc is Delowpassed JPN BD Encode\nThe BD has substantial animation improvements for the second half, going from 4,800 updated frames in episode 6 to 14,000 in episode 12",
     "comparison": "https://slow.pics/c/6EffRfyX\nhttps://slow.pics/c/e2cqcbg3",
     "best_releases": [
       {
-        "name": "H-Enc v2+CR",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Erai-raws",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Problem Children Are Coming From Another World, Aren't They?",
