@@ -10326,20 +10326,15 @@
     "alt_title": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
     "year": 2025,
     "format": "MOVIE",
-    "notes": "new stream is CR \"Majin\" WEB-DL\nThe JPN BD has terrible sharpening (possibly sourced from a 4K upscale?). Compression is better than CR but it doesn't really matter when the lineart is destroyed\nThe Majin stream is a new test encode on CR, it has much higher bitrate peaks and offers significantly better compression in busy scenes, as well as less banding in general\n*Might as well add BD audio and AMZN dub, right?",
+    "notes": "triple117 is CR Majin+Unfucked (CR with TS adapted from the German track, and a few minor edits)\nThe JPN BD has terrible sharpening (possibly sourced from a 4K upscale?). Compression is better than CR but it doesn't really matter when the lineart is destroyed\nThe Majin stream is a new test encode on CR, it has much higher bitrate peaks and offers significantly better compression in busy scenes, as well as less banding in general",
     "comparison": "https://slow.pics/c/0xy1FKZh\nhttps://www.diffchecker.com/xZXrUcmg/",
     "best_releases": [
       {
-        "name": "new stream+Unfucked*",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "new stream",
+        "name": "triple117 (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Den-noh Coil",
@@ -13894,6 +13889,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Gachiakuta",
+    "alt_title": "",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Starbez is JPN BD Encode+Modified CR (Minor editing/fixing, timing, typesetting, songs), also includes a secondary more heavily edited track for episodes 1-13",
+    "comparison": "https://slow.pics/c/63U4WukN",
+    "best_releases": [
+      {
+        "name": "Starbez (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Gakuen Basara: Samurai High School",
@@ -30130,12 +30140,12 @@
     "alt_title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
     "year": 2025,
     "format": "TV",
-    "notes": "Sylvar is JPN BD Remux+Starbez (CR Timed, typeset, styled, lightly edited)\nNo alt for now since CR is destroyed, might as well wait for a good encode to drop soon, right?",
-    "comparison": "https://slow.pics/c/oPNkEqOK\nhttps://www.diffchecker.com/nPxszuW9/",
+    "notes": "ZeroBuild is JPN BD Encode+Starbez (CR Timed, typeset, styled, lightly edited)",
+    "comparison": "https://slow.pics/c/8SZ539J3\nhttps://slow.pics/c/oPNkEqOK\nhttps://www.diffchecker.com/nPxszuW9/",
     "best_releases": [
       {
-        "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "ZeroBuild (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": []
