@@ -14507,6 +14507,26 @@
     ]
   },
   {
+    "title": "Ghost in the Shell: SAC_2045 Season 2",
+    "alt_title": "Koukaku Kidoutai: SAC_2045 Season 2",
+    "year": 2022,
+    "format": "ONA",
+    "notes": "Commie is NF WEBRip+Fansub based on NF\nNetflix quality is cooked, the HDR stream is the only viable option but even then the USA BD is much better and has some BD changes. Store should be watched with MPV Deband",
+    "comparison": "https://slow.pics/c/CqAE8woW\nhttps://www.diffchecker.com/8zcrabRA/",
+    "best_releases": [
+      {
+        "name": "USA BD+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Commie (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Ghost in the Shell: Stand Alone Complex",
     "alt_title": "Koukaku Kidoutai: STAND ALONE COMPLEX",
     "year": 2002,
@@ -18624,6 +18644,26 @@
       {
         "name": "YURI (Dual Audio)",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima",
+    "alt_title": "Hypnosis Mic -Division Rap Battle- Rhyme Anima",
+    "year": 2020,
+    "format": "TV",
+    "notes": "Erai-raws is a FUNI WEB-DL with basic TS\nThe USA BD has the usual Funimation issues but is still much better than the extremely starved web sources\nThe JPN BD has since been purchased so might as well just wait for that\n*The TS (or maybe the entire sub track) is 1 frame off in at least episode 2 so check for that",
+    "comparison": "https://slow.pics/c/55hFObEM",
+    "best_releases": [
+      {
+        "name": "USA BD+Erai-raws*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": "broken"
       }
     ]
   },
@@ -41068,15 +41108,20 @@
     "alt_title": "Chou Kousoku Galvion",
     "year": 1984,
     "format": "TV",
-    "notes": "",
-    "comparison": "",
+    "notes": "Inka-Subs is Beatrice-Raws+OTL",
+    "comparison": "https://slow.pics/c/zeBeAwAG",
     "best_releases": [
+      {
+        "name": "JPN BD+Inka-Subs",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "Inka-Subs",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "SUPER HXEROS",
