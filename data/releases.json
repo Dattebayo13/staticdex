@@ -8167,84 +8167,6 @@
     ]
   },
   {
-    "title": "Steins;Gate",
-    "alt_title": "",
-    "year": 2011,
-    "format": "TV",
-    "notes": "MTBB is ITA/JPN BD encode+WhyNot with additional TS and QC\nQM is MTBB with dub and PGS\nMTBB does have a fair bit of detail loss but fixes the grid-like pattern in the static grain which looked bad in motion, particularly on pans. Looks like the JPN BD was used for the OP/ED but with ITA BD chroma",
-    "comparison": "https://slow.pics/c/Dv6wCEu0\nhttps://slow.pics/c/ITFH52Eh\nhttps://slow.pics/c/cPomRUEC\nhttps://slow.pics/c/D3PBYgQD",
-    "best_releases": [
-      {
-        "name": "MTBB",
-        "status": ""
-      },
-      {
-        "name": "QM (Dual Audio)",
-        "status": ""
-      }
-    ],
-    "alt_releases": []
-  },
-  {
-    "title": "Robotics;Notes",
-    "alt_title": "",
-    "year": 2012,
-    "format": "TV",
-    "notes": "Datte13 is Yousei-raws+Whynot and Commie (from deanzel)",
-    "comparison": "https://slow.pics/c/wN53WOrS",
-    "best_releases": [
-      {
-        "name": "JPN BD+deanzel",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Datte13 (Dual Audio)",
-        "status": ""
-      }
-    ]
-  },
-  {
-    "title": "Steins;Gate: Egoistic Poriomania",
-    "alt_title": "Steins;Gate: Oukoubakko no Poriomania",
-    "year": 2012,
-    "format": "OVA",
-    "notes": "MTBB is ITA/JPN BD encode+WhyNot with additional TS and QC\nQM is MTBB with dub and PGS\nMTBB does have a fair bit of detail loss but fixes the grid-like pattern in the static grain which looked bad in motion, particularly on pans. Looks like the JPN BD was used for the OP/ED but with ITA BD chroma",
-    "comparison": "",
-    "best_releases": [
-      {
-        "name": "MTBB",
-        "status": ""
-      },
-      {
-        "name": "QM (Dual Audio)",
-        "status": ""
-      }
-    ],
-    "alt_releases": []
-  },
-  {
-    "title": "Steins;Gate The Movie – Load Region of Déjà Vu",
-    "alt_title": "Steins;Gate: Fuka Ryouiki no Déjà vu",
-    "year": 2013,
-    "format": "MOVIE",
-    "notes": "Arid is Beatrice+Kametsu (modified WhyNot)",
-    "comparison": "https://slow.pics/c/nMUWRW93",
-    "best_releases": [
-      {
-        "name": "Arid (Dual Audio)",
-        "status": ""
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Arid (Dual Audio)",
-        "status": ""
-      }
-    ]
-  },
-  {
     "title": "Chaos;Child",
     "alt_title": "ChäoS;Child",
     "year": 2017,
@@ -14347,9 +14269,14 @@
     "alt_title": "Kikou Souseiki Mospeada",
     "year": 1983,
     "format": "TV",
-    "notes": "Desperately needs checking against store and kagura",
-    "comparison": "",
-    "best_releases": [],
+    "notes": "Bunny Hat is JPN BD Encode+\"retimed ADV subtitles with some editing\"\nKagura would be a better alt",
+    "comparison": "https://slow.pics/c/hvEFYBhW\nhttps://www.diffchecker.com/h0U5TEQg/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Bunny Hat",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
         "name": "Bunny Hat",
@@ -25413,30 +25340,6 @@
     ]
   },
   {
-    "title": "Magia Record: Puella Magi Madoka Magica Side Story",
-    "alt_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
-    "year": 2020,
-    "format": "TV",
-    "notes": "-ZR- is USA BD Remux+YameteTomete, deband is recommended\nYameteTomete is JPN BD Encode+Aniplex with the full fansub treatment\nMegukaMux is YameteTomete with dub",
-    "comparison": "https://slow.pics/c/GYXTsgsh",
-    "best_releases": [
-      {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "MegukaMux (Dual Audio)",
-        "status": ""
-      },
-      {
-        "name": "YameteTomete",
-        "status": ""
-      }
-    ]
-  },
-  {
     "title": "Magic Kaito 1412",
     "alt_title": "",
     "year": 2014,
@@ -35232,6 +35135,30 @@
     "alt_releases": []
   },
   {
+    "title": "Magia Record: Puella Magi Madoka Magica Side Story",
+    "alt_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+    "year": 2020,
+    "format": "TV",
+    "notes": "-ZR- is USA BD Remux+YameteTomete, deband is recommended\nYameteTomete is JPN BD Encode+Aniplex with the full fansub treatment\nMegukaMux is YameteTomete with dub",
+    "comparison": "https://slow.pics/c/GYXTsgsh",
+    "best_releases": [
+      {
+        "name": "-ZR- (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "MegukaMux (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "YameteTomete",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Puella Magi Madoka Magica the Movie Part 1: Beginnings",
     "alt_title": "Mahou Shoujo Madoka☆Magica: Hajimari no Monogatari",
     "year": 2012,
@@ -36915,6 +36842,26 @@
     "alt_releases": [
       {
         "name": "RASETSU (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Robotics;Notes",
+    "alt_title": "",
+    "year": 2012,
+    "format": "TV",
+    "notes": "Datte13 is Yousei-raws+Whynot and Commie (from deanzel)",
+    "comparison": "https://slow.pics/c/wN53WOrS",
+    "best_releases": [
+      {
+        "name": "JPN BD+deanzel",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Datte13 (Dual Audio)",
         "status": ""
       }
     ]
@@ -40599,6 +40546,64 @@
     "alt_releases": [
       {
         "name": "Afro (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Steins;Gate",
+    "alt_title": "",
+    "year": 2011,
+    "format": "TV",
+    "notes": "MTBB is ITA/JPN BD encode+WhyNot with additional TS and QC\nQM is MTBB with dub and PGS\nMTBB does have a fair bit of detail loss but fixes the grid-like pattern in the static grain which looked bad in motion, particularly on pans. Looks like the JPN BD was used for the OP/ED but with ITA BD chroma",
+    "comparison": "https://slow.pics/c/Dv6wCEu0\nhttps://slow.pics/c/ITFH52Eh\nhttps://slow.pics/c/cPomRUEC\nhttps://slow.pics/c/D3PBYgQD",
+    "best_releases": [
+      {
+        "name": "MTBB",
+        "status": ""
+      },
+      {
+        "name": "QM (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Steins;Gate: Egoistic Poriomania",
+    "alt_title": "Steins;Gate: Oukoubakko no Poriomania",
+    "year": 2012,
+    "format": "OVA",
+    "notes": "MTBB is ITA/JPN BD encode+WhyNot with additional TS and QC\nQM is MTBB with dub and PGS\nMTBB does have a fair bit of detail loss but fixes the grid-like pattern in the static grain which looked bad in motion, particularly on pans. Looks like the JPN BD was used for the OP/ED but with ITA BD chroma",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "MTBB",
+        "status": ""
+      },
+      {
+        "name": "QM (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Steins;Gate The Movie – Load Region of Déjà Vu",
+    "alt_title": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+    "year": 2013,
+    "format": "MOVIE",
+    "notes": "Arid is Beatrice+Kametsu (modified WhyNot)",
+    "comparison": "https://slow.pics/c/nMUWRW93",
+    "best_releases": [
+      {
+        "name": "Arid (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Arid (Dual Audio)",
         "status": ""
       }
     ]
