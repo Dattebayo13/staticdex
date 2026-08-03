@@ -7858,18 +7858,18 @@
     "alt_title": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
     "year": 2024,
     "format": "TV",
-    "notes": "triple117 is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nVARYG has some missing signs/left in dialogue on the signs track\nGrainy show so CR looks pretty bad in motion",
+    "notes": "triple117 is JPN BD Remux+CR. Subs are using the wrong matrix\nErai-raws is a CR WEB-DL\nGrainy show so CR looks pretty bad in motion",
     "comparison": "https://slow.pics/c/u9ub9P9H",
     "best_releases": [
       {
         "name": "triple117 (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
-        "status": "broken"
+        "name": "Erai-raws",
+        "status": ""
       }
     ]
   },
@@ -10248,11 +10248,11 @@
     "alt_title": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
     "year": 2025,
     "format": "MOVIE",
-    "notes": "triple117 is CR Majin+Unfucked (CR with TS adapted from the German track, and a few minor edits)\nThe JPN BD has terrible sharpening (possibly sourced from a 4K upscale?). Compression is better than CR but it doesn't really matter when the lineart is destroyed\nThe Majin stream is a new test encode on CR, it has much higher bitrate peaks and offers significantly better compression in busy scenes, as well as less banding in general",
-    "comparison": "https://slow.pics/c/0xy1FKZh\nhttps://www.diffchecker.com/xZXrUcmg/",
+    "notes": "ScaredofAniplex is CR Majin WEBRip+Unfucked (CR with TS adapted from the German track, and a few minor edits) with some timing changes. The JPN BD was spliced in for some scenes\nThe JPN BD has terrible sharpening (possibly sourced from a 4K upscale?). Compression is better than CR but it doesn't really matter when the lineart is destroyed\nThe Majin stream is a new test encode on CR, it has much higher bitrate peaks and offers significantly better compression in busy scenes, as well as less banding in general",
+    "comparison": "https://slow.pics/c/wmaWhNt1\nhttps://slow.pics/c/0xy1FKZh\nhttps://www.diffchecker.com/xZXrUcmg/",
     "best_releases": [
       {
-        "name": "triple117 (Dual Audio)",
+        "name": "ScaredofAniplex (Dual Audio)",
         "status": ""
       }
     ],
@@ -12707,7 +12707,7 @@
     "alt_title": "Enen no Shouboutai: San no Shou",
     "year": 2025,
     "format": "TV",
-    "notes": "VARYG is a CR WEB-DL\nThe JPN is lowpassed but still a nice improvement over CR due much better compression. They didn't mess up the audio this time either",
+    "notes": "Erai-raws is a CR WEB-DL\nThe JPN is lowpassed but still a nice improvement over CR due much better compression. They didn't mess up the audio this time either",
     "comparison": "https://slow.pics/c/t7mF5Hcb",
     "best_releases": [
       {
@@ -12717,7 +12717,7 @@
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
+        "name": "Erai-raws",
         "status": ""
       }
     ]
@@ -13447,20 +13447,15 @@
     "alt_title": "Akuyaku Reijou Tensei Oji-san",
     "year": 2025,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+SubsPlus+ (HIDI with automated improvements)\nGetItTwisted is ReinForce+SubsPlus+\nThe JPN BD is chroma lowpassed, but the web sources are incredibly starved so it's irrelevant for watching",
-    "comparison": "https://slow.pics/c/Dbo58NmG",
+    "notes": "YURASUKA is GER BD Encode+SubsPlus+ (HIDI with automated improvements)",
+    "comparison": "https://slow.pics/c/bK7LAteT\nhttps://slow.pics/c/Dbo58NmG",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "GetItTwisted (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "From Old Country Bumpkin to Master Swordsman",
@@ -13926,17 +13921,17 @@
     "alt_title": "Gankutsuou",
     "year": 2004,
     "format": "TV",
-    "notes": "LazyRemux is JPN BD Remux+WSE\nWSE is VietHD+Dekinai",
-    "comparison": "",
+    "notes": "TROLLORANGE is a CR WEB-DL\nDekinai subs are modified KAA (R1) with improved timing, adjusted styling, and added OP/ED lyrics\nThe BDs are bad upscales",
+    "comparison": "https://slow.pics/c/ZtkGTEWA\nhttps://www.diffchecker.com/iX4fvLv8/",
     "best_releases": [
       {
-        "name": "LazyRemux (Dual Audio)",
-        "status": ""
+        "name": "CR+Dekinai",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "WSE (Dual Audio)",
+        "name": "TROLLORANGE",
         "status": ""
       }
     ]
@@ -14269,8 +14264,8 @@
     "alt_title": "Kikou Souseiki Mospeada",
     "year": 1983,
     "format": "TV",
-    "notes": "Bunny Hat is JPN BD Encode+\"retimed ADV subtitles with some editing\"\nKagura would be a better alt",
-    "comparison": "https://slow.pics/c/hvEFYBhW\nhttps://www.diffchecker.com/h0U5TEQg/",
+    "notes": "Holomux is Kagura+Bunny Hat (retimed ADV subtitles with some editing) and modified Ra-Calium",
+    "comparison": "https://slow.pics/c/hvEFYBhW\nhttps://www.diffchecker.com/h0U5TEQg/\nhttps://www.diffchecker.com/HKCsbrC9/",
     "best_releases": [
       {
         "name": "JPN BD+Bunny Hat",
@@ -14279,8 +14274,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Bunny Hat",
-        "status": ""
+        "name": "Holomux",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -16071,6 +16066,46 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Gurazeni: Money Pitch",
+    "alt_title": "Gurazeni",
+    "year": 2018,
+    "format": "TV",
+    "notes": "Commie is CR WEBRip+Fansub based on CR",
+    "comparison": "https://slow.pics/c/f9s63Pjg\nhttps://www.diffchecker.com/n11KM1Og/",
+    "best_releases": [
+      {
+        "name": "CR+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Commie",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Gurazeni: Money Pitch 2",
+    "alt_title": "Gurazeni 2",
+    "year": 2018,
+    "format": "TV",
+    "notes": "Commie is CR WEBRip+Fansub based on CR",
+    "comparison": "https://slow.pics/c/7EHnwR8O\nhttps://www.diffchecker.com/tWJRGXO1/",
+    "best_releases": [
+      {
+        "name": "CR+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Commie",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Gurren Lagann",
@@ -29738,17 +29773,17 @@
     "alt_title": "Vigilante: Boku no Hero Academia ILLEGALS",
     "year": 2025,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR, AMZN, and NF\nVARYG is a CR WEB-DL",
+    "notes": "CRUCiBLE is JPN BD Remux+CR, AMZN, and NF. Subs are using the wrong matrix\nErai-raws is a CR WEB-DL",
     "comparison": "https://slow.pics/c/rnKh3TxE",
     "best_releases": [
       {
         "name": "CRUCiBLE (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
+        "name": "Erai-raws",
         "status": ""
       }
     ]
@@ -34433,11 +34468,15 @@
     "alt_title": "Eiga Daisuki Pompo-san",
     "year": 2021,
     "format": "MOVIE",
-    "notes": "Kawatare is ITA BD Encode+Sylvar (Restyled GSK_Kun with some minor edits and positioning adjusted for the hardsubbed scenes) and PGS\nEvery source except the ITA BD has very strong banding, uses the theatrical master, or both",
+    "notes": "Kawatare is ITA BD Encode+Sylvar (Restyled GSK_Kun with some minor edits and positioning adjusted for the hardsubbed scenes) and PGS\nnekotan is Kawatare with dub\nEvery source except the ITA BD has very strong banding, uses the theatrical master, or both",
     "comparison": "https://slow.pics/c/Bv2yHNUp\nhttps://slow.pics/c/1zIOjBMv\nhttps://slow.pics/c/fNJXJ2A9\nhttps://www.diffchecker.com/ylWRNbBD/",
     "best_releases": [
       {
         "name": "Kawatare",
+        "status": ""
+      },
+      {
+        "name": "nekotan (Dual Audio)",
         "status": ""
       }
     ],
@@ -37913,12 +37952,12 @@
     "alt_title": "Yuusha no Kuzu",
     "year": 2026,
     "format": "TV",
-    "notes": "VARYG is a CR WEB-DL\nThe usual suspects would be better alt once the BD finishes releasing",
+    "notes": "Erai-raws is a CR WEB-DL\nThe usual suspects would be better alt once the BD finishes releasing",
     "comparison": "https://slow.pics/c/UHp2LEnc",
     "best_releases": [],
     "alt_releases": [
       {
-        "name": "VARYG",
+        "name": "Erai-raws",
         "status": ""
       }
     ]
@@ -47799,11 +47838,15 @@
     "alt_title": "Tsuki ga Kirei",
     "year": 2017,
     "format": "TV",
-    "notes": "Kawatare is JPN BD Encode+LYS1TH3A\nLYS1TH3A is Beatrice-Raws+Netaro (modified GHS) and PGS",
+    "notes": "Kawatare is JPN BD Encode+LYS1TH3A\nnekotan is Kawatare with dub\nLYS1TH3A is Beatrice-Raws+Netaro (modified GHS) and PGS",
     "comparison": "https://slow.pics/c/eseoGIAO\nhttps://slow.pics/c/CkBFNYCU\nhttps://slow.pics/c/vaRq7kBy",
     "best_releases": [
       {
         "name": "Kawatare",
+        "status": ""
+      },
+      {
+        "name": "nekotan (Dual Audio)",
         "status": ""
       }
     ],
@@ -49204,17 +49247,17 @@
     "alt_title": "Kirei ni Shitemoraemasu ka.",
     "year": 2026,
     "format": "TV",
-    "notes": "12GaugeShotgun is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nBatch contains one (1) typo fix\nThe JPN BD has a slight lowpass but better compression than CR",
+    "notes": "12GaugeShotgun is JPN BD Remux+Latest CR (Fixes a typo). Subs are using the wrong matrix\nErai-raws is a CR WEB-DL\nThe JPN BD has a slight lowpass but better compression than CR",
     "comparison": "https://slow.pics/c/NXs0N2v0",
     "best_releases": [
       {
         "name": "12GaugeShotgun",
-        "status": "not_nyaa"
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
-        "name": "VARYG",
+        "name": "Erai-raws",
         "status": ""
       }
     ]
@@ -49354,7 +49397,7 @@
     "alt_title": "Tenki no Ko",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "RiMJOB is ITA BD Remux+Kaizoku (Github), Lonely Hikikomori, PGS, and iT\nKawatare is ITA BD Encode+Kaizoku (Github), Lonely Hikikomori, and iT\nKaizoku (Github) subs with a few fixes are linked in the comp section",
+    "notes": "RiMJOB is ITA BD Remux+Kaizoku (Github), Lonely Hikikomori, PGS, and iT\nKawatare is ITA BD Encode+Kaizoku (Github), Lonely Hikikomori, and iT\nnekotan is Kawatare with dub\nKaizoku (Github) subs with a few fixes are linked in the comp section",
     "comparison": "https://slow.pics/c/6YLH2qh5\nhttps://slow.pics/c/j0h3fB8K\nhttps://slow.pics/c/mQTJ7JyQ\nhttps://www.diffchecker.com/9EsWa1uJ/\nhttps://www.diffchecker.com/qDqC5xuu/\nhttps://www.diffchecker.com/nypK5f6K/\nhttps://www.diffchecker.com/15VhWtVn/\nhttps://bin.theindex.moe/?07357c74e4b67ab1#3WtdrfgcEsfEm7ngcNHzrfZF2YuWyjfDBVaXqPgftwve",
     "best_releases": [
       {
@@ -49365,6 +49408,10 @@
     "alt_releases": [
       {
         "name": "Kawatare",
+        "status": ""
+      },
+      {
+        "name": "nekotan (Dual Audio)",
         "status": ""
       }
     ]
