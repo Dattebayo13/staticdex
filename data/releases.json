@@ -4614,18 +4614,18 @@
     "alt_title": "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
     "year": 2022,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+neoDESU (Restyled CR with some TS and OP/ED TL) and PGS\nNTW is VCB-Studio+neoDESU",
+    "notes": "Headpatter is JPN BD Remux+neoDESU with fixed dialogue timing (half the episodes were 1 frame off), stock CR, and PGS\nHeadpatter is also VCB-Studio with the same subs\nneoDESU subs are restyled CR with some TS and OP/ED TLs",
     "comparison": "https://slow.pics/c/OFge94gF",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "NTW (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -6876,6 +6876,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Butareba -The Story of a Man Turned into a Pig-",
+    "alt_title": "Buta no Liver wa Kanetsu Shiro",
+    "year": 2023,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL\nThe JPN BD is a pretty minor upgrade over CR, it handles busy scenes better and has BD changes, but also sometimes has more banding than CR",
+    "comparison": "https://slow.pics/c/yL0AQJht\nhttps://slow.pics/c/oTqE7DID",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "BUZZER BEATER",
@@ -10248,11 +10268,11 @@
     "alt_title": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
     "year": 2025,
     "format": "MOVIE",
-    "notes": "ScaredofAniplex is CR Majin WEBRip+Unfucked (CR with TS adapted from the German track, and a few minor edits) with some timing changes. The JPN BD was spliced in for some scenes\nThe JPN BD has terrible sharpening (possibly sourced from a 4K upscale?). Compression is better than CR but it doesn't really matter when the lineart is destroyed\nThe Majin stream is a new test encode on CR, it has much higher bitrate peaks and offers significantly better compression in busy scenes, as well as less banding in general",
+    "notes": "BlackRose is ScaredofAniplex+Modified NF with modified Unfucked (TS adapted from German CR) TS\nScaredofAniplex is CR Majin WEBRip with the JPN BD spliced in for some scenes\nThe JPN BD has terrible sharpening (possibly sourced from a 4K upscale?). Compression is better than CR but it doesn't really matter when the lineart is destroyed\nThe Majin stream is a new test encode on CR, it has much higher bitrate peaks and offers significantly better compression in busy scenes, as well as less banding in general",
     "comparison": "https://slow.pics/c/wmaWhNt1\nhttps://slow.pics/c/0xy1FKZh\nhttps://www.diffchecker.com/xZXrUcmg/",
     "best_releases": [
       {
-        "name": "ScaredofAniplex (Dual Audio)",
+        "name": "BlackRose (Dual Audio)",
         "status": ""
       }
     ],
@@ -10809,6 +10829,21 @@
     "format": "TV",
     "notes": "sam is WEBRip+Fansub based on CR\nSame deal as the first cour, the JPN BD has a ton of banding and is worse than CR let alone the WEBRip (aside from the OP/ED, which are much better)",
     "comparison": "https://slow.pics/c/ouGS2INO\nhttps://www.diffchecker.com/luaBaAzz/",
+    "best_releases": [
+      {
+        "name": "sam (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Dr. STONE SCIENCE FUTURE Cour 3",
+    "alt_title": "Dr. STONE: SCIENCE FUTURE Part 3",
+    "year": 2026,
+    "format": "TV",
+    "notes": "sam is WEBRip+Fansub based on CR\nSame as previous cours, JPN BD has more banding and negligible compression benefits over CR aside from the OP",
+    "comparison": "https://slow.pics/c/13uniOcD\nhttps://www.diffchecker.com/qkFHmqci/",
     "best_releases": [
       {
         "name": "sam (Dual Audio)",
@@ -24197,12 +24232,12 @@
     "alt_title": "",
     "year": 2013,
     "format": "MOVIE",
-    "notes": "Sho is JPN BD Remux+Arid and PGS\nArid is Chotab+gg restyled to match Asenshi\nStore needs to be watched with MPV deband, otherwise get the encode",
-    "comparison": "https://slow.pics/c/27hj4nsE",
+    "notes": "Arid is Chotab+gg restyled to match Asenshi",
+    "comparison": "https://slow.pics/c/fUCHS66R\nhttps://slow.pics/c/27hj4nsE",
     "best_releases": [
       {
-        "name": "Sho (Dual Audio)",
-        "status": ""
+        "name": "ThanksBB+Arid",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
@@ -27266,11 +27301,11 @@
     "alt_title": "Kobayashi-san Chi no Maidragon: Samishigariya no Ryuu",
     "year": 2025,
     "format": "MOVIE",
-    "notes": "YURASUKA is JPN BD Encode+whomst with signs and songs adapted from Kopajasubs\nwhomst subs are NF with improved timing, some missing signs added, and mistakes fixed",
+    "notes": "Freehold is YURASUKA+CR and whomst (NF with improved timing, some missing signs added, and mistakes fixed). Both tracks have TS added in the style of DDY/0x539. Some TS repurposed from YURASUKA, as well as their OP/ED (Which in turn was adapted from Kopajasubs)",
     "comparison": "https://slow.pics/c/oIMVbJUj\nhttps://slow.pics/c/BqvqKC8l\nhttps://slow.pics/c/V2VSCWyJ\nhttps://www.diffchecker.com/B6YuK9cy/",
     "best_releases": [
       {
-        "name": "YURASUKA",
+        "name": "Freehold (Dual Audio)",
         "status": ""
       }
     ],
@@ -37894,14 +37929,19 @@
     "year": 2015,
     "format": "TV",
     "notes": "smol is JPN BD Encode+restyled FFF",
-    "comparison": "https://slow.pics/c/PxA2u6Hp",
+    "comparison": "https://slow.pics/c/44wqQMUG\nhttps://slow.pics/c/PxA2u6Hp",
     "best_releases": [
+      {
+        "name": "ThanksBB+smol",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "smol (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Science Fell in Love, So I Tried to Prove It",
@@ -50432,6 +50472,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "X",
+    "alt_title": "",
+    "year": 1996,
+    "format": "MOVIE",
+    "notes": "AnoZu is a CR WEB-DL\nCR is a big upgrade over the HDTV releases (previously the only source for the new HD scan) with much better compression and no dimming/ghosting\nThe GER BD is a terrible DVD upscale, do not redeem",
+    "comparison": "https://slow.pics/c/hUqKzBmB\nhttps://www.diffchecker.com/qqvDtdyw/\nhttps://www.diffchecker.com/xNG7gcRC/",
+    "best_releases": [
+      {
+        "name": "AnoZu",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Xam'd: Lost Memories",
