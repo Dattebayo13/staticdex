@@ -16107,40 +16107,30 @@
     "alt_title": "Gurazeni",
     "year": 2018,
     "format": "TV",
-    "notes": "Commie is CR WEBRip+Fansub based on CR",
+    "notes": "Headpatter is CR WEB-DL+Commie (Fansub based on CR) and stock CR",
     "comparison": "https://slow.pics/c/f9s63Pjg\nhttps://www.diffchecker.com/n11KM1Og/",
     "best_releases": [
       {
-        "name": "CR+Commie",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Commie",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Gurazeni: Money Pitch 2",
     "alt_title": "Gurazeni 2",
     "year": 2018,
     "format": "TV",
-    "notes": "Commie is CR WEBRip+Fansub based on CR",
+    "notes": "Headpatter is CR WEB-DL+Commie (Fansub based on CR) and stock CR",
     "comparison": "https://slow.pics/c/7EHnwR8O\nhttps://www.diffchecker.com/tWJRGXO1/",
     "best_releases": [
       {
-        "name": "CR+Commie",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Commie",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Gurren Lagann",
@@ -26698,6 +26688,26 @@
       {
         "name": "Orphan",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "MEGANEBU!",
+    "alt_title": "Meganebu!",
+    "year": 2013,
+    "format": "TV",
+    "notes": "-ZR- is USA BD Remux+(Yellow) PGS\nThe USA BD is a massive upgrade over CR, which is stuck on the old 3Mbps stream. It does however have the gamma bug, which can be fixed with -6 gamma in mpv",
+    "comparison": "https://slow.pics/c/gU1fXeDS",
+    "best_releases": [
+      {
+        "name": "USA BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "-ZR-",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -40099,8 +40109,8 @@
     "alt_releases": []
   },
   {
-    "title": "Tokubetsu-hen Hibike! Euphonium: Ensemble Contest",
-    "alt_title": "",
+    "title": "Sound! Euphonium: Ensemble Contest",
+    "alt_title": "Tokubetsu-hen Hibike! Euphonium: Ensemble Contest",
     "year": 2023,
     "format": "OVA",
     "notes": "Okay-Subs is JPN BD Encode+OTL",
