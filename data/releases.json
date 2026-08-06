@@ -1974,6 +1974,26 @@
     ]
   },
   {
+    "title": "An Adventurer’s Daily Grind at Age 29",
+    "alt_title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+    "year": 2026,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+Restyled CR with TS adapted from the German track\nVARYG is a CR WEB-DL\nThe JPN BD has much better compression and some BD changes, there is a slight chroma shift though\nReinforce+NAN0 would be a better alt",
+    "comparison": "https://slow.pics/c/wnopylff",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
     "alt_title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
     "year": 2024,
@@ -26582,7 +26602,7 @@
     "alt_title": "Mecha-ude (TV)",
     "year": 2024,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+CR\nSubsPlease is a CR WEB-DL\nThe JPN BD is much better",
+    "notes": "PMR is JPN BD Remux+CR\nPolarwindz is JPN BD Encode+CR\nThe JPN BD is much better",
     "comparison": "https://slow.pics/c/tk52XQnP",
     "best_releases": [
       {
@@ -26592,7 +26612,7 @@
     ],
     "alt_releases": [
       {
-        "name": "SubsPlease",
+        "name": "Polarwindz",
         "status": ""
       }
     ]
@@ -33943,7 +33963,7 @@
     "alt_releases": []
   },
   {
-    "title": "Phi Brain: Puzzle of God",
+    "title": "Phi-Brain: Puzzle of God",
     "alt_title": "Phi Brain: Kami no Puzzle",
     "year": 2011,
     "format": "TV",
@@ -46425,15 +46445,20 @@
     "alt_title": "Nozomanu Fushi no Boukensha",
     "year": 2024,
     "format": "ONA",
-    "notes": "VARYG is a CR WEB-DL\nUSA BD sucks as per",
-    "comparison": "https://slow.pics/c/jrxxT4tC",
+    "notes": "Headpatter is H-Enc+Restyled CR with TS adapted from the German track, stock CR, and PGS\nThe JPN BD isn't great and struggles quite a bit with blocking in dark scenes but is still the best option compared to the pauper USA BD with all the usual issues, and CR which is extremely starved in busy scenes and misses out on BD changes",
+    "comparison": "https://slow.pics/c/BbEQsUuA\nhttps://slow.pics/c/g2pQDGjx\nhttps://slow.pics/c/qPduFDc1",
     "best_releases": [
       {
-        "name": "VARYG (Dual Audio)",
-        "status": ""
+        "name": "JPN BD+Headpatter",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "The Vampire Dies in No Time",
@@ -46499,7 +46524,7 @@
     "alt_title": "Hime Kishi wa Barbaroi no Yome",
     "year": 2026,
     "format": "TV",
-    "notes": "Chihiro is CR WEBRip+Fansub based on CR\nThe JPN BD is overall a pretty minor upgrade over CR, with the main benefits being some BD changes and much better compression for busy scenes like grainy flashbacks. Both stores have very strong banding so MPV Deband is a requirement, otherwise get the WEBRip",
+    "notes": "Chihiro is CR WEBRip+Fansub based on CR\nFoundYears is Chihiro with dub\nThe JPN BD is overall a pretty minor upgrade over CR, with the main benefits being some BD changes and much better compression for busy scenes like grainy flashbacks. Both stores have very strong banding so MPV Deband is a requirement, otherwise get the WEBRip",
     "comparison": "https://slow.pics/c/no7XaQHw\nhttps://slow.pics/c/KKhnyIxj\nhttps://www.diffchecker.com/MHWj4ODP/",
     "best_releases": [
       {
@@ -46510,6 +46535,10 @@
     "alt_releases": [
       {
         "name": "Chihiro",
+        "status": ""
+      },
+      {
+        "name": "FoundYears (Dual Audio)",
         "status": ""
       }
     ]
@@ -51062,6 +51091,21 @@
     "alt_releases": [
       {
         "name": "Holomux (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Yu-Gi-Oh! 5D's",
+    "alt_title": "Yu☆Gi☆Oh! 5D's",
+    "year": 2008,
+    "format": "TV",
+    "notes": "Alexvgz is AMZN WEB-DL+Modified CR\nVideo quality is pretty bad but the alternatives are the GER BD which is cropped, blurred, and only contains the 4Kids cut for the vast majority of episodes, and CR which is double range compressed, very starved, and only has a 1080p stream for three (3) episodes\nAs for subtitles they're pretty heavily edited CR for the first 3 ish seasons (~episode 90), and then unmodified CR afterwards, which causes inconsistencies with names/terminology used. Timing is also poor but it's the best release we've got",
+    "comparison": "https://slow.pics/c/LhW3nNDD\nhttps://www.diffchecker.com/6MRSw2e9/\nhttps://www.diffchecker.com/nPee2vV7/\nhttps://www.diffchecker.com/OAx2LuIg/",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "Alexvgz",
         "status": ""
       }
     ]
