@@ -12135,6 +12135,21 @@
     "alt_releases": []
   },
   {
+    "title": "False Memory",
+    "alt_title": "Jiyi Guanli Ju",
+    "year": null,
+    "format": "ONA",
+    "notes": "Chika is BSITE HEVC HBR WEBRip+Restyled CicakRumah with a few lines retimed, LayoutRes added, and the credits sign fixed",
+    "comparison": "https://slow.pics/c/I6UlZETT",
+    "best_releases": [
+      {
+        "name": "Chika (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Farewell, My Dear Cramer",
     "alt_title": "Sayonara Watashi no Cramer",
     "year": 2021,
@@ -20034,6 +20049,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Inukami! The Movie: Spiritual Investigator Shiro Karina!",
+    "alt_title": "Inukami! THE MOVIE: Tokumei Reiteki Sousakan Karina Shirou!",
+    "year": 2007,
+    "format": "MOVIE",
+    "notes": "Headpatter is jsum+OCR'd PGS, and PGS",
+    "comparison": "https://slow.pics/c/bp4VOG63",
+    "best_releases": [
+      {
+        "name": "JPN BD+Headpatter",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "INUYASHIKI LAST HERO",
@@ -31257,12 +31292,12 @@
     "alt_title": "Tsuyokute New Saga",
     "year": 2025,
     "format": "TV",
-    "notes": "NOGRP is VCB-Studio+CR, next episode TS is a few frames too long\nThe store is full of aliasing which VCB fixes. Additionally the OP is completely destroyed, it's starved and has extremely strong banding that MPV Deband stands no chance against. VCB uses ancient Chinese techniques to...at least make it bearable",
+    "notes": "Headpatter is VCB-Studio+Restyled and stock CR\nThe store is full of aliasing which VCB fixes. Additionally the OP is completely destroyed, it's starved and has extremely strong banding that MPV Deband stands no chance against. VCB uses ancient Chinese techniques to...at least make it bearable",
     "comparison": "https://slow.pics/c/OefLnm8V",
     "best_releases": [
       {
-        "name": "NOGRP",
-        "status": "broken"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -38022,13 +38057,18 @@
     "alt_title": "Yuusha no Kuzu",
     "year": 2026,
     "format": "TV",
-    "notes": "Erai-raws is a CR WEB-DL\nThe usual suspects would be better alt once the BD finishes releasing",
+    "notes": "SubsPlease is a CR WEB-DL. Contains the latest CR subs, but some TS is broken from their restyle\nThe usual suspects would be better alt once the BD finishes releasing\n*Make sure to use the latest subs",
     "comparison": "https://slow.pics/c/UHp2LEnc",
-    "best_releases": [],
+    "best_releases": [
+      {
+        "name": "JPN BD+CR*",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
-        "name": "Erai-raws",
-        "status": ""
+        "name": "SubsPlease",
+        "status": "broken"
       }
     ]
   },
