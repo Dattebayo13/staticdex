@@ -159,18 +159,18 @@
     "alt_title": "2.43: Seiin Koukou Danshi Volley-bu",
     "year": 2021,
     "format": "TV",
-    "notes": "CDL is old FUNI WEB-DL+Erai-raws (FUNI with TS)\nIrizaRaws would be a better alt",
+    "notes": "Headpatter is JPN BD Remux+Erai-raws (FUNI with TS) and PGS\nHeadpatter is also IrizaRaws with the same subs",
     "comparison": "https://slow.pics/c/daYzUiKp",
     "best_releases": [
       {
-        "name": "JPN BD+CDL",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "CDL (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -18187,6 +18187,21 @@
     "alt_releases": []
   },
   {
+    "title": "Hokkaido Gals Are Super Adorable!",
+    "alt_title": "Dosanko Gal wa Namara Menkoi",
+    "year": 2024,
+    "format": "TV",
+    "notes": "YURASUKA is JPN BD Encode+Restyled CR. Restyle messes with some TS and perspective is broken",
+    "comparison": "https://slow.pics/c/tljVLRx6\nhttps://slow.pics/c/eBAdbJ0U",
+    "best_releases": [
+      {
+        "name": "YURASUKA (Dual Audio)",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Holmes of Kyoto",
     "alt_title": "Kyoto Teramachi Sanjou no Holmes",
     "year": 2018,
@@ -20055,12 +20070,12 @@
     "alt_title": "Inukami! THE MOVIE: Tokumei Reiteki Sousakan Karina Shirou!",
     "year": 2007,
     "format": "MOVIE",
-    "notes": "Headpatter is jsum+OCR'd PGS, and PGS",
+    "notes": "Headpatter is JPN BD Remux+OCR'd PGS, and PGS\nHeadpatter is also jsum with the same subs",
     "comparison": "https://slow.pics/c/bp4VOG63",
     "best_releases": [
       {
-        "name": "JPN BD+Headpatter",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
