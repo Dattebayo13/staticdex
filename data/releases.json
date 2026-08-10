@@ -1978,7 +1978,7 @@
     "alt_title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "year": 2026,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+Restyled CR with TS adapted from the German track\nVARYG is a CR WEB-DL\nThe JPN BD has much better compression and some BD changes, there is a slight chroma shift though\nReinforce+NAN0 would be a better alt",
+    "notes": "NAN0 is JPN BD Remux+Restyled CR with TS adapted from the German track\nHeadpatter is Reinforce+Restyled and stock NAN0\nThe JPN BD has much better compression and some BD changes, there is a slight chroma shift though",
     "comparison": "https://slow.pics/c/wnopylff",
     "best_releases": [
       {
@@ -1988,8 +1988,8 @@
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -7471,6 +7471,30 @@
       {
         "name": "LoreLoli",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "LUPIN THE 3rd vs. CAT’S EYE",
+    "alt_title": "Lupin III VS Cat's Eye",
+    "year": 2023,
+    "format": "ONA",
+    "notes": "MuGi is ITA BD Remux+AMZN\nErai-raws and playWEB are AMZN WEB-DLs\nThe JPN BD is terrible and the USA BD is just a re-encode of it",
+    "comparison": "https://slow.pics/c/E79BcC0s\nhttps://www.diffchecker.com/Wp0IVQnI/",
+    "best_releases": [
+      {
+        "name": "MuGi (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      },
+      {
+        "name": "playWEB (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
