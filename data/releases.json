@@ -12801,12 +12801,12 @@
     "alt_title": "Enen no Shouboutai: San no Shou",
     "year": 2025,
     "format": "TV",
-    "notes": "Erai-raws is a CR WEB-DL\nThe JPN is lowpassed but still a nice improvement over CR due much better compression. They didn't mess up the audio this time either",
+    "notes": "GetItTwisted is JPN BD Remux+Restyled CR with TS adapted from Hakoniwa, Italian CR, and some of their own work. OP/ED use Hakoniwa KFX with official TL\nErai-raws is a CR WEB-DL\nThe JPN is lowpassed but still a nice improvement over CR due much better compression. They didn't mess up the audio this time either",
     "comparison": "https://slow.pics/c/t7mF5Hcb",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -18215,12 +18215,12 @@
     "alt_title": "Dosanko Gal wa Namara Menkoi",
     "year": 2024,
     "format": "TV",
-    "notes": "YURASUKA is JPN BD Encode+Restyled CR. Restyle messes with some TS and perspective is broken",
-    "comparison": "https://slow.pics/c/tljVLRx6\nhttps://slow.pics/c/eBAdbJ0U",
+    "notes": "YURASUKA is JPN BD Encode+Restyled CR",
+    "comparison": "https://slow.pics/c/tljVLRx6",
     "best_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
-        "status": "broken"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -23560,6 +23560,26 @@
     ]
   },
   {
+    "title": "Kyou kara Ore wa!!",
+    "alt_title": "",
+    "year": 1993,
+    "format": "OVA",
+    "notes": "B00BA is JPN BD Remux+mottoj (Saizen-Yabai)\nmottoj-edited is mottoj with the external \"v.2 refined sync subs\" muxed in\nSubs are a mess in both releases with the sync being anything but refined. There's scenebleeds everywhere, TS not even close to matching the new scan, in the case of B00BA TS expanding into the pillarboxing and subs being stretched. Even with all the issues these are the only watchable options since the DVD is truly awful",
+    "comparison": "https://slow.pics/c/20BieHlJ",
+    "best_releases": [
+      {
+        "name": "B00BA",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "mottoj-edited",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Kyousougiga",
     "alt_title": "Kyousougiga (TV)",
     "year": 2013,
@@ -24316,12 +24336,12 @@
     "alt_title": "",
     "year": 2013,
     "format": "MOVIE",
-    "notes": "Arid is Chotab+gg restyled to match Asenshi",
+    "notes": "Headpatter is ThanksBB+Arid and PGS\nArid is Chotab+gg restyled to match Asenshi",
     "comparison": "https://slow.pics/c/fUCHS66R\nhttps://slow.pics/c/27hj4nsE",
     "best_releases": [
       {
-        "name": "ThanksBB+Arid",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -25290,6 +25310,46 @@
     ]
   },
   {
+    "title": "Macross 7",
+    "alt_title": "",
+    "year": 1994,
+    "format": "TV",
+    "notes": "NTb is a DSNP WEB-DL\nExisting BD releases all use the terrible Central Anime subs",
+    "comparison": "https://slow.pics/c/2tVyfgPr\nhttps://www.diffchecker.com/orgt5iQM/",
+    "best_releases": [
+      {
+        "name": "JPN BD+DSNP",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "NTb",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Macross Plus Movie Edition",
+    "alt_title": "Macross Plus MOVIE EDITION",
+    "year": 1995,
+    "format": "MOVIE",
+    "notes": "Space is Kagura+ChumoSubs, Retail, and PGS\nThe 2026 JPN BD would be a better alt",
+    "comparison": "https://slow.pics/c/xJxZKwjO\nhttps://www.diffchecker.com/MFpldLEG/",
+    "best_releases": [
+      {
+        "name": "4K JPN BD+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Space",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Macross Frontier",
     "alt_title": "",
     "year": 2008,
@@ -25333,26 +25393,6 @@
       }
     ],
     "alt_releases": []
-  },
-  {
-    "title": "Macross Plus Movie Edition",
-    "alt_title": "Macross Plus MOVIE EDITION",
-    "year": 1995,
-    "format": "MOVIE",
-    "notes": "Space is Kagura+ChumoSubs, Retail, and PGS\nThe 2026 JPN BD would be a better alt",
-    "comparison": "https://slow.pics/c/xJxZKwjO\nhttps://www.diffchecker.com/MFpldLEG/",
-    "best_releases": [
-      {
-        "name": "4K JPN BD+?",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Space",
-        "status": ""
-      }
-    ]
   },
   {
     "title": "Madam is a Magical Girl",
@@ -38032,20 +38072,15 @@
     "alt_title": "Gakkou Gurashi!",
     "year": 2015,
     "format": "TV",
-    "notes": "smol is JPN BD Encode+restyled FFF",
+    "notes": "Headpatter is ThanksBB+smol (restyled FFF), and PGS",
     "comparison": "https://slow.pics/c/44wqQMUG\nhttps://slow.pics/c/PxA2u6Hp",
     "best_releases": [
       {
-        "name": "ThanksBB+smol",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "smol (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Science Fell in Love, So I Tried to Prove It",
