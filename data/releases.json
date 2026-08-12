@@ -16849,11 +16849,11 @@
     "alt_title": "Hanebado!",
     "year": 2018,
     "format": "TV",
-    "notes": "LaCroiX is JPN BD Remux+9volt, CR, and PGS\n9volt is Raws-Maji+edited Bakemono (1-4) and stock Bakemono (5-13)\nSquash is 9volt with dub\nStore is enjoyed best with MPV deband",
-    "comparison": "https://slow.pics/c/bDZCYAXV",
+    "notes": "ZeroBuild is JPN BD Encode+LaCroiX (9volt with some minor fixes) and CR\n9volt is Raws-Maji+edited Bakemono (1-4) and stock Bakemono (5-13)\nSquash is 9volt with dub",
+    "comparison": "https://slow.pics/c/ZoidapHL\nhttps://slow.pics/c/bDZCYAXV",
     "best_releases": [
       {
-        "name": "LaCroiX (Dual Audio)",
+        "name": "ZeroBuild (Dual Audio)",
         "status": ""
       }
     ],
@@ -22935,9 +22935,15 @@
     "alt_title": "",
     "year": 2017,
     "format": "TV",
-    "notes": "mottoj is JPN BD Encode+LostYears\nKH is mottoj+LostYears and PGS\nmottoj is pretty starved but fixes a lot of issues with the store",
-    "comparison": "https://slow.pics/c/KrKaFgwa",
+    "notes": "ZeroBuild is JPN BD Encode+mottoj with layoutres added and episode 9 ED fixed\nmottoj is JPN BD Encode+LostYears\nKH is mottoj+LostYears and PGS",
+    "comparison": "https://slow.pics/c/6uQYkIyV\nhttps://slow.pics/c/KrKaFgwa",
     "best_releases": [
+      {
+        "name": "ZeroBuild (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "KH (Dual Audio)",
         "status": ""
@@ -22946,8 +22952,7 @@
         "name": "mottoj",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Knights of Sidonia",
@@ -24796,11 +24801,11 @@
     "alt_title": "Prism Rondo",
     "year": 2026,
     "format": "ONA",
-    "notes": "Trix is NF HDR AV1 WEB-DL+Restyled NF, has re-encoded audio (average AV1 group)\nVARYG is NF SDR WEB-DL\nNetflix quality is yet again cooked, the HDR AV1 stream is the least offensive but it's not good by any means and still falls apart badly in many scenes. It will get a BD one day right guys...right?",
+    "notes": "Chika is NF HDR AV1 WEB-DL+Trix (Restyled NF)\nVARYG is NF SDR WEB-DL\nNetflix quality is yet again cooked, the HDR AV1 stream is the least offensive but it's not good by any means and still falls apart badly in many scenes. It will get a BD one day right guys...right?",
     "comparison": "https://slow.pics/c/jlRt6FIV",
     "best_releases": [
       {
-        "name": "Trix (Dual Audio)",
+        "name": "Chika (Dual Audio)",
         "status": ""
       }
     ],
@@ -50186,20 +50191,15 @@
     "alt_title": "Tsue to Tsurugi no Wistoria",
     "year": 2024,
     "format": "TV",
-    "notes": "FLE is JPN BD Remux+CR typeset with OP/ED TL\nStarbez is Reza+FLE\nH-Enc would make a better alt",
-    "comparison": "https://slow.pics/c/7Gl6d0yO\nhttps://slow.pics/c/XohFAAAw\nhttps://slow.pics/c/kyA820o2",
+    "notes": "FLE is JPN BD Encode+CR restyled, retimed, typeset, with KFX",
+    "comparison": "https://slow.pics/c/y0HPaHhP",
     "best_releases": [
       {
         "name": "FLE (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Starbez (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Witch Craft Works",
@@ -51569,6 +51569,21 @@
     "best_releases": [
       {
         "name": "Drag",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Yu☆Gi☆Oh! (Movie)",
+    "alt_title": "",
+    "year": 1999,
+    "format": "MOVIE",
+    "notes": "LonelyChaser & Kineko Video is LD Encode+OTL",
+    "comparison": "https://slow.pics/c/DwuzRojo",
+    "best_releases": [
+      {
+        "name": "LonelyChaser & Kineko Video",
         "status": ""
       }
     ],
