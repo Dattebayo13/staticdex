@@ -8479,22 +8479,18 @@
     "alt_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
     "year": 2024,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+CR and PGS\n-ZR- and SubsPlease are CR WEB-DLs\nMOREPOWER isn't recommended as they use subs with an ESL OP/ED TL, and the releaser has a bad history with dialogue edits",
-    "comparison": "https://slow.pics/c/wce70Wma\nhttps://slow.pics/c/yeKJQ4S3",
+    "notes": "NAN0 is JPN BD Remux+CR and PGS. CR has since made some minor script updates so the subs are slightly outdated\nSubsPlease is a CR WEB-DL with the latest subs. Typesetting has broken perspective\nMOREPOWER isn't recommended as they use subs with an ESL OP/ED TL, and the releaser has a bad history with dialogue edits",
+    "comparison": "https://slow.pics/c/wce70Wma\nhttps://slow.pics/c/yeKJQ4S3\nhttps://slow.pics/c/9nabH7y4\nhttps://slow.pics/c/H9UyJPOM",
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      },
-      {
         "name": "SubsPlease",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
