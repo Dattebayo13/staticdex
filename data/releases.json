@@ -12170,6 +12170,26 @@
     "alt_releases": []
   },
   {
+    "title": "Farewell to Space Battleship Yamato: In the Name of Love",
+    "alt_title": "Saraba Uchuu Senkan Yamato: Ai no Senshitachi",
+    "year": 1978,
+    "format": "MOVIE",
+    "notes": "RetroChocolate is 2013 JPN BD Remux+Restyled M74 with a few errors fixed and post-credit text translated. Contains the improved mono audio from the 4K JPN BD alongside the stereo mix\nM74 is 2013 JPN BD Encode+OCR'd R1 timed/styled/edited\nAll the other releases are using an inferior translation from god knows where\nThe 4K JPN BD is an awful upscale and the 2024 JPN BD is a downscale of it",
+    "comparison": "https://slow.pics/c/5ydhsQdY\nhttps://www.diffchecker.com/bGaRyJyC/",
+    "best_releases": [
+      {
+        "name": "RetroChocolate",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "M74",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Farewell, My Dear Cramer",
     "alt_title": "Sayonara Watashi no Cramer",
     "year": 2021,
@@ -13531,6 +13551,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Frieren: Beyond Journey’s End Season 2",
+    "alt_title": "Sousou no Frieren 2nd Season",
+    "year": 2026,
+    "format": "TV",
+    "notes": "kikuri is H-Enc+9volt\nThe JPN BD is lowpassed, mainly noticeable on the OP/ED which H-Enc delowpassed. It has significantly better compression than CR and some minor BD changes",
+    "comparison": "https://slow.pics/c/3KxiYivb\nhttps://slow.pics/c/qDHLRhAh",
+    "best_releases": [
+      {
+        "name": "kikuri",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
@@ -19215,7 +19250,7 @@
     "alt_title": "Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai",
     "year": 2016,
     "format": "MOVIE",
-    "notes": "Headpatter is JPN BD Remux+Arid and PGS\nArid is neko-raws(JPN BD Encode)+GJM with two (2) signs from Astral\nBeatrice-Raws would be a better alt",
+    "notes": "Headpatter is JPN BD Remux+Arid (GJM with 2 signs from Astral) and PGS\nHeadpatter is also Beatrice-Raws with the same subs",
     "comparison": "https://slow.pics/c/91CPkyl9",
     "best_releases": [
       {
@@ -19225,7 +19260,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Arid",
+        "name": "Headpatter",
         "status": ""
       }
     ]
@@ -21175,18 +21210,18 @@
     "alt_title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
     "year": 2026,
     "format": "TV",
-    "notes": "Kaizoku is WEBRip+CR edited, timed, typeset\nBunny-Apocalypse is Kaizoku v1 with dub\nThe JPN BD has better compression than CR but is still full of blocking, and has significantly blurred chroma throughout. The WEBRip will be the best option until Kaizoku's BD release drops",
-    "comparison": "https://slow.pics/c/SaKd5UGw\nhttps://www.diffchecker.com/jdxIepcV/",
+    "notes": "Purple is JPN BD Encode+Kaizoku (Latest version from GitHub). Chroma was delowpassed for the affected episodes (1-2)\nKaizoku is WEBRip+CR edited, timed, typeset",
+    "comparison": "https://slow.pics/c/ORMgn0Bt\nhttps://slow.pics/c/SaKd5UGw\nhttps://www.diffchecker.com/jdxIepcV/",
     "best_releases": [
       {
-        "name": "Kaizoku",
+        "name": "Purple (Dual Audio)",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Bunny-Apocalypse (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "Kaizoku",
+        "status": ""
       }
     ]
   },
@@ -36643,7 +36678,7 @@
     "year": 2006,
     "format": "TV",
     "notes": "Tsundere is Yousei+modified Kotomi, 11v2 doesn't have subtitles",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/1OZGvoFk",
     "best_releases": [
       {
         "name": "Tsundere",
@@ -40680,6 +40715,26 @@
     "alt_releases": []
   },
   {
+    "title": "Star Blazers: The Quest for Iscandar",
+    "alt_title": "Uchuu Senkan Yamato",
+    "year": 1974,
+    "format": "TV",
+    "notes": "Central Anime is インカ-Raws+OTL\nAs with other Central Anime releases the subs are poor, but nothing else exists. The video is also cheeks but so are the other encodes\nThe 2012 and 2023 JPN BDs have identical video, but the latter has better audio for episodes 8 and 22\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/3eF6MxKO",
+    "best_releases": [
+      {
+        "name": "2023 JPN BD+Restyled Central Anime",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Central Anime",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Star Driver",
     "alt_title": "STAR DRIVER: Kagayaki no Takuto",
     "year": 2010,
@@ -41258,15 +41313,20 @@
     "alt_title": "",
     "year": 1993,
     "format": "OVA",
-    "notes": "Headpatter is JPN BD Remux+Restyled A-FanRips modified for 16:9 video with title adjusted and overlapping dialogue fixed\nThe BD is a drastic upgrade from previous releases, the usual suspects will be a good alt when they drop",
-    "comparison": "https://slow.pics/c/eYmAbT62\nhttps://www.diffchecker.com/nBXE79px/",
+    "notes": "Headpatter is JPN BD Remux+Restyled Inka-Subs with overlapping dialogue fixed, stock Inka-Subs, and restyled A-FanRips with overlapping dialogue fixed and title sign adjusted\nInka-Subs is JPN BD Encode+Significantly reworked A-FanRips\nThe BD is a drastic upgrade from previous releases",
+    "comparison": "https://slow.pics/c/bFbFyuLr\nhttps://slow.pics/c/eYmAbT62\nhttps://www.diffchecker.com/nBXE79px/",
     "best_releases": [
       {
         "name": "Headpatter",
         "status": "not_nyaa"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Inka-Subs",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Sunday Without God",
