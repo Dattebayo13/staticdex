@@ -8799,6 +8799,26 @@
     ]
   },
   {
+    "title": "Combattler V",
+    "alt_title": "Chou Denji Robo Combattler V",
+    "year": 1976,
+    "format": "TV",
+    "notes": "drake999 is USA SDBD Remux+PGS\nSimply a placeholder entry, the JPN BD is a new scan that looks massively better",
+    "comparison": "https://slow.pics/c/y627Sxqr",
+    "best_releases": [
+      {
+        "name": "JPN BD+PGS",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "drake999",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Comet Lucifer",
     "alt_title": "",
     "year": 2015,
@@ -19163,22 +19183,22 @@
     "alt_title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
     "year": 2020,
     "format": "TV",
-    "notes": "TTGA is JPN BD Remux+CR\nSubsPlease and agro are CR WEB-DLs\nEverything needs MPV Deband, all the encodes suck",
+    "notes": "TTGA is JPN BD Remux+CR\nSubsPlease and agro are CR WEB-DLs\nEverything needs MPV Deband, all the encodes suck\nEvery release has broken typeseting perspective",
     "comparison": "https://slow.pics/c/nWbFdwSN",
     "best_releases": [
       {
         "name": "TTGA (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
         "name": "SubsPlease",
-        "status": ""
+        "status": "broken"
       },
       {
         "name": "agro (Dual Audio)",
-        "status": "not_nyaa"
+        "status": "broken"
       }
     ]
   },
@@ -19192,7 +19212,7 @@
     "best_releases": [
       {
         "name": "TTGA (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -26236,12 +26256,12 @@
     "alt_title": "Maoyuu Maou Yuusha",
     "year": 2013,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+AnimeNOW (FFF) and PGS\nYURI is Kagura+FFF\nStore requires MPV deband, otherwise get the encode. This is non-negotiable.",
+    "notes": "FLE is JPN BD Remux+Restyled AnimeNOW (FFF) with some typesetting fixes\nYURI is Kagura+FFF\nStore requires MPV deband, otherwise get the encode. This is non-negotiable.",
     "comparison": "https://slow.pics/c/Lic8Bx7C",
     "best_releases": [
       {
-        "name": "-ZR-",
-        "status": "not_nyaa"
+        "name": "FLE",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -50971,15 +50991,20 @@
     "alt_title": "Seihantai na Kimi to Boku",
     "year": 2026,
     "format": "TV",
-    "notes": "YURASUKA is JPN BD Encode+Prozac (Asakura with KFX backported to earlier episodes and missing glyphs fixed)\nAsakura is a fansub based on CR\nThe JPN BD has a ton of mosquito noise which YURASUKA cleans up",
-    "comparison": "https://slow.pics/c/l5426lqG",
+    "notes": "Ignore is JPN BD Encode+Asakura's secret unreleased latest subs with QC fixes applied\nYURASUKA is JPN BD Encode+Prozac (Asakura with KFX backported to earlier episodes and missing glyphs fixed)\nAsakura is a fansub based on CR\nThe JPN BD has a ton of mosquito noise which both encodes clean up",
+    "comparison": "https://slow.pics/c/9JiDkQha\nhttps://slow.pics/c/l5426lqG",
     "best_releases": [
+      {
+        "name": "Ignore (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "You and Me.",
@@ -51250,12 +51275,12 @@
     "alt_title": "Yuu☆Yuu☆Hakusho",
     "year": 1992,
     "format": "TV",
-    "notes": "Holomux is FBI+NPC subs",
+    "notes": "hchcsen is JPN BD Remux+Restyled Holomux with some TS tweaks, and PGS\nHolomux is FBI+Chotab (NP-Complete)",
     "comparison": "https://slow.pics/c/ezuTO5jC\nhttps://slow.pics/c/NFDe36Fk",
     "best_releases": [
       {
-        "name": "JPN BD+Holomux",
-        "status": "unmuxed"
+        "name": "hchcsen (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
