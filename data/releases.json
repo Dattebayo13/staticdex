@@ -981,12 +981,12 @@
     "alt_title": "Diamond no Ace act II",
     "year": 2019,
     "format": "TV",
-    "notes": "Commie is CR WEBRip+Modified CR\nCR should be watched with MPV Deband",
+    "notes": "Headpatter is CR WEB-DL+Commie and CR\nCommie is CR WEBRip+Modified CR\nCR should be watched with MPV Deband",
     "comparison": "https://slow.pics/c/xDJe6zAF\nhttps://www.diffchecker.com/37Rh0vlG/",
     "best_releases": [
       {
-        "name": "CR+Commie",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -8882,11 +8882,11 @@
     "alt_title": "Concrete Revolutio: Choujin Gensou",
     "year": 2015,
     "format": "TV",
-    "notes": "TROLLORANGE is a CR WEB-DL, the video isn't good but there aren't any better muxed options\nBeatrice does improve the store lineart but unfortunately has catastrophic detail loss in darker scenes (highlighted in the second comp)\nThe CW mux has severely mistimed subs in the second half of each episode",
-    "comparison": "https://slow.pics/c/r0MH8tgb\nhttps://slow.pics/c/66Ef6MRW",
+    "notes": "TROLLORANGE is a CR WEB-DL, the video isn't good but there aren't any better muxed options\nThe CW mux has severely mistimed subs in the second half of each episode",
+    "comparison": "https://slow.pics/c/GiQOu9ua",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
+        "name": "ThanksBB+CR",
         "status": "unmuxed"
       }
     ],
@@ -8894,6 +8894,26 @@
       {
         "name": "TROLLORANGE",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Concrete Revolutio: THE LAST SONG",
+    "alt_title": "Concrete Revolutio: Choujin Gensou - THE LAST SONG",
+    "year": 2016,
+    "format": "TV",
+    "notes": "TROLLORANGE is a CR WEB-DL, the video isn't good but there aren't any better muxed options\nThe CW mux has severely mistimed subs in the second half of each episode (again)\n*There's a masking error for the epilogue of episode 10 which needs splicing",
+    "comparison": "https://slow.pics/c/1tpuK2b1",
+    "best_releases": [
+      {
+        "name": "ThanksBB+CR*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "TROLLORANGE",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -19183,8 +19203,8 @@
     "alt_title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
     "year": 2020,
     "format": "TV",
-    "notes": "TTGA is JPN BD Remux+CR\nSubsPlease and agro are CR WEB-DLs\nEverything needs MPV Deband, all the encodes suck\nEvery release has broken typeseting perspective",
-    "comparison": "https://slow.pics/c/nWbFdwSN",
+    "notes": "TTGA is JPN BD Remux+CR, has various sub issues in addition to the ones below\nErai-raws is a CR WEB-DL\nEverything needs MPV Deband, all the encodes suck\nEvery release has broken typesetting perspective and missing glyphs",
+    "comparison": "https://slow.pics/c/nWbFdwSN\nhttps://slow.pics/c/QeyuzB1W",
     "best_releases": [
       {
         "name": "TTGA (Dual Audio)",
@@ -19193,11 +19213,7 @@
     ],
     "alt_releases": [
       {
-        "name": "SubsPlease",
-        "status": "broken"
-      },
-      {
-        "name": "agro (Dual Audio)",
+        "name": "Erai-raws",
         "status": "broken"
       }
     ]
@@ -25381,7 +25397,7 @@
     "alt_releases": [
       {
         "name": "NTb",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
