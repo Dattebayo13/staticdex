@@ -7170,6 +7170,21 @@
     ]
   },
   {
+    "title": "Canaan",
+    "alt_title": "",
+    "year": 2009,
+    "format": "TV",
+    "notes": "CTR is Yousei-raws+Coalgirls (ANBU-Menclave) with added preview signs\nThe store is cross-converted so Yousei is the only watchable option",
+    "comparison": "https://slow.pics/c/aVIDklSI",
+    "best_releases": [
+      {
+        "name": "CTR (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Captain Earth",
     "alt_title": "",
     "year": 2014,
@@ -8299,6 +8314,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "City Hunter 2",
+    "alt_title": "",
+    "year": 1988,
+    "format": "TV",
+    "notes": "GHOST is USA BD Encode+PGS",
+    "comparison": "https://slow.pics/c/IWxjMt9s",
+    "best_releases": [
+      {
+        "name": "JPN BD+PGS",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "GHOST",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "CITY THE ANIMATION",
