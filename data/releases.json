@@ -26778,7 +26778,7 @@
     "best_releases": [
       {
         "name": "NAN0",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -34853,8 +34853,8 @@
     "alt_title": "Izure Saikyou no Renkinjutsushi?",
     "year": 2025,
     "format": "TV",
-    "notes": "Headpatter is USA BD Remux+CR\nVARYG is a CR WEB-DL\nThe USA BD is poor as usual, CR is just too starved",
-    "comparison": "https://slow.pics/c/NOiPqlSm",
+    "notes": "Headpatter is USA BD Remux+CR\nErai-raws is a CR WEB-DL\nThe USA BD is poor as usual, CR is just too starved\nCR has since downgraded the episode 1 subs, Erai-raws is the old full fat version",
+    "comparison": "https://slow.pics/c/NOiPqlSm\nhttps://www.diffchecker.com/fVBh0q1J/",
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
@@ -34863,7 +34863,7 @@
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
+        "name": "Erai-raws",
         "status": ""
       }
     ]
@@ -36764,7 +36764,7 @@
     "year": 2006,
     "format": "SPECIAL",
     "notes": "Tsundere is Yousei+modified Kotomi",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/w78b42Vp",
     "best_releases": [
       {
         "name": "Tsundere",
