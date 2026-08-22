@@ -10019,7 +10019,7 @@
     "best_releases": [
       {
         "name": "NAN0",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -18692,7 +18692,7 @@
     "year": 2011,
     "format": "TV",
     "notes": "sam is ITA BD Encode+modified Coalgirls\nVodes is SOFCJ-Raws+Coalgirls",
-    "comparison": "https://slow.pics/c/d7R0uJ0r\nhttps://slow.pics/c/bVrPawvt\nhttps://slow.pics/c/cFjyFbtM",
+    "comparison": "https://slow.pics/c/cFjyFbtM\nhttps://slow.pics/c/jcP3iNYB",
     "best_releases": [
       {
         "name": "sam (Dual Audio)",
@@ -26099,7 +26099,7 @@
     "alt_releases": [
       {
         "name": "Kagura-Copyman",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -36748,7 +36748,7 @@
     "alt_title": "",
     "year": 2006,
     "format": "TV",
-    "notes": "Tsundere is Yousei+modified Kotomi, 11v2 doesn't have subtitles",
+    "notes": "Tsundere is Yousei-raws+\"Heavily modified Kotomi\"",
     "comparison": "https://slow.pics/c/1OZGvoFk",
     "best_releases": [
       {
@@ -36763,7 +36763,7 @@
     "alt_title": "",
     "year": 2006,
     "format": "SPECIAL",
-    "notes": "Tsundere is Yousei+modified Kotomi",
+    "notes": "Tsundere is Yousei-raws+\"Heavily modified Kotomi\"",
     "comparison": "https://slow.pics/c/w78b42Vp",
     "best_releases": [
       {
@@ -51785,18 +51785,18 @@
     "alt_title": "",
     "year": 2012,
     "format": "TV",
-    "notes": "Kametsu is DmonHiro+WhyNot\nThe encodes are extremely bad, store is essentially mandatory",
-    "comparison": "https://slow.pics/c/5oinP6nJ",
+    "notes": "Kametsu is DmonHiro+WhyNot. Has scenebleeds not present in the original subs and dub isn't synced properly\njsum would be a much better alt\n*The USA BD desyncs a lot, so add the dub very carefully .",
+    "comparison": "https://slow.pics/c/OVUMkmug\nhttps://slow.pics/c/5oinP6nJ",
     "best_releases": [
       {
-        "name": "JPN BD+Kametsu",
+        "name": "JPN BD+WhyNot*",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
         "name": "Kametsu (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
