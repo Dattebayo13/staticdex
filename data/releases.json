@@ -4580,12 +4580,12 @@
     "alt_title": "Bartender: Kami no Glass",
     "year": 2024,
     "format": "TV",
-    "notes": "VARYG is a CR WEB-DL\nThe USA BD is the only available BD and it's complete cheeks, strong lowpass, tons of ugly reza grain destroying detail and adding banding. CR is much cleaner, still has some banding though so MPV Deband is recommended",
-    "comparison": "https://slow.pics/c/lbEm5cXV",
+    "notes": "VARYG is a CR WEB-DL. Wrong matrix and missing fonts\nThe USA BD is the only available BD and it's complete cheeks, strong lowpass, tons of ugly reza grain destroying detail and adding banding. CR is much cleaner, still has some banding though so MPV Deband is recommended",
+    "comparison": "https://slow.pics/c/lbEm5cXV\nhttps://slow.pics/c/eDIXQIO5",
     "best_releases": [
       {
         "name": "VARYG (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": []
@@ -6120,8 +6120,8 @@
     "alt_title": "Bocchi the Rock!",
     "year": 2022,
     "format": "TV",
-    "notes": "SubsMix is Kawatare+WBDP, DB+neohevc, and CR\nRecluse is VCB-Studio+DB+neohevc\nDB+neohevc subs are Gotch (E1-3), Half-Baked (E4-9), CR (E10-12) with styles unified, TS touched up, and styled OP/ED/Insert songs.\nWBDP subs are modified DB+neohevc for E1-3 to add honorifics for consistency with the rest of the season",
-    "comparison": "https://slow.pics/c/xp7oIJiz\nhttps://slow.pics/c/Tx8M1NTK\nhttps://www.diffchecker.com/3eN4Ugzf/",
+    "notes": "SubsMix is ThanksBB+WBDP, DB+neohevc, and CR\nRecluse is VCB-Studio+DB+neohevc\nDB+neohevc subs are Gotch (E1-3), Half-Baked (E4-9), CR (E10-12) with styles unified, TS touched up, and styled OP/ED/Insert songs.\nWBDP subs are modified DB+neohevc for E1-3 to add honorifics for consistency with the rest of the season",
+    "comparison": "https://slow.pics/c/cVdAdgXp\nhttps://www.diffchecker.com/3eN4Ugzf/",
     "best_releases": [
       {
         "name": "SubsMix",
@@ -6962,17 +6962,17 @@
     "alt_title": "Kamitachi ni Hirowareta Otoko",
     "year": 2020,
     "format": "TV",
-    "notes": "RedKite is Moozzi2+Modified FUNI (Restyled, retimed, typeset, with pants OP/ED TLs)\nIrizaRaws would be a better alt\n*Let's remove the OP/ED lyrics",
+    "notes": "Freehold is IrizaRaws+Restyled RedKite (FUNI retimed and typeset) with neoDESU OP/ED\n*Let's remove the OP/ED lyrics",
     "comparison": "https://slow.pics/c/plkupa1U",
     "best_releases": [
       {
-        "name": "JPN BD+RedKite*",
+        "name": "JPN BD+Freehold*",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "RedKite",
+        "name": "Freehold (Dual Audio)",
         "status": ""
       }
     ]
@@ -8331,7 +8331,7 @@
     "alt_releases": [
       {
         "name": "GHOST",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -10168,10 +10168,6 @@
     "comparison": "https://slow.pics/c/UcOYmcZl\nhttps://slow.pics/c/p4AdY6Pq\nhttps://slow.pics/c/Vdlgd5ud",
     "best_releases": [
       {
-        "name": "MTBB",
-        "status": ""
-      },
-      {
         "name": "Netaro (Dual Audio)",
         "status": ""
       }
@@ -11190,12 +11186,12 @@
     "alt_title": "Jashin-chan Dropkick",
     "year": 2018,
     "format": "TV",
-    "notes": "AnoZu CR+Restyled CR\nThe JPN BD is extremely pauper",
-    "comparison": "https://slow.pics/c/Dv96tYFs",
+    "notes": "AnoZu CR WEB-DL+Restyled CR. Restyle messes with TS and subs have incorrect matrix\nThe JPN BD is extremely pauper",
+    "comparison": "https://slow.pics/c/Dv96tYFs\nhttps://slow.pics/c/9UNo6YPd",
     "best_releases": [
       {
         "name": "AnoZu",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": []
@@ -11764,12 +11760,12 @@
     "alt_title": "",
     "year": 1987,
     "format": "OVA",
-    "notes": "Orphan is VHS Encode+Subs based on BOX with insert song translated and a lot more typesetting\nPlaceholder entry until somebody remuxes the BD, or an encode of it. Not suitable for actually watching yet!!!\n*The BD video is vastly different so it's likely that none of the TS will be viable, good luck",
-    "comparison": "https://slow.pics/c/pjvyob2p",
+    "notes": "Arg0 is JPN BD Remux+Modified Orphan (Restyled, fansub credits removed, TS fixes, added missing line breaks, fixed scenebleeds on the songs, font issues addressed)\nOrphan is JPN BD Encode+Revamped version of their previous subs (Based on BOX with insert song translated and a lot more typesetting)",
+    "comparison": "https://slow.pics/c/VT8QgrDW\nhttps://slow.pics/c/ZfiCZyrM\nhttps://slow.pics/c/R0Ek8Zmp",
     "best_releases": [
       {
-        "name": "JPN BD+Orphan*",
-        "status": "unmuxed"
+        "name": "Arg0",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -12249,7 +12245,7 @@
     "alt_title": "Saraba Uchuu Senkan Yamato: Ai no Senshitachi",
     "year": 1978,
     "format": "MOVIE",
-    "notes": "RetroChocolate is 2013 JPN BD Remux+Restyled M74 with a few errors fixed and post-credit text translated. Contains the improved mono audio from the 4K JPN BD alongside the stereo mix\nM74 is 2013 JPN BD Encode+OCR'd R1 timed/styled/edited\nAll the other releases are using an inferior translation from god knows where\nThe 4K JPN BD is an awful upscale and the 2024 JPN BD is a downscale of it",
+    "notes": "RetroChocolate is 2013 JPN BD Remux+Restyled M74 with a few errors fixed and post-credit text translated. Contains the improved mono audio from the 4K JPN BD alongside the stereo mix\nM74 is 2013 JPN BD Encode+OCR'd R1 timed/styled/edited\nAll the other releases are using an inferior translation from god knows where\nThe 4K JPN BD actually a new scan, but has been absolutely destroyed by an insane amount of DNR resulting is a smeared image with far less detail than the old scan. The 2024 JPN BD is a downscale of it",
     "comparison": "https://slow.pics/c/5ydhsQdY\nhttps://www.diffchecker.com/bGaRyJyC/",
     "best_releases": [
       {
@@ -12778,26 +12774,6 @@
     ]
   },
   {
-    "title": "Fate/stay night: Unlimited Blade Works 2nd Season - sunny day",
-    "alt_title": "",
-    "year": 2015,
-    "format": "SPECIAL",
-    "notes": "FateSucks is ITA BD Remux+Kametsu restyled to match Kaleido-SCY Heaven's Feel, with long lines split and other misc fixes\nArid is Beatrice-Raws+Kametsu (modified UTW)\nStore requires MPV deband",
-    "comparison": "",
-    "best_releases": [
-      {
-        "name": "FateSucks (Dual Audio)",
-        "status": ""
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Arid (Dual Audio)",
-        "status": ""
-      }
-    ]
-  },
-  {
     "title": "Fate/strange Fake -Whispers of Dawn-",
     "alt_title": "Fate/strange Fake: Whispers of Dawn",
     "year": 2023,
@@ -12834,6 +12810,26 @@
       {
         "name": "Headpatter (Dual Audio)",
         "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Fate/stay night: Unlimited Blade Works 2nd Season - sunny day",
+    "alt_title": "",
+    "year": 2015,
+    "format": "SPECIAL",
+    "notes": "FateSucks is ITA BD Remux+Kametsu restyled to match Kaleido-SCY Heaven's Feel, with long lines split and other misc fixes\nArid is Beatrice-Raws+Kametsu (modified UTW)\nStore requires MPV deband",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "FateSucks (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Arid (Dual Audio)",
+        "status": ""
       }
     ]
   },
@@ -15280,7 +15276,7 @@
     "best_releases": [
       {
         "name": "Moxie (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -15295,17 +15291,17 @@
     "alt_title": "Given: Umi e",
     "year": 2024,
     "format": "MOVIE",
-    "notes": "Moxie is JPN BD Remux+Restyled CR with styled songs\nToonsHub is a CR WEB-DL\nThe JPN BD and CR have different gamma (not the usual 0.88 bug), but the BD has much better video quality and has BD changes\nThe izu & aarinfantasy TL is ESL and should be avoided, CR looks to have better TS anyway",
-    "comparison": "https://slow.pics/c/ULkZ533T\nhttps://www.diffchecker.com/nOzZYaR5/",
+    "notes": "Moxie is JPN BD Remux+Restyled CR with styled songs. Has wrong matrix and some missing fonts\nErai-raws is a CR WEB-DL\nThe JPN BD and CR have different gamma (not the usual 0.88 bug), but the BD has much better video quality and has BD changes\nThe izu & aarinfantasy TL is ESL and should be avoided, CR looks to have better TS anyway",
+    "comparison": "https://slow.pics/c/ULkZ533T\nhttps://slow.pics/c/4XDpYXeW\nhttps://www.diffchecker.com/nOzZYaR5/",
     "best_releases": [
       {
         "name": "Moxie (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
-        "name": "ToonsHub (Dual Audio)",
+        "name": "Erai-raws",
         "status": ""
       }
     ]
@@ -15380,8 +15376,8 @@
     "alt_title": "Ganbare! Nakamura-kun!!",
     "year": 2026,
     "format": "ONA",
-    "notes": "VARYG is a CR WEB-DL\nGrainy show so the usual suspects will probably be better than CR",
-    "comparison": "https://slow.pics/c/ZjumrXZT",
+    "notes": "Erai-raws and ToonsHub are CR WEB-DLs, the latter is restyled however this sometimes messes with TS\nGrainy show so the usual suspects will probably be better than CR",
+    "comparison": "https://slow.pics/c/ZjumrXZT\nhttps://slow.pics/c/yZLREdSB",
     "best_releases": [
       {
         "name": "JPN BD+CR",
@@ -15390,7 +15386,11 @@
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
+        "name": "Erai-raws",
+        "status": ""
+      },
+      {
+        "name": "ToonsHub (Dual Audio)",
         "status": ""
       }
     ]
@@ -26490,12 +26490,12 @@
     "alt_title": "",
     "year": 2026,
     "format": "TV",
-    "notes": "derpie is CR WEBRip+Restyled CR",
-    "comparison": "https://slow.pics/c/cUiCUQgW",
+    "notes": "cappybara is CR WEBRip+Restyled CR",
+    "comparison": "https://slow.pics/c/w7J4NLPh",
     "best_releases": [],
     "alt_releases": [
       {
-        "name": "derpie (Dual Audio)",
+        "name": "cappybara",
         "status": ""
       }
     ]
@@ -28634,12 +28634,12 @@
     "alt_title": "Kidou Senshi Gundam GQuuuuuuX",
     "year": 2025,
     "format": "TV",
-    "notes": "Kaleido-subs is AMZN WEBRip+OTL\nThe JPN BD is massively better than AMZN and has tons of BD changes, there are some heavily lowpassed scenes though",
+    "notes": "PMR is JPN BD Remux+Kaleido-subs\nKaleido-subs is AMZN WEBRip+OTL\nThe JPN BD is massively better than AMZN and has tons of BD changes, there are some heavily lowpassed scenes though",
     "comparison": "https://slow.pics/c/FGoaykla\nhttps://slow.pics/c/5xpio9bj\nhttps://www.diffchecker.com/oqgFWzO1/",
     "best_releases": [
       {
-        "name": "JPN BD+Kaleido-subs",
-        "status": "unmuxed"
+        "name": "PMR (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -35598,12 +35598,12 @@
     "alt_title": "Kono Sekai wa Fukanzen Sugiru",
     "year": 2024,
     "format": "TV",
-    "notes": "VARYG is a CR WEB-DL\nThe USA BD is significantly worse than CR, do not remux, do not pass go",
-    "comparison": "https://slow.pics/c/8Gs7gLcz",
+    "notes": "Erai-raws is a CR WEB-DL, TS has broken perspective\nThe USA BD is significantly worse than CR, do not remux, do not pass go",
+    "comparison": "https://slow.pics/c/8Gs7gLcz\nhttps://slow.pics/c/2RjZzHbE",
     "best_releases": [
       {
-        "name": "VARYG (Dual Audio)",
-        "status": ""
+        "name": "Erai-raws",
+        "status": "broken"
       }
     ],
     "alt_releases": []
@@ -37196,12 +37196,12 @@
     "alt_title": "Rock wa Lady no Tashinami Deshite",
     "year": 2025,
     "format": "TV",
-    "notes": "Chihiro is AMZN WEBRip+Fansub based on HIDI\nThe USA BD has a strong lowpass but it's the only viable option with how starved web sources are and the extreme lowpass on the JPN BD",
-    "comparison": "https://slow.pics/c/nabMaRDF\nhttps://www.diffchecker.com/LN0XCzoI/",
+    "notes": "Sylvar is Delowpassed JPN BD Encode+Chihiro\nChihiro is AMZN WEBRip+Fansub based on HIDI",
+    "comparison": "https://slow.pics/c/cKTYfBTE\nhttps://slow.pics/c/nabMaRDF\nhttps://www.diffchecker.com/LN0XCzoI/",
     "best_releases": [
       {
-        "name": "USA BD+Chihiro",
-        "status": "unmuxed"
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -38019,17 +38019,17 @@
     "alt_title": "Sasaki to Miyano: Sotsugyou-hen",
     "year": 2023,
     "format": "MOVIE",
-    "notes": "PTP is JPN BD Remux+CR\nVARYG is a CR WEB-DL",
-    "comparison": "https://slow.pics/c/moRtichi",
+    "notes": "PTP is JPN BD Remux+CR. Has broken perspective, missing fonts, restyle messes with the TS, one instance of TS overlapping dialogue\nErai-raws is a CR WEB-DL",
+    "comparison": "https://slow.pics/c/moRtichi\nhttps://slow.pics/c/kvxgbgvp",
     "best_releases": [
       {
         "name": "PTP",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
+        "name": "Erai-raws",
         "status": ""
       }
     ]
@@ -42583,8 +42583,8 @@
     "alt_title": "Tekkon Kinkreet",
     "year": 2006,
     "format": "MOVIE",
-    "notes": "Afro is Sony EUR/USA BD Encode+Modified official\nThere's 2 color grades available for this movie, the original found on the Sony EUR/USA BDs, and the new one found on the JPN, FRA/GBR/GER, and TWN BDs. The new grade is extremely red and vibrant, and looks to be due to a mastering error rather than a deliberate choice. Production material matches the original grade (See rentry). Colors aside, the original version also has English intertitles, credits, and at least 1 sign.\n*Some of the edits look worse than store and should be reverted, also restyle lol. \nOne of the copies of the EUR BD has corruption at frames 9649-51 so check for that before remuxing.",
-    "comparison": "https://slow.pics/c/spw1fl8e\nhttps://www.diffchecker.com/AeNJCtOZ/\nhttps://rentry.org/htmmmn6f",
+    "notes": "Afro is Sony EUR/USA BD Encode+Modified official\nThere's 2 color grades available for this movie, the original found on the Sony EUR/USA BDs, and the new one found on the JPN, FRA/GBR/GER, and TWN BDs. The new grade is extremely red and vibrant, and looks to be due to a mastering error rather than a deliberate choice. Production material matches the original grade (See rentry). Colors aside, the original version also has English intertitles, credits, and at least 1 sign.\nThe 4K USA BD is a bad upscale based on the new grade\n*Some of the edits look worse than store and should be reverted, also restyle lol. \nOne of the copies of the EUR BD has corruption at frames 9649-51 so check for that before remuxing.",
+    "comparison": "https://slow.pics/c/spw1fl8e\nhttps://slow.pics/c/c6DcuVzI\nhttps://www.diffchecker.com/AeNJCtOZ/\nhttps://rentry.org/htmmmn6f",
     "best_releases": [
       {
         "name": "Sony EUR/USA BD+Afro*",
