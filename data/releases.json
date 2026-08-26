@@ -986,7 +986,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -4456,7 +4456,7 @@
     "alt_title": "",
     "year": 2018,
     "format": "TV",
-    "notes": "cappybarra is JPN BD Encode+MTBB",
+    "notes": "cappybarra is JPN BD Encode+MTBB\nMTBB is JPN BD Encode+Commie with minor script QC\nNotSoMTBB is MTBB with dub",
     "comparison": "https://slow.pics/c/4CBA3NpP\nhttps://slow.pics/c/0wKlbRk5\nhttps://slow.pics/c/KLPQDjJo",
     "best_releases": [
       {
@@ -4467,6 +4467,10 @@
     "alt_releases": [
       {
         "name": "MTBB",
+        "status": ""
+      },
+      {
+        "name": "NotSoMTBB (Dual Audio)",
         "status": ""
       }
     ]
@@ -5434,15 +5438,11 @@
     "alt_title": "Kuro no Shoukanshi",
     "year": 2022,
     "format": "TV",
-    "notes": "-ZR- and SubsPlease are CR WEB-DLs\nThe USA BD is some serious ass",
-    "comparison": "https://slow.pics/c/WvLmigpU",
+    "notes": "AnoZu is a CR WEB-DL\nThe USA BD is some serious ass",
+    "comparison": "https://slow.pics/c/WvLmigpU\nhttps://slow.pics/c/WdEPIB0k",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      },
-      {
-        "name": "SubsPlease",
+        "name": "AnoZu (Dual Audio)",
         "status": ""
       }
     ],
@@ -6982,17 +6982,17 @@
     "alt_title": "Kamitachi ni Hirowareta Otoko 2",
     "year": 2023,
     "format": "TV",
-    "notes": "RedKite is USA BD Encode+Modified CR (Restyled, retimed, typeset, with pants OP/ED TLs)\nThe JPN BD and CR are extremely similar, the BD is just slightly better in complex scenes but otherwise basically identical\n*Let's remove the OP/ED lyrics, also neoDESU looks to have better TS at points so could be worth doing some borrowings",
+    "notes": "Freehold is RedKite+Restyled RedKite (CR retimed and typeset) with neoDESU OP/ED and name signs\nThe JPN BD and CR are extremely similar, the BD is just slightly better in complex scenes but otherwise basically identical\nVCB-Studio would be a better alt\n*Let's remove the OP/ED lyrics",
     "comparison": "https://slow.pics/c/8oUgL6vJ\nhttps://slow.pics/c/qIjha781",
     "best_releases": [
       {
-        "name": "JPN BD+RedKite*",
+        "name": "JPN BD+Freehold*",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "RedKite",
+        "name": "Freehold (Dual Audio)",
         "status": ""
       }
     ]
@@ -7179,7 +7179,7 @@
     "best_releases": [
       {
         "name": "CTR (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -12256,7 +12256,7 @@
     "alt_releases": [
       {
         "name": "M74",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -14471,7 +14471,7 @@
     "alt_releases": [
       {
         "name": "Holomux",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -16277,7 +16277,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -16292,7 +16292,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -18134,7 +18134,7 @@
     "alt_releases": [
       {
         "name": "Bunny-Apocalypse (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -33353,6 +33353,36 @@
     ]
   },
   {
+    "title": "Otoboku: Maidens are Falling for Me",
+    "alt_title": "Otome wa Boku ni Koishiteru",
+    "year": 2006,
+    "format": "TV",
+    "notes": "Metal is PusRaws+Wasurenai (R1 Base with typesetting) with styled OP/ED, improved timing, typo fixes\nThe USA BD is a bad upscale",
+    "comparison": "https://slow.pics/c/bhUn2LOi",
+    "best_releases": [
+      {
+        "name": "Metal",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Otome wa Boku ni Koishiteru Special",
+    "alt_title": "",
+    "year": 2007,
+    "format": "SPECIAL",
+    "notes": "Metal is PusRaws+Modified Wasurenai",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "Metal",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Our Dating Story: The Experienced You and The Inexperienced Me",
     "alt_title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
     "year": 2023,
@@ -37201,7 +37231,7 @@
     "best_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -48035,7 +48065,7 @@
     "year": 2026,
     "format": "TV",
     "notes": "VARYG is a CR WEB-DL, contains the fixed OP in episode 2\njsum would be a better alt",
-    "comparison": "https://slow.pics/c/MJTLVO9Y",
+    "comparison": "https://slow.pics/c/MJTLVO9Y\nhttps://slow.pics/c/eXCRPc2F",
     "best_releases": [
       {
         "name": "JPN BD+CR",
