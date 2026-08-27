@@ -632,6 +632,26 @@
     "alt_releases": []
   },
   {
+    "title": "A Misanthrope Teaches a Class for Demi-Humans",
+    "alt_title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+    "year": 2026,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL\nReinForce would be a better alt, pretty chunky but it's a grainy show and looks much better than jsum\n*Erai is the only group that didn't mess with TS, also need to make your own signs track since CR didn't bother",
+    "comparison": "https://slow.pics/c/FZ0OTQTu\nhttps://slow.pics/c/m3ewhw1t",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "A Ninja and an Assassin Under One Roof",
     "alt_title": "Ninja to Koroshiya no Futarigurashi",
     "year": 2025,
@@ -7499,7 +7519,7 @@
     "best_releases": [
       {
         "name": "MuGi (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -11477,6 +11497,26 @@
     "alt_releases": []
   },
   {
+    "title": "Easygoing Territory Defense by the Optimistic Lord",
+    "alt_title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni",
+    "year": 2026,
+    "format": "ONA",
+    "notes": "EFIL is ReinForce+SubsPlease (Restyled CR)\nThe JPN BD has very strong lowpassing in some busy scenes, mainly seems isolated to the OP and ED. Otherwise it's a nice upgrade from CR with much less banding",
+    "comparison": "https://slow.pics/c/BMv29hkz\nhttps://slow.pics/c/6fKK1Jmy\nhttps://slow.pics/c/LUfFy2uy",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "EFIL",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Ebiten: Ebisugawa's Public High School Temonbu",
     "alt_title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu",
     "year": 2012,
@@ -14888,7 +14928,7 @@
     "best_releases": [
       {
         "name": "Sylvar",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -14908,7 +14948,7 @@
     "best_releases": [
       {
         "name": "Sylvar",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -14928,7 +14968,7 @@
     "best_releases": [
       {
         "name": "Sylvar",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -16536,40 +16576,30 @@
     "alt_title": "Haikyuu!!: Lev Kenzan!",
     "year": 2014,
     "format": "OVA",
-    "notes": "MuriloEndres is CR WEB-DL+Commie and CR\nCommie is CR WEBRip+OTL\nCR isn't great, MPV deband helps a little",
-    "comparison": "https://slow.pics/c/4tbM0d48\nhttps://www.diffchecker.com/TASN0OoQ/",
+    "notes": "Poopoo is CR WEBRip+Commie (OTL)",
+    "comparison": "https://slow.pics/c/7eDLsXpW\nhttps://slow.pics/c/4tbM0d48\nhttps://www.diffchecker.com/TASN0OoQ/",
     "best_releases": [
       {
-        "name": "MuriloEndres",
+        "name": "Poopoo",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Commie",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "HAIKYU!!: VS Failing Marks",
     "alt_title": "Haikyuu!!: VS Akaten",
     "year": 2015,
     "format": "SPECIAL",
-    "notes": "MuriloEndres is CR WEB-DL+Commie and CR\nCommie is CR WEBRip+OTL\nCR isn't great, MPV deband helps a little",
+    "notes": "Poopoo is CR WEBRip+Commie (OTL)",
     "comparison": "https://slow.pics/c/W26R1bxs\nhttps://www.diffchecker.com/8iIkFK8h/",
     "best_releases": [
       {
-        "name": "MuriloEndres",
+        "name": "Poopoo",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Commie",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "HAIKYU!! 2nd Season",
@@ -16606,20 +16636,15 @@
     "alt_title": "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun",
     "year": 2017,
     "format": "OVA",
-    "notes": "Commie is CR WEBRip+Modified Ani-One\nCR isn't great, MPV deband helps a little",
+    "notes": "Poopoo is CR WEBRip+Commie (Modified Ani-One)",
     "comparison": "https://slow.pics/c/UEuAe11f\nhttps://www.diffchecker.com/B1UuWhnF/\nhttps://www.diffchecker.com/xSeZD6as/",
     "best_releases": [
       {
-        "name": "CR+Commie",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Commie",
+        "name": "Poopoo",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "HAIKYU!! LAND VS. AIR",
@@ -17679,11 +17704,11 @@
     "alt_title": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
     "year": 2025,
     "format": "ONA",
-    "notes": "SubsPlus+ is ADN WEB-DL+HIDI with automated improvements\nThe JPN BD has a slight lowpass but is massively better than web sources\nA BD encode from the usual suspects would be a better alt",
-    "comparison": "https://slow.pics/c/FBdXKCrT",
+    "notes": "SubsPlus+ is ADN WEB-DL+HIDI with automated improvements\nThe JPN BD has a slight lowpass but is massively better than web sources",
+    "comparison": "https://slow.pics/c/zOQxpiKF",
     "best_releases": [
       {
-        "name": "JPN BD+SubsPlus+",
+        "name": "H-Enc+SubsPlus+",
         "status": "unmuxed"
       }
     ],
@@ -19258,8 +19283,8 @@
     "alt_title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
     "year": 2021,
     "format": "TV",
-    "notes": "TTGA is JPN BD Remux+CR\n-ZR- and SubsPlease are CR WEB-DLs\nEverything needs MPV Deband, all the encodes suck",
-    "comparison": "",
+    "notes": "TTGA is JPN BD Remux+CR, has various sub issues in addition to the one below\nErai-raws is a CR WEB-DL\nEverything needs MPV Deband, all the encodes suck\nEvery release has broken typesetting perspective",
+    "comparison": "https://slow.pics/c/ixmxLYLZ",
     "best_releases": [
       {
         "name": "TTGA (Dual Audio)",
@@ -19268,12 +19293,8 @@
     ],
     "alt_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      },
-      {
-        "name": "SubsPlease",
-        "status": ""
+        "name": "Erai-raws",
+        "status": "broken"
       }
     ]
   },
@@ -28105,7 +28126,7 @@
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -43198,21 +43219,21 @@
     "year": 2023,
     "format": "TV",
     "notes": "-ZR- (Remux) is JPN BD Remux+CR, newer TrueHD release uses the inferior USA BD (higher bitrate=better right guys)\n-ZR- (WEB) and SubsPlease are CR WEB-DLs\nThe BD MUST be watched with MPV Deband, otherwise get CR",
-    "comparison": "https://slow.pics/c/e4HM6Oi2",
+    "comparison": "https://slow.pics/c/e4HM6Oi2\nhttps://slow.pics/c/LHmkYnyx",
     "best_releases": [
       {
         "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
         "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "status": "broken"
       },
       {
         "name": "SubsPlease",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -44082,6 +44103,26 @@
     "alt_releases": [
       {
         "name": "Mage (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "THE FIRST SLAM DUNK",
+    "alt_title": "",
+    "year": 2022,
+    "format": "MOVIE",
+    "notes": "Okay-Subs is 4K ITA BD Encode+AnimationNight (strawberino TL retimed and typeset) with additional timing/editing/typesetting from motbob and additional translation from the official subs. Descaled to 1080p and clipped to SDR\nThe movie is natively 1080p SDR, the main benefit of the 4K BD is better compression and higher resolution chroma\nThe 4K ITA BD has at least one instance of very minor corruption for a few seconds (frame 20), hwdec seems to make it basically invisible, but you probably won't notice it either way",
+    "comparison": "https://slow.pics/c/Y4lTtzql\nhttps://slow.pics/c/xUHBU9t6",
+    "best_releases": [
+      {
+        "name": "4K ITA BD+Okay-Subs",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Okay-Subs",
         "status": ""
       }
     ]
@@ -49909,7 +49950,7 @@
     "best_releases": [
       {
         "name": "UnHoly",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
