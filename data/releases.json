@@ -12285,7 +12285,7 @@
     "alt_title": "Saraba Uchuu Senkan Yamato: Ai no Senshitachi",
     "year": 1978,
     "format": "MOVIE",
-    "notes": "RetroChocolate is 2013 JPN BD Remux+Restyled M74 with a few errors fixed and post-credit text translated. Contains the improved mono audio from the 4K JPN BD alongside the stereo mix\nM74 is 2013 JPN BD Encode+OCR'd R1 timed/styled/edited\nAll the other releases are using an inferior translation from god knows where\nThe 4K JPN BD actually a new scan, but has been absolutely destroyed by an insane amount of DNR resulting is a smeared image with far less detail than the old scan. The 2024 JPN BD is a downscale of it",
+    "notes": "RetroChocolate is 2013 JPN BD Remux+Restyled M74 with a few errors fixed and post-credit text translated. Contains the improved mono audio from the 4K JPN BD alongside the stereo mix\nM74 is 2013 JPN BD Encode+OCR'd R1 timed/styled/edited\nAll the other releases are using an inferior translation from god knows where\nThe 4K JPN BD is actually a new scan, but has been absolutely destroyed by an insane amount of DNR resulting is a smeared image with far less detail than the old scan. The 2024 JPN BD is a downscale of it",
     "comparison": "https://slow.pics/c/5ydhsQdY\nhttps://www.diffchecker.com/bGaRyJyC/",
     "best_releases": [
       {
@@ -17569,9 +17569,13 @@
     "alt_title": "Jigokuraku 2nd Season",
     "year": 2026,
     "format": "TV",
-    "notes": "Vodes is CR WEBRip+Fansub based on CR\nLike Season 1 the JPN BD is rather poor. Overall it's slightly better than CR, especially in busy scenes, but it's still full of blocking and not worth taking over the WEBRip",
+    "notes": "Vodes is CR WEBRip+Fansub based on CR\nCytox is Vodes with dub\nLike Season 1 the JPN BD is rather poor. Overall it's slightly better than CR, especially in busy scenes, but it's still full of blocking and not worth taking over the WEBRip",
     "comparison": "https://slow.pics/c/MuglSWzJ",
     "best_releases": [
+      {
+        "name": "Cytox (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "Vodes",
         "status": ""
@@ -19020,6 +19024,26 @@
     "alt_releases": [
       {
         "name": "EMPHATiC (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "I Made Friends with the Second Prettiest Girl in My Class",
+    "alt_title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+    "year": 2026,
+    "format": "TV",
+    "notes": "Unfucked is CR WEB-DL+Restyled CR with TS adapted from the German track\nThe JPN BD is a pretty minor upgrade over CR, mainly looks better in motion and during busier scenes, particularly the grainy flashbacks. There's a light lowpass and two (2) BD changes throughout the entire season (third comp)\nLambdaP is the unmuxed best but the subs are desynced\n*Watch out for the different midcard in episode 1",
+    "comparison": "https://slow.pics/c/xTdL1rsT\nhttps://slow.pics/c/Eg8lMvjT\nhttps://slow.pics/c/9u6K8SnK",
+    "best_releases": [
+      {
+        "name": "JPN BD+Unfucked*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Unfucked",
         "status": ""
       }
     ]
@@ -24656,8 +24680,13 @@
     "year": null,
     "format": "ONA",
     "notes": "MoodiSubs is 1440P CR WEB-DL+Modified CR with improved TS\nThe 1440p stream is the best quality despite the lower bitrate. That said the quality is cooked regardless so you'll want to use MPV Deband and employ the distance strat.",
-    "comparison": "https://slow.pics/c/on4M41Yr\nhttps://www.diffchecker.com/GsyZKhLm/",
-    "best_releases": [],
+    "comparison": "https://slow.pics/c/mCqs5Cq9\nhttps://www.diffchecker.com/ltkVJENC/",
+    "best_releases": [
+      {
+        "name": "CR Majin 1440p+MoodiSubs",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
         "name": "MoodiSubs (Dual Audio)",
@@ -42392,6 +42421,26 @@
     ]
   },
   {
+    "title": "Tales of Zestiria the X",
+    "alt_title": "Tales of Zestiria the Cross",
+    "year": 2016,
+    "format": "TV",
+    "notes": "Datte13 is neko-raws+Restyled AC (Modified LR (Modified Commie (Fansub based on official))). Ending segments have ESL dub transcriptions on the signs track\nAll the BDs are poor, the JPN BD is lowpassed and spammed with grain and the USA and FRA BDs are full of banding and chroma shifted. None of the encodes are helping matters either. With MPV Deband however, the USA BD becomes a viable option and the least evil way to watch\nNot sure what these groups have actually changed over Commie, OP/ED styling looks to be a downgrade, apparently some typesetting? Might as well check before muxing",
+    "comparison": "https://slow.pics/c/2O6uIBwK\nhttps://www.diffchecker.com/DJCk6LWv/\nhttps://www.diffchecker.com/nHpBnFgA/",
+    "best_releases": [
+      {
+        "name": "USA BD+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Datte13 (Dual Audio)",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Tamako Market",
     "alt_title": "",
     "year": 2013,
@@ -43218,8 +43267,8 @@
     "alt_title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
     "year": 2023,
     "format": "TV",
-    "notes": "-ZR- (Remux) is JPN BD Remux+CR, newer TrueHD release uses the inferior USA BD (higher bitrate=better right guys)\n-ZR- (WEB) and SubsPlease are CR WEB-DLs\nThe BD MUST be watched with MPV Deband, otherwise get CR",
-    "comparison": "https://slow.pics/c/e4HM6Oi2\nhttps://slow.pics/c/LHmkYnyx",
+    "notes": "-ZR- is JPN BD Remux+SubsPlease (Restyled CR). Has broken perspective and restyle messes with TS a lot. ZR's newer TrueHD release uses the inferior USA BD (higher bitrate=better right guys)\nKitsune is a CR WEB-DL, restyle messes with TS a little\nThe BD MUST be watched with MPV Deband, otherwise get CR",
+    "comparison": "https://slow.pics/c/xjTpdv6m\nhttps://slow.pics/c/e4HM6Oi2\nhttps://slow.pics/c/LHmkYnyx",
     "best_releases": [
       {
         "name": "-ZR- (Dual Audio)",
@@ -43228,12 +43277,8 @@
     ],
     "alt_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "broken"
-      },
-      {
-        "name": "SubsPlease",
-        "status": "broken"
+        "name": "Kitsune (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -49503,10 +49548,6 @@
     "notes": "nekotan is JPN BD Remux+Lulu\nLulu is Beatrice-Raws-Raws+Commie and FFFaku",
     "comparison": "",
     "best_releases": [
-      {
-        "name": "Lulu (Dual Audio)",
-        "status": ""
-      },
       {
         "name": "nekotan (Dual Audio)",
         "status": ""
