@@ -19033,11 +19033,11 @@
     "alt_title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
     "year": 2026,
     "format": "TV",
-    "notes": "Unfucked is CR WEB-DL+Restyled CR with TS adapted from the German track\nThe JPN BD is a pretty minor upgrade over CR, mainly looks better in motion and during busier scenes, particularly the grainy flashbacks. There's a light lowpass and two (2) BD changes throughout the entire season (third comp)\nLambdaP is the unmuxed best but the subs are desynced\n*Watch out for the different midcard in episode 1",
-    "comparison": "https://slow.pics/c/xTdL1rsT\nhttps://slow.pics/c/Eg8lMvjT\nhttps://slow.pics/c/9u6K8SnK",
+    "notes": "Unfucked is CR WEB-DL+Restyled CR with TS adapted from the German track\nThe JPN BD is a pretty minor upgrade over CR, mainly looks better in motion and during busier scenes, particularly the grainy flashbacks. There's a light lowpass and two (2) BD changes throughout the entire season (third comp)\n*Watch out for the different midcard in episode 1",
+    "comparison": "https://slow.pics/c/w3VSn7Xe\nhttps://slow.pics/c/xTdL1rsT\nhttps://slow.pics/c/9u6K8SnK",
     "best_releases": [
       {
-        "name": "JPN BD+Unfucked*",
+        "name": "H-Enc+Unfucked*",
         "status": "unmuxed"
       }
     ],
@@ -27960,7 +27960,7 @@
     "alt_title": "Kidou Senshi Gundam: Gyakushuu no Char",
     "year": 1988,
     "format": "MOVIE",
-    "notes": "hydes is 2018 JPN BD Remux+Modified official and PGS. Has original laserdisc 2.0 audio alongside the 4.1 and 5.1 remixes/upmixes. AB version is outdated\nThe 2018 JPN BD is from the new 4k scan",
+    "notes": "hydes is 2018 JPN BD Remux+Modified official and PGS. Has original laserdisc 2.0 audio alongside the 4.1 and 5.1 remixes/upmixes\nThe 2018 JPN BD is from the new 4k scan",
     "comparison": "https://slow.pics/c/STbso9QE?image-position=bottom\nhttps://slow.pics/c/KIhSik5P?image-position=top&image-fit=none",
     "best_releases": [
       {
@@ -51035,6 +51035,21 @@
     "alt_releases": [
       {
         "name": "Reza (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "YATAGARASU: The Raven Does Not Choose Its Master",
+    "alt_title": "Karasu wa Aruji wo Erabanai",
+    "year": 2024,
+    "format": "TV",
+    "notes": "CMR is a CR WEB-DL\nNo BDs shared yet, might as well list the only rip with updated subs (CR fixed one (1) error), correct typesetting, and 192Kbps audio, right?",
+    "comparison": "https://slow.pics/c/yINwYHg3",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "CMR",
         "status": ""
       }
     ]
