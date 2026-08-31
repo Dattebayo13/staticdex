@@ -36394,13 +36394,9 @@
     "alt_title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
     "year": 2023,
     "format": "TV",
-    "notes": "-ZR- and SubsPlease are CR WEB-DLs, the former including dub\nThe BDs are nasty, MPV deband is recommended for WEB",
-    "comparison": "https://slow.pics/c/vk8acJRr\nhttps://slow.pics/c/FGtlAtaS",
+    "notes": "SubsPlease is CR WEB-DL with restyled subs\nAMZN and current CR have dual mono audio for the Japanese track, SubsPlease are using the original stereo version\nThe BDs are nasty, MPV deband is recommended for WEB",
+    "comparison": "https://slow.pics/c/vk8acJRr\nhttps://slow.pics/c/FGtlAtaS\nhttps://slow.pics/c/LCSOpmtK",
     "best_releases": [
-      {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      },
       {
         "name": "SubsPlease",
         "status": ""
@@ -48424,6 +48420,26 @@
     "alt_releases": [
       {
         "name": "sam",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Tune In to the Midnight Heart",
+    "alt_title": "Mayonaka Heart Tune",
+    "year": 2026,
+    "format": "TV",
+    "notes": "UnHoly is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nThe JPN BD has tons of BD changes and much better compression than CR, there's a very minor lowpass though\nBoth releases have the latest CR subs (Episode 10 was originally CCC)\njsum would be a better alt (or simply wait for a decent encode)",
+    "comparison": "https://slow.pics/c/Z1QRmcin\nhttps://slow.pics/c/mP6nGgvg",
+    "best_releases": [
+      {
+        "name": "UnHoly (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG (Dual Audio)",
         "status": ""
       }
     ]
