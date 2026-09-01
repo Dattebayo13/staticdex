@@ -13038,11 +13038,11 @@
     "alt_title": "Flip Flappers",
     "year": 2016,
     "format": "TV",
-    "notes": "Kawatare is JPN BD Encode+zang\nzang is VCB-Studio+GJM (E1-6), GJM-DDY (E7-13)\nGJM has since released up to episode 8 (and by since I mean 7 years ago)",
+    "notes": "Mehul is Kawatare+GJM (E1-8), GJM-DDY (E9-13)\nzang is VCB-Studio+GJM (E1-6), GJM-DDY (E7-13)",
     "comparison": "https://slow.pics/c/R7JUAYcN\nhttps://slow.pics/c/dMBTGITQ\nhttps://slow.pics/c/5DQZl68w\nhttps://www.diffchecker.com/E2gFiQrb/",
     "best_releases": [
       {
-        "name": "Kawatare",
+        "name": "Mehul (Dual Audio)",
         "status": ""
       }
     ],
@@ -24059,6 +24059,21 @@
       {
         "name": "hchcsen (Dual Audio)",
         "status": "broken"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Le Portrait de Petit Cossette",
+    "alt_title": "Cossette no Shouzou",
+    "year": 2004,
+    "format": "OVA",
+    "notes": "Okay-Subs is R2J DVD Encode+Modified official",
+    "comparison": "https://slow.pics/c/pC21OgUF\nhttps://www.diffchecker.com/IW7QksJw/",
+    "best_releases": [
+      {
+        "name": "Okay-Subs",
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -36394,11 +36409,11 @@
     "alt_title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
     "year": 2023,
     "format": "TV",
-    "notes": "SubsPlease is CR WEB-DL with restyled subs\nAMZN and current CR have dual mono audio for the Japanese track, SubsPlease are using the original stereo version\nThe BDs are nasty, MPV deband is recommended for WEB",
+    "notes": "AnoZu is a CR WEB-DL with restyled subs\nSome sources have dual mono audio for the Japanese track, AnoZu ripped from a channel with proper stereo\nThe BDs are nasty, MPV deband is recommended for WEB",
     "comparison": "https://slow.pics/c/vk8acJRr\nhttps://slow.pics/c/FGtlAtaS\nhttps://slow.pics/c/LCSOpmtK",
     "best_releases": [
       {
-        "name": "SubsPlease",
+        "name": "AnoZu (Dual Audio)",
         "status": ""
       }
     ],
@@ -43263,12 +43278,12 @@
     "alt_title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
     "year": 2023,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+SubsPlease (Restyled CR). Has broken perspective and restyle messes with TS a lot. ZR's newer TrueHD release uses the inferior USA BD (higher bitrate=better right guys)\nKitsune is a CR WEB-DL, restyle messes with TS a little\nThe BD MUST be watched with MPV Deband, otherwise get CR",
+    "notes": "StaFer is JPN BD Remux+Kitsune and PGS\nKitsune is a CR WEB-DL with restyled subs\nThe BD MUST be watched with MPV Deband, otherwise get CR",
     "comparison": "https://slow.pics/c/xjTpdv6m\nhttps://slow.pics/c/e4HM6Oi2\nhttps://slow.pics/c/LHmkYnyx",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "broken"
+        "name": "StaFer (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -44977,17 +44992,17 @@
     "alt_title": "Heion Sedai no Idaten-tachi",
     "year": 2021,
     "format": "TV",
-    "notes": "Moxie is JPN BD Remux+Deity\nDeity is IrizaRaws+CR with slight edits",
-    "comparison": "https://slow.pics/c/vdAuTCeW",
+    "notes": "Kawatare is Delowpassed JPN BD Encode+Deity (CR with improved TS and OP/ED TLs) and stock CR\nTasokare is Delowpassed JPN BD Encode with the same subs",
+    "comparison": "https://slow.pics/c/s1XosRpU\nhttps://slow.pics/c/Ah86uUdn",
     "best_releases": [
       {
-        "name": "Moxie",
+        "name": "Kawatare",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Deity",
+        "name": "Tasokare",
         "status": ""
       }
     ]
@@ -46882,12 +46897,12 @@
     "alt_title": "Hime Kishi wa Barbaroi no Yome",
     "year": 2026,
     "format": "TV",
-    "notes": "Chihiro is CR WEBRip+Fansub based on CR\nFoundYears is Chihiro with dub\nThe JPN BD is overall a pretty minor upgrade over CR, with the main benefits being some BD changes and much better compression for busy scenes like grainy flashbacks. Both stores have very strong banding so MPV Deband is a requirement, otherwise get the WEBRip",
+    "notes": "NAN0 is JPN BD Remux+Chihiro\nChihiro is CR WEBRip+Fansub based on CR\nFoundYears is Chihiro with dub\nThe JPN BD is overall a pretty minor upgrade over CR, with the main benefits being some BD changes and much better compression for busy scenes like grainy flashbacks. Both stores have very strong banding so MPV Deband is a requirement, otherwise get the WEBRip",
     "comparison": "https://slow.pics/c/no7XaQHw\nhttps://slow.pics/c/KKhnyIxj\nhttps://www.diffchecker.com/MHWj4ODP/",
     "best_releases": [
       {
-        "name": "JPN BD+Chihiro",
-        "status": "unmuxed"
+        "name": "NAN0 (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
