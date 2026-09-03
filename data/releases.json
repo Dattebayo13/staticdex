@@ -1737,6 +1737,26 @@
     ]
   },
   {
+    "title": "Alma-chan Wants to Be a Family!",
+    "alt_title": "Alma-chan wa Kazoku ni Naritai",
+    "year": 2025,
+    "format": "TV",
+    "notes": "VARYG is a CR WEB-DL with the latest subs. Has missing fonts\nThe JPN BD is lowpassed, shifted, and has generally poor compression, but still beats CR which falls apart in any remotely busy scene. Has some BD changes too\nReinForce would be a better alt I guess",
+    "comparison": "https://slow.pics/c/Jxp9vZKF\nhttps://slow.pics/c/7HnzY2hm\nhttps://slow.pics/c/70WGBx0O",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "VARYG",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Alya Sometimes Hides Her Feelings in Russian",
     "alt_title": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
     "year": 2024,
@@ -5189,6 +5209,25 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Birdy the Mighty: Decode",
+    "alt_title": "Tetsuwan Birdy DECODE",
+    "year": 2008,
+    "format": "TV",
+    "notes": "Okay-Subs is R2J DVD Encode+Modified R1\nDeeVeeDee is Okay-Subs with dub and restyled subs",
+    "comparison": "https://slow.pics/c/Ra2A9dhc",
+    "best_releases": [
+      {
+        "name": "DeeVeeDee (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "Okay-Subs",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Black Bullet",
@@ -17708,20 +17747,15 @@
     "alt_title": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
     "year": 2025,
     "format": "ONA",
-    "notes": "SubsPlus+ is ADN WEB-DL+HIDI with automated improvements\nThe JPN BD has a slight lowpass but is massively better than web sources",
+    "notes": "Headpatter is H-Enc+SubsPlus+ (HIDI with automated improvements) and NF\nThe JPN BD has a slight lowpass but is massively better than web sources",
     "comparison": "https://slow.pics/c/zOQxpiKF",
     "best_releases": [
       {
-        "name": "H-Enc+SubsPlus+",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "SubsPlus+",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Heroic Age",
@@ -20840,6 +20874,26 @@
     "alt_releases": [
       {
         "name": "Izetta (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
+    "alt_title": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL\nErai's subs are more up to date than other rips (because they started 3 weeks late) but still outdated vs current CR\nThe JPN BD has pretty significantly blurred chroma, but much better compression than CR\n*Might as well get a fresh rip\nMight as well mux jsum for a better alt",
+    "comparison": "https://slow.pics/c/OfFfmUST\nhttps://slow.pics/c/rQdpsQ6Z",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
         "status": ""
       }
     ]
@@ -24207,6 +24261,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Let's Make a Mug Too",
+    "alt_title": "Yakunara Mug Cup Mo",
+    "year": 2021,
+    "format": "TV_SHORT",
+    "notes": "Erai-raws is a CR WEB-DL\nThe JPN BD is terrible, it has the quicktime gamma bug, terrible mpeg2 tier compression, destroyed chroma, tons of banding, and to top it off it's interlaced. The only saving grace is...NOTHING!!!\nThe show is 24fps but has 30fps live action segments at the end of each episode. The BD is interlaced to accommodate them, but on CR these segments are simply separate videos instead, so they can remain progressive at the original frame rates\nThis release doesn't include said specials though, so you'll have to look elsewhere",
+    "comparison": "https://slow.pics/c/z7wmUV1p\nhttps://slow.pics/c/F7xfPmS3",
+    "best_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "LET'S Nupu Nupu",
@@ -27975,12 +28044,12 @@
     "alt_title": "Kidou Senshi Gundam: Gyakushuu no Char",
     "year": 1988,
     "format": "MOVIE",
-    "notes": "hydes is 2018 JPN BD Remux+Modified official and PGS. Has original laserdisc 2.0 audio alongside the 4.1 and 5.1 remixes/upmixes\nThe 2018 JPN BD is from the new 4k scan",
-    "comparison": "https://slow.pics/c/STbso9QE?image-position=bottom\nhttps://slow.pics/c/KIhSik5P?image-position=top&image-fit=none",
+    "notes": "RetroChocolate is 4K JPN BD Remux+hydes. Japanese and English 5.1 tracks are swapped\nhydes is 2018 JPN BD Remux+Modified official and PGS. Has original laserdisc 2.0 audio alongside the 4.1 and 5.1 remixes/upmixes\nThe 2018 JPN BD is from the new 4k scan",
+    "comparison": "https://slow.pics/c/STbso9QE\nhttps://slow.pics/c/KIhSik5P",
     "best_releases": [
       {
-        "name": "4K JPN BD+hydes",
-        "status": "unmuxed"
+        "name": "RetroChocolate (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
