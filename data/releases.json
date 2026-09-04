@@ -3171,7 +3171,7 @@
     "alt_title": "Asobi Asobase",
     "year": 2018,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Datte13\nDatte13 is Seicher + qwert/Astral (Modified)",
+    "notes": "CRUCiBLE is JPN BD Remux+Datte13\nDatte13 is Seicher-Raws+Restyled qwert (CR) with honorifics removed and modified TS from Astral, PhallSubs, and some of their own work",
     "comparison": "https://slow.pics/c/nDrdlMhg",
     "best_releases": [
       {
@@ -3206,7 +3206,7 @@
     "alt_title": "Asobi Asobase Mini Anime",
     "year": 2018,
     "format": "SPECIAL",
-    "notes": "Datte is Seicher + qwert/Astral (Modified)",
+    "notes": "Datte13 is Seicher-Raws+Restyled MTBB with minor TS improvements and honorifics removed",
     "comparison": "",
     "best_releases": [
       {
@@ -5572,7 +5572,7 @@
     "alt_title": "",
     "year": 2017,
     "format": "ONA",
-    "notes": "ZQ includes SCY subtitles (retimed official subs)",
+    "notes": "ZQ is BD Encode+SCY (Retimed and edited dubtitles)\nShould probably compare against current CR and see if there are any other BDs",
     "comparison": "https://slow.pics/c/oTRPxewU",
     "best_releases": [
       {
@@ -7453,12 +7453,12 @@
     "alt_title": "Joukamachi no Dandelion",
     "year": 2015,
     "format": "TV",
-    "notes": "SCY is Beatrice-Raws+modified SallySubs",
+    "notes": "Headpatter is Beatrice-Raws+Restyled and stock SCY (Modified SallySubs) with font and glyph issues fixed",
     "comparison": "https://slow.pics/c/rpY1waoK",
     "best_releases": [
       {
-        "name": "SCY (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -8154,7 +8154,7 @@
     "alt_title": "Hoshi wo Ou Kodomo",
     "year": 2011,
     "format": "MOVIE",
-    "notes": "FraMeSToR is JPN BD Remux.\nTHORA has incorrect colours and poor encode",
+    "notes": "FraMeSToR is JPN BD Remux+PGS\nTHORA is tinted and just a generally poor encode",
     "comparison": "https://slow.pics/c/6NwfnFJL",
     "best_releases": [
       {
@@ -11245,7 +11245,7 @@
     "alt_title": "Jashin-chan Dropkick",
     "year": 2018,
     "format": "TV",
-    "notes": "AnoZu CR WEB-DL+Restyled CR. Restyle messes with TS and subs have incorrect matrix\nThe JPN BD is extremely pauper",
+    "notes": "AnoZu is a CR WEB-DL with restyled subs. Restyle messes with TS and subs have incorrect matrix\nThe JPN BD is extremely pauper",
     "comparison": "https://slow.pics/c/Dv96tYFs\nhttps://slow.pics/c/9UNo6YPd",
     "best_releases": [
       {
@@ -11260,7 +11260,7 @@
     "alt_title": "Jashin-chan Dropkick ONA",
     "year": 2018,
     "format": "ONA",
-    "notes": "AnoZu CR+Restyled CR",
+    "notes": "AnoZu is a CR WEB-DL with restyled subs. Restyle messes with TS and subs have incorrect matrix",
     "comparison": "",
     "best_releases": [
       {
@@ -14122,7 +14122,7 @@
     "alt_title": "Ginga Tansa 2100-nen Border Planet",
     "year": 1986,
     "format": "SPECIAL",
-    "notes": "Beatrice encode and release using Orphan-M74 fansubs",
+    "notes": "Beatrice is BD Encode+Orphan-M74",
     "comparison": "",
     "best_releases": [
       {
@@ -14559,7 +14559,7 @@
     "alt_title": "",
     "year": 2007,
     "format": "MOVIE",
-    "notes": "scourgeofgrozny GBR BD Remux+kuchikirukia and PGS\nkuchikirukia is GBR BD Encode+Presumably OCR'd PGS",
+    "notes": "scourgeofgrozny is GBR BD Remux+kuchikirukia and PGS\nkuchikirukia is GBR BD Encode+Presumably OCR'd PGS",
     "comparison": "https://slow.pics/c/q6GOtyYj",
     "best_releases": [
       {
@@ -15781,7 +15781,7 @@
     "alt_title": "Binbougami ga!",
     "year": 2012,
     "format": "TV",
-    "notes": "-ZR- JPN BD Remux+gg and pgs\nMC is Kuroi+gg",
+    "notes": "-ZR- JPN BD Remux+SakuraCircle (gg) and PGS\nMC is Kuroi-raws+SakuraCircle",
     "comparison": "https://slow.pics/c/7flp7zI3",
     "best_releases": [
       {
@@ -19107,7 +19107,7 @@
     "alt_title": "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
     "year": 2024,
     "format": "TV",
-    "notes": "PMR JPN BD Remux+SubsPlus+ with fades added to some TS\nYURASUKA is JPN BD Encode+PMR v1, subs are desynced\nThe JPN BD has strong lowpassing in busy scenes but is also the only source with BD changes (see comp 2)",
+    "notes": "PMR is JPN BD Remux+SubsPlus+ with fades added to some TS\nYURASUKA is JPN BD Encode+PMR v1, subs are desynced\nThe JPN BD has strong lowpassing in busy scenes but is also the only source with BD changes (see comp 2)",
     "comparison": "https://slow.pics/c/QosUwQ3C\nhttps://slow.pics/c/fR9tIBpx",
     "best_releases": [
       {
@@ -19495,7 +19495,7 @@
     "alt_title": "",
     "year": 2005,
     "format": "SPECIAL",
-    "notes": "BD is a horrible QTEC upscale\ngrimf uses niizk subs",
+    "notes": "grimf is DVD Encode+niizk",
     "comparison": "",
     "best_releases": [
       {
@@ -19510,7 +19510,7 @@
     "alt_title": "Ichigo Mashimaro",
     "year": 2005,
     "format": "TV",
-    "notes": "BD is a horrible QTEC upscale",
+    "notes": "grimf is DVD Encode+niizk\nBD is a horrible QTEC upscale",
     "comparison": "",
     "best_releases": [
       {
@@ -19525,7 +19525,7 @@
     "alt_title": "Ichigo Mashimaro OVA",
     "year": 2007,
     "format": "OVA",
-    "notes": "BD is a horrible QTEC upscale\ngrimf uses niizk subs",
+    "notes": "grimf is DVD Encode+niizk",
     "comparison": "",
     "best_releases": [
       {
@@ -19540,7 +19540,7 @@
     "alt_title": "Ichigo Mashimaro encore",
     "year": 2009,
     "format": "OVA",
-    "notes": "BD is a horrible QTEC upscale\ngrimf uses Kirakira subs",
+    "notes": "grimf is DVD Encode+Kirakira",
     "comparison": "",
     "best_releases": [
       {
@@ -20280,13 +20280,13 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -20745,7 +20745,7 @@
     "alt_title": "",
     "year": 2020,
     "format": "TV_SHORT",
-    "notes": "Asakura uses Natsumi no Sekai, KH is the same with dub and flac bloat",
+    "notes": "Asakura is Natsumi no Sekai+Restyled CR retimed and typeset\nKH is Asakura with dub and flac bloat",
     "comparison": "",
     "best_releases": [],
     "alt_releases": [
@@ -23805,18 +23805,18 @@
     "alt_title": "",
     "year": 2009,
     "format": "TV",
-    "notes": "AOmundson is JPN BD Encode+Commie (gg). The 20 second recap at the start and OP KFX are desynced due to not accounting for Commie's sadeemed NCOP splice, the episode itself is fine (same with KH)",
+    "notes": "GetItTwisted is JPN BD Remux+Restyled Commie (gg) with missing glyphs fixed, and PGS\nGetItTwisted is also AOmundson with the same subs",
     "comparison": "https://slow.pics/c/KXIkKI6U\nhttps://www.diffchecker.com/DMcErRdY/\nhttps://www.diffchecker.com/iBhYFrqd/\nhttps://www.diffchecker.com/CIvziIdy/",
     "best_releases": [
       {
-        "name": "JPN BD+Commie",
-        "status": "unmuxed"
+        "name": "GetItTwisted (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "AOmundson (Dual Audio)",
-        "status": "broken"
+        "name": "GetItTwisted (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -24278,6 +24278,21 @@
     "alt_releases": []
   },
   {
+    "title": "Let's Make a Mug Too 2",
+    "alt_title": "Yakunara Mug Cup Mo: Niban Gama",
+    "year": 2021,
+    "format": "TV_SHORT",
+    "notes": "Erai-raws is a CR WEB-DL\nSame story as the first season. The BD isn't nearly as bad this time, but still much worse than CR\nEpisode 4 has some pretty unreadable TS (came out the store that way)\nDoesn't include the live action specials",
+    "comparison": "https://slow.pics/c/HLMP7Qv0\nhttps://slow.pics/c/urggZOgs",
+    "best_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "LET'S Nupu Nupu",
     "alt_title": "",
     "year": 1998,
@@ -24669,7 +24684,7 @@
     "alt_title": "Log Horizon: Entaku Houkai",
     "year": 2021,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+GSK_kun\nGSK_kun uses Beatrice-Raws and modified FUNI, Dawn is the same with dubbings ^.^",
+    "notes": "-ZR- is JPN BD Remux+GSK_kun\nGSK_kun is Beatrice-Raws+Modified FUNI\nDawn is GSK_kun with dub",
     "comparison": "https://slow.pics/c/SXjQREwW",
     "best_releases": [
       {
@@ -24763,20 +24778,15 @@
     "alt_title": "Guimi Zhi Zhu: Xiaochou Pian",
     "year": null,
     "format": "ONA",
-    "notes": "MoodiSubs is 1440P CR WEB-DL+Modified CR with improved TS\nThe 1440p stream is the best quality despite the lower bitrate. That said the quality is cooked regardless so you'll want to use MPV Deband and employ the distance strat.",
+    "notes": "MoodiSubs is 1440p CR Majin WEB-DL+Revised version of their original subs (Modified CR with improved TS)\nThe 1440p stream is the best quality despite the lower bitrate. That said the quality is cooked regardless so you'll want to use MPV Deband and employ the distance strat.",
     "comparison": "https://slow.pics/c/mCqs5Cq9\nhttps://www.diffchecker.com/ltkVJENC/",
     "best_releases": [
-      {
-        "name": "CR Majin 1440p+MoodiSubs",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
       {
         "name": "MoodiSubs (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Lost in Starlight",
@@ -27382,6 +27392,41 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Minami Kamakura High School Girls Cycling Club",
+    "alt_title": "Minami Kamakura Koukou Joshi Jitensha-bu",
+    "year": 2017,
+    "format": "TV",
+    "notes": "Headpatter is jsum+Restyled and stock CR (Fresh rip)\nThe final volume of the JPN BD is unfortunately hoarded by the Korean mafia",
+    "comparison": "https://slow.pics/c/jQNGY2MN",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Minami Kamakura High School Girls Cycling Club: We're In Taiwan!!",
+    "alt_title": "Minami Kamakura Koukou Joshi Jitensha-bu: Kita yo, Taiwan!",
+    "year": 2017,
+    "format": "OVA",
+    "notes": "Headpatter is jsum+Restyled and stock CR (Fresh rip)",
+    "comparison": "",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Minami-ke",
@@ -30383,7 +30428,7 @@
     "alt_title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…",
     "year": 2020,
     "format": "TV",
-    "notes": "capybara is Delowpassed JPN BD Encode with CR chroma+Chihiro",
+    "notes": "cappybara is Delowpassed JPN BD Encode with CR chroma+Chihiro",
     "comparison": "https://slow.pics/c/Z7ztygeb\nhttps://slow.pics/c/7p1iJDE3",
     "best_releases": [
       {
@@ -30398,7 +30443,7 @@
     "alt_title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X: Unmei no Hito ni Deatte Shimatta...",
     "year": 2021,
     "format": "OVA",
-    "notes": "capybara is JPN BD Encode+Chihiro",
+    "notes": "cappybara is JPN BD Encode+Chihiro",
     "comparison": "https://slow.pics/c/JQkYsTOf",
     "best_releases": [
       {
@@ -30413,7 +30458,7 @@
     "alt_title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X",
     "year": 2021,
     "format": "TV",
-    "notes": "capybara is Delowpassed JPN BD Encode+Chihiro",
+    "notes": "cappybara is Delowpassed JPN BD Encode+Chihiro",
     "comparison": "https://slow.pics/c/tN5hTCjH\nhttps://slow.pics/c/WLOSOn3l",
     "best_releases": [
       {
@@ -32858,7 +32903,7 @@
     "alt_title": "One Punch Man: Road to Hero",
     "year": 2015,
     "format": "OVA",
-    "notes": "0x539 uses UCCUSS video",
+    "notes": "0x539 is UCCUSS+Revised version of their previous subs (Based on platypus364 TL, heavily edited)",
     "comparison": "",
     "best_releases": [],
     "alt_releases": [
@@ -33700,7 +33745,7 @@
     "alt_title": "",
     "year": 2018,
     "format": "ONA",
-    "notes": "neko-kBaraka uses neko-raws",
+    "notes": "neko-kBaraka is neko-raws+OTL?",
     "comparison": "",
     "best_releases": [
       {
@@ -34745,7 +34790,7 @@
     "alt_title": "",
     "year": 2023,
     "format": "ONA",
-    "notes": "Arg0 is NF DV P5 WEB-DL with intro and credits cut+Modified Commie (manual line breaks, fixed typos, few tiny edits) and NF\nCommie uses NF SDR WEB-DL\nIf you can't play DV it's recommended to tonemap the P5 over watching the SDR stream. There isn't any actual HDR, it just has significantly better compression",
+    "notes": "Arg0 is NF DV P5 WEB-DL with intro and credits cut+Modified Commie (manual line breaks, fixed typos, few tiny edits) and NF\nCommie is NF SDR WEB-DL+Modified official\nIf you can't play DV it's recommended to tonemap the P5 over watching the SDR stream. There isn't any actual HDR, it just has significantly better compression",
     "comparison": "https://slow.pics/c/90hNTKdY",
     "best_releases": [
       {
@@ -35221,7 +35266,7 @@
     "alt_title": "",
     "year": 2017,
     "format": "SPECIAL",
-    "notes": "Kametu is Beatrice-Raws+supai",
+    "notes": "Kametsu is Beatrice-Raws+supai",
     "comparison": "",
     "best_releases": [
       {
@@ -36121,12 +36166,12 @@
     "alt_title": "Ranma 1/2 (2024)",
     "year": 2024,
     "format": "TV",
-    "notes": "FraMeSToR is JPN BD Remux+NF\nVARYG is a NF WEB-DL\nThere's no actual HDR for this show, NF is SDR in an HDR container",
-    "comparison": "https://slow.pics/c/cydUsoTp",
+    "notes": "yolerejiju is JPN BD Remux+NF with BakeSubs-YnA TS adapted to English\nVARYG is a NF WEB-DL\nThere's no actual HDR for this show, NF is SDR in an HDR container",
+    "comparison": "https://slow.pics/c/cydUsoTp\nhttps://slow.pics/c/Ro8CJd8X",
     "best_releases": [
       {
-        "name": "FraMeSToR (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "yolerejiju (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -40014,7 +40059,7 @@
     "year": 2020,
     "format": "TV",
     "notes": "NAN0 and PMR are JPN BD Remux+AtlasSubbed and PGS\nYURASUKA is JPN BD Encode+Bunny-Apocalypse (AtlasSubbed)\nThe encodes are VERY bad, highly recommend getting store and watching with MPV deband",
-    "comparison": "https://slow.pics/c/wp6gEvcV\nhttps://slow.pics/c/NW2P1k1H\nhttps://slow.pics/c/82HS69yn",
+    "comparison": "https://slow.pics/c/8SpNayi0\nhttps://slow.pics/c/NW2P1k1H",
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
@@ -41936,7 +41981,7 @@
     "alt_title": "",
     "year": 2019,
     "format": "TV",
-    "notes": "sam ITA BD encode+MTBB",
+    "notes": "sam is ITA BD Encode+MTBB\nMTBB is JPN BD Encode+Fansub based on CR\nBoth releases splice the dub into the Japanese audio for the Engrish parts, untouched audio is available as a secondary track",
     "comparison": "https://slow.pics/c/CJSaXkVl",
     "best_releases": [
       {
@@ -41956,7 +42001,7 @@
     "alt_title": "",
     "year": 2020,
     "format": "TV",
-    "notes": "sam ITA BD encode+MTBB",
+    "notes": "sam is ITA BD Encode+MTBB\nMTBB is JPN BD Encode+Fansub based on CR\nBoth releases splice the dub into the Japanese audio for the Engrish parts, untouched audio is available as a secondary track",
     "comparison": "https://slow.pics/c/gAEpR46Y",
     "best_releases": [
       {
@@ -42579,11 +42624,26 @@
     ]
   },
   {
+    "title": "Tamon's B-Side",
+    "alt_title": "Tamon-kun Ima Docchi!?",
+    "year": 2026,
+    "format": "ONA",
+    "notes": "AnoZu is a CR WEB-DL with restyled subs\nOnly release with latest CR subs and correct typesetting",
+    "comparison": "https://slow.pics/c/Te1yCBbB",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "AnoZu (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Tanaka-kun is Always Listless",
     "alt_title": "Tanaka-kun wa Itsumo Kedaruge",
     "year": 2016,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+Kametsu\nKametu is SCY encode+slightly modified GJM",
+    "notes": "NAN0 is JPN BD Remux+Kametsu\nKametu is JPN BD Encode+GJM with minor styling and TS tweaks",
     "comparison": "https://slow.pics/c/i6J6kA3R\nhttps://slow.pics/c/ebxkdfnR",
     "best_releases": [
       {
@@ -42968,7 +43028,7 @@
     "alt_title": "Tezuka Osamu Monogatari: Boku wa Son Gokuu",
     "year": 1989,
     "format": "SPECIAL",
-    "notes": "Beatrice has Orphan subs",
+    "notes": "Beatrice is BD Encode+Orphan",
     "comparison": "",
     "best_releases": [
       {
@@ -43017,7 +43077,7 @@
     "alt_title": "Tensei Shitara Slime Datta Ken 2nd Season Part 2",
     "year": 2021,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Asakura and PGS\nAsakura uses VCB-Studio video",
+    "notes": "CRUCiBLE is JPN BD Remux+Asakura and PGS\nAsakura VCB-Studio+Fansub based on CR",
     "comparison": "https://slow.pics/c/5TNlkNyC",
     "best_releases": [
       {
@@ -43177,7 +43237,7 @@
     "alt_title": "Mahoutsukai no Yome",
     "year": 2017,
     "format": "TV",
-    "notes": "sam JPN BD encode+GSK_kun\nGSK_kun is Beatrice-Raws+Neko-raws (Commie for 1-11, modified CR for 12-24)",
+    "notes": "sam is JPN BD encode+GSK_kun with adjusted OP timing\nGSK_kun is Beatrice-Raws+Neko-raws (Commie for 1-11, modified CR for 12-24)",
     "comparison": "https://slow.pics/c/ZKApy4fu",
     "best_releases": [
       {
@@ -43481,7 +43541,7 @@
     "alt_title": "Megami no Café Terrace",
     "year": 2023,
     "format": "TV",
-    "notes": "Headpatter is CR WEB-DL+GHS (CR with linebreaks, restyled, added OP/ED lyrics, improved TS)\nCR requires MPV deband\nThe JPN BD is heavily lowpassed and has an ugly layer of noise added that makes it harder to deband than CR\nVCB would be a better alt",
+    "notes": "Headpatter is CR WEB-DL+GHS (CR with linebreaks, restyled, added OP/ED lyrics, improved TS)\nNOGRP is VCB-Studio+GHS\nCR requires MPV deband\nThe JPN BD is heavily lowpassed and has an ugly layer of noise added that makes it harder to deband than CR",
     "comparison": "https://slow.pics/c/xvhqgm2n",
     "best_releases": [
       {
@@ -43489,7 +43549,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "NOGRP",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "The Café Terrace and Its Goddesses Season 2",
@@ -46375,7 +46440,7 @@
     "alt_title": "Dansai Bunri no Crime Edge",
     "year": 2013,
     "format": "TV",
-    "notes": "Holo is Yousei+Asenshi, Mezashite, Anime-Koi, CR",
+    "notes": "Holomux is Yousei-raws+CR, Anime-Koi, Mezashite, and Asenshi",
     "comparison": "",
     "best_releases": [
       {
@@ -47608,7 +47673,7 @@
     "alt_title": "Jibaku Shounen Hanako-kun",
     "year": 2020,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR and PGS\nenon (Skibidi) is JPN BD Remux+Restyled CR\nBunny-Apocalypse is IrizaRaws+PGS",
+    "notes": "CRUCiBLE is JPN BD Remux+CR and PGS\nenon is JPN BD Remux+Restyled CR\nBunny-Apocalypse is IrizaRaws+PGS",
     "comparison": "https://slow.pics/c/2Tu3hFYn",
     "best_releases": [
       {
@@ -48116,7 +48181,7 @@
     "alt_title": "Kami no Tou: Tower of God",
     "year": 2020,
     "format": "TV",
-    "notes": "Vode is an AUS BD+CR LEHMER MERGE with Kuroi-Subs",
+    "notes": "Vodes is AUS BD/CR Merge+Restyled Kuroi-Subs",
     "comparison": "https://slow.pics/c/jYHqD8mK\nhttps://slow.pics/c/VThcnDJo",
     "best_releases": [
       {
