@@ -23810,13 +23810,13 @@
     "best_releases": [
       {
         "name": "GetItTwisted (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "GetItTwisted (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -24783,6 +24783,21 @@
     "best_releases": [
       {
         "name": "MoodiSubs (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Lord of Mysteries Specials",
+    "alt_title": "Guimi Zhi Zhu Specials",
+    "year": null,
+    "format": "ONA",
+    "notes": "MoodiSubs is 1440p CR Majin WEB-DL+Restyled CR with minor edits and extensive typesetting",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "MoodiSubs",
         "status": ""
       }
     ],
