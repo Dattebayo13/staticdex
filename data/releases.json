@@ -1572,9 +1572,13 @@
     "alt_title": "Akiba Meido Sensou",
     "year": 2022,
     "format": "TV",
-    "notes": "cappybara is JPN BD Encode+HIDI with improvements from Animorphs and modified neoHEVC OP/ED lyrics",
+    "notes": "cappybara is JPN BD Encode+HIDI with improvements from Animorphs and modified neoHEVC OP/ED lyrics\nGetItTwisted is cappybara with dub and PGS",
     "comparison": "https://slow.pics/c/m42Z6XFE\nhttps://slow.pics/c/wxY7e5yI\nhttps://slow.pics/c/3mswtPHf",
     "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "cappybara",
         "status": ""
@@ -2542,6 +2546,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "alt_title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL, only group that didn't mess with the TS\nAll existing rips have outdated subs, CR has since updated the names and terminology used in episode 4 to match future episodes",
+    "comparison": "https://slow.pics/c/B4JZI4BQ\nhttps://slow.pics/c/nRksfgqS\nhttps://www.diffchecker.com/RbBJvcfI",
+    "best_releases": [
+      {
+        "name": "H-Enc+Fresh CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Apocalypse Hotel",
@@ -3967,19 +3991,15 @@
     "alt_title": "",
     "year": 2025,
     "format": "ONA",
-    "notes": "sgt is WEBRip+Modified HIDI\nThe JPN BD has a strong lowpass, chroma shift, and lots of banding. BD Encode waiting room .",
-    "comparison": "https://slow.pics/c/v3C5zaBW\nhttps://slow.pics/c/ZQE6odlu\nhttps://www.diffchecker.com/7dVeTWzU/",
-    "best_releases": [],
-    "alt_releases": [
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+Restyled sgt (Modified HIDI)",
+    "comparison": "https://slow.pics/c/pt1EJHpW\nhttps://www.diffchecker.com/7dVeTWzU/",
+    "best_releases": [
       {
-        "name": "NH (Dual Audio)",
-        "status": ""
-      },
-      {
-        "name": "sgt",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Bagi, the Monster of Mighty Nature",
@@ -5215,7 +5235,7 @@
     "alt_title": "Tetsuwan Birdy DECODE",
     "year": 2008,
     "format": "TV",
-    "notes": "Okay-Subs is R2J DVD Encode+Modified R1\nDeeVeeDee is Okay-Subs with dub and restyled subs",
+    "notes": "Okay-Subs is R2J DVD Encode+Modified R1\nDeeVeeDee is Okay-Subs with dub and restyled subs\nMiniMTBB is the same as Okay-Subs but aggressively filtered \"to be more palatable for modern audiences\"",
     "comparison": "https://slow.pics/c/Ra2A9dhc",
     "best_releases": [
       {
@@ -5227,7 +5247,60 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "MiniMTBB",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Birdy the Mighty Decode: The Cipher",
+    "alt_title": "Tetsuwan Birdy DECODE: THE CIPHER",
+    "year": 2009,
+    "format": "OVA",
+    "notes": "Okay-Subs is R2J DVD Encode+Modified R1\nDeeVeeDee is Okay-Subs with dub and restyled subs\nMiniMTBB is the same as Okay-Subs but aggressively filtered \"to be more palatable for modern audiences\"",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "DeeVeeDee (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "Okay-Subs",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "MiniMTBB",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Birdy the Mighty: Decode 02",
+    "alt_title": "Tetsuwan Birdy DECODE:02",
+    "year": 2009,
+    "format": "TV",
+    "notes": "Okay-Subs is R2J DVD Encode+Modified R1\nDeeVeeDee is Okay-Subs with dub and restyled subs\nMiniMTBB is the same as Okay-Subs but aggressively filtered \"to be more palatable for modern audiences\"",
+    "comparison": "https://slow.pics/c/8ce63tia",
+    "best_releases": [
+      {
+        "name": "DeeVeeDee (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "Okay-Subs",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "MiniMTBB",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Black Bullet",
@@ -8438,7 +8511,7 @@
     "alt_title": "CLANNAD: After Story",
     "year": 2008,
     "format": "TV",
-    "notes": "UDF is Okay-Raws+Modified Doki (edited by joseole99, ShadyCrab, then JySzE) with Akai (Coalgirls, which is SS-Eclipse) dialogue, and some minor edits, formatting improvements, and additional TS\nChucksMux is Okay-Raws+UDF v1",
+    "notes": "UDF is Okay-Raws+Modified Doki (edited by joseole99, ShadyCrab, then JySzE) with Akai (Coalgirls, which is SS-Eclipse) dialogue, and some minor edits, formatting improvements, and additional TS\nChucksMux is Okay-Raws+UDF v1\nBoth releases use JySzE video for episode 24 since Okay-Raws didn't encode it",
     "comparison": "https://slow.pics/c/YRWRdA3U",
     "best_releases": [
       {
@@ -8507,6 +8580,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Classic★Stars",
+    "alt_title": "CLASSIC★STARS",
+    "year": 2025,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL\nAll existing rips have outdated subs, CR has since updated the terminology used in episode 5 to match future episodes\nThe JPN BD has a pretty strong lowpass, but it's the only source without dimming, has BD changes, and also much better compression in busy scenes\n*Needs a fresh rip",
+    "comparison": "https://slow.pics/c/vSIvZRsN\nhttps://slow.pics/c/eYb90WCR\nhttps://www.diffchecker.com/nHjfr7UB/",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Classroom for Heroes",
@@ -9305,7 +9398,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -9852,13 +9945,13 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -9872,13 +9965,13 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -10084,7 +10177,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -12096,15 +12189,20 @@
     "alt_title": "",
     "year": 2021,
     "format": "TV",
-    "notes": "SubsPlease is a CR WEB-DL\nThe JPN BD is heavily lowpassed and slaps a layer of starved grain on top to \"fix\" the banding. CR looks much better, particularly with MPV deband",
-    "comparison": "https://slow.pics/c/D82caMX5",
+    "notes": "RigAV1 is CR WEBRip+Modified CR (Restyled, slightly edited, typeset, OP/ED TLs)\nThe JPN BD is heavily lowpassed and slaps a layer of starved grain on top to \"fix\" the banding. CR looks much better, particularly with MPV deband",
+    "comparison": "https://slow.pics/c/T5gyeITS\nhttps://slow.pics/c/D82caMX5\nhttps://www.diffchecker.com/X6N6u24N/",
     "best_releases": [
       {
-        "name": "SubsPlease",
-        "status": ""
+        "name": "CR+RigAV1",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "RigAV1",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Expelled From Paradise",
@@ -12857,18 +12955,18 @@
     "alt_title": "Fate/strange Fake: Whispers of Dawn",
     "year": 2023,
     "format": "SPECIAL",
-    "notes": "PMR is JPN BD Remux+Kaleido-subs (OTL)\nHeadpatter is H-Enc+Kaleido-subs and CR. Dub is tagged as Japanese so you'll need to manually switch tracks if you want that",
-    "comparison": "https://slow.pics/c/2rcuzcYl",
+    "notes": "Kawatare is Delowpassed JPN BD Encode+Kaleido-subs (OTL) and CR\nTasokare is Delowpassed JPN BD Encode with the same subs",
+    "comparison": "https://slow.pics/c/lTFIbcs5",
     "best_releases": [
       {
-        "name": "PMR (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Headpatter (Dual Audio)",
-        "status": "broken"
+        "name": "Tasokare",
+        "status": ""
       }
     ]
   },
@@ -12877,18 +12975,18 @@
     "alt_title": "",
     "year": 2026,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+Kaleido-subs (OTL)\nHeadpatter is H-Enc+Kaleido-subs\nThe JPN BD is significantly better than CR but has the usual Aniplex lowpassed scenes",
-    "comparison": "https://slow.pics/c/0q74Hqnl\nhttps://slow.pics/c/PCMz46Wu",
+    "notes": "Kawatare is Delowpassed JPN BD Encode+Kaleido-subs (OTL) and CR\nTasokare is Delowpassed JPN BD Encode with the same subs\nThe JPN BD is significantly better than CR but has the usual Aniplex lowpassed scenes",
+    "comparison": "https://slow.pics/c/ZJyg7hLD",
     "best_releases": [
       {
-        "name": "PMR (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "Tasokare",
+        "status": ""
       }
     ]
   },
@@ -15449,6 +15547,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "GNOSIA",
+    "alt_title": "Gnosia",
+    "year": 2025,
+    "format": "TV",
+    "notes": "PMR is JPN BD Remux+Modified CR (TPP for the CCC subs in E1-2, signs typeset)\nkikuri is ReinForce+PMR\nBoth releases use the latest CR subs, 3-8 were originally CCC too, and a couple of script changes throughout",
+    "comparison": "https://slow.pics/c/94cApN4f",
+    "best_releases": [
+      {
+        "name": "PMR (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "kikuri",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Go For It, Nakamura-kun!!",
@@ -18882,11 +19000,11 @@
     "alt_title": "Hypnosis Mic -Division Rap Battle- Rhyme Anima",
     "year": 2020,
     "format": "TV",
-    "notes": "Erai-raws is a FUNI WEB-DL with basic TS\nThe USA BD has the usual Funimation issues but is still much better than the extremely starved web sources\nThe JPN BD has since been purchased so might as well just wait for that\n*The TS (or maybe the entire sub track) is 1 frame off in at least episode 2 so check for that",
-    "comparison": "https://slow.pics/c/55hFObEM",
+    "notes": "Erai-raws is a FUNI WEB-DL with basic TS\njsum would be a better alt\nEverything benefits from MPV Deband\n*The TS (or maybe the entire sub track) is 1 frame off in at least episode 2 so check for that",
+    "comparison": "https://slow.pics/c/RMOwwJCP",
     "best_releases": [
       {
-        "name": "USA BD+Erai-raws*",
+        "name": "JPN BD+Erai-raws*",
         "status": "unmuxed"
       }
     ],
@@ -19067,20 +19185,15 @@
     "alt_title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
     "year": 2026,
     "format": "TV",
-    "notes": "Headpatter is H-Enc+Restyled and stock Unfucked\nUnfucked is CR WEB-DL+Restyled CR with TS adapted from the German track\nThe JPN BD is a pretty minor upgrade over CR, mainly looks better in motion and during busier scenes, particularly the grainy flashbacks. There's a light lowpass and two (2) BD changes throughout the entire season (third comp)",
-    "comparison": "https://slow.pics/c/w3VSn7Xe\nhttps://slow.pics/c/xTdL1rsT\nhttps://slow.pics/c/9u6K8SnK",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+Restyled Unfucked (CR with TS adapted from the German track)\nThe JPN BD is a pretty minor upgrade over CR, mainly looks better in motion and during busier scenes, particularly the grainy flashbacks. There's a light lowpass and two (2) BD changes throughout the entire season (third comp)",
+    "comparison": "https://slow.pics/c/HB3lr4dB\nhttps://slow.pics/c/xTdL1rsT\nhttps://slow.pics/c/9u6K8SnK",
     "best_releases": [
       {
-        "name": "Headpatter",
-        "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Unfucked",
+        "name": "YURASUKA",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
@@ -19275,6 +19388,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "I'm Living With a Otaku NEET Kunoichi?!",
+    "alt_title": "NEET Kunoichi to Naze ka Dousei Hajimemashita",
+    "year": 2025,
+    "format": "ONA",
+    "notes": "SubsPlus+ is AMZN WEB-DL+HIDI with automated improvements\nThe JPN BD has a pretty strong lowpass but the competition is Sentai and web sources like AMZN and HIDI so...\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/eNiWJ9Y1",
+    "best_releases": [
+      {
+        "name": "JPN BD+SubsPlus+",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SubsPlus+",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "I'm Quitting Heroing",
@@ -21812,17 +21945,37 @@
     "alt_title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
     "year": 2023,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+CR\nNOGRP is VCB-Studio+CR",
-    "comparison": "https://slow.pics/c/LDjWRQwF\nhttps://www.diffchecker.com/izrCDIJY/",
+    "notes": "kikuri is VCB-Studio+RoS (CR restyled, retimed, slightly edited, with modified TS based on WorldFansub and some of their own work\nStore should be watched with MPV Deband\n*Might as well revert their weeb edits",
+    "comparison": "https://slow.pics/c/LDjWRQwF\nhttps://slow.pics/c/OgYh38TY\nhttps://www.diffchecker.com/PNj65bSi/",
     "best_releases": [
       {
-        "name": "NAN0 (Dual Audio)",
+        "name": "JPN BD+RoS*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "kikuri",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+    "alt_title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+    "year": 2025,
+    "format": "SPECIAL",
+    "notes": "nekotan is JPN BD Remux+AnoZu (Restyled CR)\nnekotan is also ReinForce with the same subs\nThe JPN BD has a light lowpass throughout (and a strong lowpass in one very busy scene) but much better compression than CR and a couple of BD changes (just the intro sequences)",
+    "comparison": "https://slow.pics/c/BGYlpjEx\nhttps://slow.pics/c/Qkvu6vwm",
+    "best_releases": [
+      {
+        "name": "nekotan (Dual Audio)",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "NOGRP",
+        "name": "nekotan (Dual Audio)",
         "status": ""
       }
     ]
@@ -22886,18 +23039,18 @@
     "alt_title": "Ousama Game The Animation",
     "year": 2017,
     "format": "TV",
-    "notes": "NOGRP is FRA BD Remux+CR and PGS, missing fonts and signs track is PGS only\nAlmighty is USA BD Encode+PGS\nThe JPN and FRA BD are pretty much identical for the actual episode, but the JPN BD struggles on the busy scenes in the OP/ED and is lowpassed for many of them. USA is just completely cooked\njsum would be a better alt",
+    "notes": "Headpatter is FRA BD Remux+Restyled CR, stock CR, and PGS\nHeadpatter is also jsum with the same subs\nThe JPN and FRA BD are pretty much identical for the actual episode, but the JPN BD struggles on the busy scenes in the OP/ED and is lowpassed for many of them. USA is just completely cooked",
     "comparison": "https://slow.pics/c/rcEBj7PP",
     "best_releases": [
       {
-        "name": "NOGRP (Dual Audio)",
-        "status": "broken"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "Almighty",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -23762,6 +23915,26 @@
       {
         "name": "whomst (Dual Audio)",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Kusunoki no Bannin",
+    "alt_title": "",
+    "year": 2026,
+    "format": "MOVIE",
+    "notes": "ppkhoa is JPN BD Remux+AMZN with ED TL\nHeadpatter is jsum+Restyled ppkhoa with overlapping text fixed and ED lyrics moved for cropped video",
+    "comparison": "https://slow.pics/c/jbsnVkAi",
+    "best_releases": [
+      {
+        "name": "ppkhoa",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -24782,7 +24955,7 @@
     "comparison": "https://slow.pics/c/mCqs5Cq9\nhttps://www.diffchecker.com/ltkVJENC/",
     "best_releases": [
       {
-        "name": "MoodiSubs (Dual Audio)",
+        "name": "Moodisubs (Dual Audio)",
         "status": ""
       }
     ],
@@ -30919,6 +31092,30 @@
     ]
   },
   {
+    "title": "Mysterious Joker",
+    "alt_title": "Kaitou Joker",
+    "year": 2014,
+    "format": "TV",
+    "notes": "BlueLobster is an old CRF 15 CR WEB-DL, missing fonts\nEpisode 5 is a destroyed CRF 23 stream so you should get HorribleSubs for that episode\nSubs are 2 frames off on BlueLobster (or more accurately video is 2 frames delayed, can be fixed by remuxing it at 24000/1001 FPS)\nSubs are 1 frame off on HorribleSubs\nThe JPN BD is interlaced and pretty pauper, compression is mostly better than CR but they're still both starved anyway and the BD is lowpassed, chroma is noticeably much worse",
+    "comparison": "https://slow.pics/c/gtYt5MLv",
+    "best_releases": [
+      {
+        "name": "BlueLobster/HorribleSubs with fixed sync and fonts",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "BlueLobster",
+        "status": "broken"
+      },
+      {
+        "name": "HorribleSubs",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Nadia: The Secret of Blue Water",
     "alt_title": "Fushigi no Umi no Nadia",
     "year": 1990,
@@ -33415,7 +33612,7 @@
   },
   {
     "title": "Osamake: Romcom Where The Childhood Friend Won't Lose",
-    "alt_title": "Osananajimi ga Zettai ni Makenai Love Come",
+    "alt_title": "Osananajimi ga Zettai ni Makenai Love Kome",
     "year": 2021,
     "format": "TV",
     "notes": "TTGA is JPN BD Remux+CR\nYURASUKA is JPN BD Encode+TTGA",
@@ -34115,9 +34312,13 @@
     "alt_title": "Mawaru Penguindrum",
     "year": 2011,
     "format": "TV",
-    "notes": "Half-Baked is GBR BD Encode+gg with a QC pass\nZurako is JPN BD Encode+gg",
-    "comparison": "https://slow.pics/c/dgCNqM8B\nhttps://www.diffchecker.com/lrEwFdKj/\nhttps://slow.pics/c/rlhEEhny\nhttps://slow.pics/c/6yrUFmnp\nhttps://slow.pics/c/Br4t8BEK\nhttps://slow.pics/c/Xx8TJ1hH\nhttps://slow.pics/c/nJZx2Qpm\nhttps://slow.pics/c/7JVAdoNT\nhttps://slow.pics/c/U6aEbSs3",
+    "notes": "Half-Baked is GBR BD Encode+gg with a QC pass\nGetItTwisted is Half-Baked with dub and PGS\nGetItTwisted is also Zurako with the same subs",
+    "comparison": "https://slow.pics/c/dgCNqM8B\nhttps://www.diffchecker.com/lrEwFdKj/\nhttps://slow.pics/c/7JVAdoNT\nhttps://slow.pics/c/U6aEbSs3",
     "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "Half-Baked",
         "status": ""
@@ -34125,7 +34326,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Zurako",
+        "name": "GetItTwisted (Dual Audio)",
         "status": ""
       }
     ]
@@ -35822,12 +36023,12 @@
     "alt_title": "Kono Sekai wa Fukanzen Sugiru",
     "year": 2024,
     "format": "TV",
-    "notes": "Erai-raws is a CR WEB-DL, TS has broken perspective\nThe USA BD is significantly worse than CR, do not remux, do not pass go",
+    "notes": "AnoZu is a CR WEB-DL with restyled subs\nThe USA BD is significantly worse than CR, do not remux, do not pass go",
     "comparison": "https://slow.pics/c/8Gs7gLcz\nhttps://slow.pics/c/2RjZzHbE",
     "best_releases": [
       {
-        "name": "Erai-raws",
-        "status": "broken"
+        "name": "AnoZu (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -38239,8 +38440,8 @@
     "alt_title": "Sasaki to Miyano: Sotsugyou-hen",
     "year": 2023,
     "format": "MOVIE",
-    "notes": "PTP is JPN BD Remux+CR. Has broken perspective, missing fonts, restyle messes with the TS, one instance of TS overlapping dialogue\nErai-raws is a CR WEB-DL",
-    "comparison": "https://slow.pics/c/moRtichi\nhttps://slow.pics/c/kvxgbgvp",
+    "notes": "PTP is JPN BD Remux+CR. Has broken perspective, missing fonts, restyle messes with the TS, one instance of TS overlapping dialogue\nAnoZu is a CR WEB-DL with restyled subs",
+    "comparison": "https://slow.pics/c/moRtichi\nhttps://slow.pics/c/WqDhwBn8",
     "best_releases": [
       {
         "name": "PTP",
@@ -38249,7 +38450,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Erai-raws",
+        "name": "AnoZu (Dual Audio)",
         "status": ""
       }
     ]
@@ -43423,7 +43624,7 @@
     "year": 2023,
     "format": "TV",
     "notes": "StaFer is JPN BD Remux+Kitsune and PGS\nKitsune is a CR WEB-DL with restyled subs\nThe BD MUST be watched with MPV Deband, otherwise get CR",
-    "comparison": "https://slow.pics/c/xjTpdv6m\nhttps://slow.pics/c/e4HM6Oi2\nhttps://slow.pics/c/LHmkYnyx",
+    "comparison": "https://slow.pics/c/xjTpdv6m\nhttps://slow.pics/c/e4HM6Oi2\nhttps://slow.pics/c/nmfR2MLz",
     "best_releases": [
       {
         "name": "StaFer (Dual Audio)",
@@ -43488,6 +43689,26 @@
     "alt_releases": [
       {
         "name": "Blackiris",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Book of Bantorra",
+    "alt_title": "Tatakau Shisho: The Book of Bantorra",
+    "year": 2009,
+    "format": "TV",
+    "notes": "CTR is Yousei-raws+Dekinai (Modified Commie)",
+    "comparison": "https://slow.pics/c/fmi91s8w\nhttps://www.diffchecker.com/mkqWTsZt/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Dekinai",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "CTR (Dual Audio)",
         "status": ""
       }
     ]
@@ -45211,20 +45432,15 @@
     "alt_title": "",
     "year": 2023,
     "format": "OVA",
-    "notes": "Cunnysseur is JPN BD Remux+restyled anon\nanon is god knows what",
+    "notes": "Kawatare is JPN BD Encode+anon\nanon is god knows what",
     "comparison": "",
     "best_releases": [
       {
-        "name": "Cunnysseur",
+        "name": "Kawatare",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "anon",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "THE IDOLM@STER MOVIE: Kagayaki no Mukougawa e!",
@@ -47105,19 +47321,20 @@
     "alt_title": "Kaze Tachinu",
     "year": 2013,
     "format": "MOVIE",
-    "notes": "YURI is Kawaiika + THORA",
+    "notes": "YURI is Kawaiika-Raws+THORA",
     "comparison": "https://slow.pics/c/mCPs4Nmf",
     "best_releases": [
       {
-        "name": "Kawaiika-Raws (Dual Audio)",
-        "status": "not_nyaa"
-      },
+        "name": "Miyazaki Collection MGVC JPN BD+THORA",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "YURI (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "The Wings of Rean",
@@ -47159,7 +47376,7 @@
     "alt_title": "Subarashiki Kono Sekai The Animation",
     "year": 2021,
     "format": "TV",
-    "notes": "Headpatter is JPN BD Remux+Kaleido-subs for E1-3, and EMBER (CR with Kaleido OP/ED) for E4-12\nNo alts to list since web is unwatchable, an Iriza mux would work",
+    "notes": "Headpatter is JPN BD Remux+Kaleido-subs for E1-3, EMBER (CR with TS and Kaleido OP/ED) for E4-12, and stock CR\nHeadpatter is also IrizaRaws with the same subs",
     "comparison": "https://slow.pics/c/4nZ4WnLP",
     "best_releases": [
       {
@@ -47167,7 +47384,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "The World God Only Knows",
@@ -47364,7 +47586,7 @@
     "alt_title": "",
     "year": 2022,
     "format": "ONA",
-    "notes": "NAN0 is JPN BD Remux+NF and PGS\njsum would be a good alt",
+    "notes": "NAN0 is JPN BD Remux+NF and PGS. Previews were spliced out\nHeadpatter is jsum+Restyled NF with preview TL added from PGS, stock NF, and PGS",
     "comparison": "https://slow.pics/c/N7rzh9d2\nhttps://slow.pics/c/CbcqJCu5",
     "best_releases": [
       {
@@ -47372,14 +47594,19 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "TIGER & BUNNY 2 Part 2",
     "alt_title": "",
     "year": 2022,
     "format": "ONA",
-    "notes": "NAN0 is JPN BD Remux+NF and PGS\nNo alt until BD encodes release since web is unwatchable",
+    "notes": "NAN0 is JPN BD Remux+NF and PGS. Previews were spliced out\nHeadpatter is jsum+Restyled NF with preview TL added from PGS, stock NF, and PGS",
     "comparison": "",
     "best_releases": [
       {
@@ -47387,7 +47614,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Tiger & Bunny: The Movie - The Beginning",
@@ -48593,20 +48825,15 @@
     "alt_title": "Mayonaka Heart Tune",
     "year": 2026,
     "format": "TV",
-    "notes": "UnHoly is JPN BD Remux+CR\nVARYG is a CR WEB-DL\nThe JPN BD has tons of BD changes and much better compression than CR, there's a very minor lowpass though\nBoth releases have the latest CR subs (Episode 10 was originally CCC)\njsum would be a better alt (or simply wait for a decent encode)",
-    "comparison": "https://slow.pics/c/Z1QRmcin\nhttps://slow.pics/c/mP6nGgvg",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+Restyled CR with TS adapted from the German track and some adjustments for BD changes\nThe JPN BD has tons of BD changes and much better compression than CR, there's a very minor lowpass though\nHas the latest CR subs (Episode 10 was originally CCC)",
+    "comparison": "https://slow.pics/c/nfgjjcD8\nhttps://slow.pics/c/mP6nGgvg",
     "best_releases": [
       {
-        "name": "UnHoly (Dual Audio)",
-        "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "VARYG (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Twilight Out of Focus",
@@ -50096,6 +50323,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Welcome to Irabu's Office",
+    "alt_title": "Kuuchuu Buranko",
+    "year": 2009,
+    "format": "TV",
+    "notes": "Insanity is Yousei-raws+Brewed (gg)",
+    "comparison": "https://slow.pics/c/Xqw656Gc",
+    "best_releases": [
+      {
+        "name": "Insanity",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Welcome to Japan, Ms. Elf!",
@@ -52180,9 +52422,13 @@
     "alt_title": "Zombie Land Saga: Revenge",
     "year": 2021,
     "format": "TV",
-    "notes": "sam is own encode+EMBER (CR)",
+    "notes": "sam is JPN BD Encode+EMBER (Restyled CR)\nGetItTwisted is sam with dub and PGS",
     "comparison": "https://slow.pics/c/EwYKRa4K\nhttps://slow.pics/c/OqbmJNqy",
     "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "sam",
         "status": ""
