@@ -7386,15 +7386,20 @@
     "alt_title": "Cardcaptor Sakura Movie",
     "year": 1999,
     "format": "MOVIE",
-    "notes": "NOGRP is Beatrice-Raws+Coalgirls (Heavily modified R1)",
-    "comparison": "",
+    "notes": "RetroChocolate is JPN BD Remux+Restyled Coalgirls with a non-honorifics option that has names changed to match NIS\nNOGRP is Beatrice-Raws+Coalgirls (Modified official)",
+    "comparison": "https://slow.pics/c/8GcVN5rn\nhttps://www.diffchecker.com/URElBuYd/",
     "best_releases": [
+      {
+        "name": "RetroChocolate (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "NOGRP",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Cardcaptor Sakura the Movie 2: The Sealed Card",
@@ -7626,8 +7631,8 @@
     "alt_title": "Lupin III VS Cat's Eye",
     "year": 2023,
     "format": "ONA",
-    "notes": "MuGi is ITA BD Remux+AMZN\nErai-raws and playWEB are AMZN WEB-DLs\nThe JPN BD is terrible and the USA BD is just a re-encode of it",
-    "comparison": "https://slow.pics/c/E79BcC0s\nhttps://www.diffchecker.com/Wp0IVQnI/",
+    "notes": "MuGi is ITA BD Remux+AMZN (Not dubtitles like some other rips)\nArya is ITA BD Encode+PGS\nThe JPN BD is terrible and the USA BD is just a re-encode of it",
+    "comparison": "https://slow.pics/c/E79BcC0s\nhttps://slow.pics/c/jy0asL3K\nhttps://www.diffchecker.com/Wp0IVQnI/",
     "best_releases": [
       {
         "name": "MuGi (Dual Audio)",
@@ -7636,11 +7641,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Erai-raws",
-        "status": ""
-      },
-      {
-        "name": "playWEB (Dual Audio)",
+        "name": "Arya (Dual Audio)",
         "status": "not_nyaa"
       }
     ]
@@ -35278,12 +35279,12 @@
     "alt_title": "Izure Saikyou no Renkinjutsushi?",
     "year": 2025,
     "format": "TV",
-    "notes": "Headpatter is USA BD Remux+CR\nErai-raws is a CR WEB-DL\nThe USA BD is poor as usual, CR is just too starved\nCR has since downgraded the episode 1 subs, Erai-raws is the old full fat version",
+    "notes": "Headpatter is USA BD Remux+CR. Episode 1 has a bunch of typesetting issues\nErai-raws is a CR WEB-DL\nThe USA BD is poor as usual, CR is just too starved\nCR has since downgraded the episode 1 subs, Erai-raws is the old full fat version",
     "comparison": "https://slow.pics/c/NOiPqlSm\nhttps://www.diffchecker.com/fVBh0q1J/",
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -42671,9 +42672,13 @@
     "alt_title": "",
     "year": 2021,
     "format": "TV",
-    "notes": "Kawatare is JPN BD Encode+jnzngn\nPog42 is VCB-Studio+jnzngn (Official with OP/ED subs)",
+    "notes": "Kawatare is JPN BD Encode+jnzngn\nGetItTwisted is Kawatare with dub and restyled subs\nPog42 is VCB-Studio+jnzngn (Official with OP/ED subs)",
     "comparison": "https://slow.pics/c/2jhVng7t\nhttps://slow.pics/c/7qeHCP3E",
     "best_releases": [
+      {
+        "name": "GetItTwisted (Dual Audio)",
+        "status": "not_nyaa"
+      },
       {
         "name": "Kawatare",
         "status": ""
@@ -50330,11 +50335,11 @@
     "year": 2009,
     "format": "TV",
     "notes": "Insanity is Yousei-raws+Brewed (gg)",
-    "comparison": "https://slow.pics/c/Xqw656Gc",
+    "comparison": "https://slow.pics/c/Xqw656Gc\nhttps://www.diffchecker.com/B31cDhtG/",
     "best_releases": [
       {
         "name": "Insanity",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
