@@ -2552,20 +2552,15 @@
     "alt_title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
     "year": 2025,
     "format": "TV",
-    "notes": "Erai-raws is a CR WEB-DL, only group that didn't mess with the TS\nAll existing rips have outdated subs, CR has since updated the names and terminology used in episode 4 to match future episodes",
-    "comparison": "https://slow.pics/c/B4JZI4BQ\nhttps://slow.pics/c/nRksfgqS\nhttps://www.diffchecker.com/RbBJvcfI",
+    "notes": "Headpatter is H-Enc+Restyled and stock CR\nContains the latest CR subs which updated the names and terminology used in episode 4 to match future episodes",
+    "comparison": "https://slow.pics/c/B4JZI4BQ\nhttps://slow.pics/c/R4Hqd6GB\nhttps://www.diffchecker.com/RbBJvcfI",
     "best_releases": [
       {
-        "name": "H-Enc+Fresh CR",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Erai-raws",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Apocalypse Hotel",
@@ -12443,12 +12438,12 @@
     "alt_title": "Sayonara Watashi no Cramer",
     "year": 2021,
     "format": "TV",
-    "notes": "SubsPlease is a CR WEB-DL\nThe JPN BD is pretty bad, the only saving grace is that there's quite a few BD changes and it handles busy scenes better, but then it's also got a strong chroma shift, ghosting, random pixelation... 2 cope options really",
+    "notes": "Moxie is JPN BD Remux+Restyled CR\nSubsPlease is a CR WEB-DL\nThe JPN BD is pretty bad, the only saving grace is that there's quite a few BD changes and it handles busy scenes better, but then it's also got a strong chroma shift, ghosting, random pixelation... 2 cope options really",
     "comparison": "https://slow.pics/c/3ltwKjeN\nhttps://slow.pics/c/Dr0LpCJk",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -22933,7 +22928,7 @@
     ]
   },
   {
-    "title": "Kimagure Orange☆Road",
+    "title": "Kimagure Orange★Road",
     "alt_title": "",
     "year": 1987,
     "format": "TV",
@@ -35548,7 +35543,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -36769,6 +36764,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "REBORN!",
+    "alt_title": "Katekyou Hitman REBORN!",
+    "year": 2006,
+    "format": "TV",
+    "notes": "Mehul is USA SDBD Remux+(Yellow) PGS\nThe USA SDBD is the only watchable option for the show, the JPN BD is an upscale with severe black crush and boosted saturation",
+    "comparison": "https://slow.pics/c/r2OxkblE",
+    "best_releases": [
+      {
+        "name": "Mehul",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Recently, My Sister Is Unusual",
@@ -42677,7 +42687,7 @@
     "best_releases": [
       {
         "name": "GetItTwisted (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       },
       {
         "name": "Kawatare",
@@ -43679,6 +43689,26 @@
     "alt_releases": [
       {
         "name": "RASETSU (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Banished Court Magician Aims to Become the Strongest",
+    "alt_title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
+    "year": 2025,
+    "format": "TV",
+    "notes": "SubsPlease is a CR WEB-DL with restyled subs\nAll existing rips have outdated subs, CR has since updated episodes 1-2 to replace CCC subs\n*Use old CR for episode 6, CR managed to replace the CCC subs with...SDH",
+    "comparison": "https://slow.pics/c/QNIsJr91\nhttps://www.diffchecker.com/fsaNWfMk/",
+    "best_releases": [
+      {
+        "name": "H-Enc+Fresh CR*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SubsPlease",
         "status": ""
       }
     ]
@@ -46443,6 +46473,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "The Royal Tutor Movie",
+    "alt_title": "Oushitsu Kyoushi Heine Movie",
+    "year": 2019,
+    "format": "MOVIE",
+    "notes": "Moxie is JPN BD Remux+Restyled CR\nCR is destroyed, jsum would be a decent alt\nMPV Deband helps everything",
+    "comparison": "https://slow.pics/c/YAQ77Luf",
+    "best_releases": [
+      {
+        "name": "Moxie",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "The Ryuo's Work is Never Done!",
@@ -50226,12 +50271,12 @@
     "alt_title": "Bokutachi wa Benkyou ga Dekinai!",
     "year": 2019,
     "format": "TV",
-    "notes": "AnimeFreak subs are touched up official",
+    "notes": "Moxie is JPN BD Remux+Restyled AnimeFreak with TS adapted from TnS and song styling from EA-Ryuusei\nSeicher is WEBRip+AnimeFreak (Modified official) \nVCB-Studio would be a better alt",
     "comparison": "https://slow.pics/c/sug2LjTx",
     "best_releases": [
       {
-        "name": "JPN BD + AnimeFreak",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": ""
       }
     ],
     "alt_releases": [
