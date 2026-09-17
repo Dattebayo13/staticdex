@@ -7666,8 +7666,8 @@
     "alt_title": "Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru",
     "year": 2019,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+GHS, PGS, and CR\nPog42 is moscowgolem+GHS",
-    "comparison": "https://slow.pics/c/8f6Z1OLG",
+    "notes": "CRUCiBLE is JPN BD Remux+GHS, PGS, and CR\nHeadpatter is VCB-Studio+GHS, PGS, and CR",
+    "comparison": "https://slow.pics/c/8f6Z1OLG\nhttps://slow.pics/c/1cJKssIO",
     "best_releases": [
       {
         "name": "CRUCiBLE (Dual Audio)",
@@ -7676,8 +7676,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Pog42",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -21012,17 +21012,37 @@
     "alt_title": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita",
     "year": 2025,
     "format": "TV",
-    "notes": "Erai-raws is a CR WEB-DL\nErai's subs are more up to date than other rips (because they started 3 weeks late) but still outdated vs current CR\nThe JPN BD has pretty significantly blurred chroma, but much better compression than CR\n*Might as well get a fresh rip\nMight as well mux jsum for a better alt",
-    "comparison": "https://slow.pics/c/OfFfmUST\nhttps://slow.pics/c/rQdpsQ6Z",
+    "notes": "Headpatter is JPN BD Remux+Restyled and stock CR\nHeadpatter is also jsum with the same subs\nBoth releases might as well be the only ones with updated CR subs, has some minor script/TS fixes compared to airing\nThe JPN BD might as well have pretty significantly blurred chroma, but much better compression than CR",
+    "comparison": "https://slow.pics/c/OfFfmUST\nhttps://slow.pics/c/rQdpsQ6Z\nhttps://www.diffchecker.com/63yJwwh7/",
     "best_releases": [
       {
-        "name": "JPN BD+CR*",
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Jack-of-All-Trades, Party of None",
+    "alt_title": "Yuusha Party wo Oidasareta Kiyou Binbou",
+    "year": 2026,
+    "format": "ONA",
+    "notes": "SubsPlease is a CR WEB-DL with restyled subs\nOnly rip that contains the latest CR subs which updated the terminology used in episode 1-2 to match future episodes\nThe JPN BD has blurred chroma but much better compression than CR\nH-Enc would be a better alt",
+    "comparison": "https://slow.pics/c/E2wPYRkr\nhttps://slow.pics/c/UcA8hx5p\nhttps://www.diffchecker.com/msjL5mEV/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Fresh CR",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "Erai-raws",
+        "name": "SubsPlease",
         "status": ""
       }
     ]
@@ -32893,18 +32913,18 @@
     "alt_title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru",
     "year": 2025,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+CR\nAV1ARY is JPN BD Encode+CR",
-    "comparison": "https://slow.pics/c/4cahYBks\nhttps://slow.pics/c/1qbmiphd",
+    "notes": "NAN0 is JPN BD Remux+Restyled CR. Restyle messes with TS\nHeadpatter is jsum+Restyled CR\nHeadpatter has the latest subs which fix one (1) typo compared to NAN0",
+    "comparison": "https://slow.pics/c/82RD2sHQ\nhttps://slow.pics/c/Pub9sIP9\nhttps://www.diffchecker.com/9uBcplSc/",
     "best_releases": [
       {
         "name": "NAN0",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
-        "name": "AV1ARY",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -34852,6 +34872,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Plastic Elder Sister",
+    "alt_title": "Plastic Nee-san",
+    "year": 2011,
+    "format": "ONA",
+    "notes": "Escanor is JPN BD Remux+Tsundere\nSEV is JPN BD Encode+Tsundere",
+    "comparison": "https://slow.pics/c/UM1qwbv3",
+    "best_releases": [
+      {
+        "name": "Escanor",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SEV",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Plastic Memories",
@@ -38670,12 +38710,12 @@
     "alt_title": "Yuusha no Kuzu",
     "year": 2026,
     "format": "TV",
-    "notes": "SubsPlease is a CR WEB-DL. Contains the latest CR subs, but some TS is broken from their restyle, and others from lack of layoutres\nThe usual suspects would be better alt\n*Get a fresh rip, simply",
+    "notes": "UnHoly is JPN BD Remux+CR. Subs are outdated and have the wrong matrix\nSubsPlease is a CR WEB-DL. Contains the latest CR subs, but some TS is broken from their restyle, and others from lack of layoutres\nReinForce would be better alt",
     "comparison": "https://slow.pics/c/UHp2LEnc\nhttps://slow.pics/c/wlnWqvbO",
     "best_releases": [
       {
-        "name": "JPN BD+CR*",
-        "status": "unmuxed"
+        "name": "UnHoly",
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -38746,7 +38786,7 @@
     "year": 2010,
     "format": "OVA",
     "notes": "mottoj is JPN BD Encode+Doki",
-    "comparison": "https://slow.pics/c/1t0KpNrj",
+    "comparison": "https://slow.pics/c/dkJGAIRy",
     "best_releases": [
       {
         "name": "mottoj",
@@ -40149,6 +40189,41 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "SKET Dance",
+    "alt_title": "SKET DANCE",
+    "year": 2011,
+    "format": "TV",
+    "notes": "HorribleSubs is a 3Mbps CR WEB-DL with restyled subs\nHigher bitrate streams exist but they don't really provide any value since CR is using a very low quality master\nEpisodes 3, 32, most of 20, and parts of the EDs from 59-71 have been incorrectly decimated resulting in extreme stutter\nHULU has a much higher quality master but has deinterlacing artifacts and dupe frames, there's a strong argument to be made for watching it with decimate enabled in mpv . At the very least it will be a major improvement over CR for the three episodes listed above even without decimate\nOther unripped web sources could be better, we've tested AMZN JP (extreme deinterlacing artifacts) and AO (same master as CR). The BD is useless since it's SD",
+    "comparison": "https://slow.pics/c/fiYT8kGn",
+    "best_releases": [
+      {
+        "name": "HULU+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "HorribleSubs",
+        "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "SKET DANCE: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi",
+    "alt_title": "",
+    "year": 2013,
+    "format": "OVA",
+    "notes": "polygon is AMZN WEB-DL+AnimeOut with modified TS and song styling\nNo paragraphs needed for the OVA, AMZN is simply fine",
+    "comparison": "https://slow.pics/c/4YuPRIB5",
+    "best_releases": [
+      {
+        "name": "polygon",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Skip and Loafer",
@@ -46479,7 +46554,7 @@
     "alt_title": "Oushitsu Kyoushi Heine Movie",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "Moxie is JPN BD Remux+Restyled CR\nCR is destroyed, jsum would be a decent alt\nMPV Deband helps everything",
+    "notes": "Moxie is JPN BD Remux+Restyled CR\nHeadpatter is jsum+Moxie and stock CR\nMPV Deband helps everything",
     "comparison": "https://slow.pics/c/YAQ77Luf",
     "best_releases": [
       {
@@ -46487,7 +46562,12 @@
         "status": "not_nyaa"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "The Ryuo's Work is Never Done!",
