@@ -5691,7 +5691,7 @@
     "year": 2022,
     "format": "TV",
     "notes": "LGH is ITA BD Remux+Modified Lazy (minor timing fixes and typesetting improvements, OP/ED TL added to episodes missing them) and PGS\nLGH is also ReinForce with the same subs",
-    "comparison": "https://slow.pics/c/97Oine7J\nhttps://slow.pics/c/goC9rJoa\nhttps://slow.pics/c/MZVn42Yx\nhttps://slow.pics/c/qJsXkQfM",
+    "comparison": "https://slow.pics/c/qJsXkQfM",
     "best_releases": [
       {
         "name": "LGH (Dual Audio)",
@@ -24006,6 +24006,26 @@
       {
         "name": "GetItTwisted (Dual Audio)",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "La Storia Della Arcana Famiglia",
+    "alt_title": "Arcana Famiglia: La storia della Arcana Famiglia",
+    "year": 2012,
+    "format": "TV",
+    "notes": "philosophy-raws is JPN BD Encode+(Yellow) PGS. Missing the signs track\nStore is best watched with mpv deband",
+    "comparison": "https://slow.pics/c/NYQA9EOi\nhttps://www.diffchecker.com/5qfqD0Uz/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Commie",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "philosophy-raws (Dual Audio)",
+        "status": "broken"
       }
     ]
   },
@@ -43773,20 +43793,15 @@
     "alt_title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
     "year": 2025,
     "format": "TV",
-    "notes": "SubsPlease is a CR WEB-DL with restyled subs\nAll existing rips have outdated subs, CR has since updated episodes 1-2 to replace CCC subs\n*Use old CR for episode 6, CR managed to replace the CCC subs with...SDH",
+    "notes": "Headpatter is H-Enc+Restyled and stock CR with TS adapted from the Italian track\nContains the latest CR subs which fixed issues such as episodes 1-2 being CCC. For episode 6 specifically, old CR subs were used since the latest version was mistakenly replaced with SDH",
     "comparison": "https://slow.pics/c/QNIsJr91\nhttps://www.diffchecker.com/fsaNWfMk/",
     "best_releases": [
       {
-        "name": "H-Enc+Fresh CR*",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "SubsPlease",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "The Big First-Grader and the Small Second-Grader",
@@ -45662,10 +45677,10 @@
     "year": 2024,
     "format": "TV",
     "notes": "Erai-raws and -ZR- are CR WEB-DLs\nThe JPN BD has some heavily lowpassed scenes but much better compression than CR\n*The BD has an added scene in episode 10, the TL can be sourced from the USA BD (or NTW which used it)",
-    "comparison": "https://slow.pics/c/oUUalOUf\nhttps://slow.pics/c/FM6rlCnR",
+    "comparison": "https://slow.pics/c/oUUalOUf\nhttps://slow.pics/c/FM6rlCnR\nhttps://www.diffchecker.com/SXgzkyHM/",
     "best_releases": [
       {
-        "name": "JPN BD+CR*",
+        "name": "JPN BD+Fresh CR*",
         "status": "unmuxed"
       }
     ],
