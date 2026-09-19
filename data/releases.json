@@ -30438,11 +30438,11 @@
     "alt_title": "Boku no Hero Academia 7",
     "year": 2024,
     "format": "TV",
-    "notes": "-ZR- and SubsPlease are CR WEB-DLs\nVALKYRiE is the unmuxed best but randomly has subs 8 frames off in some episodes, and didn't account for the BD changes\n*BD doesn't have character info on the midcards, so the TS for them needs to be removed",
-    "comparison": "https://slow.pics/c/2uRFYZMA",
+    "notes": "-ZR- and SubsPlease are CR WEB-DLs with restyled subs, both have outdated subs\n*BD doesn't have character info on the midcards, so the TS for them needs to be removed. Episode 7 and 14 were downgraded so you'll need to use old CR and backport the dialogue fixes\nUsual suspects would be a better alt",
+    "comparison": "https://slow.pics/c/Uaj5YLnt\nhttps://slow.pics/c/pcnAbmqJ\nhttps://www.diffchecker.com/XAInuKsS/",
     "best_releases": [
       {
-        "name": "JPN BD+CR*",
+        "name": "ITA BD+Fresh CR*",
         "status": "unmuxed"
       }
     ],
@@ -30482,18 +30482,18 @@
     "alt_title": "Boku no Hero Academia FINAL SEASON",
     "year": 2025,
     "format": "TV",
-    "notes": "Pico is a CR WEB-DL with Z-A song styling and typesetting, a few missing lines in episode 5 were added from the dubtitles",
-    "comparison": "https://slow.pics/c/Bgptp9La",
+    "notes": "12GaugeShotgun is JPN BD Remux+Pico with the 2 missing lines added from old CR\nPico is a CR WEB-DL with Z-A song styling and typesetting, a few missing lines in episode 5 were added from the dubtitles, but 2 lines were missed\nCR originally aired with some missing lines in episode 5, then fixed them, and later reverted back again when changing pipeline. For a future mux the dubtitle lines should be replaced with the actual subs",
+    "comparison": "https://slow.pics/c/Bgptp9La\nhttps://www.diffchecker.com/t5JdgZ5w/",
     "best_releases": [
       {
-        "name": "JPN BD+Pico",
-        "status": "unmuxed"
+        "name": "12GaugeShotgun (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Pico (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -31132,24 +31132,15 @@
     "alt_title": "Kaitou Joker",
     "year": 2014,
     "format": "TV",
-    "notes": "BlueLobster is an old CRF 15 CR WEB-DL, missing fonts\nEpisode 5 is a destroyed CRF 23 stream so you should get HorribleSubs for that episode\nSubs are 2 frames off on BlueLobster (or more accurately video is 2 frames delayed, can be fixed by remuxing it at 24000/1001 FPS)\nSubs are 1 frame off on HorribleSubs\nThe JPN BD is interlaced and pretty pauper, compression is mostly better than CR but they're still both starved anyway and the BD is lowpassed, chroma is noticeably much worse",
+    "notes": "Chika is old CRF 15 CR WEB-DL, older 3Mbps stream used for episode 5 since that's the best available\nThe JPN BD is interlaced and pretty pauper, compression is mostly better than CR but they're still both starved anyway and the BD is lowpassed, chroma is noticeably much worse\nShould watch with mpv deband, not saving anything but it at least helps a little",
     "comparison": "https://slow.pics/c/gtYt5MLv",
     "best_releases": [
       {
-        "name": "BlueLobster/HorribleSubs with fixed sync and fonts",
-        "status": "not_nyaa"
+        "name": "Chika",
+        "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "BlueLobster",
-        "status": "broken"
-      },
-      {
-        "name": "HorribleSubs",
-        "status": "broken"
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Nadia: The Secret of Blue Water",
