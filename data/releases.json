@@ -21032,18 +21032,18 @@
     "alt_title": "Yuusha Party wo Oidasareta Kiyou Binbou",
     "year": 2026,
     "format": "ONA",
-    "notes": "SubsPlease is a CR WEB-DL with restyled subs\nOnly rip that contains the latest CR subs which updated the terminology used in episode 1-2 to match future episodes\nThe JPN BD has blurred chroma but much better compression than CR\nH-Enc would be a better alt",
+    "notes": "Headpatter is JPN BD Remux+Restyled and stock CR with TS adapted from the German track\nHeadpatter is also H-Enc with the same subs\nContains the latest CR subs which updated the terminology used in episode 1-2 to match future episodes\nThe JPN BD has blurred chroma but much better compression than CR",
     "comparison": "https://slow.pics/c/E2wPYRkr\nhttps://slow.pics/c/UcA8hx5p\nhttps://www.diffchecker.com/msjL5mEV/",
     "best_releases": [
       {
-        "name": "JPN BD+Fresh CR",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "SubsPlease",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -27970,11 +27970,11 @@
     "alt_title": "Kanan-sama wa Akumade Choroi",
     "year": 2026,
     "format": "TV",
-    "notes": "SubsMix is a CR WEB-DL with TS adapted from the German track\nThe JPN BD has a strong lowpass\nStore goes well with MPV Deband",
-    "comparison": "https://slow.pics/c/Bo4UH5pd",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+SubsMix (Restyled CR with TS adapted from the German track)",
+    "comparison": "https://slow.pics/c/TwUxJKMe",
     "best_releases": [
       {
-        "name": "SubsMix (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
