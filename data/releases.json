@@ -5545,12 +5545,12 @@
     "alt_title": "Black★★Rock Shooter: DAWN FALL",
     "year": 2022,
     "format": "TV",
-    "notes": "CW is ReinForce+Fix-Fontsizecolor (Modified DSNP) The edits are as expected of omnipotent500, though there are improvements like uncensoring swear words and some basic TS",
+    "notes": "Moxie is JPN BD Remux+Modified CW (reverted some edits, modified typesetting and song styling)\nCW is ReinForce+Fix-Fontsizecolor (Modified DSNP) The edits are as expected of omnipotent500, though there are improvements like uncensoring swear words and some basic TS",
     "comparison": "https://slow.pics/c/1fT234aL\nhttps://www.diffchecker.com/Hjw2mooU/",
     "best_releases": [
       {
-        "name": "JPN BD+?",
-        "status": "unmuxed"
+        "name": "Moxie (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -12185,12 +12185,12 @@
     "alt_title": "",
     "year": 2021,
     "format": "TV",
-    "notes": "RigAV1 is CR WEBRip+Modified CR (Restyled, slightly edited, typeset, OP/ED TLs)\nThe JPN BD is heavily lowpassed and slaps a layer of starved grain on top to \"fix\" the banding. CR looks much better, particularly with MPV deband",
+    "notes": "Chika is CR WEB-DL+RigAV1\nRigAV1 is CR WEBRip+Modified CR (Restyled, slightly edited, typeset, OP/ED TLs)\nThe JPN BD is heavily lowpassed and slaps a layer of starved grain on top to \"fix\" the banding. CR looks much better, particularly with MPV deband",
     "comparison": "https://slow.pics/c/T5gyeITS\nhttps://slow.pics/c/D82caMX5\nhttps://www.diffchecker.com/X6N6u24N/",
     "best_releases": [
       {
-        "name": "CR+RigAV1",
-        "status": "unmuxed"
+        "name": "Chika",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -12805,6 +12805,26 @@
     "alt_releases": [
       {
         "name": "Arid (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Fate/kaleid liner Prisma☆Illya 2wei! Herz!",
+    "alt_title": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+    "year": 2015,
+    "format": "TV",
+    "notes": "PMR is JPN BD Remux+SOLA and PGS\nSOLA is Beatrice-Raws+Modified SNSbu (modified Tsundere)",
+    "comparison": "https://slow.pics/c/tMuRyanc",
+    "best_releases": [
+      {
+        "name": "PMR (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SOLA (Dual Audio)",
         "status": ""
       }
     ]
@@ -27633,7 +27653,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -27648,7 +27668,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -31134,6 +31154,21 @@
     "format": "TV",
     "notes": "Chika is old CRF 15 CR WEB-DL, older 3Mbps stream used for episode 5 since that's the best available\nThe JPN BD is interlaced and pretty pauper, compression is mostly better than CR but they're still both starved anyway and the BD is lowpassed, chroma is noticeably much worse\nShould watch with mpv deband, not saving anything but it at least helps a little",
     "comparison": "https://slow.pics/c/gtYt5MLv",
+    "best_releases": [
+      {
+        "name": "Chika",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Mysterious Joker Season 2",
+    "alt_title": "Kaitou Joker 2",
+    "year": 2015,
+    "format": "TV",
+    "notes": "Chika is old CRF 15 CR WEB-DL\nSame story as season 1, the BD is interlaced and worse than CR, benefits from mpv deband",
+    "comparison": "https://slow.pics/c/CLzLlvwd",
     "best_releases": [
       {
         "name": "Chika",
@@ -38721,12 +38756,12 @@
     "alt_title": "Yuusha no Kuzu",
     "year": 2026,
     "format": "TV",
-    "notes": "UnHoly is JPN BD Remux+CR. Subs are outdated and have the wrong matrix\nSubsPlease is a CR WEB-DL. Contains the latest CR subs, but some TS is broken from their restyle, and others from lack of layoutres\nReinForce would be better alt",
+    "notes": "UnHoly is JPN BD Remux+CR\nSubsPlease is a CR WEB-DL. Some TS is broken from their restyle, and others from lack of layoutres\nBoth contain the latest subs which have some dialogue fixes in episodes 6 and 23\nReinForce would be better alt",
     "comparison": "https://slow.pics/c/UHp2LEnc\nhttps://slow.pics/c/wlnWqvbO",
     "best_releases": [
       {
         "name": "UnHoly",
-        "status": "broken"
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -41804,6 +41839,26 @@
       {
         "name": "Headpatter",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Sugar Apple Fairy Tale",
+    "alt_title": "",
+    "year": 2023,
+    "format": "TV",
+    "notes": "Sylvar is JPN BD Remux+Cyan (Fansub based on CR) for E1-3, CR with Cyan OP/ED for E4-12. Both restyled with typos fixed\nSylvar is also jsum with the same subs\nUses the latest CR subs which had some fixes compared to airing. Dub was sourced from neoDESU for episodes 4 and 12 since they spliced audio to account for BD changes (web had no ED)\nThe BD doesn't have the dimming present in web",
+    "comparison": "https://slow.pics/c/aQmJXAHc\nhttps://slow.pics/c/cU6TXiP7",
+    "best_releases": [
+      {
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -50988,7 +51043,7 @@
     "alt_title": "Tsue to Tsurugi no Wistoria",
     "year": 2024,
     "format": "TV",
-    "notes": "FLE is JPN BD Encode+CR restyled, retimed, typeset, with KFX",
+    "notes": "FLE is JPN BD Encode+CR restyled, typeset, with KFX",
     "comparison": "https://slow.pics/c/y0HPaHhP",
     "best_releases": [
       {
