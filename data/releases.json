@@ -10578,6 +10578,21 @@
     ]
   },
   {
+    "title": "Densetsu no Yuusha Da-Garn",
+    "alt_title": "",
+    "year": 1992,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+Modified MC-HS (Retimed, restyled, TS moderately improved, script updated to reflect official terminology)\njsum would be a good alt, the DVD releases are unwatchable",
+    "comparison": "https://slow.pics/c/MLZQumBS",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Destiny of the Shrine Maiden",
     "alt_title": "Kannazuki no Miko",
     "year": 2004,
@@ -12409,6 +12424,21 @@
       {
         "name": "Chika (Dual Audio)",
         "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Fantastic Children",
+    "alt_title": "",
+    "year": 2004,
+    "format": "TV",
+    "notes": "mottoj is R2J DVD Encode+External ACX (OCR'd R1?)",
+    "comparison": "https://slow.pics/c/eqM35Wyk",
+    "best_releases": [
+      {
+        "name": "mottoj",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -24297,6 +24327,21 @@
     ]
   },
   {
+    "title": "Last Exile",
+    "alt_title": "",
+    "year": 2003,
+    "format": "TV",
+    "notes": "wham is Urotsuki+DEXA (Modified R1)\nThe stores are destroyed, Urotsuki is the only watchable option",
+    "comparison": "https://slow.pics/c/zssEuSqW",
+    "best_releases": [
+      {
+        "name": "wham",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Laughing Under the Clouds",
     "alt_title": "Donten ni Warau",
     "year": 2014,
@@ -29068,6 +29113,26 @@
     "alt_releases": [
       {
         "name": "Kaleido-subs (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Mobile Suit Gundam Hathaway",
+    "alt_title": "Kidou Senshi Gundam: Senkou no Hathaway",
+    "year": 2021,
+    "format": "MOVIE",
+    "notes": "Kawatare is JPN BD Encode+hchcsen, NF, and PGS\nhchcsen is Pizza+Restled Kulot (Official) with improved timing and OP/Inserts/TS adapted from Anarchy\nThe 4K JPN BD is a meh upscale",
+    "comparison": "https://slow.pics/c/j0EzZtm7\nhttps://slow.pics/c/uivYftfF",
+    "best_releases": [
+      {
+        "name": "Kawatare",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
         "status": ""
       }
     ]
@@ -40241,11 +40306,11 @@
     "alt_title": "SKET DANCE",
     "year": 2011,
     "format": "TV",
-    "notes": "HorribleSubs is a 3Mbps CR WEB-DL with restyled subs\nHigher bitrate streams exist but they don't really provide any value since CR is using a very low quality master\nEpisodes 3, 32, most of 20, and parts of the EDs from 59-71 have been incorrectly decimated resulting in extreme stutter\nHULU has a much higher quality master but has deinterlacing artifacts and dupe frames, there's a strong argument to be made for watching it with decimate enabled in mpv . At the very least it will be a major improvement over CR for the three episodes listed above even without decimate\nOther unripped web sources could be better, we've tested AMZN JP (extreme deinterlacing artifacts) and AO (same master as CR). The BD is useless since it's SD",
-    "comparison": "https://slow.pics/c/fiYT8kGn",
+    "notes": "HorribleSubs is a 3Mbps CR WEB-DL with restyled subs\nHigher bitrate streams exist but they don't really provide any value since CR is using a very low quality master\nEpisodes 3, 32, most of 20, and parts of the EDs from 59-71 have been incorrectly decimated resulting in extreme stutter\nUNEXT has a much higher quality master which includes the updated animation from the BD, however there are some instances of combing throughout, mostly seems to be limited to mouth flaps\nOther unripped web sources could be better, but for now UNEXT is plenty watchable. We've tested HULU (artifacts any time there's motion), AMZN JP (extreme artifacts all the time), AO (same master as CR and wrong matrix). The BD is useless since it's SD\n*UNEXT has the wrong frame rate for episodes 6, 12, 17, and 21. Another source will have to be used for these episodes. HULU has the best quality but requires decimation (either in mpv or ideally a basic encode), CR has the correct frame rate but has terrible quality",
+    "comparison": "https://slow.pics/c/fiYT8kGn\nhttps://slow.pics/c/DsaR7tn8",
     "best_releases": [
       {
-        "name": "HULU+CR",
+        "name": "UNEXT+CR*",
         "status": "unmuxed"
       }
     ],
@@ -41643,12 +41708,12 @@
     "alt_title": "",
     "year": 2013,
     "format": "TV",
-    "notes": "IK is Beatrice-Raws+FFF and Chihiro\nStore is best watched with MPV Deband",
+    "notes": "Moxie is JPN BD Remux+FFF and Chihiro \"with fixes\"\nIK is Beatrice-Raws+FFF and Chihiro\nStore is best watched with MPV Deband",
     "comparison": "https://slow.pics/c/8VGCLJFn",
     "best_releases": [
       {
-        "name": "JPN BD+IK",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -43195,12 +43260,12 @@
     "alt_title": "Tekkon Kinkreet",
     "year": 2006,
     "format": "MOVIE",
-    "notes": "Afro is Sony EUR/USA BD Encode+Modified official\nThere's 2 color grades available for this movie, the original found on the Sony EUR/USA BDs, and the new one found on the JPN, FRA/GBR/GER, and TWN BDs. The new grade is extremely red and vibrant, and looks to be due to a mastering error rather than a deliberate choice. Production material matches the original grade (See rentry). Colors aside, the original version also has English intertitles, credits, and at least 1 sign.\nThe 4K USA BD is a bad upscale based on the new grade\n*Some of the edits look worse than store and should be reverted, also restyle lol. \nOne of the copies of the EUR BD has corruption at frames 9649-51 so check for that before remuxing.",
-    "comparison": "https://slow.pics/c/spw1fl8e\nhttps://slow.pics/c/c6DcuVzI\nhttps://www.diffchecker.com/AeNJCtOZ/\nhttps://rentry.org/htmmmn6f",
+    "notes": "CiNEPHiLES is Sony EUR/USA BD Remux+OCR'd GKIDS with improved timing (gaps, snapped to keyframes), OCR'd Sony, and both PGS tracks\nAfro is Sony EUR/USA BD Encode+Modified Sony\nThere's 2 color grades available for this movie, the original found on the Sony EUR/USA BDs, and the new one found on the JPN, FRA/GBR/GER, and TWN BDs. The new grade is extremely red and vibrant, and looks to be due to a mastering error rather than a deliberate choice. Production material matches the original grade (See rentry). Colors aside, the original version also has English intertitles, credits, and at least 1 sign.\nThe 4K USA BD is a bad upscale based on the new grade",
+    "comparison": "https://slow.pics/c/spw1fl8e\nhttps://slow.pics/c/c6DcuVzI\nhttps://slow.pics/c/0E53SZ2C\nhttps://www.diffchecker.com/AeNJCtOZ/\nhttps://www.diffchecker.com/1oYy3RD1/\nhttps://rentry.org/htmmmn6f",
     "best_releases": [
       {
-        "name": "Sony EUR/USA BD+Afro*",
-        "status": "unmuxed"
+        "name": "CiNEPHiLES (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -47673,7 +47738,7 @@
     "year": 2025,
     "format": "TV",
     "notes": "YURASUKA is JPN BD Encode+Headpatter (Restyled Chihiro with minor fixes)\nChihiro is a fansub based on YT",
-    "comparison": "https://slow.pics/c/Ara15AxN\nhttps://slow.pics/c/7d6rbvAV\nhttps://slow.pics/c/65PGKGfk\nhttps://www.diffchecker.com/IvAqH3Pl/",
+    "comparison": "https://slow.pics/c/Ara15AxN\nhttps://slow.pics/c/7d6rbvAV\nhttps://slow.pics/c/65PGKGfk\nhttps://www.diffchecker.com/IvAqH3Pl/\nhttps://www.diffchecker.com/Dm3co0ub/",
     "best_releases": [
       {
         "name": "YURASUKA",
@@ -51823,6 +51888,21 @@
       {
         "name": "CyC",
         "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "You Can't Be In a Rom-Com with Your Childhood Friends!",
+    "alt_title": "Osananajimi to wa Love Kome ni Naranai",
+    "year": 2026,
+    "format": "TV",
+    "notes": "YURASUKA is JPN BD Encode+Restyled CR, has some minor TS issues from missing fonts/restyle\nScript matches latest CR",
+    "comparison": "https://slow.pics/c/QDuNS2zN\nhttps://slow.pics/c/73uFWysQ",
+    "best_releases": [
+      {
+        "name": "YURASUKA (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": []
