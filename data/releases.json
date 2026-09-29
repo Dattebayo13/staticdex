@@ -10587,7 +10587,7 @@
     "best_releases": [
       {
         "name": "hchcsen",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -29122,20 +29122,15 @@
     "alt_title": "Kidou Senshi Gundam: Senkou no Hathaway",
     "year": 2021,
     "format": "MOVIE",
-    "notes": "Kawatare is JPN BD Encode+hchcsen, NF, and PGS\nhchcsen is Pizza+Restled Kulot (Official) with improved timing and OP/Inserts/TS adapted from Anarchy\nThe 4K JPN BD is a meh upscale",
+    "notes": "Headpatter is Kawatare+hchcsen with fixed ED font, NF, and PGS\nhchcsen subs are Restled Kulot (Official) with improved timing and OP/Inserts/TS adapted from Anarchy\nThe 4K JPN BD is a meh upscale",
     "comparison": "https://slow.pics/c/j0EzZtm7\nhttps://slow.pics/c/uivYftfF",
     "best_releases": [
       {
-        "name": "Kawatare",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "hchcsen (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Mobile Suit Gundam Seed Destiny",
@@ -35770,6 +35765,26 @@
     ]
   },
   {
+    "title": "Prétear: The New Legend of Snow White",
+    "alt_title": "Shin Shirayuki-hime Densetsu Pretear",
+    "year": 2001,
+    "format": "TV",
+    "notes": "Xanth is R1US DVD Encode+Modified R1\nBBT-RMX is Xanth with dub, doesn't have a signs track",
+    "comparison": "https://slow.pics/c/KrW9eINC",
+    "best_releases": [
+      {
+        "name": "Xanth",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "BBT-RMX (Dual Audio)",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Pseudo Harem",
     "alt_title": "Giji Harem",
     "year": 2024,
@@ -41868,13 +41883,9 @@
     "alt_title": "Strike Witches: Dai-501 Tougou Sentou Koukuudan ROAD to BERLIN",
     "year": 2020,
     "format": "TV",
-    "notes": "PMR and BiRJU are JPN BD Remux+92 Impatient Eilas & Miyafuji\n501st is IrizaRaws+92 Impatient Eilas & Miyafuji",
+    "notes": "PMR is JPN BD Remux+92 Impatient Eilas & Miyafuji\n501st is IrizaRaws+92 Impatient Eilas & Miyafuji",
     "comparison": "https://slow.pics/c/pFzU1yvg",
     "best_releases": [
-      {
-        "name": "BiRJU",
-        "status": ""
-      },
       {
         "name": "PMR",
         "status": ""
@@ -45698,7 +45709,7 @@
     "alt_title": "Mahouka Koukou no Rettousei",
     "year": 2014,
     "format": "TV",
-    "notes": "sam is own encode+modified SallySubs\nBunny-Apocalypse is Beatrice-Raws+sam\nExstasia is Beatrice-Raws+SallySubs",
+    "notes": "sam is JPN BD Encode+modified SallySubs (Restyled, merged TS/OP/ED from SallySubs/Tenrai-Sensei with minor modifications)\nExstasia is Beatrice-Raws+SallySubs",
     "comparison": "https://slow.pics/c/T3WjostV",
     "best_releases": [
       {
@@ -45707,10 +45718,6 @@
       }
     ],
     "alt_releases": [
-      {
-        "name": "Bunny-Apocalypse (Dual Audio)",
-        "status": ""
-      },
       {
         "name": "Exstasia",
         "status": ""
@@ -45787,12 +45794,12 @@
     "alt_title": "Mahouka Koukou no Rettousei 3rd Season",
     "year": 2024,
     "format": "TV",
-    "notes": "Erai-raws and -ZR- are CR WEB-DLs\nThe JPN BD has some heavily lowpassed scenes but much better compression than CR\n*The BD has an added scene in episode 10, the TL can be sourced from the USA BD (or NTW which used it)",
+    "notes": "Moxie is JPN BD Remux+sam (Fansub based on CR) for E1-4, Restyled CR with sam OP, TS and ED styling adapted from BakeSubs, and some of their own TS for E5-13\nErai-raws and -ZR- are CR WEB-DLs, subs are outdated\nThe JPN BD has some heavily lowpassed scenes but much better compression than CR",
     "comparison": "https://slow.pics/c/oUUalOUf\nhttps://slow.pics/c/FM6rlCnR\nhttps://www.diffchecker.com/SXgzkyHM/",
     "best_releases": [
       {
-        "name": "JPN BD+Fresh CR*",
-        "status": "unmuxed"
+        "name": "Moxie (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
