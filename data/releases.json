@@ -2053,6 +2053,21 @@
     "alt_releases": []
   },
   {
+    "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+    "alt_title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "year": 2026,
+    "format": "ONA",
+    "notes": "Headpatter is H-Enc+Restyled and stock CR",
+    "comparison": "https://slow.pics/c/l432cLlP\nhttps://slow.pics/c/X0Q05piM",
+    "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "And Yet The Town Moves",
     "alt_title": "Soredemo Machi wa Mawatteiru",
     "year": 2010,
@@ -11454,18 +11469,22 @@
     "alt_title": "Dungeon no Naka no Hito",
     "year": 2024,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Chihiro (WEB), HIDI, and AMZN",
-    "comparison": "https://slow.pics/c/lN2BVGPF",
+    "notes": "CRUCiBLE is JPN BD Remux+Chihiro (Outdated WEB version), HIDI, and AMZN\nChihiro is JPN BD Encode+Fansub based on HIDI\nHeadpatter is Chihiro with dub",
+    "comparison": "https://slow.pics/c/lN2BVGPF\nhttps://www.diffchecker.com/G0YFw2e4/\nhttps://www.diffchecker.com/NjMNYvjq/",
     "best_releases": [
       {
         "name": "CRUCiBLE (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
         "name": "Chihiro",
         "status": ""
+      },
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -19266,7 +19285,7 @@
     "alt_title": "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
     "year": 2024,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+SubsPlus+ with fades added to some TS\nYURASUKA is JPN BD Encode+PMR v1, subs are desynced\nThe JPN BD has strong lowpassing in busy scenes but is also the only source with BD changes (see comp 2)",
+    "notes": "PMR is JPN BD Remux+SubsPlus+ with fades added to some TS\nHeadpatter is YURASUKA+PMR\nThe JPN BD has strong lowpassing in busy scenes but is also the only source with BD changes (see comp 2)",
     "comparison": "https://slow.pics/c/QosUwQ3C\nhttps://slow.pics/c/fR9tIBpx",
     "best_releases": [
       {
@@ -19276,8 +19295,8 @@
     ],
     "alt_releases": [
       {
-        "name": "YURASUKA (Dual Audio)",
-        "status": "broken"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -24467,6 +24486,26 @@
     "alt_releases": []
   },
   {
+    "title": "Legend of the Galactic Heroes: Die Neue These - Collision",
+    "alt_title": "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+    "year": 2022,
+    "format": "ONA",
+    "notes": "Erai-raws is a CR WEB-DL, contains the latest CR subs which have a few fixes compared to airing, and one fix compared to the SubsPlease batch\n-ZR- has a remux but it uses the JPN BD for E1-4 and the USA BD for E5-12, as well as being PGS only\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/ZrrPendD\nhttps://www.diffchecker.com/libtzbDS/\nhttps://www.diffchecker.com/IQNmVtjo/",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Legend of the Galactic Heroes: My Conquest Is the Sea of Stars",
     "alt_title": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
     "year": 1988,
@@ -26351,7 +26390,7 @@
     "alt_title": "Kabushiki Gaisha Magi Lumiere",
     "year": 2024,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+WakuWan with some signs retimed, and AMZN\nFTTN is VCB-Studio+WakuWan and AMZN",
+    "notes": "NAN0 is JPN BD Remux+WakuWan and AMZN\nHeadpatter is VCB-Studio+WakuWan with OP/ED backported to E1-4, and AMZN\nEnding sign adjusted to match BD video in both releases",
     "comparison": "https://slow.pics/c/pJa19HD3",
     "best_releases": [
       {
@@ -26361,8 +26400,8 @@
     ],
     "alt_releases": [
       {
-        "name": "FTTN (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -30582,7 +30621,7 @@
     "alt_title": "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
     "year": 2024,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+SubsPlus+, PGS, and AMZN\nNOGRP is VCB-Studio+SubsPlus+(HIDI with automated improvements)",
+    "notes": "CRUCiBLE is JPN BD Remux+SubsPlus+, PGS, and AMZN\nHeadpatter is VCB-Studio+SubsPlus+(HIDI with automated improvements) and PGS",
     "comparison": "https://slow.pics/c/2NTR9Chz",
     "best_releases": [
       {
@@ -30592,8 +30631,8 @@
     ],
     "alt_releases": [
       {
-        "name": "NOGRP",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -33960,6 +33999,21 @@
     ]
   },
   {
+    "title": "Ouran High School Host Club",
+    "alt_title": "Ouran Koukou Host Club",
+    "year": 2006,
+    "format": "TV",
+    "notes": "Exiled-Destiny is DVD Encode+OCR'd and stock VobSubs\nHD sources for this show are very bad upscales. Not sure which disc Exiled-Destiny used, it's an English master but it seems to be better than both R2J and FUNI R1US",
+    "comparison": "https://slow.pics/c/zXQdQTbB",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "Exiled-Destiny (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Outbreak Company",
     "alt_title": "",
     "year": 2013,
@@ -35689,7 +35743,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": ""
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -35769,20 +35823,19 @@
     "alt_title": "Shin Shirayuki-hime Densetsu Pretear",
     "year": 2001,
     "format": "TV",
-    "notes": "Xanth is R1US DVD Encode+Modified R1\nBBT-RMX is Xanth with dub, doesn't have a signs track",
+    "notes": "Xanth is R1US DVD Encode+Modified R1\nHeadpatter is Xanth with dub, OCR'd R1, and VobSubs",
     "comparison": "https://slow.pics/c/KrW9eINC",
     "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      },
       {
         "name": "Xanth",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "BBT-RMX (Dual Audio)",
-        "status": "broken"
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Pseudo Harem",
@@ -36728,7 +36781,7 @@
     "alt_title": "Re:Zero kara Hajimeru Isekai Seikatsu",
     "year": 2016,
     "format": "TV",
-    "notes": "FLE is JPN BD Encode+Restyled Seicher (Modified DDY) with various edits for consistency with the novels and their S3 release, other fixes such as typos, and song styling for all the insert songs\nDirector's Cut: OZR is Beatrice-Raws+Astral (https://pastebin.com/raw/MM8WBezf), Holomux is the same with dub\nThe director's cut has overall worse video quality, but various minor changes https://myanimelist.net/featured/2311/Whats_New_in_the_Re_Zero_Directors_Cut",
+    "notes": "FLE is JPN BD Encode+Restyled Seicher (Modified DDY) with various edits for consistency with the novels and their S3 release, other fixes such as typos, and song styling for all the insert songs\nDirector's Cut: OZR is Beatrice-Raws+Astral (https://pastebin.com/raw/MM8WBezf)\nThe director's cut has overall worse video quality, but various minor changes https://myanimelist.net/featured/2311/Whats_New_in_the_Re_Zero_Directors_Cut",
     "comparison": "https://slow.pics/c/dWVyqxrY\nhttps://www.diffchecker.com/EmVtpXk3/\nhttps://www.diffchecker.com/W3rtSo84/",
     "best_releases": [
       {
@@ -36738,12 +36791,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Holomux (Dual Audio)",
-        "status": ""
-      },
-      {
         "name": "OZR",
-        "status": ""
+        "status": "not_nyaa"
       }
     ]
   },
@@ -37640,6 +37689,21 @@
     "alt_releases": [
       {
         "name": "Chihiro-Amaterasu",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+    "alt_title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+    "year": 2026,
+    "format": "TV",
+    "notes": "BlackRose is CR WEBRip+Restyled CR with TS adapted from foreign tracks",
+    "comparison": "https://slow.pics/c/UXMcchwb",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "BlackRose",
         "status": ""
       }
     ]
@@ -41925,6 +41989,26 @@
     "format": "TV",
     "notes": "Sylvar is JPN BD Remux+Cyan (Fansub based on CR) for E1-3, CR with Cyan OP/ED for E4-12. Both restyled with typos fixed\nSylvar is also jsum with the same subs\nUses the latest CR subs which had some fixes compared to airing. Dub was sourced from neoDESU for episodes 4 and 12 since they spliced audio to account for BD changes (web had no ED)\nThe BD doesn't have the dimming present in web",
     "comparison": "https://slow.pics/c/aQmJXAHc\nhttps://slow.pics/c/cU6TXiP7",
+    "best_releases": [
+      {
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Sylvar (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Sugar Apple Fairy Tale Season 2",
+    "alt_title": "Sugar Apple Fairy Tale Part 2",
+    "year": 2023,
+    "format": "TV",
+    "notes": "Sylvar is JPN BD Remux+Restyled CR with neoDESU songs and some edits to account for BD changes\nSylvar is also jsum with the same subs",
+    "comparison": "https://slow.pics/c/1rfzSzpW",
     "best_releases": [
       {
         "name": "Sylvar (Dual Audio)",
@@ -47744,11 +47828,11 @@
     "alt_title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
     "year": 2025,
     "format": "TV",
-    "notes": "YURASUKA is JPN BD Encode+Headpatter (Restyled Chihiro with minor fixes)\nChihiro is a fansub based on YT",
+    "notes": "Headpatter is YURASUKA+Chihiro (Fansub based on YT) with sub fixes and a non-honorifics track",
     "comparison": "https://slow.pics/c/Ara15AxN\nhttps://slow.pics/c/7d6rbvAV\nhttps://slow.pics/c/65PGKGfk\nhttps://www.diffchecker.com/IvAqH3Pl/\nhttps://www.diffchecker.com/Dm3co0ub/",
     "best_releases": [
       {
-        "name": "YURASUKA",
+        "name": "Headpatter",
         "status": ""
       }
     ],
@@ -47759,20 +47843,15 @@
     "alt_title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
     "year": 2026,
     "format": "TV",
-    "notes": "Chihiro is JPN BD Encode+Fansub based on YT",
+    "notes": "Headpatter is YURASUKA+Chihiro (Fansub based on YT) with a non-honorifics track",
     "comparison": "https://slow.pics/c/6eA1GAlU\nhttps://www.diffchecker.com/JH7AiUuQ/",
     "best_releases": [
       {
-        "name": "YURASUKA+Chihiro",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Chihiro",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "This Art Club Has a Problem!",
@@ -48653,6 +48732,26 @@
       {
         "name": "Headpatter",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "TOUGEN ANKI",
+    "alt_title": "Tougen Anki",
+    "year": 2025,
+    "format": "TV",
+    "notes": "UnHoly is JPN BD Remux+Restyled CR\nDooky is a CR WEB-DL with restyled subs\nBoth contain the latest CR subs which fix issues compared to airing, and also compared to the SubsPlease batch, however episode 13 was downgraded to CCC",
+    "comparison": "https://slow.pics/c/mSun1XRf\nhttps://www.diffchecker.com/rZFA5dyo/\nhttps://www.diffchecker.com/bG9oxBDA/",
+    "best_releases": [
+      {
+        "name": "UnHoly (Dual Audio)",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Dooky (Dual Audio)",
+        "status": "broken"
       }
     ]
   },
@@ -50464,7 +50563,7 @@
     "alt_title": "Bokutachi wa Benkyou ga Dekinai",
     "year": 2019,
     "format": "TV",
-    "notes": "Moxie is JPN BD Remux+Restyled GSK_kun with missing fonts added for E1-10, AnimeFreak with GSK_kun songs and typesetting added from LaSerieEvento for E11-13\nGSK_kun is JPN BD Encode+Official with a few mics edits, timed, Song TL, LaSerieEvento TS, and KFX from EternalAnimes. Only contains the first 10 episodes",
+    "notes": "Moxie is JPN BD Remux+Restyled GSK_kun with missing fonts added for E1-10, AnimeFreak with GSK_kun songs and typesetting added from LaSerieEvento for E11-13\nHeadpatter is VCB-Studio+Moxie\nGSK_kun subs are official with a few mics edits, timed, song TL, LaSerieEvento TS, and KFX from EternalAnimes",
     "comparison": "https://slow.pics/c/5ELQjlYO",
     "best_releases": [
       {
@@ -50474,8 +50573,8 @@
     ],
     "alt_releases": [
       {
-        "name": "GSK_kun",
-        "status": "incomplete"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -50484,7 +50583,7 @@
     "alt_title": "Bokutachi wa Benkyou ga Dekinai!",
     "year": 2019,
     "format": "TV",
-    "notes": "Moxie is JPN BD Remux+Restyled AnimeFreak with TS adapted from TnS and song styling from EA-Ryuusei\nSeicher is WEBRip+AnimeFreak (Modified official) \nVCB-Studio would be a better alt",
+    "notes": "Moxie is JPN BD Remux+Restyled AnimeFreak (Modified official) with TS adapted from TnS and song styling from EA-Ryuusei\nHeadpatter is VCB-Studio+Moxie",
     "comparison": "https://slow.pics/c/sug2LjTx",
     "best_releases": [
       {
@@ -50494,8 +50593,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Seicher",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
