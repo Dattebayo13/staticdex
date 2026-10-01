@@ -7936,12 +7936,12 @@
     "alt_title": "Mato Seihei no Slave",
     "year": 2024,
     "format": "TV",
-    "notes": "Headpatter is H-Enc+Freehold (Modified Kakumei Subs with English text from SubsPlus+)",
+    "notes": "Headpatter is H-Enc+Freehold (Modified Kakumei Subs with English text from SubsPlus+) with a few mistimed lines fixed",
     "comparison": "https://slow.pics/c/zt1aMbUE\nhttps://slow.pics/c/omzG97rT",
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": ""
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -16477,16 +16477,12 @@
     "alt_title": "GUNSLINGER GIRL",
     "year": 2003,
     "format": "TV",
-    "notes": "ARC is Beatrice-Raws+Restyled Cman, UDF is the same with dub",
+    "notes": "ARC & DARC is ARC (Beatrice-Raws+Restyled Cman) with fixed sub sync in episode 11",
     "comparison": "",
     "best_releases": [
       {
-        "name": "ARC",
-        "status": ""
-      },
-      {
-        "name": "UDF (Dual Audio)",
-        "status": ""
+        "name": "ARC & DARC",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -19336,6 +19332,21 @@
     "alt_releases": []
   },
   {
+    "title": "I Want to End this Love Game",
+    "alt_title": "Aishiteru Game wo Owarasetai",
+    "year": 2026,
+    "format": "TV",
+    "notes": "BlackRose is CR WEBRip+Restyled Unfucked (CR with TS adapted from the German track with some minor edits) with various minor fixes",
+    "comparison": "https://slow.pics/c/rm0uyDnF",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "BlackRose (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
     "alt_title": "Tensei Shitara Dai Nana Ouji Datta node, Kimamani Majutsu wo Kiwamemasu",
     "year": 2024,
@@ -21598,12 +21609,12 @@
     "alt_title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
     "year": 2026,
     "format": "TV",
-    "notes": "Purple is JPN BD Encode+Kaizoku (Latest version from GitHub). Chroma was delowpassed for the affected episodes (1-2)\nKaizoku is WEBRip+CR edited, timed, typeset",
+    "notes": "Purple is JPN BD Encode+Kaizoku (Latest version from GitHub). Chroma was delowpassed for the affected episodes (1-2). Dub audio and signs track are desynced in episodes 5-6\nKaizoku is WEBRip+CR edited, timed, typeset",
     "comparison": "https://slow.pics/c/ORMgn0Bt\nhttps://slow.pics/c/SaKd5UGw\nhttps://www.diffchecker.com/jdxIepcV/",
     "best_releases": [
       {
-        "name": "Purple (Dual Audio)",
-        "status": ""
+        "name": "Purple",
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -23017,8 +23028,8 @@
     ]
   },
   {
-    "title": "Kimagure Orange★Road",
-    "alt_title": "",
+    "title": "Kimagure Orange Road",
+    "alt_title": "Kimagure Orange☆Road",
     "year": 1987,
     "format": "TV",
     "notes": "Pizza is USA BD Encode+(yellow) PGS\nA 720p version is also available for the less fortunate",
@@ -25037,6 +25048,21 @@
     ]
   },
   {
+    "title": "LOOK BACK",
+    "alt_title": "Look Back",
+    "year": 2024,
+    "format": "MOVIE",
+    "notes": "Kawatare is JPN BD Encode+Foxtrot, Some-Stuffs, and AMZN",
+    "comparison": "https://slow.pics/c/SfJtB1oc\nhttps://slow.pics/c/C22M0Fnv\nhttps://slow.pics/c/qZzvV1gJ\nhttps://www.diffchecker.com/lJqbt4Qb/\nhttps://www.diffchecker.com/C33MBKtl/\nhttps://www.diffchecker.com/Pl76YSkb/",
+    "best_releases": [
+      {
+        "name": "Kawatare",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Looking Up at the Half-Moon",
     "alt_title": "Hanbun no Tsuki ga Noboru Sora",
     "year": 2006,
@@ -26401,7 +26427,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -41414,7 +41440,7 @@
     "alt_title": "SPY×FAMILY Season 2",
     "year": 2023,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+scoot, CR, and PGS\nscoot is WEBRip+CR with the full fansub treatment\nThe JPN BD is chroma lowpassed but it doesn't really matter since the USA BD has worse issues and web sources are starved",
+    "notes": "NAN0 is JPN BD Remux+scoot, CR, and PGS\nscoot is WEBRip+CR with the full fansub treatment\nyolerejiju is scoot with dub\nThe JPN BD is chroma lowpassed but it doesn't really matter since the USA BD has worse issues and web sources are starved",
     "comparison": "https://slow.pics/c/tthFpQJi",
     "best_releases": [
       {
@@ -41425,6 +41451,10 @@
     "alt_releases": [
       {
         "name": "scoot",
+        "status": ""
+      },
+      {
+        "name": "yolerejiju (Dual Audio)",
         "status": ""
       }
     ]
@@ -42062,18 +42092,18 @@
     "alt_title": "Summer Time Render",
     "year": 2022,
     "format": "TV",
-    "notes": "TTGA is JPN BD Remux+Commie\nwham is VCB-Studio+Commie\nStore absolutely requires MPV deband, otherwise get the encode\nThe dub quality is very poor",
-    "comparison": "https://slow.pics/c/Aherxs9u\nhttps://slow.pics/c/RiAlmow2",
+    "notes": "TTGA is JPN BD Remux+Commie\nwham is VCB-Studio+Commie\nStore absolutely requires MPV deband, otherwise get the encode\nThe dub quality is very poor\nBoth releases didn't adapt the TS to BD changes",
+    "comparison": "https://slow.pics/c/Aherxs9u\nhttps://slow.pics/c/RiAlmow2\nhttps://slow.pics/c/7VldUVHq",
     "best_releases": [
       {
         "name": "TTGA (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
         "name": "wham",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -44829,12 +44859,12 @@
     "alt_title": "Zero no Tsukaima F",
     "year": 2012,
     "format": "TV",
-    "notes": "TSuNDeRe is JPN BD Encode+Commie",
+    "notes": "SKRA is JPN BD Remux+TSuNDeRe with missing ED line restored and TV broadcast sign removed, and Doki with a typo fix\nTSuNDeRe is JPN BD Encode+Commie",
     "comparison": "https://slow.pics/c/gMaH05Dt\nhttps://www.diffchecker.com/KTx8jpKI/",
     "best_releases": [
       {
-        "name": "JPN BD+TSuNDeRe",
-        "status": "unmuxed"
+        "name": "SKRA",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -46627,6 +46657,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "The Red Ranger Becomes an Adventurer in Another World",
+    "alt_title": "Sentai Red Isekai de Boukensha ni Naru",
+    "year": 2025,
+    "format": "TV",
+    "notes": "PMR is JPN BD Remux+Starbez with a TL fix from latest CR subs and duplicated sign fixed\nStarbez is CR WEB-DL+Restyled CR with typesetting and OP/ED KFX",
+    "comparison": "https://slow.pics/c/79D0DgxL",
+    "best_releases": [
+      {
+        "name": "PMR (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Starbez (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "The Reflection",
