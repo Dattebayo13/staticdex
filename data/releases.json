@@ -4526,11 +4526,11 @@
     "alt_title": "",
     "year": 2018,
     "format": "TV",
-    "notes": "cappybarra is JPN BD Encode+MTBB\nMTBB is JPN BD Encode+Commie with minor script QC\nNotSoMTBB is MTBB with dub",
+    "notes": "cappybara is JPN BD Encode+MTBB\nMTBB is JPN BD Encode+Commie with minor script QC\nNotSoMTBB is MTBB with dub",
     "comparison": "https://slow.pics/c/4CBA3NpP\nhttps://slow.pics/c/0wKlbRk5\nhttps://slow.pics/c/KLPQDjJo",
     "best_releases": [
       {
-        "name": "cappybarra",
+        "name": "cappybara",
         "status": ""
       }
     ],
@@ -14906,20 +14906,15 @@
     "alt_title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
     "year": 2004,
     "format": "TV",
-    "notes": "CTR is VCB-Studio & philosophy-raws+OZC\nSubs for episode 6 are mistimed, needs 900ms offset",
+    "notes": "SubsMix is Beatrice-Raws+MiraiAnime (Restyled OZC (R1) with improved TS, a-S for the Tachikomatic Days specials at the end), stock OZC, a-S, and \"Nyaa\"? Littered with scenebleeds but seemingly so is every other release",
     "comparison": "https://slow.pics/c/OHJ0mCP8",
     "best_releases": [
       {
-        "name": "Beatrice-Raws+(?)",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "CTR (Dual Audio)",
+        "name": "SubsMix (Dual Audio)",
         "status": "broken"
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Ghost in the Shell: The New Movie",
@@ -15795,7 +15790,7 @@
     "alt_title": "",
     "year": 2018,
     "format": "TV",
-    "notes": "Hinna is JPN BD Remux+Restyled Chyuu and Glue\nSquash is UQW with the external Glue subs muxed in",
+    "notes": "Hinna is JPN BD Remux+Restyled Chyuu and Glue\npyroneko is JPN BD Encode+Modified CR (Edited, Timed, TSed, Song TL)\nPookie is pyroneko with dub\nUQW would be a better alt, the existing mux has no fonts",
     "comparison": "https://slow.pics/c/dCgEX5Qg\nhttps://www.diffchecker.com/nS94zdWs",
     "best_releases": [
       {
@@ -15805,7 +15800,11 @@
     ],
     "alt_releases": [
       {
-        "name": "Squash",
+        "name": "Pookie (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "pyroneko",
         "status": ""
       }
     ]
@@ -15830,17 +15829,21 @@
     "alt_title": "Golden Kamuy 2nd Season",
     "year": 2018,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+Glue\nSquash is UQW with the external Glue subs muxed in",
-    "comparison": "",
+    "notes": "-ZR- is JPN BD Remux+Glue (Outdated WEB subs)\npyroneko is JPN BD Encode+Modified CR (Edited, Timed, TSed, Song TL)\nPookie is pyroneko with dub\nUQW would be a better alt, the existing mux has no fonts",
+    "comparison": "https://slow.pics/c/tYOWz14J\nhttps://www.diffchecker.com/NK1O4P92/",
     "best_releases": [
       {
         "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
-        "name": "Squash",
+        "name": "Pookie (Dual Audio)",
+        "status": ""
+      },
+      {
+        "name": "pyroneko",
         "status": ""
       }
     ]
@@ -15865,7 +15868,7 @@
     "alt_title": "Golden Kamuy 3rd Season",
     "year": 2020,
     "format": "TV",
-    "notes": "gooder is JPN BD Remux+Pritt (Restyled official with OP/ED and TS)",
+    "notes": "gooder is JPN BD Remux+Pritt (Restyled official with OP/ED and TS)\njsum would be a good alt, IrizaRaws is far more transparent but not much smaller than the remux",
     "comparison": "https://slow.pics/c/tA5JjqFt",
     "best_releases": [
       {
@@ -30877,7 +30880,7 @@
     "alt_title": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
     "year": 2019,
     "format": "TV",
-    "notes": "Moxie is JPN BD Remux+Okay-Subs\nOkay-Sub is JPN BD Encode+Official with motion tracked TS",
+    "notes": "Moxie is JPN BD Remux+Okay-Subs\nOkay-Subs is JPN BD Encode+Official with motion tracked TS",
     "comparison": "https://slow.pics/c/6emEZUIP",
     "best_releases": [
       {
@@ -36767,18 +36770,18 @@
     "alt_title": "",
     "year": 2017,
     "format": "TV",
-    "notes": "HorribleSubs is AMZN WEB-DL\nAMZN quality sucks and it's missing BD changes, but it's the only existing release with proper subtitles.\n\nThe state of subtitles for this show is an absolute disgrace. Dragon-Releases used Beatrice-Raws sub release which is AMZN shifted to BD, with some extra lines present in BD translated from Japanese to Russian, then Russian to English\nDragon-Releases has countless errors reported in the comments, including issues which ruin major plot reveals. These issues are supposedly addressed in their v2 and v3 patches (which are just mega links with external fonts and sub files) but who knows if they fix everything. Can't really list something you need to mux and QC yourself in the alt section.",
+    "notes": "Dragon-Releases is Beatrice-Raws+Beatrice-Raws (AMZN shifted to BD, with some extra lines present in BD translated from Japanese to Russian, then Russian to English...). All patches have been applied which supposedly address the various complaints",
     "comparison": "https://slow.pics/c/Md6994YA",
     "best_releases": [
       {
-        "name": "JPN BD+Official",
+        "name": "JPN BD+?",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "HorribleSubs",
-        "status": ""
+        "name": "Dragon-Releases",
+        "status": "broken"
       }
     ]
   },
@@ -42022,13 +42025,13 @@
     "best_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -43205,7 +43208,7 @@
     "alt_title": "Tanaka-kun wa Itsumo Kedaruge",
     "year": 2016,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+Kametsu\nKametu is JPN BD Encode+GJM with minor styling and TS tweaks",
+    "notes": "NAN0 is JPN BD Remux+Kametsu\nKametsu is JPN BD Encode+GJM with minor styling and TS tweaks",
     "comparison": "https://slow.pics/c/i6J6kA3R\nhttps://slow.pics/c/ebxkdfnR",
     "best_releases": [
       {
@@ -44984,8 +44987,8 @@
     ]
   },
   {
-    "title": "The Eden of Grisaia: Grisaia no Tokuten",
-    "alt_title": "Grisaia no Rakuen: Grisaia no Tokuten",
+    "title": "Grisaia no Rakuen: Grisaia no Tokuten",
+    "alt_title": "",
     "year": 2015,
     "format": "SPECIAL",
     "notes": "nekotan is JPN BD Remux+Coalgirls\nnekotan is also sergey_krs+Coalgirls\nStore requires MPV deband, otherwise get the encode",
@@ -50364,7 +50367,7 @@
     "alt_title": "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteru.",
     "year": 2014,
     "format": "OVA",
-    "notes": "nekotan is JPN BD Remux+Lulu\nLulu is Beatrice-Raws-Raws+Commie and FFFaku",
+    "notes": "nekotan is JPN BD Remux+Lulu\nLulu is Beatrice-Raws+Commie and FFFaku",
     "comparison": "",
     "best_releases": [
       {
