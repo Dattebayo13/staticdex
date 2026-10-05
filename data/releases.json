@@ -20,6 +20,41 @@
     ]
   },
   {
+    "title": "'Tis Time for \"Torture,\" Princess",
+    "alt_title": "Hime-sama, \"Goumon\" no Jikan desu",
+    "year": 2024,
+    "format": "TV",
+    "notes": "YURASUKA is JPN BD Encode+Restyled Virtuality (CR with OP/ED TL and improved TS) with increased margins on the OP/ED and missing fonts/glyphs fixed. There's some instances of broken TS though\n\nCR seem to have originally typeset on an outdated master that didn't match the airing video, resulting in some TS mismatches. They have since updated the TS to match the airing (and BD) version, however downgraded the video to the outdated master in the process, so the TS is mismatched again. Virtuality looks to have fixed most of it, but there's still a few changes that can be made\n\n*Use the fixes from YURASUKA and updates from CR\nE08 8:09 Wash your hands and gargle after going outside! -> On Duty Next Week: Bruse the Destroyer\nE08 15:20 Momokon -> Mokokon\nE09 2:32 Add TS \"That Evening\" (Can adapt from another sign)\nE09 5:29 Add TS \"'Tis Time for \"Torture\" Princess\" (Can take from another episode midcard)\nE09 5:38 Chief Battle Officer -> On Duty This Weekend\nE09 15:33: Make TS a few frames shorter",
+    "comparison": "https://slow.pics/c/R07HL4sP\nhttps://slow.pics/c/WREfGOO3\nhttps://slow.pics/c/rqaO5GxQ",
+    "best_releases": [
+      {
+        "name": "YURASUKA+Virtuality*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "YURASUKA",
+        "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "'Tis Time for \"Torture,\" Princess Season 2",
+    "alt_title": "Hime-sama, \"Goumon\" no Jikan desu 2nd Season",
+    "year": 2026,
+    "format": "TV",
+    "notes": "YURASUKA is JPN BD Encode+Restyled CR. Subs have the wrong matrix for E3-12\nLatest CR subs (no changes since airing)",
+    "comparison": "https://slow.pics/c/fAqANxyO",
+    "best_releases": [
+      {
+        "name": "YURASUKA",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": ".hack//SIGN",
     "alt_title": "",
     "year": 2002,
@@ -923,7 +958,7 @@
   },
   {
     "title": "Accel World: Infinite∞Burst",
-    "alt_title": "",
+    "alt_title": "Accel World: INFINITE∞BURST",
     "year": 2016,
     "format": "MOVIE",
     "notes": "SOLA is Beatrice-Raws+modified SallySubs (Restyled, fixed some signs/typos)",
@@ -2643,7 +2678,7 @@
   },
   {
     "title": "Arakawa Under the Bridge x Bridge",
-    "alt_title": "",
+    "alt_title": "Arakawa Under the Bridge × Bridge",
     "year": 2010,
     "format": "TV",
     "notes": "LaCroiX is JPN BD Remux+Restyled ANE with some fixes, and PGS\nANE is JPN BD Encode+Modified R1\nStore needs MPV Deband",
@@ -11360,6 +11395,26 @@
     ]
   },
   {
+    "title": "Drifting Dragons",
+    "alt_title": "Kuutei Dragons",
+    "year": 2020,
+    "format": "ONA",
+    "notes": "FraMeSToR is JPN BD Remux+(Yellow) PGS\nGyuunyuu is LowPower-Raws+NF\nIrizaRaws would be a better alt\nPGS and NF have a different TL, former has actual TS, latter seems closer to dubtitles",
+    "comparison": "https://slow.pics/c/Kngee2mH",
+    "best_releases": [
+      {
+        "name": "FraMeSToR (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Gyuunyuu",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Dropkick on My Devil!",
     "alt_title": "Jashin-chan Dropkick",
     "year": 2018,
@@ -11510,7 +11565,7 @@
   },
   {
     "title": "Durarara!! X2 The Second Arc: Onoroke Chakapoko",
-    "alt_title": "Durarara!!x2 Ten: Onoroke Chakapoko",
+    "alt_title": "Durarara!!×2 Ten: Onoroke Chakapoko",
     "year": 2015,
     "format": "SPECIAL",
     "notes": "Kametsu is ???",
@@ -11525,7 +11580,7 @@
   },
   {
     "title": "Durarara!! X2: My Heart is in the Pattern of a Hot Pot",
-    "alt_title": "Durarara!!x2 Shou: Watashi no Kokoro wa Nabe Moyou",
+    "alt_title": "Durarara!!×2 Shou: Watashi no Kokoro wa Nabe Moyou",
     "year": 2015,
     "format": "SPECIAL",
     "notes": "YURI is Beatrice-Raws+Kametsu (Modified Vivid)",
@@ -11540,7 +11595,7 @@
   },
   {
     "title": "Durarara!! X2",
-    "alt_title": "Durarara!!x2 Shou",
+    "alt_title": "Durarara!!×2 Shou",
     "year": 2015,
     "format": "TV",
     "notes": "YURI is Beatrice-Raws+Kametsu (Modified Vivid)",
@@ -11555,7 +11610,7 @@
   },
   {
     "title": "Durarara!! X2 The Second Arc",
-    "alt_title": "Durarara!!x2 Ten",
+    "alt_title": "Durarara!!×2 Ten",
     "year": 2015,
     "format": "TV",
     "notes": "Kametsu is JPN BD Encode+Dekinai\nDekinai subs are Pn8 (Modified CR) for E1-7, modified CR for E8-12",
@@ -11575,7 +11630,7 @@
   },
   {
     "title": "Durarara!! X2 The Third Arc: DuFuFuFu!!",
-    "alt_title": "Durarara!!x2 Ketsu: DuFuFuFu!!",
+    "alt_title": "Durarara!!×2 Ketsu: DuFuFuFu!!",
     "year": 2016,
     "format": "OVA",
     "notes": "Kametsu is Beatrice-Raws+Glue",
@@ -11590,7 +11645,7 @@
   },
   {
     "title": "Durarara!! X2 The Third Arc",
-    "alt_title": "Durarara!!x2 Ketsu",
+    "alt_title": "Durarara!!×2 Ketsu",
     "year": 2016,
     "format": "TV",
     "notes": "Kametsu is Beatrice-Raws+Glue",
@@ -11605,7 +11660,7 @@
   },
   {
     "title": "Dusk Maiden of Amnesia",
-    "alt_title": "Tasogare Otome x Amnesia",
+    "alt_title": "Tasogare Otome × Amnesia",
     "year": 2012,
     "format": "TV",
     "notes": "CRUCiBLE is JPN BD Remux+YURI and PGS\nYURI is Beatrice-Raws+FFF",
@@ -11625,7 +11680,7 @@
   },
   {
     "title": "Dusk Maiden of Amnesia: \"Ghost Girl\"",
-    "alt_title": "Tasogare Otome x Amnesia: Taima Otome",
+    "alt_title": "Tasogare Otome × Amnesia: Taima Otome",
     "year": 2012,
     "format": "OVA",
     "notes": "CRUCiBLE is JPN BD Remux+YURI and PGS\nYURI is Beatrice-Raws+FFF",
@@ -16422,7 +16477,7 @@
   },
   {
     "title": "Gun x Sword",
-    "alt_title": "",
+    "alt_title": "Gun × Sword",
     "year": 2005,
     "format": "TV",
     "notes": "hchcsen is Moozzi2 \"Weak Filter Ver\"+xPearse with Insert/ED lyrics and redone TS. Dub audio cuts out 3 minutes early on episode 8.\nIt's cope but store is interlaced",
@@ -18953,7 +19008,7 @@
   },
   {
     "title": "Hybrid x Heart Magias Academy Ataraxia",
-    "alt_title": "Masou Gakuen HxH",
+    "alt_title": "Masou Gakuen H×H",
     "year": 2016,
     "format": "TV",
     "notes": "Exp is Beatrice-Raws+GJM and Ecchihiro",
@@ -20065,15 +20120,15 @@
     "alt_title": "Kyokou Suiri",
     "year": 2020,
     "format": "TV",
-    "notes": "YURASUKA is Delowpassed JPN BD Encode+IK (modified ShowY (CR with minor TS improvements and OP/ED added), restyled, improved TS, timing, and added OP/ED lyrics to each episode) and PGS",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+IK (modified ShowY (CR with minor TS improvements and OP/ED added), restyled, improved TS, timing, and added OP/ED lyrics to each episode) and PGS\nMissing a bunch of fonts which breaks TS",
     "comparison": "https://slow.pics/c/zNsUJHtO\nhttps://slow.pics/c/jEFzASB9\nhttps://slow.pics/c/UEzWnWUd",
-    "best_releases": [
+    "best_releases": [],
+    "alt_releases": [
       {
         "name": "YURASUKA (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "In/Spectre 2",
@@ -20389,7 +20444,7 @@
   },
   {
     "title": "Inu X Boku Secret Service",
-    "alt_title": "Inu x Boku SS",
+    "alt_title": "Inu × Boku SS",
     "year": 2012,
     "format": "TV",
     "notes": "DorK is JPN BD Remux+PGS and karios. PGS is default and there's no fansub signs track so #Trumpable\nkarios is ANK-Raws+EveTaku synced to BD with improved TS\nA Kuroi-raws mux would be a significantly better alt",
@@ -20409,7 +20464,7 @@
   },
   {
     "title": "Inu X Boku Secret Service Special",
-    "alt_title": "Inu x Boku SS Special",
+    "alt_title": "Inu × Boku SS Special",
     "year": 2012,
     "format": "SPECIAL",
     "notes": "DorK is JPN BD Remux+PGS and karios. PGS is default and there's no fansub signs track so #Trumpable\nkarios is ANK-Raws+EveTaku synced to BD with improved TS\nA Kuroi-raws mux would be a significantly better alt",
@@ -27340,6 +27395,21 @@
     ]
   },
   {
+    "title": "Medaka Kuroiwa is Impervious to My Charms",
+    "alt_title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+    "year": 2025,
+    "format": "TV",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+Restyled CR\nLatest CR subs (no changes since airing)",
+    "comparison": "https://slow.pics/c/2nxC9qAy",
+    "best_releases": [
+      {
+        "name": "YURASUKA (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Medalist",
     "alt_title": "",
     "year": 2025,
@@ -34032,8 +34102,8 @@
     "alt_title": "Ouran Koukou Host Club",
     "year": 2006,
     "format": "TV",
-    "notes": "Exiled-Destiny is DVD Encode+OCR'd and stock VobSubs\nHD sources for this show are very bad upscales. Not sure which disc Exiled-Destiny used, it's an English master but it seems to be better than both R2J and FUNI R1US",
-    "comparison": "https://slow.pics/c/zXQdQTbB",
+    "notes": "Exiled-Destiny is R1US DVD Encode+OCR'd and stock VobSubs\nHD sources for this show are very bad upscales",
+    "comparison": "https://slow.pics/c/LU45uB7b",
     "best_releases": [],
     "alt_releases": [
       {
@@ -36153,6 +36223,46 @@
     ]
   },
   {
+    "title": "Magia Record: Puella Magi Madoka Magica Side Story Season 2 -The Eve of Awakening-",
+    "alt_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON - Kakusei Zenya",
+    "year": 2021,
+    "format": "TV",
+    "notes": "NAN0 is JPN/USA BD Remux+neoHEVC\nMomonoki is JPN/USA BD Encode+neoHEVC\nneoHEVC subs are YameteTomete (Fansub based on official) for E1-5, restyled FUNI with YameteTomete OP/ED and basic TS for E6-8\nStore should be watched with mpv deband, Kawaiika-Raws would be a better alt",
+    "comparison": "https://slow.pics/c/hW7OADRd",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Momonoki",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
+    "title": "Magia Record: Puella Magi Madoka Magica Side Story Final Season -Dawn of a Shallow Dream-",
+    "alt_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Final SEASON - Asaki Yume no Akatsuki",
+    "year": 2022,
+    "format": "TV",
+    "notes": "NAN0 is JPN/USA BD Remux+neoHEVC\nMomonoki is JPN/USA BD Encode+neoHEVC\nneoHEVC subs are restyled CR with YameteTomete OP/ED and basic TS\nBoth releases are missing a font for the OP title card but it's super minor\nStore should be watched with mpv deband, VCB-Studio would be a better alt",
+    "comparison": "https://slow.pics/c/i4N3bWap",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Momonoki",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Puella Magi Madoka Magica the Movie Part 1: Beginnings",
     "alt_title": "Mahou Shoujo Madoka☆Magica: Hajimari no Monogatari",
     "year": 2012,
@@ -37334,6 +37444,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "RELEASE THE SPYCE",
+    "alt_title": "",
+    "year": 2018,
+    "format": "TV",
+    "notes": "Spice is VCB-Studio+Astral and PGS\nVCB is starved as usual but the store sucks so we cope",
+    "comparison": "https://slow.pics/c/sS0vZW38",
+    "best_releases": [
+      {
+        "name": "Spice (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "ReLIFE",
@@ -39635,7 +39760,7 @@
   },
   {
     "title": "Servant x Service",
-    "alt_title": "",
+    "alt_title": "Servant × Service",
     "year": 2013,
     "format": "TV",
     "notes": "Pizza is own encode + commie",
@@ -40844,6 +40969,21 @@
     "alt_releases": [
       {
         "name": "Exp",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Sonny Boy",
+    "alt_title": "",
+    "year": 2021,
+    "format": "TV",
+    "notes": "Osiris is Kawaiika-Raws+Pizza for E1-7, tan for E8-9, and FUNI for E10-12\ntan subs are off by 1 frame and Pizza has since done those episodes anyway\nTTGA only includes Pizza for E1-6 despite what their description says",
+    "comparison": "https://slow.pics/c/Xb8gZCyi",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "Osiris",
         "status": ""
       }
     ]
@@ -44448,18 +44588,18 @@
     "alt_title": "Machikado Mazoku: 2-Choume",
     "year": 2022,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+Bunny-Apocalypse (Mad le Zisell with LoopSubs OP/ED)\nVirtuality is Rye+Bunny-Apocalypse and Nyanpasu\nStore should only be watched with MPV deband, otherwise get an encode",
+    "notes": "NAN0 is JPN BD Remux+Bunny-Apocalypse (Mad le Zisell with LoopSubs OP/ED) with fixed sign timing, and PGS\nVirtuality is Rye+Bunny-Apocalypse and Nyanpasu. Has some sign scenebleeds\nStore should only be watched with MPV deband, otherwise get an encode",
     "comparison": "https://slow.pics/c/QYXYMRWC",
     "best_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "NAN0 (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Virtuality (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -46352,6 +46492,26 @@
     "alt_releases": [
       {
         "name": "VARYG (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Most Heretical Last Boss Queen: From Villainess to Savior",
+    "alt_title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+    "year": 2023,
+    "format": "TV",
+    "notes": "WrathMonth is ABEMA WEB-DL+Fansub based on HIDI\nThe USA BD sucks as per, web is just far too starved\n*Fix the issue in the Nyaa comments simply",
+    "comparison": "https://slow.pics/c/dsgOXw7y",
+    "best_releases": [
+      {
+        "name": "USA BD+WrathMonth*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "WrathMonth",
         "status": ""
       }
     ]
