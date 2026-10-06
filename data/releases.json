@@ -36247,7 +36247,7 @@
     "alt_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Final SEASON - Asaki Yume no Akatsuki",
     "year": 2022,
     "format": "TV",
-    "notes": "NAN0 is JPN/USA BD Remux+neoHEVC\nMomonoki is JPN/USA BD Encode+neoHEVC\nneoHEVC subs are restyled CR with YameteTomete OP/ED and basic TS\nBoth releases are missing a font for the OP title card but it's super minor\nStore should be watched with mpv deband, VCB-Studio would be a better alt",
+    "notes": "NAN0 is JPN/USA BD Remux+neoHEVC and PGS, missing a font for the OP title card but it's super minor\nHeadpatter is VCB-Studio+neoHEVC and PGS\nneoHEVC subs are restyled CR with YameteTomete OP/ED and basic TS\nStore should be watched with mpv deband, otherwise get the alt",
     "comparison": "https://slow.pics/c/i4N3bWap",
     "best_releases": [
       {
@@ -36257,7 +36257,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Momonoki",
+        "name": "Headpatter (Dual Audio)",
         "status": "not_nyaa"
       }
     ]
