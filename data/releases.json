@@ -7976,7 +7976,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -8404,6 +8404,26 @@
     "alt_releases": [
       {
         "name": "Crow",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Chu-Bra!: Panty Appreciation Society",
+    "alt_title": "Chuu Bra!!",
+    "year": 2010,
+    "format": "TV",
+    "notes": "Doki is JPN BD Encode+OTL?\nThe store is cross-converted, Salender is the only watchable option",
+    "comparison": "https://slow.pics/c/6lxIrl5v",
+    "best_releases": [
+      {
+        "name": "Salender-Raws+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Doki",
         "status": ""
       }
     ]
@@ -12174,6 +12194,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Erin",
+    "alt_title": "Kemono no Souja Erin",
+    "year": 2009,
+    "format": "TV",
+    "notes": "Marche is Kuroi-Raws+JPSDR (Coalgirls (SS))",
+    "comparison": "https://slow.pics/c/vpJtswbi",
+    "best_releases": [
+      {
+        "name": "Marche",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Eromanga Sensei",
@@ -23522,6 +23557,26 @@
     ]
   },
   {
+    "title": "Kodomo no Jikan",
+    "alt_title": "",
+    "year": 2007,
+    "format": "TV",
+    "notes": "Doutei is R2J DVD Encode+OTL",
+    "comparison": "https://slow.pics/c/aDFgM08k",
+    "best_releases": [
+      {
+        "name": "Beatrice-Raws+Doutei",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Doutei",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Koi Kaze",
     "alt_title": "",
     "year": 2004,
@@ -26794,6 +26849,26 @@
     ]
   },
   {
+    "title": "Management of a Novice Alchemist",
+    "alt_title": "Shinmai Renkinjutsushi no Tenpo Keiei",
+    "year": 2022,
+    "format": "TV",
+    "notes": "Bunny-Apocalypse is VCB-Studio+Mocha (Fansub based on HIDI) with \"Some signs re-timed and fixed\"\nThe JPN BD isn't great, it was debanded at the store resulting in detail loss, still has banding leftover, and is lowpassed in some scenes. The GER BD is much better and avoids all these issues but unfortunately is hardsubbed, the USA BD is heavily lowpassed, and web sources are extremely starved and missing changes\nStore should be watched with mpv deband, otherwise get the encode",
+    "comparison": "https://slow.pics/c/cMrkm0w9\nhttps://slow.pics/c/OluZGLo1",
+    "best_releases": [
+      {
+        "name": "JPN BD+Bunny-Apocalypse",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Bunny-Apocalypse (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Mankatsu",
     "alt_title": "Monkey Punch Manga Katsudou Dai Shashin",
     "year": 2004,
@@ -28671,7 +28746,7 @@
     "alt_title": "Kidou Shin Seiki Gundam X",
     "year": 1996,
     "format": "TV",
-    "notes": "hchcsen is JPN BD Remux+/m/'s R1 OCR spliced with OCR'd PGS to fix some cut off lines of dialogue. Restyled, heavily dialed back the meme subbing, and fixed some lines ending early\nZetaRebel is USA BD Encode+PGS and /m/\njsum would be a better alt",
+    "notes": "hchcsen is JPN BD Remux+/m/'s R1 OCR spliced with OCR'd PGS to fix some cut off lines of dialogue. Restyled, heavily dialed back the meme subbing, and fixed some lines ending early\nHeadpatter is jsum+hchcsen",
     "comparison": "https://slow.pics/c/4KdfuSvS",
     "best_releases": [
       {
@@ -28681,8 +28756,8 @@
     ],
     "alt_releases": [
       {
-        "name": "ZetaRebel",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -38422,6 +38497,26 @@
     ]
   },
   {
+    "title": "Sailor Moon R: The Movie",
+    "alt_title": "Bishoujo Senshi Sailor Moon R: THE MOVIE",
+    "year": 1993,
+    "format": "MOVIE",
+    "notes": "Hark0n is JPN BD Encode+Judgment (Modified R1). Default track is a multicolor meme, second track is normal\nContains Japanese Stereo & Mono and English Viz & Pioneer dubs\nBrundlefly is the unmuxed best but introduces scenebleeds and has broken/missing TS",
+    "comparison": "https://slow.pics/c/Bv9znMIG",
+    "best_releases": [
+      {
+        "name": "JPN BD+Hark0n",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Hark0n (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Saint Seiya: The Lost Canvas",
     "alt_title": "Saint Seiya: THE LOST CANVAS - Meiou Shinwa",
     "year": 2009,
@@ -38867,6 +38962,26 @@
       {
         "name": "Drag (Dual Audio)",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Saving 80,000 Gold in Another World for My Retirement",
+    "alt_title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+    "year": 2023,
+    "format": "TV",
+    "notes": "Kitsune is a CR WEB-DL with restyled subs, restyle messes with TS but it's the only recent rip with layoutres\nThe USA BD sucks as per, but it's got BD changes and noticeably better compression than CR\n*TL for the foreign language spoken in episode 1 (maybe others?) needs to be taken from the PGS subs",
+    "comparison": "https://slow.pics/c/YZ4qSGeI\nhttps://slow.pics/c/IyeJqCqy\nhttps://slow.pics/c/C4RhS1lI\nhttps://slow.pics/c/32fLIaWu",
+    "best_releases": [
+      {
+        "name": "USA BD+CR*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kitsune (Dual Audio)",
+        "status": "broken"
       }
     ]
   },
@@ -50756,18 +50871,18 @@
     "alt_title": "Bokutachi wa Benkyou ga Dekinai OVAs",
     "year": 2019,
     "format": "OVA",
-    "notes": "OVA1: GSK_kun is Seicher-Raws+Rizurin with KFX from EternalAnimes\nOVA2: Drag is Z4ST1N+RoS retstyled, edited, typeset, and lyrics from EA-Ryuusei",
-    "comparison": "",
+    "notes": "Moxie is JPN BD Remux+Restyled GSK_kun (OVA1), restyled Drag with slight edits (OVA2)\nHeadpatter is VCB-Studio+Moxie\nGSK_kun subs are Rizurin edited, typeset, timed, with KFX from EA-Ryuusei\nDrag subs are RoS edited, typeset, with KFX from EA-Ryuusei",
+    "comparison": "https://slow.pics/c/YoImI3bt\nhttps://slow.pics/c/QpzkNn2A",
     "best_releases": [
       {
-        "name": "GSK_kun",
+        "name": "Moxie",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Drag",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
