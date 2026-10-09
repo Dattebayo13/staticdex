@@ -848,19 +848,20 @@
     "alt_title": "Nakitai Watashi wa Neko wo Kaburu",
     "year": 2020,
     "format": "MOVIE",
-    "notes": "Pog42 is Kawaiika-Raws+Kulot (Restyled EMBER (NF with TS))\nLYS1TH3A is Kawaiika-Raws+Kulot and NF",
-    "comparison": "https://slow.pics/c/lmBbAYOL",
+    "notes": "Kawatare is JPN BD Encode+RigAV1 and NF\nLYS1TH3A is Kawaiika-Raws+Kulot and NF\nRigAV1 subs are Kulot (Restyled EMBER, which is NF with TS) with additional and improved TS (half adapted from Anarchy) and timing/formatting from Anarchy with a few minor adjustments",
+    "comparison": "https://slow.pics/c/8ke9LeLK",
     "best_releases": [
+      {
+        "name": "Kawatare",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "LYS1TH3A (Dual Audio)",
         "status": ""
-      },
-      {
-        "name": "Pog42",
-        "status": "not_nyaa"
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "A.I.C.O. -Incarnation-",
@@ -10799,6 +10800,26 @@
       {
         "name": "CsS",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Didn't I Say to Make My Abilities Average in the Next Life?!",
+    "alt_title": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
+    "year": 2019,
+    "format": "TV",
+    "notes": "AnimeGirl6 is JPN BD Remux+NH (Chihiro)\nLia is JPN BD Encode+Chihiro\nThe store has a missing field in some scenes, the only encode that actually addressed it is Moozzi2 but it's not worth sadeeming all the other scenes",
+    "comparison": "https://slow.pics/c/1nIU3G5i",
+    "best_releases": [
+      {
+        "name": "AnimeGirl6 (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Lia",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -25029,7 +25050,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -38517,6 +38538,61 @@
     ]
   },
   {
+    "title": "Sailor Moon S Movie: Hearts in Ice",
+    "alt_title": "Bishoujo Senshi Sailor Moon S: Kaguya Hime no Koibito",
+    "year": 1994,
+    "format": "MOVIE",
+    "notes": "Hark0n is JPN BD Encode+Judgment (Modified R1). Default track is a multicolor meme, second track is normal\nContains Japanese Stereo & Mono and English Viz & Pioneer dubs",
+    "comparison": "https://slow.pics/c/a1shaH4W",
+    "best_releases": [
+      {
+        "name": "JPN BD+Hark0n",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Hark0n (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Sailor Moon SuperS",
+    "alt_title": "Bishoujo Senshi Sailor Moon SuperS",
+    "year": 1995,
+    "format": "TV",
+    "notes": "Hark0n is R2IT DVD Encode+SMC\nHas the correct frame rate this time",
+    "comparison": "",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "Hark0n (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Sailor Moon SuperS the Movie: Black Dream Hole",
+    "alt_title": "Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki",
+    "year": 1995,
+    "format": "MOVIE",
+    "notes": "Hark0n is JPN BD Encode+Judgment (Modified R1). Default track is a multicolor meme, second track is normal\nContains Japanese Stereo & Mono and English Viz & Pioneer dubs",
+    "comparison": "https://slow.pics/c/CGN5iVw5",
+    "best_releases": [
+      {
+        "name": "JPN BD+Hark0n",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Hark0n (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Saint Seiya: The Lost Canvas",
     "alt_title": "Saint Seiya: THE LOST CANVAS - Meiou Shinwa",
     "year": 2009,
@@ -42300,13 +42376,13 @@
     "best_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Sylvar (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -45847,15 +45923,20 @@
     "alt_title": "Heike Monogatari",
     "year": 2021,
     "format": "ONA",
-    "notes": "o7 is Beatrice-Raws+CR with TS from Owari Subs and song lyrics",
-    "comparison": "https://slow.pics/c/s2s9cie0\nhttps://slow.pics/c/e3SgYQ1F",
+    "notes": "Commie is JPN BD Encode+Modified CR",
+    "comparison": "https://slow.pics/c/s2s9cie0\nhttps://slow.pics/c/e3SgYQ1F\nhttps://www.diffchecker.com/jf4ZKAtj/\nhttps://www.diffchecker.com/qWER6us7/\nhttps://www.diffchecker.com/yotiuyx5/",
     "best_releases": [
       {
-        "name": "o7 (Dual Audio)",
-        "status": ""
+        "name": "Beatrice-Raws+Commie",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Commie",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "The Helpful Fox Senko-san",
