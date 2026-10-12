@@ -3414,6 +3414,21 @@
     "alt_releases": []
   },
   {
+    "title": "Astro Boy (2003)",
+    "alt_title": "Astro Boy Tetsuwan Atom",
+    "year": 2003,
+    "format": "TV",
+    "notes": "Alelander is UNEXT WEBRip with R2J DVD spliced in for the OP/ED+Windii\nThe encode isn't great but UNEXT didn't include the OP/ED, nor did it look particularly good in the first place, being an HD show it's a massive improvement over any DVD release though",
+    "comparison": "https://slow.pics/c/Z9mVG7Do\nhttps://slow.pics/c/hG3jLtye",
+    "best_releases": [
+      {
+        "name": "Alelander",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Asura",
     "alt_title": "",
     "year": 2012,
@@ -9404,6 +9419,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Cultural Exchange with a Game Centre Girl",
+    "alt_title": "GaCen Shoujo to Ibunka Kouryuu",
+    "year": 2025,
+    "format": "TV",
+    "notes": "YURASUKA is JPN BD Encode+Restyled CR\nNot the latest CR subs, which is great because they've since downgraded half the episodes to CCC and removed the subs for episode 10 entirely",
+    "comparison": "https://slow.pics/c/LovVR900",
+    "best_releases": [
+      {
+        "name": "YURASUKA (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Cuticle Detective Inaba",
@@ -15724,17 +15754,17 @@
     "alt_title": "Gnosia",
     "year": 2025,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+Modified CR (TPP for the CCC subs in E1-2, signs typeset)\nkikuri is ReinForce+PMR\nBoth releases use the latest CR subs, 3-8 were originally CCC too, and a couple of script changes throughout",
-    "comparison": "https://slow.pics/c/94cApN4f",
+    "notes": "Kawatare is JPN BD Encode+PMR\nTasokare is JPN BD Encode+PMR\nPMR subs are CR with TPP for the CCC subs in E1-2, and signs typeset in every episode. Uses the latest CR subs, 3-8 were originally CCC too, and a couple of script changes throughout\nZombieSubs (E01 only) is probably worth looking at for a future mux",
+    "comparison": "https://slow.pics/c/8BPxK2Bl\nhttps://slow.pics/c/94cApN4f",
     "best_releases": [
       {
-        "name": "PMR (Dual Audio)",
+        "name": "Kawatare",
         "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "kikuri",
+        "name": "Tasokare",
         "status": ""
       }
     ]
@@ -19604,7 +19634,7 @@
     "alt_title": "Yuusha, Yamemasu",
     "year": 2022,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Chihiro and PGS\nChihiro is JPN BD Encode+Modified HIDI\nStore should be watched with MPV deband",
+    "notes": "CRUCiBLE is JPN BD Remux+Chihiro and PGS\nChihiro is JPN BD Encode+Modified HIDI\nHeadpatter is Chihiro with dub\nStore should be watched with MPV deband",
     "comparison": "https://slow.pics/c/m5tIVCoD",
     "best_releases": [
       {
@@ -19616,6 +19646,10 @@
       {
         "name": "Chihiro",
         "status": ""
+      },
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -19624,7 +19658,7 @@
     "alt_title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
     "year": 2022,
     "format": "OVA",
-    "notes": "CRUCiBLE is JPN BD Remux+Chihiro and PGS\nChihiro is JPN BD Encode+Modified HIDI\nStore should be watched with MPV deband",
+    "notes": "CRUCiBLE is JPN BD Remux+Chihiro and PGS\nChihiro is JPN BD Encode+Modified HIDI\nHeadpatter is Chihiro with dub\nStore should be watched with MPV deband",
     "comparison": "",
     "best_releases": [
       {
@@ -19636,6 +19670,10 @@
       {
         "name": "Chihiro",
         "status": ""
+      },
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -36323,7 +36361,7 @@
     "alt_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON - Kakusei Zenya",
     "year": 2021,
     "format": "TV",
-    "notes": "NAN0 is JPN/USA BD Remux+neoHEVC\nMomonoki is JPN/USA BD Encode+neoHEVC\nneoHEVC subs are YameteTomete (Fansub based on official) for E1-5, restyled FUNI with YameteTomete OP/ED and basic TS for E6-8\nStore should be watched with mpv deband, Kawaiika-Raws would be a better alt",
+    "notes": "NAN0 is JPN/USA BD Remux+neoHEVC and PGS\nHeadpatter is Kawaiika-Raws+neoHEVC and PGS\nneoHEVC subs are YameteTomete (Fansub based on official) for E1-5, restyled FUNI with YameteTomete OP/ED and basic TS for E6-8\nStore should be watched with mpv deband, otherwise get the alt",
     "comparison": "https://slow.pics/c/hW7OADRd",
     "best_releases": [
       {
@@ -36333,7 +36371,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Momonoki",
+        "name": "Headpatter (Dual Audio)",
         "status": "not_nyaa"
       }
     ]
@@ -38148,12 +38186,12 @@
     "alt_title": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
     "year": 2026,
     "format": "TV",
-    "notes": "Acans is JPN BD Encode+CR, technically dual audio but the dub is desynced\nThe encode is terrible but CR has the wrong range on episodes 2 and 9 so it wins by default\njsum would be a much better alt\nThe NIAC remux has desynced subs and dub\n*Make the signs track yourself, CR's is either CCC or entirely missing",
+    "notes": "T9 is JPN BD Remux+CR. Episode 2 uses a CCC signs track\nAcans is JPN BD Encode+CR, technically dual audio but the dub is desynced\nThe encode is terrible but CR has the wrong range on episodes 2 and 9 so it wins by default\njsum would be a much better alt",
     "comparison": "https://slow.pics/c/8hJgwopK",
     "best_releases": [
       {
-        "name": "JPN BD+CR*",
-        "status": "unmuxed"
+        "name": "T9 (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -49831,15 +49869,20 @@
     "alt_title": "Uma Musume: Pretty Derby - Shin Jidai no Tobira",
     "year": 2024,
     "format": "MOVIE",
-    "notes": "Okay-Subs is JPN BD Encode+Modified tracen with additional TS",
-    "comparison": "https://slow.pics/c/0hMX5gvn",
+    "notes": "MegaMTBB is DCP Encode with BD changes spliced in+Okay-Subs\nOkay-Subs is JPN BD Encode+Modified tracen with additional TS\n\"get MegaMTBB if you're using mpv / a device that can handle 444 like the Apple TV, otherwise get Okay-Subs\"",
+    "comparison": "https://slow.pics/c/b7bITcnh",
     "best_releases": [
+      {
+        "name": "MegaMTBB",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "Okay-Subs",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Umamusume: Pretty Derby Season 3",
