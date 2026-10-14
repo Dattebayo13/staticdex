@@ -24,7 +24,7 @@
     "alt_title": "Hime-sama, \"Goumon\" no Jikan desu",
     "year": 2024,
     "format": "TV",
-    "notes": "YURASUKA is JPN BD Encode+Restyled Virtuality (CR with OP/ED TL and improved TS) with increased margins on the OP/ED and missing fonts/glyphs fixed. There's some instances of broken TS though\n\nCR seem to have originally typeset on an outdated master that didn't match the airing video, resulting in some TS mismatches. They have since updated the TS to match the airing (and BD) version, however downgraded the video to the outdated master in the process, so the TS is mismatched again. Virtuality looks to have fixed most of it, but there's still a few changes that can be made\n\n*Use the fixes from YURASUKA and updates from CR\nE08 8:09 Wash your hands and gargle after going outside! -> On Duty Next Week: Bruse the Destroyer\nE08 15:20 Momokon -> Mokokon\nE09 2:32 Add TS \"That Evening\" (Can adapt from another sign)\nE09 5:29 Add TS \"'Tis Time for \"Torture\" Princess\" (Can take from another episode midcard)\nE09 5:38 Chief Battle Officer -> On Duty This Weekend\nE09 15:33: Make TS a few frames shorter",
+    "notes": "YURASUKA is JPN BD Encode+Restyled Virtuality (CR with OP/ED TL and improved TS) with increased margins on the OP/ED and missing fonts/glyphs fixed. There's some instances of broken TS though\n\nCR seem to have originally typeset on an outdated master that didn't match the airing video, resulting in some TS mismatches. They have since updated the TS to match the airing (and BD) version, however downgraded the video to the outdated master in the process, so the TS is mismatched again. Virtuality looks to have fixed most of it, but there's still a few changes that can be made\n\n*Use the fixes from YURASUKA and updates from CR. Also looks like matrix needs to be set to 601, and some signs need their perspective fixed\nE08 8:09 Wash your hands and gargle after going outside! -> On Duty Next Week: Bruse the Destroyer\nE08 15:20 Momokon -> Mokokon\nE09 2:32 Add TS \"That Evening\" (Can adapt from another sign)\nE09 5:29 Add TS \"'Tis Time for \"Torture\" Princess\" (Can take from another episode midcard)\nE09 5:38 Chief Battle Officer -> On Duty This Weekend\nE09 15:33: Make TS a few frames shorter",
     "comparison": "https://slow.pics/c/R07HL4sP\nhttps://slow.pics/c/WREfGOO3\nhttps://slow.pics/c/rqaO5GxQ",
     "best_releases": [
       {
@@ -5527,6 +5527,26 @@
     ]
   },
   {
+    "title": "Black Jack (TV)",
+    "alt_title": "",
+    "year": 2004,
+    "format": "TV",
+    "notes": "Headpatter is mottoj+instable200 (OCR'd Frostii/Froth-Bite). The 3 minute intro in episode 1 is unsubbed, external subs are available in the description\n*Use DVD audio, AMZN is destroyed",
+    "comparison": "https://slow.pics/c/xZX6A5fC\nhttps://slow.pics/c/Xm4b3QIU",
+    "best_releases": [
+      {
+        "name": "AMZN+instable200*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Black Lagoon",
     "alt_title": "BLACK LAGOON",
     "year": 2006,
@@ -9255,12 +9275,12 @@
     "alt_title": "",
     "year": 1999,
     "format": "TV",
-    "notes": "Virtuality is AMZN WEB-DL+OldCastle restyled and retimed\nA jsum mux would be a better alt",
+    "notes": "broom is JPN BD Remux+Virtuality\nVirtuality is AMZN WEB-DL+OldCastle restyled and retimed\nA jsum mux would be a better alt",
     "comparison": "https://slow.pics/c/EXxXNm7c\nhttps://slow.pics/c/O2HLNcED",
     "best_releases": [
       {
-        "name": "JPN BD+Virtuality",
-        "status": "unmuxed"
+        "name": "broom",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -9275,12 +9295,12 @@
     "alt_title": "Corrector Yui 2",
     "year": 2000,
     "format": "TV",
-    "notes": "Virtuality is AMZN WEB-DL+OldCastle restyled and retimed\nA jsum mux would be a better alt",
+    "notes": "broom is JPN BD Remux+Virtuality\nVirtuality is AMZN WEB-DL+OldCastle restyled and retimed\nA jsum mux would be a better alt",
     "comparison": "",
     "best_releases": [
       {
-        "name": "JPN BD+Virtuality",
-        "status": "unmuxed"
+        "name": "broom",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -16278,6 +16298,26 @@
     "alt_releases": []
   },
   {
+    "title": "Grandpa and Grandma Turn Young Again",
+    "alt_title": "Jii-san Baa-san Wakagaeru",
+    "year": 2024,
+    "format": "TV",
+    "notes": "T9 is JPN BD Remux+EMBER (SubsPlease). TS broken from no layoutres\nneoDESU subs are Cyan for E1-3, CR with Cyan styling & OP/ED and additional TS for E4-11\njsum would be a good alt, CR is very starved\nEverything is old CR subs, there were no changes since airing other than downgrading E11 to CCC",
+    "comparison": "https://slow.pics/c/OFPF821z",
+    "best_releases": [
+      {
+        "name": "JPN BD+neoDESU",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "T9",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Grave of the Fireflies",
     "alt_title": "Hotaru no Haka",
     "year": 1988,
@@ -16601,20 +16641,15 @@
     "alt_title": "Top wo Nerae 2! DIEBUSTER",
     "year": 2004,
     "format": "OVA",
-    "notes": "hchcsen is Kagura+a mix of EtB&NP-Complete with some TS taken from Nonoriri\nhchcsen also has a remux with revised scripts for consistency, however the store has a lot of banding which Kagura fixes. Could be the play with mpv deband?",
-    "comparison": "https://slow.pics/c/ceuCEacI",
+    "notes": "Okay-Subs is JPN BD Encode+Modified hchcsen (Primarily EtB&NP-Complete (KAA/R1) with some TS taken from Nonoriri)\nContains both 5.1 and 2.0 audio, the latter is a downmix since the official mix has clipping",
+    "comparison": "https://slow.pics/c/4RMqDfHy",
     "best_releases": [
       {
-        "name": "hchcsen (Dual Audio)",
+        "name": "Okay-Subs",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "hchcsen (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Gunslinger Girl",
@@ -22373,6 +22408,26 @@
     "alt_releases": []
   },
   {
+    "title": "Kakuriyo -Bed & Breakfast for Spirits-",
+    "alt_title": "Kakuriyo no Yadomeshi",
+    "year": 2018,
+    "format": "TV",
+    "notes": "Tsundere-Raws is a CR WEB-DL\nThe JPN BD is hoarded by the Korean mafia so jsum is the best we've got, the USA BD sucks of course\nBarely better than CR but has BD changes",
+    "comparison": "https://slow.pics/c/s06KcTjS\nhttps://slow.pics/c/0xIzrTWS",
+    "best_releases": [
+      {
+        "name": "jsum+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Tsundere-Raws",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Kakushigoto",
     "alt_title": "",
     "year": 2020,
@@ -23362,15 +23417,20 @@
     "alt_title": "Kiniro Mosaic",
     "year": 2013,
     "format": "TV",
-    "notes": "Drag is Yousei-raws+FFF (IB)",
-    "comparison": "",
+    "notes": "nekotan is JPN BD+FFF with a fixed overlap in episode 7\nDrag is Yousei-raws+FFF (IB)",
+    "comparison": "https://slow.pics/c/CtjV6HsD",
     "best_releases": [
+      {
+        "name": "nekotan",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "Drag",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Hello!! KINMOZA!",
@@ -26335,17 +26395,37 @@
     "alt_title": "",
     "year": 1994,
     "format": "TV",
-    "notes": "yolerejiju is USA BD Remux+Modified xPearse (Converted to ass, adjusted OP/ED lyrics and sign placement, fixed scenebleeds on signs and songs), and PGS. Both are the same TL\nThe USA BD mostly has better compression but the wrong matrix and a worse scan for some scenes in the OP and ED, unfortunately not fixable with bitstream metadata\nA&C video would be a better alt (check Tosho)",
+    "notes": "Khaoklong is JPN/THA BD Remux+yolerejiju (Modified xPearse (Converted to ass, adjusted OP/ED lyrics and sign placement, fixed scenebleeds on signs and songs)) and PGS\nxPearse is JPN BD Encode+OCR'd official\nThe USA BD mostly has better compression but the wrong matrix and a worse scan for some scenes in the OP and ED, unfortunately not fixable with bitstream metadata\njsum would be a better alt, A&C is much more transparent but also 50% bigger",
     "comparison": "https://slow.pics/c/wJ5eW6SA\nhttps://slow.pics/c/tVQBXDJQ",
     "best_releases": [
       {
-        "name": "JPN BD+yolerejiju",
-        "status": "unmuxed"
+        "name": "Khaoklong (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "yolerejiju (Dual Audio)",
+        "name": "xPearse (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Magic Knight Rayearth II",
+    "alt_title": "",
+    "year": 1995,
+    "format": "TV",
+    "notes": "Khaoklong is JPN/THA BD Remux+yolerejiju (Modified xPearse (Converted to ass, adjusted OP/ED lyrics and sign placement, fixed scenebleeds on signs and songs)) and PGS\nxPearse is JPN BD Encode+OCR'd official",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "Khaoklong (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "xPearse (Dual Audio)",
         "status": ""
       }
     ]
@@ -27524,6 +27604,26 @@
     "alt_releases": [
       {
         "name": "Polarwindz",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Medaka Box",
+    "alt_title": "",
+    "year": 2012,
+    "format": "TV",
+    "notes": "WIP is philosophy-raws+-ZR- (MC (Shiro (FFF))) with \"some retiming\"\nThe subs aren't adapted to BD properly, full of scenebleeds, positioning based on HDTV video. It seems like they manually fixed the timing of the typesetting which is probably what the retiming refers to\nOther releases are even worse, Shiro and MC have desynced TS in addition to the WIP issues, -ZR- has everything 3 frames off in the other direction",
+    "comparison": "https://slow.pics/c/QrMR72bY",
+    "best_releases": [
+      {
+        "name": "JPN BD+FFF",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "WIP",
         "status": ""
       }
     ]
@@ -37564,12 +37664,12 @@
     "alt_title": "Tensei Shitara Ken Deshita",
     "year": 2022,
     "format": "ONA",
-    "notes": "NTRX is JPN BD Remux+Kaleido-subs for E1-5, modified HIDI (restyled, retimed, typeset, Kaleido OP/ED, minor fixes) for E6-12\nYURASUKA is JPN BD Encode+nyadex (neoAV1)\nneoAV1 subs Kaleido-subs for E1-5, modified HIDI (restyled, Kaleido OP/ED, TS for titles) for E6-12",
-    "comparison": "https://slow.pics/c/1Fi1vKzk\nhttps://slow.pics/c/lDDS0LHq\nhttps://slow.pics/c/UBuCAwnK",
+    "notes": "Headpatter is H-Enc+NTRX (Kaleido-subs for E1-5, modified HIDI (restyled, retimed, typeset, Kaleido OP/ED, minor fixes) for E6-12)\nYURASUKA is JPN BD Encode+nyadex (neoAV1, which is Kaleido-subs for E1-5, modified HIDI (restyled, Kaleido OP/ED, TS for titles) for E6-12)\nDebloated YURASUKA with NTRX subs would simply be a better alt",
+    "comparison": "https://slow.pics/c/1k57SCO6\nhttps://slow.pics/c/1Fi1vKzk",
     "best_releases": [
       {
-        "name": "NTRX (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -45981,20 +46081,15 @@
     "alt_title": "Heike Monogatari",
     "year": 2021,
     "format": "ONA",
-    "notes": "Commie is JPN BD Encode+Modified CR",
+    "notes": "Headpatter is Beatrice-Raws+Commie (Modified CR) and stock CR",
     "comparison": "https://slow.pics/c/s2s9cie0\nhttps://slow.pics/c/e3SgYQ1F\nhttps://www.diffchecker.com/jf4ZKAtj/\nhttps://www.diffchecker.com/qWER6us7/\nhttps://www.diffchecker.com/yotiuyx5/",
     "best_releases": [
       {
-        "name": "Beatrice-Raws+Commie",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Commie",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "The Helpful Fox Senko-san",
