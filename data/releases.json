@@ -5962,6 +5962,26 @@
     ]
   },
   {
+    "title": "Blood: The Last Vampire",
+    "alt_title": "BLOOD THE LAST VAMPIRE",
+    "year": 2000,
+    "format": "MOVIE",
+    "notes": "kuchikirukia is JPN BD Encode+OCR'd official\nSourced from the digital master which is significantly better than the telecine version",
+    "comparison": "https://slow.pics/c/1RAeSZUR\nhttps://www.diffchecker.com/YpUMlWqt/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Afro",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "kuchikirukia",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Bloom Into You",
     "alt_title": "Yagate Kimi ni Naru",
     "year": 2018,
@@ -18356,6 +18376,21 @@
     ]
   },
   {
+    "title": "High School DxD BorN: Yomigaeranai Fushichou",
+    "alt_title": "",
+    "year": 2015,
+    "format": "OVA",
+    "notes": "IK is sergey_krs+P/FFF",
+    "comparison": "",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "IK (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "High School DxD NEW OVA Oppai, Tsutsumimasu!",
     "alt_title": "",
     "year": 2015,
@@ -18377,21 +18412,6 @@
     "format": "TV",
     "notes": "IK sergey_krs+FFF, and FFF/Hiryuu/SBR (Restyled)",
     "comparison": "https://slow.pics/c/QmzuBEx6",
-    "best_releases": [],
-    "alt_releases": [
-      {
-        "name": "IK (Dual Audio)",
-        "status": ""
-      }
-    ]
-  },
-  {
-    "title": "High School DxD BorN: Yomigaeranai Fushichou",
-    "alt_title": "",
-    "year": 2015,
-    "format": "OVA",
-    "notes": "IK is sergey_krs+P/FFF",
-    "comparison": "",
     "best_releases": [],
     "alt_releases": [
       {
@@ -27624,7 +27644,27 @@
     "alt_releases": [
       {
         "name": "WIP",
-        "status": ""
+        "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "Medaka Box Abnormal",
+    "alt_title": "",
+    "year": 2012,
+    "format": "TV",
+    "notes": "WIP is philosophy-raws+-ZR- (MC (Shiro (FFF)))\nBD subs this time so everything just works, except -ZR- who managed to still be desynced by 4 frames, those pesky black frames...",
+    "comparison": "https://slow.pics/c/kyzKZQWG",
+    "best_releases": [
+      {
+        "name": "JPN BD+FFF",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "WIP",
+        "status": "broken"
       }
     ]
   },
@@ -28401,6 +28441,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Miss Machiko",
+    "alt_title": "Maicching Machiko Sensei",
+    "year": 1981,
+    "format": "TV",
+    "notes": "Obscurerips is USA SDBD Encode+PGS\nAMZN is the only HD source, it looks substantially better but only covers the first 30 episodes\nObscurerips is a terrible mini, a remux would be a better alt",
+    "comparison": "https://slow.pics/c/O05EcTkA",
+    "best_releases": [
+      {
+        "name": "AMZN+PGS",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Obscurerips",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Mistress Kanan is Devilishly Easy",
