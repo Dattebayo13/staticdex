@@ -365,6 +365,26 @@
     "alt_releases": []
   },
   {
+    "title": "A Bridge to the Starry Skies",
+    "alt_title": "Hoshizora e Kakaru Hashi",
+    "year": 2011,
+    "format": "TV",
+    "notes": "Tsundere is JPN BD Encode+Ryuumaru\nStore isn't great but the encodes are far worse, Salender-Raws would be much better alt",
+    "comparison": "https://slow.pics/c/GD5M8G7Z\nhttps://www.diffchecker.com/HTEpZx9w/\nhttps://www.diffchecker.com/JeDz8AoY/",
+    "best_releases": [
+      {
+        "name": "JPN BD+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Tsundere",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "A Certain Magical Index",
     "alt_title": "Toaru Majutsu no Index",
     "year": 2008,
@@ -1364,6 +1384,26 @@
     "alt_releases": [
       {
         "name": "YURASUKA",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Aikatsu Stars!",
+    "alt_title": "",
+    "year": 2016,
+    "format": "TV",
+    "notes": "Coalgirls is JPN BD Encode+Restyled Mezashite with a couple of errors fixed",
+    "comparison": "https://slow.pics/c/KSHmtigf",
+    "best_releases": [
+      {
+        "name": "JPN BD+Coalgirls",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Coalgirls",
         "status": ""
       }
     ]
@@ -19027,15 +19067,20 @@
     "alt_title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
     "year": 2021,
     "format": "TV",
-    "notes": "KMN5 is Double Summon CR WEB-DL+Asakura with a no honorifics option",
-    "comparison": "https://slow.pics/c/WJccvGFn\nhttps://slow.pics/c/sVUilMZt",
+    "notes": "KMN5 is Double Summon CR WEB-DL+Asakura (WEB) with fixes and a no honorifics option\nUses a bad CR rip, episodes 2 and 5 have a stutter and every episode is missing the first second\nAsakura has since done a BD release with sub improvements\nThe JPN BD has terrible quality (strong lowpass and banding) and has the same censorship as airing. Some episodes also have the same epilepsy filtering, as well as BD changes not available on other sources (Episode 8 for example). The USA and GER BDs both use the uncensored double summon version, their quality is just worse than CR",
+    "comparison": "https://slow.pics/c/0YeDtiGc\nhttps://slow.pics/c/N98UnWOP",
     "best_releases": [
       {
-        "name": "KMN5",
-        "status": ""
+        "name": "Double Summon CR+Asakura (BD)",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "KMN5",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "Howl‘s Moving Castle",
@@ -31005,6 +31050,21 @@
     "alt_releases": [
       {
         "name": "Pico (Dual Audio)",
+        "status": "broken"
+      }
+    ]
+  },
+  {
+    "title": "My Home Hero",
+    "alt_title": "",
+    "year": 2023,
+    "format": "TV",
+    "notes": "CW is a CR WEB-DL with OP TL backported to E1-3. No layoutres and missing some script updates compared to latest CR\nCR isn't great, the USA BD is coal, hope and cope for JPN really",
+    "comparison": "https://slow.pics/c/SP33efHR",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "CW (Dual Audio)",
         "status": "broken"
       }
     ]
@@ -43788,6 +43848,26 @@
     "alt_releases": [
       {
         "name": "-__-'",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Tatsuki Fujimoto 17-26",
+    "alt_title": "Fujimoto Tatsuki 17-26",
+    "year": 2025,
+    "format": "MOVIE",
+    "notes": "ToonsHub is an AMZN WEB-DL\nThe JPN BD is unsurprisingly significantly better, the usual suspects will be a better alt when they drop",
+    "comparison": "https://slow.pics/tmdb/tv/299778",
+    "best_releases": [
+      {
+        "name": "JPN BD+AMZN",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ToonsHub (Dual Audio)",
         "status": ""
       }
     ]
