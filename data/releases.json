@@ -2941,8 +2941,8 @@
     "alt_title": "Arifureta Shokugyou de Sekai Saikyou 3rd season",
     "year": 2024,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+Mad le Zisell and CR\nVARYG is CR WEB-DL\nThe JPN BD is lowpassed but has significantly better grain retention than CR, particularly noticeable in motion",
-    "comparison": "https://slow.pics/c/n5M7DwGE",
+    "notes": "PMR is JPN BD Remux+Mad le Zisell and CR\nHeadpatter is H-Enc+neoDESU (Restyled Mad le Zisell with OP/ED TL), CR, and PGS\nThe JPN BD is lowpassed but has significantly better grain retention than CR, particularly noticeable in motion",
+    "comparison": "https://slow.pics/c/n5M7DwGE\nhttps://slow.pics/c/2w8s6nLp",
     "best_releases": [
       {
         "name": "PMR (Dual Audio)",
@@ -2951,7 +2951,7 @@
     ],
     "alt_releases": [
       {
-        "name": "VARYG (Dual Audio)",
+        "name": "Headpatter (Dual Audio)",
         "status": ""
       }
     ]
@@ -6384,7 +6384,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -16089,11 +16089,11 @@
     "alt_title": "Golden Kamuy 3rd Season",
     "year": 2020,
     "format": "TV",
-    "notes": "gooder is JPN BD Remux+Pritt (Restyled official with OP/ED and TS)\njsum would be a good alt, IrizaRaws is far more transparent but not much smaller than the remux",
-    "comparison": "https://slow.pics/c/tA5JjqFt",
+    "notes": "Hinna is JPN BD Remux+Pritt (Restyled official with OP/ED and TS) with modified typesetting, song styling, and some script fixes\njsum would be a good alt, IrizaRaws is far more transparent but not much smaller than the remux",
+    "comparison": "https://slow.pics/c/tA5JjqFt\nhttps://slow.pics/c/UvXebdA4",
     "best_releases": [
       {
-        "name": "gooder",
+        "name": "Hinna (Dual Audio)",
         "status": ""
       }
     ],
@@ -32488,7 +32488,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -38472,6 +38472,26 @@
     ]
   },
   {
+    "title": "Ron Kamonohashi's Forbidden Deductions",
+    "alt_title": "Kamonohashi Ron no Kindan Suiri",
+    "year": 2023,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL. Some TS broken from no layoutres\nThe JPN BD is a pretty minor upgrade over CR, quite a few BD changes though. Probably enough to suggest a jsum alt\n*CR has since downgraded episode 3 and 10 to CCC so fresh rips are off the table, no other changes since Erai's batch so just add a pinch of layoutres",
+    "comparison": "https://slow.pics/c/TAKvl12a",
+    "best_releases": [
+      {
+        "name": "JPN BD+Erai-raws*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Ronja, the Robber's Daughter",
     "alt_title": "Sanzoku no Musume Ronja",
     "year": 2014,
@@ -41456,6 +41476,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+    "alt_title": "",
+    "year": 2009,
+    "format": "TV",
+    "notes": "Genesis is JPN BD Encode+Dyna (OCR'd m.3.3.w) with some fixes",
+    "comparison": "https://slow.pics/c/ULPOQeoC",
+    "best_releases": [
+      {
+        "name": "Genesis",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Sorairo Utility (TV)",
@@ -48243,7 +48278,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
