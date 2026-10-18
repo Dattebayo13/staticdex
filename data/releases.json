@@ -16089,7 +16089,7 @@
     "alt_title": "Golden Kamuy 3rd Season",
     "year": 2020,
     "format": "TV",
-    "notes": "Hinna is JPN BD Remux+Pritt (Restyled official with OP/ED and TS) with modified typesetting, song styling, and some script fixes\njsum would be a good alt, IrizaRaws is far more transparent but not much smaller than the remux",
+    "notes": "Hinna is JPN BD Remux+Pritt (Restyled official with OP/ED and TS) with modified typesetting, song styling, and some script fixes\nHeadpatter is jsum+Hinna, Pritt, and CR",
     "comparison": "https://slow.pics/c/tA5JjqFt\nhttps://slow.pics/c/UvXebdA4",
     "best_releases": [
       {
@@ -16097,7 +16097,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Golden Kamuy Season 4",
@@ -24833,8 +24838,8 @@
     "alt_title": "Ginga Eiyuu Densetsu",
     "year": 1988,
     "format": "OVA",
-    "notes": "koala is Yurasyk+modified MTBB (additional TS, fixed typos, name/terminology changes), and Central Anime\nMTBB is BD Encode+Modified Sentai",
-    "comparison": "https://slow.pics/c/1IQqCjCT",
+    "notes": "koala is Yurasyk+modified MTBB (additional TS, fixed typos, name/terminology changes), and Central Anime\nMTBB is dgwxx&reekilynn+Modified Sentai",
+    "comparison": "https://slow.pics/c/YehsSX5K",
     "best_releases": [
       {
         "name": "koala",
@@ -25479,20 +25484,15 @@
     "alt_title": "Koi wa Sekai Seifuku no Ato de",
     "year": 2022,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR and PGS\nSubsPlease is CR WEB-DL\nFor alt CR is the only choice as every BD release except for CRUCiBLE decided to use Anime Chap",
-    "comparison": "https://slow.pics/c/USQjTKDV",
+    "notes": "YURASUKA is JPN BD Encode+Restyled CR with a fixed glyph, and PGS",
+    "comparison": "https://slow.pics/c/pNEM2ry4",
     "best_releases": [
       {
-        "name": "CRUCiBLE (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "SubsPlease",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "LOVE and LIES",
