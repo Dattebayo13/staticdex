@@ -3,7 +3,7 @@ import json
 import time
 from typing import List, Dict, Set, Tuple
 
-API_URL_TEMPLATE = "https://releases.moe/api/collections/entries/records?expand=trs&page={}"
+API_URL_TEMPLATE = "https://seadex.moe/api/collections/entries/records?expand=trs&page={}"
 ANILIST_API_URL = "https://graphql.anilist.co"
 
 ANILIST_QUERY = """
