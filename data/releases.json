@@ -10930,6 +10930,26 @@
     ]
   },
   {
+    "title": "Dies irae",
+    "alt_title": "",
+    "year": 2017,
+    "format": "TV",
+    "notes": "KH is LowPower-Raws+LostYears (Restyled CR with TS) and PGS\nThe show is extremely grainy and none of the stores can handle it properly. The JPN BD constantly alternates between decent and destroyed frames, the USA BD is much more consistent, web sources are simply out of the question",
+    "comparison": "https://slow.pics/c/ru3dfk0n",
+    "best_releases": [
+      {
+        "name": "USA BD+LostYears",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "KH (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Dimension W",
     "alt_title": "",
     "year": 2016,
@@ -13407,7 +13427,7 @@
     "best_releases": [
       {
         "name": "Baws (Dual Audio)",
-        "status": ""
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -16221,6 +16241,21 @@
       {
         "name": "MC (Dual Audio)",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Good Luck! Ninomiya-kun",
+    "alt_title": "Goshuushou-sama Ninomiya-kun",
+    "year": 2007,
+    "format": "TV",
+    "notes": "B-G_&_m.3.3.w is R2J DVD Encode+m33w\nQuality is ass, matrix is wrong, OP/ED is hardsubbed, HD sources are bad upscales, cope",
+    "comparison": "https://slow.pics/c/pEhObZma\nhttps://www.diffchecker.com/Z2H9DCKY/",
+    "best_releases": [],
+    "alt_releases": [
+      {
+        "name": "B-G_&_m.3.3.w",
+        "status": "broken"
       }
     ]
   },
@@ -34453,6 +34488,26 @@
     ]
   },
   {
+    "title": "Our Last Crusade or the Rise of a New World Season 2",
+    "alt_title": "Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen Season II",
+    "year": 2024,
+    "format": "TV",
+    "notes": "ToonsHub is a CR WEB-DL with restyled subs\nUses the updated versions of episodes 1-4 which had substantial animation improvements\nEverything benefits from mpv deband, the encodes are no good since they add tons of banding\n*Use fresh CR or change E01 00:21 Beginning of a much larger fate -> The beginning of a much larger fate",
+    "comparison": "https://slow.pics/c/Ui6evQQH",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "ToonsHub (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Our love has always been 10 centimeters apart.",
     "alt_title": "Itsudatte Bokura no Koi wa 10 cm Datta.",
     "year": 2017,
@@ -40870,6 +40925,46 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "SHY",
+    "alt_title": "",
+    "year": 2023,
+    "format": "TV",
+    "notes": "-ZR- is JPN BD Remux+SubsPlease (Restyled CR). Subs are outdated and restyle messes with TS\nErai-raws is a CR WEB-DL with latest subs\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/rDOFvCgr\nhttps://slow.pics/c/IG7RmPre",
+    "best_releases": [
+      {
+        "name": "-ZR- (Dual Audio)",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "SHY Season 2",
+    "alt_title": "SHY: Tokyo Dakkan-hen",
+    "year": 2024,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL with latest subs\nThe JPN BD has slightly blurred chroma, much better compression than CR though\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/uriIsYpf",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Silent Möbius: The Motion Picture",
@@ -50365,18 +50460,18 @@
     "alt_title": "Juuou Mujin no Fafnir",
     "year": 2015,
     "format": "TV",
-    "notes": "GOTP is Beatrice-Raws+FFF\nUNBIASED is the same with likely ESL edits",
-    "comparison": "https://slow.pics/c/B2WnVMaE",
+    "notes": "IK is VCB-Studio+FFF\nUNBIASED subs are FFF with a few fixes\nStore absolutely requires mpv deband",
+    "comparison": "https://slow.pics/c/OE1RbkDb\nhttps://www.diffchecker.com/nBhLb5XO/",
     "best_releases": [
       {
-        "name": "GOTP",
-        "status": ""
+        "name": "JPN BD+UNBIASED",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "UNBIASED",
-        "status": ""
+        "name": "IK",
+        "status": "not_nyaa"
       }
     ]
   },
