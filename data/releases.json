@@ -1074,7 +1074,7 @@
   },
   {
     "title": "Active Raid",
-    "alt_title": "Active Raid: Kidou Kyoushuushitsu Dai Hakkei",
+    "alt_title": "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari",
     "year": 2016,
     "format": "TV",
     "notes": "hchcsen is JPN BD (Director's Cut) Remux+Impatience. New scenes were spliced out since they're unsubbed, Additionally episodes 8 and 9 have 30-60 seconds of the TV cut spliced in.\nThe director's cut has better video quality as well as animation updates and new scenes\nThere aren't any viable options for alt, there's a VCB mux from Gyuunyuu but the subs are mistimed, also it's the airing version which is both a lower quality source and encode from VCB\nStore benefits from MPV Deband",
@@ -1088,8 +1088,8 @@
     "alt_releases": []
   },
   {
-    "title": "Active Raid Second",
-    "alt_title": "Active Raid: Kidou Kyoushuushitsu Dai Hakkei 2",
+    "title": "Active Raid 2nd Season",
+    "alt_title": "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari - 2nd",
     "year": 2016,
     "format": "TV",
     "notes": "hchcsen is JPN BD (Director's Cut) Remux+Impatience. New scenes were spliced out since they're unsubbed, additionally episodes 6, 8, and 10 have 4-20 seconds of the TV cut spliced in\nGyuunyuu is VCB-Studio (Airing version)+Impatience. Some episodes have subs desynced by 1-2 frames, and VCB's airing version is a lower quality encode\nPretty much the exact same story as Season 1, the director's cut has better video quality (though it's even more drastic this time) as well as animation updates and new scenes\nStore benefits from MPV Deband",
@@ -8505,20 +8505,15 @@
     "alt_title": "Chuu Bra!!",
     "year": 2010,
     "format": "TV",
-    "notes": "Doki is JPN BD Encode+OTL?\nThe store is cross-converted, Salender is the only watchable option",
+    "notes": "Headpatter is Salender-Raws+Restyled Doki and PGS\nThe store is cross-converted, Salender is the only watchable option",
     "comparison": "https://slow.pics/c/6lxIrl5v",
     "best_releases": [
       {
-        "name": "Salender-Raws+?",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Doki",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "ChäoS;HEAd",
@@ -34492,18 +34487,18 @@
     "alt_title": "Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen Season II",
     "year": 2024,
     "format": "TV",
-    "notes": "ToonsHub is a CR WEB-DL with restyled subs\nUses the updated versions of episodes 1-4 which had substantial animation improvements\nEverything benefits from mpv deband, the encodes are no good since they add tons of banding\n*Use fresh CR or change E01 00:21 Beginning of a much larger fate -> The beginning of a much larger fate",
+    "notes": "T9 is JPN BD Remux+Fresh CR\nToonsHub is a CR WEB-DL with restyled subs\nUses the updated versions of episodes 1-4 which had substantial animation improvements\nBoth have missing TS on the signs tracks, though still more than CR since they didn't have one at all\nEverything benefits from mpv deband, the encodes are no good since they add tons of banding",
     "comparison": "https://slow.pics/c/Ui6evQQH",
     "best_releases": [
       {
-        "name": "JPN BD+CR*",
-        "status": "unmuxed"
+        "name": "T9 (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
         "name": "ToonsHub (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -41672,7 +41667,7 @@
     "comparison": "https://slow.pics/c/PTQg9vdL",
     "best_releases": [
       {
-        "name": "koala (Dual Audio)",
+        "name": "koala",
         "status": ""
       }
     ],
