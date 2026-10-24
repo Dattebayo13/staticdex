@@ -1969,6 +1969,46 @@
     "alt_releases": []
   },
   {
+    "title": "AMAIM Warrior at the Borderline",
+    "alt_title": "Kyoukai Senki",
+    "year": 2021,
+    "format": "TV",
+    "notes": "hchcsen is CR WEB-DL+Restyled CR with TS, and PGS\n*There's instances of Al instead of AI throughout, also change Sophia -> Sofia in episode 11\nEverything benefits from mpv deband",
+    "comparison": "https://slow.pics/c/dB8gcIah\nhttps://www.diffchecker.com/ke8CPDwr/",
+    "best_releases": [
+      {
+        "name": "JPN BD+hchcsen*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "AMAIM Warrior at the Borderline Part 2",
+    "alt_title": "Kyoukai Senki Part 2",
+    "year": 2022,
+    "format": "TV",
+    "notes": "hchcsen is CR WEB-DL+Restyled CR with TS, and PGS\nEverything benefits from mpv deband",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Amanchu!",
     "alt_title": "",
     "year": 2016,
