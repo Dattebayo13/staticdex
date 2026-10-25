@@ -759,15 +759,20 @@
     "alt_title": "Toaru Ossan no VRMMO Katsudouki",
     "year": 2023,
     "format": "TV",
-    "notes": "Erai-raws is a CR WEB-DL\nThe JPN BD is heavily lowpassed, do not redeem\nBest watched with MPV Deband",
-    "comparison": "https://slow.pics/c/EjUAvLKG",
+    "notes": "Erai-raws is a CR WEB-DL\nCR has since made some sub changes, also missing layoutres so might as well fresh rip\nThe JPN BD is heavily lowpassed, do not redeem\nBest watched with MPV Deband",
+    "comparison": "https://slow.pics/c/EjUAvLKG\nhttps://www.diffchecker.com/xum28S41/",
     "best_releases": [
+      {
+        "name": "Fresh CR",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "Erai-raws",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "A Returner's Magic Should Be Special",
@@ -9762,6 +9767,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Dangaizer 3",
+    "alt_title": "Choushin Hime Dangaizer 3",
+    "year": 1999,
+    "format": "OVA",
+    "notes": "Sand is OnDeed+Modified R1 with questionable styling",
+    "comparison": "https://slow.pics/c/cjg2zgiA\nhttps://www.diffchecker.com/AeQRAhys/",
+    "best_releases": [
+      {
+        "name": "Sand",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc",
@@ -27709,18 +27729,18 @@
     "alt_title": "",
     "year": 1972,
     "format": "TV",
-    "notes": "NOGRP is Simu+OCR'd PGS. The encode is terrible and the subs are a mess with missing fonts, OCR errors, three liners\nUnfortunately there's no other watchable option since the only remux is from the SPA BD which is just a DVD upscale, and the only other encode is...also from the SPA BD\njsum would be a better alt, or even a USA BD Remux since that's small anyway",
-    "comparison": "https://slow.pics/c/qNYdHV4H\nhttps://slow.pics/c/I3L6yXcH",
+    "notes": "Kitsune is USA BD Encode+OCR'd PGS with TS",
+    "comparison": "https://slow.pics/c/qNYdHV4H\nhttps://slow.pics/c/I3L6yXcH\nhttps://slow.pics/c/5tQqSfAB",
     "best_releases": [
       {
-        "name": "JPN BD+?",
+        "name": "JPN BD+Kitsune",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "NOGRP",
-        "status": "broken"
+        "name": "Kitsune",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -40449,6 +40469,21 @@
     ]
   },
   {
+    "title": "Seven Senses of the Re'Union",
+    "alt_title": "Shichisei no Subaru",
+    "year": 2018,
+    "format": "TV",
+    "notes": "-ZR- is JPN BD Remux+HorribleSubs (Restyled AMZN) and (Yellow) PGS\nThe PGS subs are a different TL, they also have TS and OP/ED TLs (on alternating episodes, Sentai moment)\nBoth BDs are lowpassed, AMZN is far too starved and misses BD changes\nNo other watchable releases, unlucky! jsum would work nicely",
+    "comparison": "https://slow.pics/c/2wFM7Rr8",
+    "best_releases": [
+      {
+        "name": "-ZR-",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "SHADOWS HOUSE",
     "alt_title": "Shadows House",
     "year": 2021,
@@ -42262,20 +42297,15 @@
     "alt_title": "SPY×FAMILY Season 3",
     "year": 2025,
     "format": "TV",
-    "notes": "Sylvar is JPN BD Remux+CrappySubs\nCrappySubs is CR WEB-DL+Modified CR with improved TS and OP/ED TL\nThe JPN BD is chroma lowpassed and has issues with mosquito noise but it's a major compression upgrade over CR and has some BD changes",
-    "comparison": "https://slow.pics/c/8t80voQU\nhttps://slow.pics/c/X7uDUefY",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+CrappySubs (Modified CR with improved TS and OP/ED TL)",
+    "comparison": "https://slow.pics/c/k36pYWXs\nhttps://slow.pics/c/X7uDUefY",
     "best_releases": [
       {
-        "name": "Sylvar (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "CrappySubs (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "SSSS.GRIDMAN",
