@@ -759,20 +759,15 @@
     "alt_title": "Toaru Ossan no VRMMO Katsudouki",
     "year": 2023,
     "format": "TV",
-    "notes": "Erai-raws is a CR WEB-DL\nCR has since made some sub changes, also missing layoutres so might as well fresh rip\nThe JPN BD is heavily lowpassed, do not redeem\nBest watched with MPV Deband",
+    "notes": "AnoZu is a CR WEB-DL with restyled latest subs\nThe JPN BD is heavily lowpassed, do not redeem\nBest watched with MPV Deband",
     "comparison": "https://slow.pics/c/EjUAvLKG\nhttps://www.diffchecker.com/xum28S41/",
     "best_releases": [
       {
-        "name": "Fresh CR",
-        "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Erai-raws",
+        "name": "AnoZu",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "A Returner's Magic Should Be Special",
@@ -1687,7 +1682,7 @@
     "alt_title": "",
     "year": 2020,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+Pog42\nPog42 is Kawaiika-Raws+EMBER (FUNI) for episodes 1-11 and Animorphs for episode 12\nEMBER ESL headcrafted the extended scenes TL in episode 12, Animorphs replaced it with official",
+    "notes": "PMR is JPN BD Remux+Pog42\nPog42 is Kawaiika-Raws+EMBER (FUNI) for episodes 1-11 and Animorphs for episode 12\nHeadpatter is Pog42 with dub\nEMBER ESL headcrafted the extended scenes TL in episode 12, Animorphs replaced it with official",
     "comparison": "https://slow.pics/c/oIAGJ0sQ\nhttps://www.diffchecker.com/02qdlnPh",
     "best_releases": [
       {
@@ -1696,6 +1691,10 @@
       }
     ],
     "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      },
       {
         "name": "Pog42",
         "status": ""
@@ -4786,12 +4785,12 @@
     "alt_title": "Bartender: Kami no Glass",
     "year": 2024,
     "format": "TV",
-    "notes": "VARYG is a CR WEB-DL. Wrong matrix and missing fonts\nThe USA BD is the only available BD and it's complete cheeks, strong lowpass, tons of ugly reza grain destroying detail and adding banding. CR is much cleaner, still has some banding though so MPV Deband is recommended",
+    "notes": "AnoZu is a CR WEB-DL with restyled subs\nThe USA BD is the only available BD and it's complete cheeks, strong lowpass, tons of ugly reza grain destroying detail and adding banding. CR is much cleaner, still has some banding though so MPV Deband is recommended",
     "comparison": "https://slow.pics/c/lbEm5cXV\nhttps://slow.pics/c/eDIXQIO5",
     "best_releases": [
       {
-        "name": "VARYG (Dual Audio)",
-        "status": "broken"
+        "name": "AnoZu (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -5799,6 +5798,26 @@
       {
         "name": "Thighs",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Blade of the Immortal (ONA)",
+    "alt_title": "Mugen no Juunin: IMMORTAL",
+    "year": 2019,
+    "format": "ONA",
+    "notes": "TTGA is JPN BD Remux+Erai-raws (Restyled AMZN). Missing the font but it doesn't matter\nGyuunyuu is IrizaRaws+HorribleSubs (Restyled AMZN). Minor character encoding issue for the episode title",
+    "comparison": "https://slow.pics/c/iu6d5gjm",
+    "best_releases": [
+      {
+        "name": "TTGA",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Gyuunyuu",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -9718,8 +9737,8 @@
     "alt_title": "Dandadan 2nd Season",
     "year": 2025,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+Cytox with TS borrowed from other languages, stock CR, and NF\nCytox is a CR WEB-DL+Restyled CR\nThe JPN BD is massively better than the web sources again, and has some BD changes too. Some scenes are lowpassed but it's a non-issue comparatively",
-    "comparison": "https://slow.pics/c/2vv6M0Hv",
+    "notes": "CRUCiBLE is JPN BD Remux+Cytox (Restyled CR) with TS borrowed from other languages, stock CR, and NF\nSEV is JPN BD Encode+CRUCiBLE\nThe JPN BD is massively better than the web sources again, and has some BD changes too. Some scenes are lowpassed but it's a non-issue comparatively",
+    "comparison": "https://slow.pics/c/2vv6M0Hv\nhttps://slow.pics/c/WA8RcXAd",
     "best_releases": [
       {
         "name": "CRUCiBLE (Dual Audio)",
@@ -9728,7 +9747,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Cytox (Dual Audio)",
+        "name": "SEV (Dual Audio)",
         "status": ""
       }
     ]
@@ -10969,12 +10988,12 @@
     "alt_title": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
     "year": 2019,
     "format": "TV",
-    "notes": "Lia is JPN BD Encode+Chihiro\nAnimeGirl6 is the unmuxed best but is missing a full subs track in episode 6\nThe store has a missing field in some scenes, the only encode that actually addressed it is Moozzi2 but it's not worth sadeeming all the other scenes",
+    "notes": "AnimeGirl6 is JPN BD Remux+NH (Chihiro)\nLia is JPN BD Encode+Chihiro\nThe store has a missing field in some scenes, the only encode that actually addressed it is Moozzi2 but it's not worth sadeeming all the other scenes",
     "comparison": "https://slow.pics/c/1nIU3G5i",
     "best_releases": [
       {
-        "name": "JPN BD+Chihiro",
-        "status": "unmuxed"
+        "name": "AnimeGirl6 (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -13451,6 +13470,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Fist of the North Star",
+    "alt_title": "Hokuto no Ken",
+    "year": 1984,
+    "format": "TV",
+    "notes": "Scoped is USA SDBD Remux+(Yellow) PGS. Marked as hidden for underwear sniffing reasons, not quality reasons.\ntipota is DVD Encode+OCR'd R1\nThe USA SDBD is just a re-encode of the 25th Anniversary R2J DVD, the quality difference is negligible but technically a DVD remux would be better\nOnly the first 36 episodes are dubbed",
+    "comparison": "https://slow.pics/c/noWfTf2s",
+    "best_releases": [
+      {
+        "name": "Scoped (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "tipota (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Flavors of Youth",
@@ -20425,7 +20464,7 @@
     "alt_title": "Kyokou Suiri",
     "year": 2020,
     "format": "TV",
-    "notes": "YURASUKA is Delowpassed JPN BD Encode+IK (modified ShowY (CR with minor TS improvements and OP/ED added), restyled, improved TS, timing, and added OP/ED lyrics to each episode) and PGS\nMissing a bunch of fonts which breaks TS",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+IK (modified ShowY (CR with minor TS improvements and OP/ED added), restyled, improved TS, timing, and added OP/ED lyrics to each episode) and PGS\nMissing a bunch of fonts which breaks TS and has a minor encode error in episode 10 (7:48)",
     "comparison": "https://slow.pics/c/zNsUJHtO\nhttps://slow.pics/c/jEFzASB9\nhttps://slow.pics/c/UEzWnWUd",
     "best_releases": [],
     "alt_releases": [
@@ -21913,6 +21952,26 @@
     "alt_releases": [
       {
         "name": "Kaleido-subs",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Journal with Witch",
+    "alt_title": "Ikoku Nikki",
+    "year": 2026,
+    "format": "TV",
+    "notes": "KawaSubs is CR WEB-DL+Restyled CR with improved TS\nAnoZu is CR WEB-DL+Restyled CR with TS adapted from the German track for E1-2 (Later episodes already had TS)\nThe JPN BD has much more banding than CR, mpv deband cleans it up nicely but it harms fine detail and doesn't really have any benefits over CR",
+    "comparison": "https://slow.pics/c/9GcxHrqF\nhttps://slow.pics/c/uPX5XtEI",
+    "best_releases": [
+      {
+        "name": "KawaSubs",
+        "status": "incomplete"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "AnoZu",
         "status": ""
       }
     ]
@@ -25461,7 +25520,7 @@
     "year": 2024,
     "format": "MOVIE",
     "notes": "Kawatare is JPN BD Encode+Foxtrot, Some-Stuffs, and AMZN",
-    "comparison": "https://slow.pics/c/SfJtB1oc\nhttps://slow.pics/c/C22M0Fnv\nhttps://slow.pics/c/qZzvV1gJ\nhttps://www.diffchecker.com/lJqbt4Qb/\nhttps://www.diffchecker.com/C33MBKtl/\nhttps://www.diffchecker.com/Pl76YSkb/",
+    "comparison": "https://slow.pics/c/SfJtB1oc\nhttps://slow.pics/c/C22M0Fnv\nhttps://slow.pics/c/qZzvV1gJ\nhttps://slow.pics/c/PojKQTfx\nhttps://www.diffchecker.com/lJqbt4Qb/\nhttps://www.diffchecker.com/C33MBKtl/\nhttps://www.diffchecker.com/Pl76YSkb/",
     "best_releases": [
       {
         "name": "Kawatare",
@@ -37168,7 +37227,7 @@
     "year": 2023,
     "format": "TV",
     "notes": "hchcsen is JPN BD Remux+CR with KDS typesetting and songs, stock CR, and PGS\n-ZR- and SubsPlease are CR WEB-DLs\nThe USA BD has the usual Crunchyroll lowpass and chroma shift, has better compression at times but overall simply isn't worth it\nIdeally should be watched with MPV deband",
-    "comparison": "https://slow.pics/c/WtNOrgZw",
+    "comparison": "https://slow.pics/c/RcQphNYJ",
     "best_releases": [
       {
         "name": "hchcsen (Dual Audio)",
@@ -40708,18 +40767,18 @@
     "alt_title": "",
     "year": 2010,
     "format": "TV",
-    "notes": "Pookie is Yousei-raws+BBT-RMX\nBBT-RMX is mawen1250+Taka, umee, and Coalgirls",
-    "comparison": "https://slow.pics/c/y7IBfaxd",
+    "notes": "Sristi is JPN BD Remux+BBT-RMX and PGS\nPookie is Yousei-raws+BBT-RMX (Coalgirls, Taka, and umee)\nThe Coalgirls track has desynced dialogue in both releases. It's just umee with honorifics so you can simply switch to the umee track instead which seems properly synced",
+    "comparison": "https://slow.pics/c/y7IBfaxd\nhttps://www.diffchecker.com/SawmCkqB/\nhttps://www.diffchecker.com/vizyuju2/",
     "best_releases": [
       {
-        "name": "JPN BD+BBT-RMX",
-        "status": "unmuxed"
+        "name": "Sristi (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
         "name": "Pookie (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -40728,18 +40787,18 @@
     "alt_title": "",
     "year": 2011,
     "format": "SPECIAL",
-    "notes": "Pookie is Yousei-raws+BBT-RMX\nBBT-RMX is mawen1250+Taka, umee, and Coalgirls",
-    "comparison": "https://slow.pics/c/y7IBfaxd",
+    "notes": "Sristi is JPN BD Remux+BBT-RMX and PGS\nPookie is Yousei-raws+BBT-RMX (Coalgirls and umee)\nCoalgirls sync is fine this time since since umee was a BD release, still you might as well switch to umee unless you like honorifics",
+    "comparison": "https://slow.pics/c/y7IBfaxd\nhttps://www.diffchecker.com/pVtpUpOu/",
     "best_releases": [
       {
-        "name": "JPN BD+BBT-RMX",
-        "status": "unmuxed"
+        "name": "Sristi (Dual Audio)",
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
         "name": "Pookie (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
