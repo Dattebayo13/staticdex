@@ -3060,15 +3060,20 @@
     "alt_title": "Busou Shoujo Machiavellianism",
     "year": 2017,
     "format": "TV",
-    "notes": "AOmundson is USA BD Remux+Saitei (Modified AMZN). Has scenebleeds that were also present in the original subs\nThe USA BD is lowpassed but the JPN BD is hoarded and the encodes from it aren't good, and both the GER BD and CR are starved\nAmoeba (on U2) would be a good alt, Yara-Raws (used in the Drag release) seems to be a mux of this which introduced playback issues",
+    "notes": "Drag is Amoeba+Saitei (Modified AMZN) with modified typesetting, song styling, fixed typos, and additional dialogue/signs from the USA BD\nThe USA BD is lowpassed but the JPN BD is hoarded and the encodes from it aren't good, and both the GER BD and CR are starved",
     "comparison": "https://slow.pics/c/DHzLtngm\nhttps://www.diffchecker.com/5Rk3QMRN/\nhttps://www.diffchecker.com/cVhcY6Dn/",
     "best_releases": [
       {
-        "name": "AOmundson (Dual Audio)",
-        "status": "broken"
+        "name": "USA BD+Drag",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Drag (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Armor Shop for Ladies & Gentlemen",
@@ -8201,20 +8206,15 @@
     "alt_title": "Champignon no Majo",
     "year": 2026,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+Cyan (Fansub based on CR) and stock CR\nKekkan is CR WEBRip+Restyled and stock Cyan\njsum would be a much better alt",
-    "comparison": "https://slow.pics/c/AnOIwLn0\nhttps://www.diffchecker.com/zb9N7UTL/",
+    "notes": "Kekkan is JPN BD Encode+Restyled and stock Cyan (Fansub based on CR)",
+    "comparison": "https://slow.pics/c/0gsbYGce\nhttps://www.diffchecker.com/zb9N7UTL/",
     "best_releases": [
-      {
-        "name": "NAN0",
-        "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
       {
         "name": "Kekkan",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Chaos Dragon",
@@ -9716,6 +9716,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Daimidaler: Prince vs. Penguin Empire",
+    "alt_title": "Kenzen Robo Daimidaler",
+    "year": 2014,
+    "format": "TV",
+    "notes": "Chihiro is JPN BD Encode+Fansub based on FUNI\n-ZR- is the unmuxed best but simply has no fonts",
+    "comparison": "https://slow.pics/c/KMn2DQ4r",
+    "best_releases": [
+      {
+        "name": "JPN BD+Chihiro",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Chihiro",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "DAN DA DAN",
@@ -16862,6 +16882,26 @@
     "alt_releases": []
   },
   {
+    "title": "Gundam Build Divers Prologue",
+    "alt_title": "",
+    "year": 2018,
+    "format": "ONA",
+    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nHeadpatter is jsum+hchcsen \"with overlapping text fixed\"",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Gunslinger Girl",
     "alt_title": "GUNSLINGER GIRL",
     "year": 2003,
@@ -18750,6 +18790,26 @@
     "alt_releases": []
   },
   {
+    "title": "HIGHSPEED Étoile",
+    "alt_title": "",
+    "year": 2024,
+    "format": "TV",
+    "notes": "Headpatter is JPN BD Remux+Restyled CR with some sign fixes\nHeadpatter is also VCB-Studio with the same subs\nMisses one (1) minor change compared to latest CR\nThe remux should be watched with mpv deband, otherwise get the encode",
+    "comparison": "https://slow.pics/c/LJWjT8br",
+    "best_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Higurashi: When They Cry - SOTSU",
     "alt_title": "Higurashi no Naku Koro ni Sotsu",
     "year": 2021,
@@ -19197,20 +19257,15 @@
     "alt_title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
     "year": 2018,
     "format": "TV",
-    "notes": "VULCAN is JPN BD Remux+Asakura, Astral, and PGS subs\nAsakura is Vulcan (Encode)+CR edited, retimed, restyled and typeset\nAstral subs are modified Asakura (retimed, resampled, retsyled, bunch of fixes)",
-    "comparison": "https://slow.pics/c/mG0TjHjZ",
+    "notes": "Headpatter is H-Enc+Astral (Asakura retimed, restyled, bunch of fixes)",
+    "comparison": "https://slow.pics/c/3ExRJczy",
     "best_releases": [
       {
-        "name": "VULCAN (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Asakura",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "How NOT to Summon a Demon Lord Ω",
@@ -22355,6 +22410,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Kageki Shojo!!",
+    "alt_title": "Kageki Shoujo!!",
+    "year": 2021,
+    "format": "TV",
+    "notes": "GSK_kun is VCB-Studio+Fansub based on FUNI\nStore is halomaxxed, we take the Chinesium techniques",
+    "comparison": "https://slow.pics/c/xVpbe8Il",
+    "best_releases": [
+      {
+        "name": "GSK_kun",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Kageyama Tamio no Double Fantasy",
@@ -29609,7 +29679,7 @@
     "alt_title": "",
     "year": 2018,
     "format": "TV",
-    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nKitsune is a CR WEB-DL, episode 25 doesn't have a dub\njsum would be a better alt",
+    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nHeadpatter is jsum+hchcsen \"with overlapping text fixed\"",
     "comparison": "https://slow.pics/c/1nNVRW2e",
     "best_releases": [
       {
@@ -29619,7 +29689,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Kitsune (Dual Audio)",
+        "name": "Headpatter (Dual Audio)",
         "status": "not_nyaa"
       }
     ]
@@ -29649,7 +29719,7 @@
     "alt_title": "",
     "year": 2019,
     "format": "ONA",
-    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nErai-raws is a CR WEB-DL\njsum would be a better alt",
+    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nHeadpatter is jsum+hchcsen with overlapping text fixed",
     "comparison": "https://slow.pics/c/ttakMy9b",
     "best_releases": [
       {
@@ -29659,17 +29729,32 @@
     ],
     "alt_releases": [
       {
-        "name": "Erai-raws",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
+  },
+  {
+    "title": "Gundam Build Divers Battlogue",
+    "alt_title": "",
+    "year": 2020,
+    "format": "ONA",
+    "notes": "hchcsen is JPN BD Remux+Official timed",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Gundam Build Divers Re:RISE 2nd Season",
     "alt_title": "",
     "year": 2020,
     "format": "ONA",
-    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nErai-raws is a CR WEB-DL\njsum would be a better alt",
+    "notes": "hchcsen is JPN BD Remux+Official timed and typeset\nHeadpatter is jsum+hchcsen with overlapping text fixed",
     "comparison": "https://slow.pics/c/b5zkf8Ou",
     "best_releases": [
       {
@@ -29679,8 +29764,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Erai-raws",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -40648,6 +40733,26 @@
     ]
   },
   {
+    "title": "Shangri-la",
+    "alt_title": "Shangri-La",
+    "year": 2009,
+    "format": "TV",
+    "notes": "Kiyome is FUNI ENG 8Mbps WEB-DL+VobSubs. Signs and songs overlap with the hardsubs\nHD show so FUNI is significantly better than other releases. The FUNI ENG stream has hardsubbed signs/songs but uses a higher quality master than CR and also has animation updates\nBenefits from mpv deband",
+    "comparison": "https://slow.pics/c/wMgGrbxh\nhttps://www.diffchecker.com/CsDJx4s8/\nhttps://www.diffchecker.com/t5MjNa4w/",
+    "best_releases": [
+      {
+        "name": "FUNI+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kiyome (Dual Audio)",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Shangri-La Frontier",
     "alt_title": "",
     "year": 2023,
@@ -41762,20 +41867,19 @@
     "alt_title": "",
     "year": 2008,
     "format": "TV",
-    "notes": "Chika is Aergia-raws+Okay-Subs, contains episodes 1-13\nNH is Yousei-raws+Modified AllHailExcalibur with Coalgirls OP/ED\nOkay-Subs subs are Coalgirls (Modified official) with light QC\nAllHailExcalibur subs are official with a bunch of terrible weeb edits, Yousei-raws+Coalgirls would be a better alt for 27-51\nYousei-raws is encoded from the USA BD which has the gamma bug, can be fixed with -6 gamma in MPV",
+    "notes": "fig is Aergia-raws+Coalgirls (Modified official) with very minor edits, and Okay-Subs (Coalgirls with light QC, E1-13 only). Contains episode 1-26\nfigged is Yousei-raws+Coalgirls with very minor edits. Contains episode 27-51\nYousei-raws is encoded from the USA BD which has the gamma bug, can be fixed with -6 gamma in MPV",
     "comparison": "https://slow.pics/c/4CB6rnFX\nhttps://slow.pics/c/k0mM0CB1\nhttps://www.diffchecker.com/Y6Bfa4er/",
     "best_releases": [
       {
-        "name": "Chika",
+        "name": "fig (Dual Audio)",
         "status": "incomplete"
-      }
-    ],
-    "alt_releases": [
+      },
       {
-        "name": "NH (Dual Audio)",
+        "name": "figged (Dual Audio)",
         "status": "broken"
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Soul Eater Not!",
@@ -46516,12 +46620,12 @@
     "alt_title": "Heike Monogatari",
     "year": 2021,
     "format": "ONA",
-    "notes": "Headpatter is Beatrice-Raws+Commie (Modified CR) and stock CR",
-    "comparison": "https://slow.pics/c/s2s9cie0\nhttps://slow.pics/c/e3SgYQ1F\nhttps://www.diffchecker.com/jf4ZKAtj/\nhttps://www.diffchecker.com/qWER6us7/\nhttps://www.diffchecker.com/yotiuyx5/",
+    "notes": "Drag is Beatrice-Raws+Commie (Modified CR) with a few typos fixed and song lyrics adjusted to match the dub",
+    "comparison": "https://slow.pics/c/s2s9cie0\nhttps://slow.pics/c/e3SgYQ1F\nhttps://www.diffchecker.com/jf4ZKAtj/\nhttps://www.diffchecker.com/mt6bnzPg/",
     "best_releases": [
       {
-        "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "Drag (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -49146,7 +49250,7 @@
     "alt_releases": [
       {
         "name": "Kitsune",
-        "status": ""
+        "status": "not_nyaa"
       }
     ]
   },
