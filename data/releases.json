@@ -20504,30 +20504,35 @@
     "alt_title": "Kono Sekai no Katasumi ni",
     "year": 2016,
     "format": "MOVIE",
-    "notes": "SCY SmugCat + modified MTBB (fact check required)",
-    "comparison": "",
+    "notes": "Chika is SmugCat+SCY (MTBB with additional TS)\nMTBB is a fansub based on R1 and official Manga TL",
+    "comparison": "https://slow.pics/c/Ja1br2cf\nhttps://slow.pics/c/3ztm9qHd",
     "best_releases": [
       {
-        "name": "SCY (Dual Audio)",
-        "status": ""
+        "name": "JPN BD+SCY",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Chika (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "In/Spectre",
     "alt_title": "Kyokou Suiri",
     "year": 2020,
     "format": "TV",
-    "notes": "YURASUKA is Delowpassed JPN BD Encode+IK (modified ShowY (CR with minor TS improvements and OP/ED added), restyled, improved TS, timing, and added OP/ED lyrics to each episode) and PGS\nMissing a bunch of fonts which breaks TS and has a minor encode error in episode 10 (7:48)",
-    "comparison": "https://slow.pics/c/zNsUJHtO\nhttps://slow.pics/c/jEFzASB9\nhttps://slow.pics/c/UEzWnWUd",
-    "best_releases": [],
-    "alt_releases": [
+    "notes": "uba is YURASUKA+GHS/IK with improved TS, dialogue fixes/adjustments using PGS as reference, timing and layering fixes, and PGS\nBoth subs based on Inu for E1-5, and CR with additional TS for E6-12\nHas a minor encode error in episode 10 (7:48)",
+    "comparison": "https://slow.pics/c/zNsUJHtO\nhttps://www.diffchecker.com/fJMzQ6F9/",
+    "best_releases": [
       {
-        "name": "YURASUKA (Dual Audio)",
+        "name": "uba (Dual Audio)",
         "status": "broken"
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "In/Spectre 2",
@@ -35533,6 +35538,36 @@
     ]
   },
   {
+    "title": "Phi-Brain ~ Puzzle of God: The Orpheus Order",
+    "alt_title": "Phi Brain: Kami no Puzzle 2nd Season",
+    "year": 2012,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+WhyNot, CR, and PGS\nThere's some 1 frame scenebleeds that aren't present in the original WhyNot subs (HDTV moment)\nUQW would be a good alt",
+    "comparison": "https://slow.pics/c/YLoZ1A5e",
+    "best_releases": [
+      {
+        "name": "NAN0 (Dual Audio)",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Phi-Brain ~ Puzzle of God Season 3",
+    "alt_title": "Phi Brain: Kami no Puzzle 3rd Season",
+    "year": 2013,
+    "format": "TV",
+    "notes": "NAN0 is JPN BD Remux+WhyNot and CR\nThere's some 1 frame scenebleeds that aren't present in the original WhyNot subs (HDTV moment)\nUQW would be a good alt",
+    "comparison": "https://slow.pics/c/pKaB5UHT",
+    "best_releases": [
+      {
+        "name": "NAN0",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Photo Kano",
     "alt_title": "Photokano",
     "year": 2013,
@@ -38810,6 +38845,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "RPG Real Estate",
+    "alt_title": "RPG Fudousan",
+    "year": 2022,
+    "format": "TV",
+    "notes": "UnHoly is JPN BD Remux+neoDESU (Restyled CR with TS for titles and the usual rubbish OP/ED TLs)\nNOGRP is IrizaRaws+neoDESU",
+    "comparison": "https://slow.pics/c/2Xb8SSEs",
+    "best_releases": [
+      {
+        "name": "UnHoly",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "NOGRP",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Rumbling Hearts",
@@ -45470,6 +45525,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "The Demon Girl Next Door Minis",
+    "alt_title": "Machikado Mazoku Mini",
+    "year": 2019,
+    "format": "ONA",
+    "notes": "StaFer is JPN BD Remux+PGS\nStaFer is also IrizaRaws with the same subs\nEverything benefits from mpv deband",
+    "comparison": "https://slow.pics/c/Hu1b6Zfz",
+    "best_releases": [
+      {
+        "name": "StaFer",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "StaFer",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "The Demon Girl Next Door Season 2",
