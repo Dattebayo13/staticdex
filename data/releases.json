@@ -5701,7 +5701,7 @@
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -8028,24 +8028,34 @@
     ]
   },
   {
+    "title": "Cencoroll",
+    "alt_title": "",
+    "year": 2009,
+    "format": "MOVIE",
+    "notes": "Moxie is JPN BD Remux+PAS (OTL), and Matsya (Wakanim TPP'd, restyled, fixed spelling issues)",
+    "comparison": "https://slow.pics/c/SIaPs5et",
+    "best_releases": [
+      {
+        "name": "Moxie",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Cencoroll 2",
     "alt_title": "",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "ABdex is JPN BD Remux+PAS and Matsya (Wakanim TPP'd, restyled, fixed spelling issues)\nPAS is demolished and has the wrong colors for the second part of the movie\n*VCB-Studio has heavy detail loss in part 1, however they are the lesser evil for part 2 which has extremely strong haloing. An ideal release would use the JPN BD for the first part and VCB-Studio for the second.",
-    "comparison": "https://slow.pics/c/SIaPs5et\nhttps://slow.pics/c/JyWFGP1w",
+    "notes": "Moxie is VCB-Studio+PAS (OTL), and Matsya (Wakanim TPP'd, restyled, fixed spelling issues)\nThis is the second part only, not the combined Cencoroll Connect seen on other databases",
+    "comparison": "https://slow.pics/c/SIaPs5et",
     "best_releases": [
       {
-        "name": "JPN BD/VCB-Studio+PAS*",
-        "status": "unmuxed"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "ABdex",
+        "name": "Moxie",
         "status": ""
       }
-    ]
+    ],
+    "alt_releases": []
   },
   {
     "title": "Cerberus",
@@ -9804,6 +9814,26 @@
       {
         "name": "CTR (Dual Audio)",
         "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Dancouga: Super Beast Machine God",
+    "alt_title": "Choujuu Kishin Dancougar",
+    "year": 1985,
+    "format": "TV",
+    "notes": "QTS is 2008 JPN BD Encode+External Drax. Has no fonts\nThe 2016 JPN BD was filtered to be more palatable for braindead audiences, the USA BD uses the same destroyed master",
+    "comparison": "https://slow.pics/c/FGAJ1xoK",
+    "best_releases": [
+      {
+        "name": "2008 JPN BD+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "QTS",
+        "status": "broken"
       }
     ]
   },
@@ -17045,7 +17075,7 @@
     "year": 2024,
     "format": "TV",
     "notes": "CRUCiBLE is JPN BD Remux+Chihiro and PGS\nChihiro is JPN BD Encode",
-    "comparison": "https://slow.pics/c/OoliA9Et",
+    "comparison": "https://slow.pics/c/7DizkVp0",
     "best_releases": [
       {
         "name": "CRUCiBLE",
@@ -19730,9 +19760,13 @@
     "alt_title": "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
     "year": 2024,
     "format": "TV",
-    "notes": "PMR is JPN BD Remux+SubsPlus+ with fades added to some TS\nHeadpatter is YURASUKA+PMR\nThe JPN BD has strong lowpassing in busy scenes but is also the only source with BD changes (see comp 2)",
+    "notes": "PMR is JPN BD Remux+SubsPlus+ with fades added to some TS\nHeadpatter is PMR with dub\nHeadpatter is also YURASUKA+PMR\nThe JPN BD has strong lowpassing in busy scenes but is also the only source with BD changes (see comp 2)",
     "comparison": "https://slow.pics/c/QosUwQ3C\nhttps://slow.pics/c/fR9tIBpx",
     "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "PMR",
         "status": ""
@@ -19741,7 +19775,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -27179,6 +27213,26 @@
     ]
   },
   {
+    "title": "Majestic Prince: Genetic Awakening",
+    "alt_title": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi",
+    "year": 2016,
+    "format": "MOVIE",
+    "notes": "Kulot is Beatrice-Raws+Modified official",
+    "comparison": "https://slow.pics/c/fqTJNCUi",
+    "best_releases": [
+      {
+        "name": "JPN BD+Kulot",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kulot (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Majo Demo Steady",
     "alt_title": "",
     "year": 1986,
@@ -32185,6 +32239,21 @@
     ]
   },
   {
+    "title": "Natsu no Arashi!",
+    "alt_title": "",
+    "year": 2009,
+    "format": "TV",
+    "notes": "TTGA is USA BD Remux+(Yellow) PGS\nariya would make a decent alt but it's missing subs in E10-13\nBest watched with mpv deband",
+    "comparison": "https://slow.pics/c/6gTsMjw3",
+    "best_releases": [
+      {
+        "name": "TTGA",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Natsuiro Kiseki",
     "alt_title": "",
     "year": 2012,
@@ -34767,6 +34836,26 @@
     ]
   },
   {
+    "title": "Outlaw Star",
+    "alt_title": "Seihou Bukyou Outlaw Star",
+    "year": 1998,
+    "format": "TV",
+    "notes": "TRiToN is JPN/GBR BD Remux+PGS and deanzel (Switch tracks). TS and songs expand into the pillarboxing\nCTR is Kagura+deanzel (CBM (R1) with modified G_P KFX and title signs)",
+    "comparison": "https://slow.pics/c/hDovDW6c",
+    "best_releases": [
+      {
+        "name": "TRiToN (Dual Audio)",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "CTR (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Overlord",
     "alt_title": "",
     "year": 2015,
@@ -36591,7 +36680,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       },
       {
         "name": "Xanth",
@@ -39769,15 +39858,20 @@
     "alt_title": "",
     "year": 2007,
     "format": "TV",
-    "notes": "YURI is VCB-Studio+FTV-Subs",
-    "comparison": "",
+    "notes": "YURI is VCB-Studio+FTV-Subs\n*Check rentry for fixes",
+    "comparison": "https://slow.pics/c/bTygrYGc\nhttps://www.diffchecker.com/SCfUbcsl/\nhttps://rentry.co/kp6n6zrb",
     "best_releases": [
+      {
+        "name": "jsum+CR*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "YURI",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "School Days: Magical Heart☆Kokoro-chan",
@@ -39792,7 +39886,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "YURI",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "School Days: Valentine Days",
@@ -39807,7 +39906,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "YURI",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "SCHOOL-LIVE!",
@@ -44311,17 +44415,17 @@
     "alt_title": "Fujimoto Tatsuki 17-26",
     "year": 2025,
     "format": "MOVIE",
-    "notes": "ToonsHub is an AMZN WEB-DL\nThe JPN BD is unsurprisingly significantly better, the usual suspects will be a better alt when they drop",
+    "notes": "Mira is JPN BD Encode+AMZN",
     "comparison": "https://slow.pics/tmdb/tv/299778",
     "best_releases": [
       {
-        "name": "JPN BD+AMZN",
-        "status": "unmuxed"
+        "name": "Mira",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "ToonsHub (Dual Audio)",
+        "name": "Mira",
         "status": ""
       }
     ]
@@ -45235,7 +45339,7 @@
     "alt_releases": [
       {
         "name": "NOGRP",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -47550,6 +47654,21 @@
     "alt_releases": []
   },
   {
+    "title": "The Orbital Children",
+    "alt_title": "Chikyuugai Shounen Shoujo",
+    "year": 2022,
+    "format": "ONA",
+    "notes": "LEM is Okay-Raws with the external TPP’d NF subs muxed in\nThe JPN BD/BDBOX is heavily lowpassed, the only other source is NF which is starved and has raised brightness. Okay-Raws cleans up most of the ringing in the BD to at least make it watchable",
+    "comparison": "https://slow.pics/c/VCraUxlt",
+    "best_releases": [
+      {
+        "name": "LEM",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
     "alt_title": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.",
     "year": 2024,
@@ -48790,7 +48909,7 @@
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -50774,7 +50893,7 @@
     "alt_releases": [
       {
         "name": "IK",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
