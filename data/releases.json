@@ -229,15 +229,20 @@
     "alt_title": "Kekkon Suru tte, Hontou desu ka",
     "year": 2024,
     "format": "TV",
-    "notes": "YURASUKA is JPN BD Encode+CR\nNot particularly transparent but fixes the poor lineart in the source",
-    "comparison": "https://slow.pics/c/0vtuZGM5\nhttps://slow.pics/c/ntpJn04T",
+    "notes": "YURASUKA is JPN BD Encode+CR. TS has broken perspective\nNot particularly transparent but fixes the poor lineart in the source\n*RigAV1 also has broken perspective and wrong matrix for the TS which needs fixing",
+    "comparison": "https://slow.pics/c/0vtuZGM5\nhttps://slow.pics/c/ntpJn04T\nhttps://www.diffchecker.com/ebjU7Bma/",
     "best_releases": [
       {
-        "name": "YURASUKA",
-        "status": ""
+        "name": "YURASUKA+RigAV1*",
+        "status": "unmuxed"
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "YURASUKA",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "5 Centimeters per Second",
@@ -1389,6 +1394,21 @@
     ]
   },
   {
+    "title": "AIKa: Special TRIAL",
+    "alt_title": "",
+    "year": 1998,
+    "format": "SPECIAL",
+    "notes": "RASETSU is mottoj+Heavily modified Tsundere\nOCR'd R1 was used for the intro sequence that Tsundere didn't include",
+    "comparison": "https://slow.pics/c/47I7BHhE",
+    "best_releases": [
+      {
+        "name": "RASETSU (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Aikatsu Stars!",
     "alt_title": "",
     "year": 2016,
@@ -1532,6 +1552,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Akahori Gedou Hour Rabuge",
+    "alt_title": "",
+    "year": 2005,
+    "format": "TV",
+    "notes": "Jumonji-Giri is R2J DVD Encode+Himitsu",
+    "comparison": "https://slow.pics/c/059vWWEX",
+    "best_releases": [
+      {
+        "name": "km+Jumonji-Giri",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Jumonji-Giri",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Akame ga Kill!",
@@ -9400,7 +9440,7 @@
     "alt_title": "",
     "year": 1999,
     "format": "TV",
-    "notes": "broom is JPN BD Remux+Virtuality\nVirtuality is AMZN WEB-DL+OldCastle restyled and retimed\nA jsum mux would be a better alt",
+    "notes": "broom is JPN BD Remux+Virtuality (Restyled and \"retimed\" OldCastle)\nHeadpatter is jsum+Virtuality with some fixes",
     "comparison": "https://slow.pics/c/EXxXNm7c\nhttps://slow.pics/c/O2HLNcED",
     "best_releases": [
       {
@@ -9410,7 +9450,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Virtuality",
+        "name": "Headpatter",
         "status": ""
       }
     ]
@@ -9420,7 +9460,7 @@
     "alt_title": "Corrector Yui 2",
     "year": 2000,
     "format": "TV",
-    "notes": "broom is JPN BD Remux+Virtuality\nVirtuality is AMZN WEB-DL+OldCastle restyled and retimed\nA jsum mux would be a better alt",
+    "notes": "broom is JPN BD Remux+Virtuality (Restyled and \"retimed\" OldCastle)\nHeadpatter is jsum+Virtuality with some fixes",
     "comparison": "",
     "best_releases": [
       {
@@ -9430,7 +9470,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Virtuality",
+        "name": "Headpatter",
         "status": ""
       }
     ]
@@ -10098,6 +10138,26 @@
     ]
   },
   {
+    "title": "Date A Live: Date to Date",
+    "alt_title": "Date A Live: DATE TO DATE",
+    "year": 2013,
+    "format": "OVA",
+    "notes": "Crucible is JPN BD (Director's Cut)+fixed Yoghurt\nYoghurt is Beatrice-Raws+fixed Judas (SallySubs with OP from FFF)",
+    "comparison": "",
+    "best_releases": [
+      {
+        "name": "CRUCiBLE",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Yoghurt",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Date A Live II",
     "alt_title": "",
     "year": 2014,
@@ -10183,26 +10243,6 @@
       {
         "name": "-ZR-",
         "status": "not_nyaa"
-      }
-    ],
-    "alt_releases": [
-      {
-        "name": "Yoghurt",
-        "status": ""
-      }
-    ]
-  },
-  {
-    "title": "Date A Live: Date to Date",
-    "alt_title": "Date A Live: DATE TO DATE",
-    "year": null,
-    "format": "OVA",
-    "notes": "Crucible is JPN BD (Director's Cut)+fixed Yoghurt\nYoghurt is Beatrice-Raws+fixed Judas (SallySubs with OP from FFF)",
-    "comparison": "",
-    "best_releases": [
-      {
-        "name": "CRUCiBLE",
-        "status": ""
       }
     ],
     "alt_releases": [
@@ -27003,6 +27043,21 @@
     ]
   },
   {
+    "title": "Magical Witch Punie-Chan",
+    "alt_title": "Dai Mahou Touge",
+    "year": 2006,
+    "format": "OVA",
+    "notes": "jackoneill is R1US/R2J DVD Encode+Slightly edited R1",
+    "comparison": "https://slow.pics/c/Mrm0rC1A",
+    "best_releases": [
+      {
+        "name": "jackoneill (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Magilumiere Magical Girls Inc.",
     "alt_title": "Kabushiki Gaisha Magi Lumiere",
     "year": 2024,
@@ -27217,8 +27272,28 @@
     "alt_title": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi",
     "year": 2016,
     "format": "MOVIE",
-    "notes": "Kulot is Beatrice-Raws+Modified official",
+    "notes": "Mobius is JPN BD Remux+Kulot\nKulot is Beatrice-Raws+Modified official",
     "comparison": "https://slow.pics/c/fqTJNCUi",
+    "best_releases": [
+      {
+        "name": "Mobius",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Kulot (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Majestic Prince: Wings to the Future",
+    "alt_title": "Ginga Kikoutai Majestic Prince: Mirai e no Tsubasa",
+    "year": 2016,
+    "format": "SPECIAL",
+    "notes": "Kulot is Beatrice-Raws+Restyled NotSoMajestic-CommieSubs (CR with OP/ED TL) with improved timing and script edits",
+    "comparison": "https://slow.pics/c/d1OYYmOT",
     "best_releases": [
       {
         "name": "JPN BD+Kulot",
@@ -27590,7 +27665,7 @@
     "year": 2003,
     "format": "TV",
     "notes": "NOGRP is R1US DVD Encode+Restyled MiraiAnime (OCR'd PGS) with added signs and missing insert songs. The encode isn't good and the subs weren't properly synced but it's the only watchable option. Signs track is also VobSubs only :skull:\nThe upscale used on the BDs is absolutely atrocious",
-    "comparison": "https://slow.pics/c/D5bpxdf1",
+    "comparison": "https://slow.pics/c/IFUpXmJQ",
     "best_releases": [],
     "alt_releases": [
       {
@@ -41972,6 +42047,26 @@
     ]
   },
   {
+    "title": "Soni-Ani: SUPER SONICO THE ANIMATION",
+    "alt_title": "SoniAni: SUPER SONICO THE ANIMATION",
+    "year": 2014,
+    "format": "TV",
+    "notes": "CBM is JPN BD Encode+OCR'd PGS\nsergey_krs would be a better alt\nEverything benefits from mpv deband",
+    "comparison": "https://slow.pics/c/W1x0JGEU\nhttps://www.diffchecker.com/cFmyUaI8/",
+    "best_releases": [
+      {
+        "name": "JPN BD+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "CBM (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Sonny Boy",
     "alt_title": "",
     "year": 2021,
@@ -46172,6 +46267,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2",
+    "alt_title": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+    "year": 2023,
+    "format": "TV",
+    "notes": "-ZR- is JPN BD Remux+SubsPlease (Restyled CR). Restyle messes with TS\nErai-raws is a CR WEB-DL\nBoth have broken perspective from lakh of layoutres, no script updates since airing\nThe JPN BD is simply fine this time around, IrizaRaws would be a better alt",
+    "comparison": "https://slow.pics/c/uaMydZJi\nhttps://slow.pics/c/CTIk1rUm",
+    "best_releases": [
+      {
+        "name": "-ZR- (Dual Audio)",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": "broken"
+      }
+    ]
   },
   {
     "title": "The Fruit of Grisaia",
