@@ -1841,6 +1841,26 @@
     ]
   },
   {
+    "title": "alice gear aegis Expansion",
+    "alt_title": "Alice Gear Aegis Expansion",
+    "year": 2023,
+    "format": "TV",
+    "notes": "-ZR- is JPN BD Remux+SubsPlease. Subs are 1 frame off\nSubsPlease is a HIDI WEB-DL\nWeb sources are cooked, IrizaRaws would be a much better alt",
+    "comparison": "https://slow.pics/c/b988aCIL",
+    "best_releases": [
+      {
+        "name": "-ZR-",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SubsPlease",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "ALL YOU NEED IS KILL",
     "alt_title": "",
     "year": 2026,
@@ -5842,6 +5862,26 @@
     "alt_releases": [
       {
         "name": "Thighs",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Blade of the Immortal",
+    "alt_title": "Mugen no Juunin",
+    "year": 2008,
+    "format": "TV",
+    "notes": "WIP is UNEXT/AMZN WEB-DL+Hi10 (OCR'd and styled R1) with some OCR errors fixed\nUNEXT is used for episode 1 since AMZN had the wrong framerate. AMZN has severe stuttering in the ED for all episodes, UNEXT might be better across the board tbh\nDrastically better quality than the DVD, though it's still starved, mpv deband helps a bit\nDekinai subs are Hi10 timed, edited, typeset, with OP/ED KFX\n*Revert the weeb edits",
+    "comparison": "https://slow.pics/c/NXRkPx6T\nhttps://www.diffchecker.com/MpL38OK4/",
+    "best_releases": [
+      {
+        "name": "UNEXT/AMZN+Dekinai*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "WIP",
         "status": ""
       }
     ]
@@ -36362,7 +36402,7 @@
     "year": 2018,
     "format": "TV",
     "notes": "DemiHuman (Remux) is USA BD Remux+PGS. Mpv deband is a requirement for enjoyings, otherwise get the encode.\nDemiHuman (Encode) is Beatrice-Raws+PGS",
-    "comparison": "https://slow.pics/c/PmYvVmCw\nhttps://slow.pics/c/q2OuElcE",
+    "comparison": "https://slow.pics/c/DN5PcXf4",
     "best_releases": [
       {
         "name": "DemiHuman (Dual Audio)",
