@@ -11063,17 +11063,17 @@
     "alt_title": "DEVILMAN crybaby",
     "year": 2018,
     "format": "ONA",
-    "notes": "D13 is JPN BD Remux+Restyled Dekinai (scene-timed/edited official) with name changes to match the wiki\nDatte13 is neko-raws with fixed visual glitch in episode 2+Restyled Dekinai (scene-timed/edited official) with name changes to match the wiki\nStore should be watched with MPV deband",
-    "comparison": "https://slow.pics/c/PptyqbiR\nhttps://slow.pics/c/YV9H768B",
+    "notes": "YURASUKA is JPN BD Encode+D13 (Restyled Dekinai (scene-timed/edited official) with names changed to match the wiki), NF, and PGS\nBlurred borders in the OP and visual glitch in episode 2 fixed\nThe JPN BD is heavily lowpassed in busy scenes and has detail loss from debanding throughout. The GBR BD with mpv deband does a much better job\n*Might as well revert the weeb edits",
+    "comparison": "https://slow.pics/c/ei4odsCj\nhttps://www.diffchecker.com/ZtoVqU14/",
     "best_releases": [
       {
-        "name": "D13 (Dual Audio)",
-        "status": ""
+        "name": "GBR BD+D13*",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "Datte13 (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ]
@@ -30028,12 +30028,12 @@
     "alt_title": "Kidou Senshi Gundam: Senkou no Hathaway",
     "year": 2021,
     "format": "MOVIE",
-    "notes": "Headpatter is Kawatare+hchcsen with fixed ED font, NF, and PGS\nhchcsen subs are Restled Kulot (Official) with improved timing and OP/Inserts/TS adapted from Anarchy\nThe 4K JPN BD is a meh upscale",
+    "notes": "Headpatter is Kawatare+hchcsen with fixed ED font, NF, and PGS\nhchcsen subs are restyled Kulot (Official) with improved timing and OP/Inserts/TS adapted from Anarchy\nThe 4K JPN BD is a meh upscale",
     "comparison": "https://slow.pics/c/j0EzZtm7\nhttps://slow.pics/c/uivYftfF",
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
