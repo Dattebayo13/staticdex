@@ -27303,7 +27303,7 @@
     "alt_releases": [
       {
         "name": "hchcsen (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -39340,8 +39340,13 @@
     "year": 2017,
     "format": "TV",
     "notes": "GSK_kun is VCB-Studio+GJM modified to accompany BD changes",
-    "comparison": "",
-    "best_releases": [],
+    "comparison": "https://slow.pics/c/tHLN8uwf",
+    "best_releases": [
+      {
+        "name": "JPN BD+GSK_kun",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
         "name": "GSK_kun",
@@ -40871,12 +40876,12 @@
     "alt_title": "sin: Nanatsu no Taizai",
     "year": 2017,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+AOmundson, CR, and PGS\nAOmundson is Amoeba+RH (Restyled CR with improved TS and ED lyrics)",
-    "comparison": "https://slow.pics/c/RV9VFY1z\nhttps://slow.pics/c/t1JG43Xd",
+    "notes": "AOmundson is Amoeba+RH (Restyled CR with improved TS and Romaji OP/ED)\nTenrai-Sensei is AOmundson with KFX and official TL for the OP/ED\nH-Enc fixes the terrible chroma in the store",
+    "comparison": "https://slow.pics/c/KaTvDn0v\nhttps://slow.pics/c/RV9VFY1z",
     "best_releases": [
       {
-        "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "name": "H-Enc+Tenrai-Sensei",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
@@ -42730,24 +42735,15 @@
     "alt_title": "SPY×FAMILY Season 2",
     "year": 2023,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+scoot, CR, and PGS\nscoot is WEBRip+CR with the full fansub treatment\nyolerejiju is scoot with dub\nThe JPN BD is chroma lowpassed but it doesn't really matter since the USA BD has worse issues and web sources are starved",
-    "comparison": "https://slow.pics/c/tthFpQJi",
+    "notes": "YURASUKA is Delowpassed JPN BD Encode+scoot (Fansub based on CR) and PGS",
+    "comparison": "https://slow.pics/c/Fgs0jjhh",
     "best_releases": [
       {
-        "name": "NAN0 (Dual Audio)",
+        "name": "YURASUKA (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "scoot",
-        "status": ""
-      },
-      {
-        "name": "yolerejiju (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "SPY x FAMILY Season 3",
@@ -46218,6 +46214,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "The Family Circumstances of the Irregular Witch",
+    "alt_title": "Dekoboko Majo no Oyako Jijou",
+    "year": 2023,
+    "format": "ONA",
+    "notes": "Erai-raws is a CR WEB-DL. No LayoutRes, breaks perspective on at least 1 sign\nThe JPN BD is lowpassed with pretty significantly blurred chroma and has starved grain with lots of blocking. There's some busy scenes where the compression is a lot better than CR but overall they're very similar and it's not worth the downsides, no BD changes in the episodes checked either",
+    "comparison": "https://slow.pics/c/8bF5TwjN\nhttps://slow.pics/c/IfSXQjM0",
+    "best_releases": [
+      {
+        "name": "Erai-raws",
+        "status": "broken"
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "The Faraway Paladin",
@@ -50533,6 +50544,26 @@
     "alt_releases": [
       {
         "name": "Starbez (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "TsumaSho",
+    "alt_title": "Tsuma, Shougakusei ni Naru.",
+    "year": 2024,
+    "format": "TV",
+    "notes": "Erai-raws is a CR WEB-DL\nThe JPN BD is a very minor upgrade over CR, most of the time looking essentially identical\nNo sub changes since airing other than downgrading episode 2 to CCC\n*Add LayoutRes, only the last few episodes have it",
+    "comparison": "https://slow.pics/c/RwyppaHo",
+    "best_releases": [
+      {
+        "name": "JPN BD+Erai-raws*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
         "status": ""
       }
     ]
