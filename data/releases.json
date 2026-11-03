@@ -3224,6 +3224,146 @@
     ]
   },
   {
+    "title": "Armored Trooper Votoms: The Last Red Shoulder",
+    "alt_title": "Soukou Kihei Votoms: The Last Red Shoulder",
+    "year": 1985,
+    "format": "OVA",
+    "notes": "hchcsen is LowPower-Raws+Official with G_P OP/ED KFX\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/QaDsBYzt",
+    "best_releases": [
+      {
+        "name": "JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Armored Trooper Votoms: The Big Battle",
+    "alt_title": "Soukou Kihei Votoms: Big Battle",
+    "year": 1986,
+    "format": "OVA",
+    "notes": "hchcsen is LowPower-Raws+Official with G_P OP/ED KFX\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/aMZUR11R",
+    "best_releases": [
+      {
+        "name": "JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Armored Trooper Votoms: Origin of Ambition",
+    "alt_title": "Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots",
+    "year": 1988,
+    "format": "OVA",
+    "notes": "hchcsen is LowPower-Raws+Official with G_P OP/ED KFX\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/tvVolw3R",
+    "best_releases": [
+      {
+        "name": "JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Kikou Ryouhei Merowlink",
+    "alt_title": "",
+    "year": 1988,
+    "format": "OVA",
+    "notes": "Inka-Subs is LowPower-Raws+OTL\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/3kmZpq54\nhttps://www.diffchecker.com/puZnmwwb/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Inka-Subs",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Inka-Subs",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Armored Trooper Votoms: Pailsen Files",
+    "alt_title": "Soukou Kihei Votoms: Pailsen Files",
+    "year": 2007,
+    "format": "OVA",
+    "notes": "hchcsen is LowPower-Raws+Official\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/6QXzfTls",
+    "best_releases": [
+      {
+        "name": "JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Soukou Kihei Votoms: Pailsen Files the Movie",
+    "alt_title": "Armored Trooper Votoms: Pailsen Files",
+    "year": 2009,
+    "format": "MOVIE",
+    "notes": "hchcsen is LowPower-Raws+Shinsen-Subs\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/63DhexDA",
+    "best_releases": [
+      {
+        "name": "JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Armored Trooper Votoms: Genei ~ Phantom Arc",
+    "alt_title": "Soukou Kihei Votoms: Genei-hen",
+    "year": 2010,
+    "format": "OVA",
+    "notes": "hchcsen is LowPower-Raws+SHS-FoSu (E1-3), Formula (E4-6)\nThe store has quite a lot of banding, LowPower \"fixes\" this by nuking the entire image\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/FG0llkH3",
+    "best_releases": [
+      {
+        "name": "JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Arpeggio of Blue Steel",
     "alt_title": "Aoki Hagane no Arpeggio: Ars Nova",
     "year": 2013,
@@ -9480,12 +9620,12 @@
     "alt_title": "",
     "year": 1999,
     "format": "TV",
-    "notes": "broom is JPN BD Remux+Virtuality (Restyled and \"retimed\" OldCastle)\nHeadpatter is jsum+Virtuality with some fixes",
+    "notes": "broom is JPN BD Remux+Headpatter\nHeadpatter is jsum+Virtuality (Restyled and \"retimed\" OldCastle) with some fixes",
     "comparison": "https://slow.pics/c/EXxXNm7c\nhttps://slow.pics/c/O2HLNcED",
     "best_releases": [
       {
         "name": "broom",
-        "status": ""
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -9500,12 +9640,12 @@
     "alt_title": "Corrector Yui 2",
     "year": 2000,
     "format": "TV",
-    "notes": "broom is JPN BD Remux+Virtuality (Restyled and \"retimed\" OldCastle)\nHeadpatter is jsum+Virtuality with some fixes",
+    "notes": "broom is JPN BD Remux+Headpatter\nHeadpatter is jsum+Virtuality (Restyled and \"retimed\" OldCastle) with some fixes",
     "comparison": "",
     "best_releases": [
       {
         "name": "broom",
-        "status": ""
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -22076,24 +22216,15 @@
     "alt_title": "Josee to Tora to Sakanatachi",
     "year": 2020,
     "format": "MOVIE",
-    "notes": "MaxEffort is FRA BD Remux+Official timed, edited, typeset, with song kfx\nMidEffort is Kawaiika-Raws+MaxEffort\nHeadpatter is Kawaiika-Raws+MaxEffort with and without songs, Dae, CR, OCR'd USA BD, NF, and PGS",
-    "comparison": "https://slow.pics/c/t26bx6cJ\nhttps://www.diffchecker.com/brcda3lr/",
+    "notes": "Ignore is FRA, GBR, and SPA BD Encode+MaxEffort (Official timed, edited, typeset, with song kfx) with a no songs option, and Dae\nDub is from the GBR BD which has sadeemed audio or something",
+    "comparison": "https://slow.pics/c/on3WSNlp\nhttps://slow.pics/c/pvcdun2d\nhttps://www.diffchecker.com/brcda3lr/",
     "best_releases": [
       {
-        "name": "MaxEffort (Dual Audio)",
+        "name": "Ignore (Dual Audio)",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Headpatter (Dual Audio)",
-        "status": ""
-      },
-      {
-        "name": "MidEffort",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Joshiraku",
@@ -24689,6 +24820,21 @@
         "status": "not_nyaa"
       }
     ]
+  },
+  {
+    "title": "Kyo Kara Maoh! - God (?) Save Our King!",
+    "alt_title": "Kyou kara Maou!",
+    "year": 2004,
+    "format": "TV",
+    "notes": "izu is jsum+Judas (TenB (Styled R1) and PGS)\nRare 2004 BD W, stores are interlaced though so jsum sweep\nBenefits from mpv deband",
+    "comparison": "https://slow.pics/c/zfvTNhwF",
+    "best_releases": [
+      {
+        "name": "izu (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Kyou kara Ore wa!!",
@@ -27698,6 +27844,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "Marika's Love Meter Malfunction",
+    "alt_title": "Marika-chan no Koukando wa Bukkowareteiru",
+    "year": 2026,
+    "format": "TV_SHORT",
+    "notes": "Headpatter is H-Enc+TokekHutan (OCR'd OVEIL timed and typeset) with some fixes",
+    "comparison": "https://slow.pics/c/H0UOu4Pp",
+    "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Marriage of God & Soul Godannar!!",
@@ -45270,17 +45431,12 @@
     "alt_title": "Shiroi Suna no Aquatope",
     "year": 2021,
     "format": "TV",
-    "notes": "SubsPlease is CR WEB-DL\nThe JPN BD has a chroma shift and extremely strong banding, it debands well but you still end up with less detail than CR\nGJM have done up to episode 9",
-    "comparison": "https://slow.pics/c/FaB0y96j\nhttps://slow.pics/c/P7T56leh",
-    "best_releases": [
-      {
-        "name": "CR+GJM",
-        "status": "unmuxed"
-      }
-    ],
+    "notes": "AV1ARY is CR WEBRip+WBDP (Edited GJM for E1-9, restyled and edited CR for E10-24)\nThe JPN BD has a chroma shift and extremely strong banding, it debands well but you still end up with less detail than CR\nWBDP's edits are just adding back honorifics, which does make it consistent with CR\nThere has since been a re-issue of Volumes 1-2 of the BD which apparently fixes the broken audio, m2ts files are much bigger so might be a better encode too",
+    "comparison": "https://slow.pics/c/FaB0y96j\nhttps://www.diffchecker.com/AFZP2cjt/",
+    "best_releases": [],
     "alt_releases": [
       {
-        "name": "SubsPlease",
+        "name": "AV1ARY",
         "status": ""
       }
     ]
@@ -51068,12 +51224,12 @@
     "alt_title": "Juuou Mujin no Fafnir",
     "year": 2015,
     "format": "TV",
-    "notes": "IK is VCB-Studio+FFF\nUNBIASED subs are FFF with a few fixes\nStore absolutely requires mpv deband",
+    "notes": "MuGi is JPN BD Remux+UNBIASED (FFF with a few fixes)\nIK is VCB-Studio+FFF\nStore absolutely requires mpv deband",
     "comparison": "https://slow.pics/c/OE1RbkDb\nhttps://www.diffchecker.com/nBhLb5XO/",
     "best_releases": [
       {
-        "name": "JPN BD+UNBIASED",
-        "status": "unmuxed"
+        "name": "MuGi",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
