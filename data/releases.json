@@ -3304,6 +3304,26 @@
     ]
   },
   {
+    "title": "Armored Trooper VOTOMS: Brilliantly Shining Heresy",
+    "alt_title": "Soukou Kihei Votoms: Kakuyaku taru Itan",
+    "year": 1994,
+    "format": "OVA",
+    "notes": "hchcsen is LowPower-Raws+Official\nLowPower is full of stuttering, jsum simply doesn't have this issue\nThe JPN BD is just a cropped blurry upscale with less detail than the USA SDBD, but nobody encoded the latter and they're both interlaced so...\nThe source looks awful anyway so it is what it is",
+    "comparison": "https://slow.pics/c/xy7OqIwx\nhttps://slow.pics/c/99dk2jTP",
+    "best_releases": [
+      {
+        "name": "jsum+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "Armored Trooper Votoms: Pailsen Files",
     "alt_title": "Soukou Kihei Votoms: Pailsen Files",
     "year": 2007,
@@ -3350,6 +3370,66 @@
     "format": "OVA",
     "notes": "hchcsen is LowPower-Raws+SHS-FoSu (E1-3), Formula (E4-6)\nThe store has quite a lot of banding, LowPower \"fixes\" this by nuking the entire image\njsum would be a better alt",
     "comparison": "https://slow.pics/c/FG0llkH3",
+    "best_releases": [
+      {
+        "name": "JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Armored Trooper Votoms: Chirico's Return",
+    "alt_title": "Soukou Kihei Votoms: Koei Futatabi",
+    "year": 2011,
+    "format": "OVA",
+    "notes": "hchcsen is LowPower-Raws+gg\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/LmMR9w9z",
+    "best_releases": [
+      {
+        "name": "JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Armored Trooper Votoms: Case; Irvine",
+    "alt_title": "Soukou Kihei Votoms: Case; IRVINE",
+    "year": 2010,
+    "format": "OVA",
+    "notes": "hchcsen is LowPower-Raws+gg\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/Bkwc7qbJ",
+    "best_releases": [
+      {
+        "name": "JPN BD+hchcsen",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Armored Trooper Votoms: Votoms Finder",
+    "alt_title": "Votoms Finder",
+    "year": 2010,
+    "format": "OVA",
+    "notes": "hchcsen is LowPower-Raws+gg\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/60jRhCF3",
     "best_releases": [
       {
         "name": "JPN BD+hchcsen",
@@ -5647,6 +5727,21 @@
         "status": ""
       }
     ]
+  },
+  {
+    "title": "BIRTH",
+    "alt_title": "",
+    "year": 1984,
+    "format": "OVA",
+    "notes": "Kulot is km+Modified official",
+    "comparison": "https://slow.pics/c/KpYcslQS",
+    "best_releases": [
+      {
+        "name": "Kulot",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Black Bullet",
@@ -9625,7 +9720,7 @@
     "best_releases": [
       {
         "name": "broom",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -9645,7 +9740,7 @@
     "best_releases": [
       {
         "name": "broom",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -11103,7 +11198,7 @@
     "alt_title": "",
     "year": 1992,
     "format": "TV",
-    "notes": "hchcsen is JPN BD Remux+Modified MC-HS (Retimed, restyled, TS moderately improved, script updated to reflect official terminology)\njsum would be a good alt, the DVD releases are unwatchable",
+    "notes": "hchcsen is JPN BD Remux+Modified MC-HS (Retimed, restyled, TS moderately improved, script updated to reflect official terminology)\nHeadpatter is jsum+Restyled and stock hchcsen",
     "comparison": "https://slow.pics/c/MLZQumBS",
     "best_releases": [
       {
@@ -11111,7 +11206,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Destiny of the Shrine Maiden",
