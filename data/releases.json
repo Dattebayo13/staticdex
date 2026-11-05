@@ -18132,6 +18132,26 @@
     ]
   },
   {
+    "title": "Hataraki Man",
+    "alt_title": "",
+    "year": 2006,
+    "format": "TV",
+    "notes": "Arienai is HDTV Encode+Hardsubbed OTL\nBest watchable release until someone puts AMZN in the toolnix\nAMZN and HDTV are the only HD sources but they don't have the BD changes, HIDI-VRV does but it's a destroyed upscale of the SD master used on the USA SDBD, which itself is a terrible downscale",
+    "comparison": "https://slow.pics/c/eic5ZWKv",
+    "best_releases": [
+      {
+        "name": "AMZN+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Arienai",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Hatsukoi Limited",
     "alt_title": "",
     "year": 2009,
@@ -22456,8 +22476,8 @@
     "alt_title": "Juuni Taisen",
     "year": 2017,
     "format": "TV",
-    "notes": "AnoZu is a CR WEB-DL\njsum would be a better alt",
-    "comparison": "https://slow.pics/c/34jIvTte",
+    "notes": "AnoZu is a CR WEB-DL with restyled subs. Subs have the wrong matrix\njsum would be a much better alt\nBD has significant changes over web",
+    "comparison": "https://slow.pics/c/34jIvTte\nhttps://slow.pics/c/Dyq1oGL4",
     "best_releases": [
       {
         "name": "JPN BD+CR",
@@ -22467,7 +22487,7 @@
     "alt_releases": [
       {
         "name": "AnoZu (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -26019,8 +26039,8 @@
     "alt_title": "Guimi Zhi Zhu: Xiaochou Pian",
     "year": null,
     "format": "ONA",
-    "notes": "MoodiSubs is 1440p CR Majin WEB-DL+Revised version of their original subs (Modified CR with improved TS)\nThe 1440p stream is the best quality despite the lower bitrate. That said the quality is cooked regardless so you'll want to use MPV Deband and employ the distance strat.",
-    "comparison": "https://slow.pics/c/mCqs5Cq9\nhttps://www.diffchecker.com/ltkVJENC/",
+    "notes": "MoodiSubs is 1440p CR Majin WEB-DL+Revised version of their original subs (Modified CR with improved TS)\nThe 1440p stream is the best quality despite the lower bitrate. That said the quality is cooked regardless so you'll want to use MPV Deband and employ the distance strat.\nThe USA BD is pauper as expected",
+    "comparison": "https://slow.pics/c/21GUJkY8\nhttps://www.diffchecker.com/ltkVJENC/",
     "best_releases": [
       {
         "name": "Moodisubs (Dual Audio)",
@@ -28304,7 +28324,7 @@
     "alt_releases": [
       {
         "name": "Kitsune",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -43174,17 +43194,17 @@
     "alt_title": "",
     "year": 2004,
     "format": "MOVIE",
-    "notes": "Afro is JPN BD Encode+Modified official and haWks\nThe international master used on the GER, ITA, and AUS BDs has a different (cooler and duller) grade. Additionally the ITA and AUS BDs are based on a film scan which looks significantly worse given that this movie was a digital production. JPN appears to be the original version as it has proper highlights, no lineart tint, and matches the production videos",
-    "comparison": "https://slow.pics/c/tEpnxgjs\nhttps://slow.pics/c/vfum59lZ\nhttps://www.diffchecker.com/WaziOckl/\nhttps://www.diffchecker.com/vf0V7kEh/",
+    "notes": "hydes is JPN BD Remux+Afro (Edited official) restyled, retimed, missing lines added, formatting improvements, errors fixed\nhydes is also Afro with the same subs\nThe international master used on the GER, ITA, and AUS BDs has a different (cooler and duller) grade. Additionally the ITA and AUS BDs are based on a film scan which looks significantly worse given that this movie was a digital production. JPN appears to be the original version as it has proper highlights, no lineart tint, and matches the production videos\nCheck hydes' description for details on the audio",
+    "comparison": "https://slow.pics/c/tEpnxgjs\nhttps://slow.pics/c/vfum59lZ\nhttps://slow.pics/c/wyKuf9Go\nhttps://www.diffchecker.com/WaziOckl/\nhttps://www.diffchecker.com/vf0V7kEh/",
     "best_releases": [
       {
-        "name": "JPN BD+Afro",
-        "status": "unmuxed"
+        "name": "hydes (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Afro (Dual Audio)",
+        "name": "hydes (Dual Audio)",
         "status": ""
       }
     ]
@@ -46476,11 +46496,11 @@
     "alt_title": "Dekoboko Majo no Oyako Jijou",
     "year": 2023,
     "format": "ONA",
-    "notes": "Erai-raws is a CR WEB-DL. No LayoutRes, breaks perspective on at least 1 sign\nThe JPN BD is lowpassed with pretty significantly blurred chroma and has starved grain with lots of blocking. There's some busy scenes where the compression is a lot better than CR but overall they're very similar and it's not worth the downsides, no BD changes in the episodes checked either",
-    "comparison": "https://slow.pics/c/8bF5TwjN\nhttps://slow.pics/c/IfSXQjM0",
+    "notes": "Kitsune is a CR WEB-DL with restyled subs, and what seems to be typesetting tags taken from other languages which sometimes makes it worse\nThe JPN BD is lowpassed with pretty significantly blurred chroma and has starved grain with lots of blocking. There's some busy scenes where the compression is a lot better than CR but overall they're very similar and it's not worth the downsides, no BD changes in the episodes checked either",
+    "comparison": "https://slow.pics/c/8bF5TwjN\nhttps://slow.pics/c/IfSXQjM0\nhttps://slow.pics/c/0VqPR7oF\nhttps://slow.pics/c/SQkQPpkc",
     "best_releases": [
       {
-        "name": "Erai-raws",
+        "name": "Kitsune",
         "status": "broken"
       }
     ],
@@ -49510,17 +49530,17 @@
     "alt_title": "Chiyu Mahou no Machigatta Tsukaikata",
     "year": 2024,
     "format": "TV",
-    "notes": "-ZR- is USA BD Remux+Chihiro and PGS\nZeroBuild is CR WEB-DL+Chihiro and CR\nThe USA BD is poor (lowpassed and chroma shifted) but is the least evil option when compared to the JPN BD (starved and lowpassed) and CR (very starved)",
-    "comparison": "https://slow.pics/c/1vOHFOlw\nhttps://slow.pics/c/UneTBzWO",
+    "notes": "-ZR- is USA BD Remux+Chihiro (WEB) and PGS\nChihiro is JPN BD Encode+Fansub based on CR\nThe USA BD is poor (lowpassed and chroma shifted) but is the least evil option when compared to the JPN BD (starved and lowpassed) and CR (very starved)",
+    "comparison": "https://slow.pics/c/1vOHFOlw\nhttps://slow.pics/c/UneTBzWO\nhttps://www.diffchecker.com/QDLctSIR/",
     "best_releases": [
       {
         "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
-        "name": "ZeroBuild (Dual Audio)",
+        "name": "Chihiro",
         "status": ""
       }
     ]
@@ -49866,7 +49886,7 @@
     "alt_releases": [
       {
         "name": "Kitsune",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
