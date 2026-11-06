@@ -8960,6 +8960,26 @@
     ]
   },
   {
+    "title": "Circlet Princess",
+    "alt_title": "",
+    "year": 2019,
+    "format": "TV",
+    "notes": "npz is JPN BD Remux+RyuujiTK (OTL) with a slight margin change\nGyuunyuu is Moozzi2+RyuujiTK\nThe RyuujiTK BD batch on nyaa seems like the same thing as Gyuunyuu, but it's just an unofficial release which just weebs up the script\nmpv deband helps store a lil",
+    "comparison": "https://slow.pics/c/1invEPkQ\nhttps://slow.pics/c/UjWYTV4U\nhttps://www.diffchecker.com/nkOIrcv7/",
+    "best_releases": [
+      {
+        "name": "npz",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Gyuunyuu",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Citrus",
     "alt_title": "citrus",
     "year": 2018,
@@ -9965,7 +9985,7 @@
     "year": 2006,
     "format": "TV",
     "notes": "ParanDark is SOFCJ-Raws+modified Shinsen-Subs",
-    "comparison": "",
+    "comparison": "https://slow.pics/c/9jBmlNKf",
     "best_releases": [
       {
         "name": "ParanDark",
@@ -35667,6 +35687,30 @@
     "alt_releases": []
   },
   {
+    "title": "Pastel Memories",
+    "alt_title": "",
+    "year": 2019,
+    "format": "TV",
+    "notes": "NOGRP is LowPower-Raws+HorribleSubs (Restyled HIDI for E1 and 3-4, restyled CR for E5-12). Does not contain episode 2, for that get HorribleSubs\nHorribleSubs is a HIDI WEB-DL\nEpisode 2 was removed from streaming platforms and not included on the BD due to suspected copyright issues. The streaming version of episode 1 was \"revised\" but the only difference is adding in a few minutes of footage from episode 2 at the end and incorporating BD changes (which seem to just be edits to manga cover art to make it legally distinct TM)\nIrizaRaws would be a better alt\n*ADN will need to be used for episode 2",
+    "comparison": "https://slow.pics/c/bpLrdv9P\nhttps://slow.pics/c/4fEoQ3Ko",
+    "best_releases": [
+      {
+        "name": "JPN BD/ADN+CR*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "HorribleSubs",
+        "status": "incomplete"
+      },
+      {
+        "name": "NOGRP",
+        "status": "incomplete"
+      }
+    ]
+  },
+  {
     "title": "Patema Inverted",
     "alt_title": "Sakasama no Patema",
     "year": 2013,
@@ -41642,6 +41686,21 @@
     "alt_releases": []
   },
   {
+    "title": "Show By Rock!!",
+    "alt_title": "SHOW BY ROCK!!",
+    "year": 2015,
+    "format": "TV",
+    "notes": "Cait-Sidhe is Beatrice-Raws+Modified orz (Fansub based on FUNI)",
+    "comparison": "https://slow.pics/c/2oJx9yeb\nhttps://www.diffchecker.com/LcxO4KqH/",
+    "best_releases": [
+      {
+        "name": "Cait-Sidhe",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Show by Rock!! Stars!!",
     "alt_title": "SHOW BY ROCK!! STARS!!",
     "year": 2021,
@@ -44210,6 +44269,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "Sword of the Demon Hunter: Kijin Gentosho",
+    "alt_title": "Kijin Gentoushou",
+    "year": 2025,
+    "format": "TV",
+    "notes": "SubsPlus+ is NF (E1-13)/ADN (E14-24) WEB-DL+HIDI with automated improvements\nMany services initially had unfinished versions of the episodes, this batch includes freshly ripped sources with updated video. The BD contains more changes on top of this\nThe JPN BD has blurred chroma but much better compression than web sources, still everything could do with some mpv deband though\nWF would be a better alt",
+    "comparison": "https://slow.pics/c/v8aowzPZ",
+    "best_releases": [
+      {
+        "name": "JPN BD+SubsPlus+",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "SubsPlus+",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "Sword of the Stranger",
@@ -47693,7 +47772,7 @@
     "best_releases": [
       {
         "name": "NAN0",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -50970,6 +51049,26 @@
     "alt_releases": [
       {
         "name": "StarLight (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Twin Angel: Twinkle Paradise",
+    "alt_title": "Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!",
+    "year": 2011,
+    "format": "TV",
+    "notes": "Coalgirls is JPN BD Encode+R1\nSalender-Raws would be a much better alt\nmpv deband helps the store a bit",
+    "comparison": "https://slow.pics/c/KUR907X9",
+    "best_releases": [
+      {
+        "name": "JPN BD+Coalgirls",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Coalgirls",
         "status": ""
       }
     ]
