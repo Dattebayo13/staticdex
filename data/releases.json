@@ -35691,7 +35691,7 @@
     "alt_title": "",
     "year": 2019,
     "format": "TV",
-    "notes": "NOGRP is LowPower-Raws+HorribleSubs (Restyled HIDI for E1 and 3-4, restyled CR for E5-12). Does not contain episode 2, for that get HorribleSubs\nHorribleSubs is a HIDI WEB-DL\nEpisode 2 was removed from streaming platforms and not included on the BD due to suspected copyright issues. The streaming version of episode 1 was \"revised\" but the only difference is adding in a few minutes of footage from episode 2 at the end and incorporating BD changes (which seem to just be edits to manga cover art to make it legally distinct TM)\nIrizaRaws would be a better alt\n*ADN will need to be used for episode 2",
+    "notes": "NOGRP is LowPower-Raws+HorribleSubs (Restyled HIDI for E1 and 3-4, restyled CR for E5-12). Episode 2 is just renamed HorribleSubs (HIDI WEB-DL)\nEpisode 2 was removed from streaming platforms and not included on the BD due to suspected copyright issues. The streaming version of episode 1 was \"revised\" but the only difference is adding in a few minutes of footage from episode 2 at the end and incorporating BD changes (which seem to just be edits to manga cover art to make it legally distinct TM)\nIrizaRaws would be a better alt\n*ADN will need to be used for episode 2",
     "comparison": "https://slow.pics/c/bpLrdv9P\nhttps://slow.pics/c/4fEoQ3Ko",
     "best_releases": [
       {
@@ -35701,12 +35701,8 @@
     ],
     "alt_releases": [
       {
-        "name": "HorribleSubs",
-        "status": "incomplete"
-      },
-      {
         "name": "NOGRP",
-        "status": "incomplete"
+        "status": ""
       }
     ]
   },
@@ -40427,7 +40423,7 @@
     "best_releases": [
       {
         "name": "UnHoly",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -43045,7 +43041,7 @@
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
