@@ -20898,12 +20898,12 @@
     "alt_title": "Kono Sekai no Katasumi ni",
     "year": 2016,
     "format": "MOVIE",
-    "notes": "Chika is SmugCat+SCY (MTBB with additional TS)\nMTBB is a fansub based on R1 and official Manga TL",
+    "notes": "broom is JPN BD Remux+SCY\nChika is SmugCat+SCY (MTBB with additional TS)\nMTBB is a fansub based on R1 and official Manga TL",
     "comparison": "https://slow.pics/c/Ja1br2cf\nhttps://slow.pics/c/3ztm9qHd",
     "best_releases": [
       {
-        "name": "JPN BD+SCY",
-        "status": "unmuxed"
+        "name": "broom (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -22806,12 +22806,16 @@
     "alt_title": "Kageki Shoujo!!",
     "year": 2021,
     "format": "TV",
-    "notes": "GSK_kun is VCB-Studio+Fansub based on FUNI\nStore is halomaxxed, we take the Chinesium techniques",
+    "notes": "GSK_kun is VCB-Studio+Fansub based on FUNI\nHeadpatter is GSK_kun with dub and PGS\nStore is halomaxxed, we take the Chinesium techniques",
     "comparison": "https://slow.pics/c/xVpbe8Il",
     "best_releases": [
       {
         "name": "GSK_kun",
         "status": ""
+      },
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -24375,20 +24379,15 @@
     "alt_title": "",
     "year": 2007,
     "format": "TV",
-    "notes": "Doutei is R2J DVD Encode+OTL",
+    "notes": "Headpatter is Beatrice-Raws+Restyled and Stock Doutei (OTL)",
     "comparison": "https://slow.pics/c/aDFgM08k",
     "best_releases": [
       {
-        "name": "Beatrice-Raws+Doutei",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Doutei",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Koi Kaze",
@@ -49860,7 +49859,7 @@
     "alt_title": "Motto To LOVE-Ru",
     "year": 2010,
     "format": "TV",
-    "notes": "-ZR- is JPN BD Remux+Doki-Chihiro\nKH is Beatrice-Raws+Doki-Chihiro and Commie\nSalender-Raws would be a better alt",
+    "notes": "-ZR- is JPN BD Remux+Doki-Chihiro\nHeadpatter is Salender-Raws+Restyled and stock Doki-Chihiro, and Commie",
     "comparison": "https://slow.pics/c/ql1NSJHo",
     "best_releases": [
       {
@@ -49870,8 +49869,8 @@
     ],
     "alt_releases": [
       {
-        "name": "KH (Dual Audio)",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -51054,18 +51053,18 @@
     "alt_title": "Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!",
     "year": 2011,
     "format": "TV",
-    "notes": "Coalgirls is JPN BD Encode+R1\nSalender-Raws would be a much better alt\nmpv deband helps the store a bit",
+    "notes": "Headpatter is JPN BD Remux+Restyled and stock Coalgirls (Fansub based on CR)\nHeadpatter is also Salender-Raws with the same subs\nmpv deband helps the store a bit",
     "comparison": "https://slow.pics/c/KUR907X9",
     "best_releases": [
       {
-        "name": "JPN BD+Coalgirls",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "Coalgirls",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
