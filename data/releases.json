@@ -1733,7 +1733,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       },
       {
         "name": "Pog42",
@@ -2242,7 +2242,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -2752,7 +2752,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -8057,7 +8057,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -8203,7 +8203,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -8899,7 +8899,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -11429,6 +11429,26 @@
     "alt_releases": [
       {
         "name": "mottoj",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Dirty Pair",
+    "alt_title": "",
+    "year": 1985,
+    "format": "TV",
+    "notes": "sxales is JPN BD Encode+Exiled-Destiny (OCR'd R1)\nThe BD looks kinda ass with heavy DNR but it's still a massive improvement over the awful DVD releases\nThe JPSDR release has better video but uses outdated Exiled-Destiny subs for E1-10 and OCR'd \"shitty VHS-rip hardsubs\" for the rest. Maybe the new PGS subs are a decent option\njsum would be a much better alt",
+    "comparison": "https://slow.pics/c/O9FYbuzt\nhttps://www.diffchecker.com/5rHdggb7/",
+    "best_releases": [
+      {
+        "name": "JPN BD+?",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "sxales",
         "status": ""
       }
     ]
@@ -15544,7 +15564,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       },
       {
         "name": "Kawatare",
@@ -16620,7 +16640,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -17267,7 +17287,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -18750,7 +18770,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -19189,13 +19209,13 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -19652,7 +19672,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -20277,7 +20297,7 @@
     "title": "I'm glad I could keep running",
     "alt_title": "Hashiri Tsuzukete Yokattatte",
     "year": 2018,
-    "format": "TV_SHORT",
+    "format": "TV",
     "notes": "Moxie is JPN BD Remux+GJM\nBKC is Mangakas-Fansub+GJM",
     "comparison": "https://slow.pics/c/z1KAy94y\nhttps://slow.pics/c/7JD3We3E",
     "best_releases": [
@@ -21953,13 +21973,13 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -25263,15 +25283,11 @@
     "alt_title": "Houseki no Kuni",
     "year": 2017,
     "format": "TV",
-    "notes": "Seicher is BD Encode+bxvxy (Modified PAS) Gender neutral pronouns used (woke)\nArid is Seicher with dual audio",
-    "comparison": "https://slow.pics/c/42njAPc5\nhttps://slow.pics/c/pwt61gIc",
+    "notes": "Sylvar is Delowpassed JPN BD Encode+Overhauled bcvxy (full pass including editing, timing, and TS improvements)\nbcvxy subs are modified PAS, which is in turn a fansub based on Sentai",
+    "comparison": "https://slow.pics/c/AF5LqdBd\nhttps://slow.pics/c/8fTGvuy3\nhttps://www.diffchecker.com/dGaBQ72z/",
     "best_releases": [
       {
-        "name": "Arid (Dual Audio)",
-        "status": ""
-      },
-      {
-        "name": "Seicher",
+        "name": "Sylvar (Dual Audio)",
         "status": ""
       }
     ],
@@ -25531,7 +25547,7 @@
     "title": "Let's Make a Mug Too",
     "alt_title": "Yakunara Mug Cup Mo",
     "year": 2021,
-    "format": "TV_SHORT",
+    "format": "TV",
     "notes": "Erai-raws is a CR WEB-DL\nThe JPN BD is terrible, it has the quicktime gamma bug, terrible mpeg2 tier compression, destroyed chroma, tons of banding, and to top it off it's interlaced. The only saving grace is...NOTHING!!!\nThe show is 24fps but has 30fps live action segments at the end of each episode. The BD is interlaced to accommodate them, but on CR these segments are simply separate videos instead, so they can remain progressive at the original frame rates\nThis release doesn't include said specials though, so you'll have to look elsewhere",
     "comparison": "https://slow.pics/c/z7wmUV1p\nhttps://slow.pics/c/F7xfPmS3",
     "best_releases": [
@@ -25546,7 +25562,7 @@
     "title": "Let's Make a Mug Too 2",
     "alt_title": "Yakunara Mug Cup Mo: Niban Gama",
     "year": 2021,
-    "format": "TV_SHORT",
+    "format": "TV",
     "notes": "Erai-raws is a CR WEB-DL\nSame story as the first season. The BD isn't nearly as bad this time, but still much worse than CR\nEpisode 4 has some pretty unreadable TS (came out the store that way)\nDoesn't include the live action specials",
     "comparison": "https://slow.pics/c/HLMP7Qv0\nhttps://slow.pics/c/urggZOgs",
     "best_releases": [
@@ -28819,6 +28835,26 @@
     ]
   },
   {
+    "title": "Mighty Space Miners",
+    "alt_title": "Oira Uchuu no Tankoufu",
+    "year": 1994,
+    "format": "OVA",
+    "notes": "Headpatter is JPN BD Remux+Restyled NoLifeKing, and Exiled-Destiny\nNoLifeKing is 563+ADV Films",
+    "comparison": "https://slow.pics/c/5ooHIeyJ",
+    "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "NoLifeKing",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Milky Passion: Dougenzaka - Ai no Shiro",
     "alt_title": "",
     "year": 1990,
@@ -29735,7 +29771,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -30164,7 +30200,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -30204,7 +30240,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -30239,7 +30275,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -38673,18 +38709,18 @@
     "alt_title": "",
     "year": 2018,
     "format": "ONA",
-    "notes": "GHOST is USA BD Encode+PGS\nOther releases use an ESL TL\nBeatrice-Raws would be a better alt",
+    "notes": "Moxie is JPN BD Remux+OCR'd PGS with modified Mysteria TS\nMoxie is also Beatrice-Raws with the same subs",
     "comparison": "https://www.diffchecker.com/6D15mVNW/",
     "best_releases": [
       {
-        "name": "JPN BD+PGS",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
       {
-        "name": "GHOST",
-        "status": ""
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -41196,20 +41232,15 @@
     "alt_title": "sin: Nanatsu no Taizai",
     "year": 2017,
     "format": "TV",
-    "notes": "AOmundson is Amoeba+RH (Restyled CR with improved TS and Romaji OP/ED)\nTenrai-Sensei is AOmundson with KFX and official TL for the OP/ED\nH-Enc fixes the terrible chroma in the store",
+    "notes": "Headpatter is H-Enc+Restyled and stock Tenrai-Sensei (AOmundson with KFX and official TL for the OP/ED)\nAOmundson subs are restyled CR with improved TS and Romaji OP/ED\nH-Enc fixes the terrible chroma in the store",
     "comparison": "https://slow.pics/c/KaTvDn0v\nhttps://slow.pics/c/RV9VFY1z",
     "best_releases": [
       {
-        "name": "H-Enc+Tenrai-Sensei",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "AOmundson (Dual Audio)",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Seven Senses of the Re'Union",
@@ -43788,7 +43819,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -51883,20 +51914,15 @@
     "alt_title": "Vampire Miyu",
     "year": 1988,
     "format": "OVA",
-    "notes": "ol001 is USA BD Remux+(Yellow) PGS. Technically dual audio but they managed to massively desync both dub tracks despite it being a single source remux\nThe USA BD is a new scan which is hugely better than previous sources",
+    "notes": "Headpatter is USA BD Remux+(Yellow) PGS. Includes both English dubs\nThe USA BD is a new scan which is hugely better than previous sources",
     "comparison": "https://slow.pics/c/8jaw5isV",
     "best_releases": [
       {
-        "name": "USA BD+PGS",
-        "status": "unmuxed"
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "ol001",
-        "status": "broken"
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Vampire Wars",
