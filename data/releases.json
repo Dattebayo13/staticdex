@@ -5911,7 +5911,7 @@
     "alt_title": "",
     "year": 2004,
     "format": "TV",
-    "notes": "Headpatter is mottoj+instable200 (OCR'd Frostii/Froth-Bite). The 3 minute intro in episode 1 is unsubbed, external subs are available in the description\n*Use DVD audio, AMZN is destroyed",
+    "notes": "Headpatter is mottoj+instable200 (OCR'd Frostii/Froth-Bite). Episode 1 has external subs since the 3 minute intro was unsubbed on the inbuilt ones\n*Use DVD audio, AMZN is destroyed",
     "comparison": "https://slow.pics/c/xZX6A5fC\nhttps://slow.pics/c/Xm4b3QIU",
     "best_releases": [
       {
@@ -5922,7 +5922,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "broken"
+        "status": ""
       }
     ]
   },
@@ -15543,7 +15543,7 @@
     ],
     "alt_releases": [
       {
-        "name": "Coalgirls",
+        "name": "Coalgirls (Dual Audio)",
         "status": ""
       }
     ]
@@ -54515,6 +54515,26 @@
     "alt_releases": [
       {
         "name": "YURASUKA",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Yuusha Tokkyuu Might Gaine",
+    "alt_title": "",
+    "year": 1993,
+    "format": "TV",
+    "notes": "hchcsen is JPN BD Remux+rodeocowboy retimed, restyled, with TS and terminology updated for consistency\nrodeocowboy is JPN BD Encode+PDSG-NoponSubs for E1-9, NoponSubs for E10-14, PDSG for E15-28, IDoM-Great Exkaiser103 for E29-33 and E38, TheFantomConvoy for E34-35, Nono-Adeyami Alaka for E36-37 and E39-40, and Nono for E41-47\nhchc describes the subs as \"putting a band aid on a gunshot wound\", but it's the only option so here we are\njsum would be a better alt, it's not good but it's at least less offensive than compression artifacts everywhere",
+    "comparison": "https://slow.pics/c/afjC1jPz",
+    "best_releases": [
+      {
+        "name": "hchcsen",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "rodeocowboy",
         "status": ""
       }
     ]
