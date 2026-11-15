@@ -869,6 +869,26 @@
     ]
   },
   {
+    "title": "A Thirty-Year Old's Health and Physical Education",
+    "alt_title": "30-sai no Hoken Taiiku",
+    "year": 2011,
+    "format": "TV_SHORT",
+    "notes": "Headpatter is JPN BD Remux+Doki\nHeadpatter is also Moozzi2+Doki. Has some missing fonts",
+    "comparison": "https://slow.pics/c/dqHyX2C1",
+    "best_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "broken"
+      }
+    ]
+  },
+  {
     "title": "A Whisker Away",
     "alt_title": "Nakitai Watashi wa Neko wo Kaburu",
     "year": 2020,
@@ -3288,7 +3308,7 @@
     "alt_title": "",
     "year": 1988,
     "format": "OVA",
-    "notes": "Inka-Subs is LowPower-Raws+OTL\njsum would be a better alt",
+    "notes": "Headpatter is jsum+Inka-Subs (OTL)",
     "comparison": "https://slow.pics/c/3kmZpq54\nhttps://www.diffchecker.com/puZnmwwb/",
     "best_releases": [
       {
@@ -3298,8 +3318,8 @@
     ],
     "alt_releases": [
       {
-        "name": "Inka-Subs",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -11250,7 +11270,7 @@
   },
   {
     "title": "Detective Conan: The Million-dollar Pentagram",
-    "alt_title": "Meitantei Conan: 100-man Dollar no Michishirube",
+    "alt_title": "Meitantei Conan: Hyakuman Dollar no Michishirube",
     "year": 2024,
     "format": "MOVIE",
     "notes": "ConanFusion is JPN BD Encode with web spliced in for hardsubbed scenes+Microsoft Store with an additional edit pass and typesetting\nStore should be watched with MPV Deband\n*Make sure to account for the spliced web scenes",
@@ -21993,13 +22013,13 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -22835,7 +22855,7 @@
       },
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -24066,13 +24086,13 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -28010,7 +28030,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -28844,7 +28864,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -31850,7 +31870,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -32104,12 +32124,12 @@
     "alt_title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
     "year": 2018,
     "format": "TV",
-    "notes": "moscowgolem is JPN BD Encode+CR\nNOGRP is moscowgolem with Russian fandub removed",
+    "notes": "Moxie is JPN BD Remux+CR with typesetting and song styling\nNOGRP is moscowgolem+CR\nStore goes well with mpv deband",
     "comparison": "https://slow.pics/c/RhrwPi2c",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -37462,7 +37482,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -37482,7 +37502,7 @@
     "alt_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -45676,9 +45696,14 @@
     "alt_title": "Shiroi Suna no Aquatope",
     "year": 2021,
     "format": "TV",
-    "notes": "AV1ARY is CR WEBRip+WBDP (Edited GJM for E1-9, restyled and edited CR for E10-24)\nThe JPN BD has a chroma shift and extremely strong banding, it debands well but you still end up with less detail than CR\nWBDP's edits are just adding back honorifics, which does make it consistent with CR\nThere has since been a re-issue of Volumes 1-2 of the BD which apparently fixes the broken audio, m2ts files are much bigger so might be a better encode too",
-    "comparison": "https://slow.pics/c/FaB0y96j\nhttps://www.diffchecker.com/AFZP2cjt/",
-    "best_releases": [],
+    "notes": "AV1ARY is CR WEBRip+WBDP (Edited GJM for E1-9, restyled and edited CR for E10-24)\nThe JPN BD has a chroma shift and extremely strong banding, it debands well but you still end up with less detail than CR. The re-issues of volume 1-2 are equally bad in the video department, but they do fix the broken audio\nCR is shifted down by a pixel for episodes 2, 3, 5, and 6 which blurs the entire image, so the BD is a better option for these episodes\nWBDP's edits are just adding back honorifics, which does make it consistent with CR\n*VCB should be used for episodes where CR is shifted, CR for everything else. Make sure to use the latest VCB batch with fixed audio",
+    "comparison": "https://slow.pics/c/RsWkrT3m\nhttps://slow.pics/c/OotPCuzD\nhttps://www.diffchecker.com/AFZP2cjt/",
+    "best_releases": [
+      {
+        "name": "CR/VCB-Studio+WBDP",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
         "name": "AV1ARY",
