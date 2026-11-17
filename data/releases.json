@@ -873,7 +873,7 @@
     "alt_title": "30-sai no Hoken Taiiku",
     "year": 2011,
     "format": "TV_SHORT",
-    "notes": "Headpatter is JPN BD Remux+Doki\nHeadpatter is also Moozzi2+Doki. Has some missing fonts",
+    "notes": "Headpatter is JPN BD Remux+Doki\nHeadpatter is also Moozzi2+Doki",
     "comparison": "https://slow.pics/c/dqHyX2C1",
     "best_releases": [
       {
@@ -884,7 +884,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "broken"
+        "status": "not_nyaa"
       }
     ]
   },
@@ -6436,12 +6436,12 @@
     "alt_title": "BLOOD THE LAST VAMPIRE",
     "year": 2000,
     "format": "MOVIE",
-    "notes": "kuchikirukia is JPN BD Encode+OCR'd official\nSourced from the digital master which is significantly better than the telecine version",
-    "comparison": "https://slow.pics/c/1RAeSZUR\nhttps://www.diffchecker.com/YpUMlWqt/",
+    "notes": "hydes is JPN BD Remux+Modified Afro (Retimed, restyled, added missing italics, modified line breaks, errors fixed)\nkuchikirukia is JPN BD Encode+OCR'd official\nSourced from the digital master which is significantly better than the telecine version",
+    "comparison": "https://slow.pics/c/1RAeSZUR\nhttps://slow.pics/c/bJP9oDab\nhttps://www.diffchecker.com/YpUMlWqt/",
     "best_releases": [
       {
-        "name": "JPN BD+Afro",
-        "status": "unmuxed"
+        "name": "hydes",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -49765,7 +49765,7 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -51164,13 +51164,13 @@
     "best_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -51974,7 +51974,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": []
@@ -52531,7 +52531,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -52551,7 +52551,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -52571,7 +52571,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
