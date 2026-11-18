@@ -8959,13 +8959,18 @@
     "alt_title": "",
     "year": 2008,
     "format": "TV",
-    "notes": "Based on Tsundere with some modifications",
-    "comparison": "",
-    "best_releases": [],
+    "notes": "CBD is USA BD Encode+Tsundere (m.3.3.w) with added sign TLs from PGS (m.3.3.w had them hardsubbed), OP KFX, E12 insert song TL, Gurajiooru/Gradiale replaced with Gladiale, and PGS\nEveryone and their dad encoded from the USA BD which has the wrong gamma, philosophy-raws would be a better alt",
+    "comparison": "https://slow.pics/c/Vb29Gm3H",
+    "best_releases": [
+      {
+        "name": "JPN BD+CBD",
+        "status": "unmuxed"
+      }
+    ],
     "alt_releases": [
       {
         "name": "CBD (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ]
   },
@@ -47824,6 +47829,26 @@
       },
       {
         "name": "SubsPlease",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+    "alt_title": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+    "year": 2026,
+    "format": "TV",
+    "notes": "PMR is JPN BD Remux+Restyled CR with various script fixes\nPMR is also jsum with the same subs\nThe JPN BD has much better compression and lots of BD changes but does have blurred chroma",
+    "comparison": "https://slow.pics/c/julh9aMF\nhttps://slow.pics/c/gz7fJmTA\nhttps://bin.theindex.moe/?bfb518b9cca9b197#FHSVyuNo8nBkthzprZbXAY97eCMa2KLdTr4EBoRypEQK",
+    "best_releases": [
+      {
+        "name": "PMR (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "PMR (Dual Audio)",
         "status": ""
       }
     ]
