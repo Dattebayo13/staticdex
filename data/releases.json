@@ -18506,12 +18506,12 @@
     "alt_title": "",
     "year": 2023,
     "format": "TV",
-    "notes": "NAN0 is JPN BD Remux+SubsPlus+ and PGS\nSubsPlus+ is AMZN WEB-DL+Modified HIDI",
+    "notes": "NAN0 is JPN BD Remux+SubsPlus+ and PGS. Subs are desynced by 1-2 frames in many episodes, possibly the entire second cour\nSubsPlus+ is AMZN WEB-DL+Modified HIDI",
     "comparison": "https://slow.pics/c/BOvNhWuj\nhttps://slow.pics/c/zAKtVsI0",
     "best_releases": [
       {
         "name": "NAN0 (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
@@ -35847,6 +35847,21 @@
     ]
   },
   {
+    "title": "Patapata Hikousen no Bouken",
+    "alt_title": "",
+    "year": 2002,
+    "format": "TV",
+    "notes": "Headpatter is AMZN WEB-DL+Super-Down\nSuper-Down subs are \"Pulled and retimed from DVD\" but that has custom subs, it looks to be based on an OCR of the ac hardsubbed release\nThe show is HD so AMZN is massively better than the SD sources, though the titles and credits are in Italian (tns)\nmpv deband simply helps",
+    "comparison": "https://slow.pics/c/unXjZWJN",
+    "best_releases": [
+      {
+        "name": "Headpatter",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
     "title": "Patema Inverted",
     "alt_title": "Sakasama no Patema",
     "year": 2013,
@@ -39770,9 +39785,13 @@
     "alt_title": "Youjo Senki Movie",
     "year": 2019,
     "format": "MOVIE",
-    "notes": "Vodes is selfencode+Astral",
-    "comparison": "",
+    "notes": "Vodes is JPN BD Encode+Astral (CR retimed, restyled, Eliuna TS, LostYears ED, modified TgW credits song) with some fixes\nHeadpatter is Vodes with dub and stock CR",
+    "comparison": "https://slow.pics/c/IOZtlM72",
     "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": ""
+      },
       {
         "name": "Vodes",
         "status": ""
@@ -39785,9 +39804,13 @@
     "alt_title": "Youjo Senki: Sabaku no Pasta Daisakusen",
     "year": 2021,
     "format": "ONA",
-    "notes": "Vodes is CR WEBRip+Spaghetti",
-    "comparison": "",
+    "notes": "Vodes is CR WEBRip+Restyled Spaghetti (CR with TS) with added ED\nHeadpatter is Vodes with dub and stock CR",
+    "comparison": "https://slow.pics/c/3CpD1rYL\nhttps://www.diffchecker.com/PbyeUyqr/",
     "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      },
       {
         "name": "Vodes (Dual Audio)",
         "status": ""
@@ -47586,21 +47609,17 @@
     "alt_title": "Hyouken no Majutsushi ga Sekai wo Suberu",
     "year": 2023,
     "format": "TV",
-    "notes": "CRUCiBLE is JPN BD Remux+CR, AMZN, and PGS\nJPN BD has a chroma shift but is otherwise much better than CR\nBoth JPN BD and CR need MPV Deband\n-ZR- (WEB) and SubsPlease are CR WEB-DLs",
-    "comparison": "https://slow.pics/c/0gbCd4oP\nhttps://slow.pics/c/eRPZhwVi",
+    "notes": "CRUCiBLE is JPN BD Remux+CR, AMZN, and PGS\nHeadpatter is VCB-Studio with center chromaloc+Restyled and stock CR. and PGS\nJPN BD has a chroma shift but is otherwise much better than CR\nStore is best watched with mpv deband\n*Chroma location needs to be set to center",
+    "comparison": "https://slow.pics/c/08c9Y1qg",
     "best_releases": [
       {
         "name": "CRUCiBLE (Dual Audio)",
-        "status": ""
+        "status": "broken"
       }
     ],
     "alt_releases": [
       {
-        "name": "-ZR- (Dual Audio)",
-        "status": "not_nyaa"
-      },
-      {
-        "name": "SubsPlease",
+        "name": "Headpatter (Dual Audio)",
         "status": ""
       }
     ]
@@ -49586,11 +49605,15 @@
     "alt_title": "Hikikomari Kyuuketsuki no Monmon",
     "year": 2023,
     "format": "TV",
-    "notes": "Chihiro is JPN BD Encode+Modified HIDI\nThe JPN BD is rather poor, has a lot of aliasing and mpeg 2 gunk that Chihiro cleans up. The USA BD is of course even worse and web sources are very starved.",
+    "notes": "Chihiro is JPN BD Encode+Modified HIDI\nHeadpatter is Chihiro with dub and PGS\nThe JPN BD is rather poor, has a lot of aliasing and mpeg 2 gunk that Chihiro cleans up. The USA BD is of course even worse and web sources are very starved.",
     "comparison": "https://slow.pics/c/kcoHjstP",
     "best_releases": [
       {
         "name": "Chihiro",
+        "status": ""
+      },
+      {
+        "name": "Headpatter (Dual Audio)",
         "status": ""
       }
     ],
@@ -54654,7 +54677,7 @@
     "alt_title": "",
     "year": 1993,
     "format": "TV",
-    "notes": "hchcsen is JPN BD Remux+rodeocowboy retimed, restyled, with TS and terminology updated for consistency\nrodeocowboy is JPN BD Encode+PDSG-NoponSubs for E1-9, NoponSubs for E10-14, PDSG for E15-28, IDoM-Great Exkaiser103 for E29-33 and E38, TheFantomConvoy for E34-35, Nono-Adeyami Alaka for E36-37 and E39-40, and Nono for E41-47\nhchc describes the subs as \"putting a band aid on a gunshot wound\", but it's the only option so here we are\njsum would be a better alt, it's not good but it's at least less offensive than compression artifacts everywhere",
+    "notes": "hchcsen is JPN BD Remux+rodeocowboy retimed, restyled, with TS and terminology updated for consistency\nHeadpatter is jsum+Restyled and stock hchcsen\nrodeocowboy subs are PDSG-NoponSubs for E1-9, NoponSubs for E10-14, PDSG for E15-28, IDoM-Great Exkaiser103 for E29-33 and E38, TheFantomConvoy for E34-35, Nono-Adeyami Alaka for E36-37 and E39-40, and Nono for E41-47\nhchc describes the subs as \"putting a band aid on a gunshot wound\", but it's the only option so here we are",
     "comparison": "https://slow.pics/c/afjC1jPz",
     "best_releases": [
       {
@@ -54664,8 +54687,8 @@
     ],
     "alt_releases": [
       {
-        "name": "rodeocowboy",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
