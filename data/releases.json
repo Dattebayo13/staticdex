@@ -8974,12 +8974,12 @@
     "alt_title": "",
     "year": 2008,
     "format": "TV",
-    "notes": "CBD is USA BD Encode+Tsundere (m.3.3.w) with added sign TLs from PGS (m.3.3.w had them hardsubbed), OP KFX, E12 insert song TL, Gurajiooru/Gradiale replaced with Gladiale, and PGS\nEveryone and their dad encoded from the USA BD which has the wrong gamma, philosophy-raws would be a better alt",
+    "notes": "Spartanoah is JPN BD Remux+CBD and PGS\nCBD is USA BD Encode+Tsundere (m.3.3.w) with added sign TLs from PGS (m.3.3.w had them hardsubbed), OP KFX, E12 insert song TL, Gurajiooru/Gradiale replaced with Gladiale, and PGS\nEveryone and their dad encoded from the USA BD which has the wrong gamma, philosophy-raws would be a better alt",
     "comparison": "https://slow.pics/c/Vb29Gm3H",
     "best_releases": [
       {
-        "name": "JPN BD+CBD",
-        "status": "unmuxed"
+        "name": "Spartanoah (Dual Audio)",
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -12260,7 +12260,7 @@
       },
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -20438,7 +20438,7 @@
       },
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -20462,7 +20462,7 @@
       },
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -28677,45 +28677,50 @@
     "alt_title": "",
     "year": 1985,
     "format": "OVA",
-    "notes": "YURI is km+OnDeed",
-    "comparison": "https://slow.pics/c/4JjAdjK1",
+    "notes": "YURI is km+OnDeed (Modified R1)\nThe JPN BD is denoised but preferable to the USA BDs which have bad compression",
+    "comparison": "https://slow.pics/c/kM6rQoPw",
     "best_releases": [
+      {
+        "name": "JPN BD+OnDeed",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
       {
         "name": "YURI (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Megazone 23 Part II",
     "alt_title": "Megazone 23 PART II Himitsu Kudasai",
     "year": 1986,
     "format": "OVA",
-    "notes": "YURI is km+OnDeed",
+    "notes": "YURI is km+OnDeed (Modified R1)",
     "comparison": "",
-    "best_releases": [
+    "best_releases": [],
+    "alt_releases": [
       {
         "name": "YURI (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Megazone 23 Part III",
     "alt_title": "MEGAZONE23 III",
     "year": 1989,
     "format": "OVA",
-    "notes": "YURI is km+OnDeed",
+    "notes": "YURI is km+OnDeed (Modified R1)",
     "comparison": "",
-    "best_releases": [
+    "best_releases": [],
+    "alt_releases": [
       {
         "name": "YURI (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Mekakucity Actors",
@@ -29885,7 +29890,7 @@
     "alt_title": "Shin Kidou Senki Gundam Wing: Operation Meteor - ODD＆EVEN NUMBERS",
     "year": 1996,
     "format": "OVA",
-    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\njsum would be a good alt",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\nHeadpatter is jsum+Restyled and stock hchcsen",
     "comparison": "https://slow.pics/c/jBV7vfxM",
     "best_releases": [
       {
@@ -29893,7 +29898,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Mobile Suit Gundam: The 08th MS Team",
@@ -32214,7 +32224,7 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
@@ -38275,7 +38285,7 @@
     "alt_releases": [
       {
         "name": "OZR",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -38834,13 +38844,13 @@
     "best_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ],
     "alt_releases": [
       {
         "name": "Moxie",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -39809,7 +39819,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       },
       {
         "name": "Vodes (Dual Audio)",
