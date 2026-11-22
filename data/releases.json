@@ -23405,12 +23405,12 @@
     "alt_title": "KanColle: Itsuka Ano Umi de",
     "year": 2022,
     "format": "TV",
-    "notes": "SubsPlease is a CR WEB-DL\nA jsum mux would be a better alt, everything needs MPV deband",
+    "notes": "Moxie is JPN BD Remux+CR with typesetting and song styling\nSubsPlease is a CR WEB-DL\nA jsum mux would be a better alt, everything needs MPV deband",
     "comparison": "https://slow.pics/c/6p7qYTKh",
     "best_releases": [
       {
-        "name": "JPN BD+CR",
-        "status": "unmuxed"
+        "name": "Moxie",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -23973,7 +23973,7 @@
     "alt_title": "",
     "year": 2013,
     "format": "TV",
-    "notes": "ZeroBuild is Dynit ITA BD Remux+Underwater, CR, and PGS\nNo alt since the show is extremely grainy, and the only release with acceptable quality is Arid and you're really not saving much on file size (Dual 24 bit flac moment)",
+    "notes": "ZeroBuild is Dynit ITA BD Remux+Underwater, CR, and PGS\nHeadpatter is NanoAlchemist+Underwater, AOmundson, and CR. Uses CTR signs track which is matched to the dub, and E24 preview TL added to all tracks",
     "comparison": "https://slow.pics/c/oPz8CThW\nhttps://slow.pics/c/wyBxzcY2",
     "best_releases": [
       {
@@ -23981,7 +23981,12 @@
         "status": ""
       }
     ],
-    "alt_releases": []
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
   },
   {
     "title": "Kill la Kill: GOODBYE AGAIN",
@@ -24386,15 +24391,20 @@
     "alt_title": "",
     "year": 2016,
     "format": "TV",
-    "notes": "MK is Beatrice-Raws+Asenshi with fixes and OP KFX",
-    "comparison": "https://slow.pics/c/gbi7xstp",
+    "notes": "Bohemia is JPN/USA BD Encode+MK\nMK is Beatrice-Raws+Asenshi with fixes and OP KFX",
+    "comparison": "https://slow.pics/c/iYOqrnRv\nhttps://slow.pics/c/gbi7xstp",
     "best_releases": [
+      {
+        "name": "Bohemia",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
       {
         "name": "MK (Dual Audio)",
         "status": ""
       }
-    ],
-    "alt_releases": []
+    ]
   },
   {
     "title": "Knight's & Magic",
@@ -43104,11 +43114,11 @@
     "alt_title": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF",
     "year": 2024,
     "format": "TV",
-    "notes": "Nora Best Girl is JPN BD/CR Encode+Restyled 9volt with 2 typos fixed and Norah changed to Nora\n9volt is WEBRip+CR with the full fansub treatment\nThe JPN BD is very bad with extreme banding, however it has a substantial amount of BD changes, particularly in the later episodes (see https://pastebin.com/5qkeUUKe). While 9volt's WEBRip offers better quality, it misses out on all these important animation improvements.",
-    "comparison": "https://slow.pics/c/MtRmXH6i\nhttps://slow.pics/c/UO0eyj3f\nhttps://slow.pics/c/r9FcFIb1",
+    "notes": "9volt is JPN BD Encode+Revised version of their web subs\n9volt is also WEBRip+Fansub based on CR\nThe BD has a substantial amount of changes, particularly in the later episodes (see https://pastebin.com/5qkeUUKe)",
+    "comparison": "https://slow.pics/c/gFiILGl6\nhttps://slow.pics/c/r9FcFIb1",
     "best_releases": [
       {
-        "name": "Nora Best Girl (Dual Audio)",
+        "name": "9volt (Dual Audio)",
         "status": ""
       }
     ],
@@ -49615,13 +49625,9 @@
     "alt_title": "Hikikomari Kyuuketsuki no Monmon",
     "year": 2023,
     "format": "TV",
-    "notes": "Chihiro is JPN BD Encode+Modified HIDI\nHeadpatter is Chihiro with dub and PGS\nThe JPN BD is rather poor, has a lot of aliasing and mpeg 2 gunk that Chihiro cleans up. The USA BD is of course even worse and web sources are very starved.",
+    "notes": "Headpatter is Chihiro+Chihiro with missing font fixed, and PGS\nThe JPN BD is rather poor, has a lot of aliasing and mpeg 2 gunk that Chihiro cleans up. The USA BD is of course even worse and web sources are very starved.",
     "comparison": "https://slow.pics/c/kcoHjstP",
     "best_releases": [
-      {
-        "name": "Chihiro",
-        "status": ""
-      },
       {
         "name": "Headpatter (Dual Audio)",
         "status": ""
@@ -54317,20 +54323,15 @@
     "alt_title": "Yowamushi Pedal: GLORY LINE",
     "year": 2018,
     "format": "TV",
-    "notes": "The JPN BD is hoarded so jsum is the best bet\nThe num9 mux has better video quality but mistimed subs and no fonts",
+    "notes": "Headpatter is jsum+Commie\nThe JPN BD is hoarded so jsum is the best bet",
     "comparison": "https://slow.pics/c/J2GEl2mP",
     "best_releases": [
       {
-        "name": "jsum+Commie",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "Commie",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Yu Yu Hakusho: Ghostfiles",
@@ -54830,6 +54831,21 @@
         "status": "broken"
       }
     ]
+  },
+  {
+    "title": "Zettai Junpaku♡Mahou Shoujo",
+    "alt_title": "",
+    "year": 2012,
+    "format": "OVA",
+    "notes": "NOGRP is UCCUSS+Restyled Anime-Koi with a few edits, and stock Anime-Koi\nThe store is cross-converted, UCCUSS is simply the least evil option",
+    "comparison": "https://slow.pics/c/EzIrtomL\nhttps://www.diffchecker.com/J4nBYeaZ/\nhttps://www.diffchecker.com/rJDwntMc/",
+    "best_releases": [
+      {
+        "name": "NOGRP",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
   },
   {
     "title": "Zettai Shounen",
