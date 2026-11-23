@@ -622,17 +622,17 @@
     "alt_title": "Awajima Hyakkei",
     "year": 2026,
     "format": "TV",
-    "notes": "Commie is CR WEBRip+Fansub based on CR\nThe JPN BD is a decent improvement over CR, mostly just better compression and grain retention. There's a very minor lowpass",
-    "comparison": "https://slow.pics/c/VyzouGBq\nhttps://www.diffchecker.com/WPtNqeh7/",
+    "notes": "Mira is Delowpassed JPN BD Encode+Commie (Fansub based on CR) and stock CR\nThe JPN BD is a decent improvement over CR, mostly just better compression and grain retention. There's a very minor lowpass",
+    "comparison": "https://slow.pics/c/IqQyvVaq\nhttps://slow.pics/c/VyzouGBq\nhttps://www.diffchecker.com/WPtNqeh7/",
     "best_releases": [
       {
-        "name": "JPN BD+Commie",
-        "status": "unmuxed"
+        "name": "Mira",
+        "status": ""
       }
     ],
     "alt_releases": [
       {
-        "name": "Commie",
+        "name": "Mira",
         "status": ""
       }
     ]
@@ -893,9 +893,13 @@
     "alt_title": "Nakitai Watashi wa Neko wo Kaburu",
     "year": 2020,
     "format": "MOVIE",
-    "notes": "Kawatare is JPN BD Encode+RigAV1 and NF\nLYS1TH3A is Kawaiika-Raws+Kulot and NF\nRigAV1 subs are Kulot (Restyled EMBER, which is NF with TS) with additional and improved TS (half adapted from Anarchy) and timing/formatting from Anarchy with a few minor adjustments",
+    "notes": "Kawatare is JPN BD Encode+RigAV1 and NF\nHeadpatter is Kawatare with dub\nLYS1TH3A is Kawaiika-Raws+Kulot and NF\nRigAV1 subs are Kulot (Restyled EMBER, which is NF with TS) with additional and improved TS (half adapted from Anarchy) and timing/formatting from Anarchy with a few minor adjustments",
     "comparison": "https://slow.pics/c/8ke9LeLK",
     "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      },
       {
         "name": "Kawatare",
         "status": ""
@@ -1623,6 +1627,21 @@
     "best_releases": [
       {
         "name": "Kametsu (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "Akane-banashi",
+    "alt_title": "",
+    "year": 2026,
+    "format": "TV",
+    "notes": "Half-Baked is NF WEBRip+ToonsHub v1 (NF with 2 frame gap removed)\nThe JPN BD has much better compression than NF, but the store lineart is so bad that it really needs an encode to be watchable\ndeadinside has updated NF subs (mostly just formatting changes) but everything is desynced by a frame and it still has the 2 frame gap. It's also missing a signs track for the dub (so is NF)",
+    "comparison": "https://slow.pics/c/QfmHBLjX\nhttps://www.diffchecker.com/IEofqLeI/",
+    "best_releases": [
+      {
+        "name": "Half-Baked",
         "status": ""
       }
     ],
@@ -3278,18 +3297,18 @@
     "alt_title": "Soukou Kihei Votoms",
     "year": 1983,
     "format": "TV",
-    "notes": "Tsukudakobashi is jsum+Modified G_P (shifted, retimed with keyframes, synced OP/ED, about 150 signs manually adjusted, Woodo -> Uoodo)",
+    "notes": "Headpatter is jsum+Restyled Tsukudakobashi (G_P shifted, retimed with keyframes, synced OP/ED, about 150 signs manually adjusted, Woodo -> Uoodo) with all signs properly synced",
     "comparison": "https://slow.pics/c/M2yLszMq\nhttps://slow.pics/c/a3EmHjWA",
     "best_releases": [
       {
-        "name": "JPN BD+Tsukudakobashi",
+        "name": "JPN BD+Headpatter",
         "status": "unmuxed"
       }
     ],
     "alt_releases": [
       {
-        "name": "Tsukudakobashi",
-        "status": ""
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ]
   },
@@ -5007,9 +5026,13 @@
     "alt_title": "",
     "year": 2018,
     "format": "TV",
-    "notes": "cappybara is JPN BD Encode+MTBB\nMTBB is JPN BD Encode+Commie with minor script QC\nNotSoMTBB is MTBB with dub",
+    "notes": "cappybara is JPN BD Encode+MTBB\nHeadpatter is cappybara with dub\nMTBB is JPN BD Encode+Commie with minor script QC\nNotSoMTBB is MTBB with dub",
     "comparison": "https://slow.pics/c/4CBA3NpP\nhttps://slow.pics/c/0wKlbRk5\nhttps://slow.pics/c/KLPQDjJo",
     "best_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      },
       {
         "name": "cappybara",
         "status": ""
@@ -18715,20 +18738,15 @@
     "alt_title": "",
     "year": 2010,
     "format": "OVA",
-    "notes": "grimf is R2J DVD Encode+WhyNot",
+    "notes": "Headpatter is dAnime WEB-DL+WhyNot\nStarved but it's the only HD source, slap some mpv deband on it",
     "comparison": "https://slow.pics/c/GKXCabo4",
     "best_releases": [
       {
-        "name": "dAnime+WhyNot",
-        "status": "unmuxed"
+        "name": "Headpatter",
+        "status": "not_nyaa"
       }
     ],
-    "alt_releases": [
-      {
-        "name": "grimf",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Hen Zemi (TV)",
@@ -39136,8 +39154,8 @@
     "alt_title": "",
     "year": 2020,
     "format": "MOVIE",
-    "notes": "Wakarimasu is VCB-Studio+Flysubs timed, edited, styled, and typeset\nThe JPN BD is heavily lowpassed with tons of ringing, to the point where even VCB described it as \"preposterous quality\". No other stores exist",
-    "comparison": "https://slow.pics/c/HDUqmAVk",
+    "notes": "Wakarimasu is VCB-Studio+Flysubs timed, edited, styled, and typeset\nThe JPN BD is heavily lowpassed with tons of ringing, to the point where even VCB described it as \"preposterous quality\". AMZN is far too starved and VCB clean up the ringing anyway",
+    "comparison": "https://slow.pics/c/hQ8u3l0v",
     "best_releases": [
       {
         "name": "Wakarimasu",
@@ -43328,6 +43346,26 @@
     "alt_releases": []
   },
   {
+    "title": "Star Blazers: Space Battleship Yamato 3199",
+    "alt_title": "Yamato yo Towa ni: REBEL3199",
+    "year": 2024,
+    "format": "OVA",
+    "notes": "Erai-raws is a CR 8Mbps WEB-DL\nOnly changes since airing are … -> ... in the last few episodes for consistency\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/Y96utJEB",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Erai-raws",
+        "status": ""
+      }
+    ]
+  },
+  {
     "title": "Star Blazers: The Quest for Iscandar",
     "alt_title": "Uchuu Senkan Yamato",
     "year": 1974,
@@ -46183,6 +46221,21 @@
     "best_releases": [
       {
         "name": "Mysteria",
+        "status": ""
+      }
+    ],
+    "alt_releases": []
+  },
+  {
+    "title": "The Dagger of Kamui",
+    "alt_title": "Kamui no Ken",
+    "year": 1985,
+    "format": "MOVIE",
+    "notes": "hydes is USA BD Remux+OCR'd PGS retimed, styled, formatting improvements, TL inconsistencies and other errors fixed\nUses modified LD audio for the Japanese track and modified BD audio for the English dub, see hydes' description for more info\nThe new scan is significantly better but does have some black crush and blown out highlights\nPTP (the 1080p one) would be a good alt",
+    "comparison": "https://slow.pics/c/9jdCpKx0",
+    "best_releases": [
+      {
+        "name": "hydes (Dual Audio)",
         "status": ""
       }
     ],
