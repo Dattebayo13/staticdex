@@ -5562,7 +5562,7 @@
   {
     "title": "Biaoren",
     "alt_title": "",
-    "year": null,
+    "year": 2023,
     "format": "ONA",
     "notes": "MuGi is CHN BD Remux+PGS\nPi13 is CHN BD Encode+PGS and WeTV\nThe BD is lowpassed but massively better than the awful web sources",
     "comparison": "https://slow.pics/c/NcIZoD4p",
@@ -5582,7 +5582,7 @@
   {
     "title": "Big Fish & Begonia",
     "alt_title": "Da Yu Hai Tang",
-    "year": null,
+    "year": 2016,
     "format": "MOVIE",
     "notes": "NOGRP is Beatrice-Raws+DashWatson (OCR’d PGS)",
     "comparison": "",
@@ -13249,7 +13249,7 @@
   {
     "title": "False Memory",
     "alt_title": "Jiyi Guanli Ju",
-    "year": null,
+    "year": 2020,
     "format": "ONA",
     "notes": "Chika is BSITE HEVC HBR WEBRip+Restyled CicakRumah with a few lines retimed, LayoutRes added, and the credits sign fixed",
     "comparison": "https://slow.pics/c/I6UlZETT",
@@ -25879,7 +25879,7 @@
   {
     "title": "Link Click",
     "alt_title": "Shiguang Dailiren",
-    "year": null,
+    "year": 2021,
     "format": "ONA",
     "notes": "Mehul is JPN BD Remux+Dae-P9. Some TS is broken (expands into the letterboxing)\nDae-P9 is Zagzad+FUNI Edited, Timed, and TSed\nBoth releases splice the original OP and ED in\nStore needs MPV deband, otherwise get the encode",
     "comparison": "https://slow.pics/c/qcvJbU9P\nhttps://slow.pics/c/vacAOsDi\nhttps://slow.pics/c/LbipMPE2",
@@ -25899,7 +25899,7 @@
   {
     "title": "LINK CLICK Episode 5.5",
     "alt_title": "Shiguang Dailiren Special",
-    "year": null,
+    "year": 2021,
     "format": "ONA",
     "notes": "Mehul is JPN BD Remux+Dae-P9\nDae-P9 is Zagzad+FUNI Edited, Timed, and TSed\nBoth releases splice the original OP and ED in\nStore needs MPV deband, otherwise get the encode",
     "comparison": "",
@@ -25919,7 +25919,7 @@
   {
     "title": "Link Click Season 2",
     "alt_title": "Shiguang Dailiren II",
-    "year": null,
+    "year": 2023,
     "format": "ONA",
     "notes": "GetItTwisted is JPN BD Remux+poop (CR with TS, timing, and consistency fixes) with one (1) fixed sign\nGetItTwisted is also jsum+the same subs, but with OP/ED lyrics adjusted for cropped video\nThe JPN BD was aggressively debanded at the store resulting in significant detail loss but it still beats CR which is completely cooked, even when debanded. There's still plenty of banding leftover so you'll want to use MPV Deband for everything anyway.",
     "comparison": "https://slow.pics/c/gEtke14R\nhttps://slow.pics/c/Dd9XKNUh",
@@ -26205,7 +26205,7 @@
   {
     "title": "Lord of Mysteries",
     "alt_title": "Guimi Zhi Zhu: Xiaochou Pian",
-    "year": null,
+    "year": 2025,
     "format": "ONA",
     "notes": "MoodiSubs is 1440p CR Majin WEB-DL+Revised version of their original subs (Modified CR with improved TS)\nThe 1440p stream is the best quality despite the lower bitrate. That said the quality is cooked regardless so you'll want to use MPV Deband and employ the distance strat.\nThe USA BD is pauper as expected",
     "comparison": "https://slow.pics/c/21GUJkY8\nhttps://www.diffchecker.com/ltkVJENC/",
@@ -26220,7 +26220,7 @@
   {
     "title": "Lord of Mysteries Specials",
     "alt_title": "Guimi Zhi Zhu Specials",
-    "year": null,
+    "year": 2026,
     "format": "ONA",
     "notes": "MoodiSubs is 1440p CR Majin WEB-DL+Restyled CR with minor edits and extensive typesetting",
     "comparison": "",
@@ -26235,7 +26235,7 @@
   {
     "title": "Lost in Starlight",
     "alt_title": "I Byeore Piryohan",
-    "year": null,
+    "year": 2025,
     "format": "MOVIE",
     "notes": "HONE is NF 4K DV P5 WEB-DL\nHONE is also NF 4K SDR WEB-DL\nGet the version your display supports",
     "comparison": "https://slow.pics/c/Hf1rReX5",
@@ -27279,6 +27279,26 @@
     "alt_releases": [
       {
         "name": "xPearse (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Magic-Kyun! Renaissance",
+    "alt_title": "Magic-kyun! Renaissance",
+    "year": 2016,
+    "format": "TV",
+    "notes": "CDL is a CR 8Mbps WEB-DL. Episode 1 is the old CRF 15 stream\nThe BD is simply a nice upgrade and has changes\njsum would be a better alt",
+    "comparison": "https://slow.pics/c/t3STUiGZ",
+    "best_releases": [
+      {
+        "name": "JPN BD+CR",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "CDL",
         "status": ""
       }
     ]
@@ -39554,12 +39574,12 @@
     "alt_title": "Rosario to Vampire Capu2",
     "year": 2008,
     "format": "TV",
-    "notes": "﻿Exp is Yousei-raws+Tsundere",
+    "notes": "Headpatter is Yousei-raws+Modified Tsundere (Adjusted font size, added missing font in E01), Seto_Otaku, and PGS",
     "comparison": "https://slow.pics/c/40swiWBs",
     "best_releases": [
       {
-        "name": "Exp",
-        "status": ""
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": []
@@ -41970,6 +41990,26 @@
       }
     ],
     "alt_releases": []
+  },
+  {
+    "title": "SHUFFLE!",
+    "alt_title": "",
+    "year": 2005,
+    "format": "TV",
+    "notes": "AnoZu is CR Majin WEB-DL with corrected AR+Restyled CR\nThe BDs are terrible upscales\nTsundere subs are modified R1\n*Check the rentry for fixes",
+    "comparison": "https://slow.pics/c/RaDOQFlS\nhttps://www.diffchecker.com/tPsZTcII/\nhttps://rentry.co/v2hrf62u",
+    "best_releases": [
+      {
+        "name": "CR Majin+Tsundere*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "AnoZu (Dual Audio)",
+        "status": ""
+      }
+    ]
   },
   {
     "title": "SHY",
@@ -45787,12 +45827,16 @@
     "alt_title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
     "year": 2023,
     "format": "TV",
-    "notes": "FLE is sam+Resyled CR with added TS and Zero-Anime KFX changed to English\nStarbez is YURASUKA+FLE",
+    "notes": "FLE is sam+Resyled CR with added TS and Zero-Anime KFX changed to English\nHeadpatter is FLE with dub and stock CR\nStarbez is YURASUKA+FLE",
     "comparison": "https://slow.pics/c/hr4r6cel\nhttps://slow.pics/c/FGzGgj7g",
     "best_releases": [
       {
         "name": "FLE",
         "status": ""
+      },
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -46425,7 +46469,7 @@
   },
   {
     "title": "The Detective Is Already Dead",
-    "alt_title": "Tantei wa mou, Shindeiru.",
+    "alt_title": "Tantei wa Mou, Shindeiru.",
     "year": 2021,
     "format": "TV",
     "notes": "TTGA is JPN BD Remux+Cyan for E1-5, restyled FUNI with Cyan OP/ED and episode title TS for E6-12\nReza is JPN BD Encode+TTGA\nStore needs MPV Deband, otherwise get the encode\njazmac subs probably worth looking into for a future mux https://nyaa.si/view/1491228#com-11",
@@ -47939,7 +47983,7 @@
   {
     "title": "The King's Avatar",
     "alt_title": "Quanzhi Gaoshou",
-    "year": null,
+    "year": 2017,
     "format": "ONA",
     "notes": "Erai-raws is a CR WEB-DL\nShould be watched with MPV Deband",
     "comparison": "https://slow.pics/c/K38souys",
@@ -48480,7 +48524,7 @@
   {
     "title": "The Outcast Season 6",
     "alt_title": "Yi Ren Zhi Xia 6",
-    "year": null,
+    "year": 2026,
     "format": "ONA",
     "notes": "Erai-raws is a 1440p CR WEB-DL\nThe 1440p (2600x1080) stream is the best quality even with the lower bitrate, the 1080p (1920x800) stream is a downscale that looks much worse\nThe store is absolutely full of banding, MPV Deband is highly recommended",
     "comparison": "https://slow.pics/c/28EHw2IO",
@@ -50080,7 +50124,7 @@
   {
     "title": "To Be Hero X",
     "alt_title": "Tu Bian Yingxiong X",
-    "year": null,
+    "year": 2025,
     "format": "ONA",
     "notes": "Sylvar is JPN BD Remux+CR, subs sometimes overlap with the hardsubs\nKitsune is a CR WEB-DL\nThe JPN BD has hardsubbed moon runes for most signs\nMPV Deband helps everything",
     "comparison": "https://slow.pics/c/eLHoYo0D\nhttps://slow.pics/c/J558q6zi",
