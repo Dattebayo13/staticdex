@@ -3308,7 +3308,7 @@
     "alt_releases": [
       {
         "name": "Headpatter",
-        "status": "not_nyaa"
+        "status": ""
       }
     ]
   },
@@ -29969,6 +29969,26 @@
     "alt_releases": []
   },
   {
+    "title": "Shin Kidou Senki Gundam Wing: Endless Waltz",
+    "alt_title": "Mobile Suit Gundam Wing: Endless Waltz",
+    "year": 1997,
+    "format": "OVA",
+    "notes": "hchcsen is JPN BD Remux+OCR'd PGS timed and typeset\nHeadpatter is Kagura+Restyled and stock hchcsen",
+    "comparison": "https://slow.pics/c/WAogbeRD",
+    "best_releases": [
+      {
+        "name": "hchcsen (Dual Audio)",
+        "status": ""
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
+      }
+    ]
+  },
+  {
     "title": "Mobile Suit Gundam Wing: Endless Waltz",
     "alt_title": "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu-hen",
     "year": 1998,
@@ -39135,7 +39155,7 @@
     "year": 2018,
     "format": "TV",
     "notes": "koala is JPN BD Remux+WSE with a sprinkle of QC\nWSE is VCB-Studio+Ripple (Modified Chyuu-PAS) with fixed sub timing and modified TS for BD changes",
-    "comparison": "https://slow.pics/c/ik5UDnPh",
+    "comparison": "https://slow.pics/c/ik5UDnPh\nhttps://www.diffchecker.com/ZFjgzyiB/",
     "best_releases": [
       {
         "name": "koala (Dual Audio)",
