@@ -9017,11 +9017,11 @@
     "alt_title": "ChäoS;Child",
     "year": 2017,
     "format": "TV",
-    "notes": "kmplx is VCB-Studio+Funimation PGS, encode is sharpmaxxed",
-    "comparison": "https://slow.pics/c/06W9FrIl",
+    "notes": "kmplx is VCB-Studio+Funimation PGS, encode is sharpmaxxed\n*CR has since downgraded the subs for multiple episodes, get them from https://nyaa.si/view/1241673",
+    "comparison": "https://slow.pics/c/06W9FrIl\nhttps://slow.pics/c/uuDFUxTn",
     "best_releases": [
       {
-        "name": "JPN BD+Official",
+        "name": "JPN BD+CR*",
         "status": "unmuxed"
       }
     ],
@@ -48119,12 +48119,12 @@
     "alt_title": "Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.",
     "year": 2024,
     "format": "TV_SHORT",
-    "notes": "CRUCiBLE is JPN BD Remux+CR\nSubsPlease is CR WEB-DL\nEverything needs MPV deband tbh",
-    "comparison": "https://slow.pics/c/VBj6Kssq",
+    "notes": "SubsPlease is CR WEB-DL\n*CR has since downgraded multiple episodes to CCC, the only script changes since airing are … -> ... for consistency. Needs layoutres added",
+    "comparison": "https://slow.pics/c/leEyzZiz",
     "best_releases": [
       {
-        "name": "CRUCiBLE",
-        "status": ""
+        "name": "VCB-Studio+Erai-raws*",
+        "status": "unmuxed"
       }
     ],
     "alt_releases": [
@@ -50032,6 +50032,26 @@
     "alt_releases": [
       {
         "name": "RigAV1",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Though I Am an Inept Villainess",
+    "alt_title": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+    "year": 2026,
+    "format": "TV",
+    "notes": "Chihiro is CR WEBRip+Fansub based on CR\nThe JPN BD is a major upgrade in the bits department, has a demure lowpass",
+    "comparison": "https://slow.pics/c/RhoXnN5x\nhttps://www.diffchecker.com/n3dWKs2x/",
+    "best_releases": [
+      {
+        "name": "JPN BD+Chihiro",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Chihiro",
         "status": ""
       }
     ]
