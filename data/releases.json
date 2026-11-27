@@ -5031,7 +5031,7 @@
     "best_releases": [
       {
         "name": "Headpatter (Dual Audio)",
-        "status": "not_nyaa"
+        "status": ""
       },
       {
         "name": "cappybara",
@@ -12193,20 +12193,15 @@
     "alt_title": "Jashin-chan Dropkick’",
     "year": 2020,
     "format": "ONA",
-    "notes": "CsS is JPN BD Encode+restyled CR with karaoke, Nyaa version is patched",
-    "comparison": "",
+    "notes": "CsS is JPN BD Encode+restyled CR with karaoke. AB version is outdated",
+    "comparison": "https://slow.pics/c/99WTPpbB",
     "best_releases": [
       {
         "name": "CsS",
         "status": ""
       }
     ],
-    "alt_releases": [
-      {
-        "name": "CsS",
-        "status": ""
-      }
-    ]
+    "alt_releases": []
   },
   {
     "title": "Dropkick on My Devil!!! X",
@@ -24409,12 +24404,16 @@
     "alt_title": "",
     "year": 2016,
     "format": "TV",
-    "notes": "Bohemia is JPN/USA BD Encode+MK\nMK is Beatrice-Raws+Asenshi with fixes and OP KFX",
+    "notes": "Bohemia is JPN/USA BD Encode+MK\nHeadpatter is Bohemia with dub\nMK is Beatrice-Raws+Asenshi with fixes and OP KFX",
     "comparison": "https://slow.pics/c/iYOqrnRv\nhttps://slow.pics/c/gbi7xstp",
     "best_releases": [
       {
         "name": "Bohemia",
         "status": ""
+      },
+      {
+        "name": "Headpatter (Dual Audio)",
+        "status": "not_nyaa"
       }
     ],
     "alt_releases": [
@@ -40562,12 +40561,7 @@
     "format": "OVA",
     "notes": "YURI is VCB-Studio+FTV-Subs",
     "comparison": "",
-    "best_releases": [
-      {
-        "name": "YURI",
-        "status": ""
-      }
-    ],
+    "best_releases": [],
     "alt_releases": [
       {
         "name": "YURI",
@@ -40582,12 +40576,7 @@
     "format": "OVA",
     "notes": "YURI is VCB-Studio+FTV-Subs",
     "comparison": "",
-    "best_releases": [
-      {
-        "name": "YURI",
-        "status": ""
-      }
-    ],
+    "best_releases": [],
     "alt_releases": [
       {
         "name": "YURI",
@@ -41499,6 +41488,26 @@
     "alt_releases": [
       {
         "name": "Kawaii (Dual Audio)",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "title": "Shakugan no Shana",
+    "alt_title": "",
+    "year": 2005,
+    "format": "TV",
+    "notes": "Doki is R2J DVD Encode+Modified Eclipse\nHD sources are horrendous upscales\n*Salender needs NTSC DVD color space metadata added",
+    "comparison": "https://slow.pics/c/rwlkNfeq",
+    "best_releases": [
+      {
+        "name": "Salender-Raws+?*",
+        "status": "unmuxed"
+      }
+    ],
+    "alt_releases": [
+      {
+        "name": "Doki",
         "status": ""
       }
     ]
